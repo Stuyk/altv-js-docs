@@ -5,7 +5,7 @@ hero:
   text: API Documentation
   tagline: Built for JavaScript & TypeScript Developers
   image:
-    src: ../.images/logo.svg
+    src: /images/logo.svg
     alt: alt:V
   actions:
     - theme: brand

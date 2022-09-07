@@ -5,7 +5,7 @@ export default {
     title: 'alt:V Docs',
     description: 'JavaScript Module Documentation',
     themeConfig: {
-        logo: '/.images/logo.svg',
+        logo: '/images/logo.svg',
         // Social Links - Top Right of the Documentation Page Links
         socialLinks: [
             { icon: 'github', link: 'https://github.com/altmp/altv-issues' },
