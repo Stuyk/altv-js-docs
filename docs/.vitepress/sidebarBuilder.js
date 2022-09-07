@@ -10,7 +10,7 @@ function normalizePath(path) {
 }
 
 export function getFilesAndOrderByPath(folderPath) {
-    const finalPath = normalizePath(path.join(docsPath, folderPath, '/**/*.md'));
+    const finalPath = normalizePath(path.join(docsPath, folderPath, '/*.md'));
     const files = glob.sync(finalPath)
 
     let navigation = [];

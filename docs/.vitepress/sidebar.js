@@ -12,18 +12,26 @@ export function getSidebar() {
         '/guides/': [
             {
                 text: 'Guides',
+                collapsible: true,
                 items: getFilesAndOrderByPath('guides')
             }
         ],
         '/server/': [
             {
                 text: 'Server API',
-                items: getFilesAndOrderByPath('server')
-            }
+                collapsible: true,
+                items: [...getFilesAndOrderByPath('server')]
+            },
+            {
+                text: 'alt.Vehicle',
+                collapsible: true,
+                items: [...getFilesAndOrderByPath('server/vehicle')]
+            },
         ],
         '/client/': [
             {
                 text: 'Client API',
+                collapsible: true,
                 items: getFilesAndOrderByPath('client')
             }
         ]
