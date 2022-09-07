@@ -1,4 +1,4 @@
-import { getFilesAndOrderByPath } from "./sidebarBuilder";
+import { getFilesAndOrderByPath, getAllFoldersInDirectory } from "./sidebarBuilder";
 
 export function getSidebar() {
     return {
@@ -22,18 +22,15 @@ export function getSidebar() {
                 collapsible: true,
                 items: [...getFilesAndOrderByPath('server')]
             },
-            {
-                text: 'alt.Vehicle',
-                collapsible: true,
-                items: [...getFilesAndOrderByPath('server/vehicle')]
-            },
+            ...getAllFoldersInDirectory('server')
         ],
         '/client/': [
             {
                 text: 'Client API',
                 collapsible: true,
                 items: getFilesAndOrderByPath('client')
-            }
+            },
+            ...getAllFoldersInDirectory('client')
         ]
     };
 }

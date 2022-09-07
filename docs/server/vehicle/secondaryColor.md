@@ -3,11 +3,12 @@ title: secondaryColor
 order: 0
 ---
 
-# vehicle.{{ $frontmatter.title }}
+# {{ $frontmatter.title }}
 
-Sets the secondary color of a vehicle to a standard GTA:V colour.
+Gets or sets the current secondary color.
+
+## Usage
 
 ```ts
-const vehicle = new alt.Vehicle('infernus', 0, 0, 0, 0, 0, 0);
-vehicle.secondaryColor = 55;
+secondaryColor: number;
 ```

@@ -9,6 +9,11 @@ function normalizePath(path) {
     return path.replace(/\\/gm, '/');
 }
 
+function capFirstLetter(string) {
+    return string.charAt(0).toUpperCase() + string.slice(1);
+}
+
+
 export function getFilesAndOrderByPath(folderPath) {
     const finalPath = normalizePath(path.join(docsPath, folderPath, '/*.md'));
     const files = glob.sync(finalPath)
@@ -27,4 +32,22 @@ export function getFilesAndOrderByPath(folderPath) {
     return sortedResults;
 }
 
+export function getAllFoldersInDirectory(folderPath) {
+    const startPath = normalizePath(path.join(docsPath, folderPath));
+    const folders = fs.readdirSync(startPath).filter(x => {
+        return !x.includes('.md');
+    })
 
+    const objects = [];
+    for (let folder of folders) {
+        const nextPath = normalizePath(path.join(startPath, folder)).replace(docsPath, '');
+        objects.push({
+            text: `${capFirstLetter(folder)}`,
+            collapsible: true,
+            collapsed: true,
+            items: getFilesAndOrderByPath(nextPath)
+        })
+    }
+
+    return objects
+}

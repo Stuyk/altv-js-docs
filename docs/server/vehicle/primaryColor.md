@@ -3,11 +3,12 @@ title: primaryColor
 order: 0
 ---
 
-# vehicle.{{ $frontmatter.title }}
+# {{ $frontmatter.title }}
 
-Sets the primary color of a vehicle to a standard GTA:V colour.
+Gets or sets the current primary color of a vehicle.
+
+## Usage
 
 ```ts
-const vehicle = new alt.Vehicle('infernus', 0, 0, 0, 0, 0, 0);
-vehicle.primaryColor = 55;
+primaryColor: number;
 ```
