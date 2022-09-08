@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./numberPlateStyle_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -20,4 +22,4 @@ enum NumberPlateStyle {
 
 ## Documentation
 
-<!--@include: ./parts/numberPlateStyle.md-->
+<!--@include: ./numberPlateStyle_partial_footer.md-->

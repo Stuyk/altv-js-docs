@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./querySelector_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public querySelector(selector: string): RmlElement | null;
 
 ## Documentation
 
-<!--@include: ./parts/querySelector.md-->
+<!--@include: ./querySelector_partial_footer.md-->

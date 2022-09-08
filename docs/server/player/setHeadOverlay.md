@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setHeadOverlay_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -23,4 +25,4 @@ public setHeadOverlay(overlayID: number, index: number, opacity: number): boolea
 
 ## Documentation
 
-<!--@include: ./parts/setHeadOverlay.md-->
+<!--@include: ./setHeadOverlay_partial_footer.md-->

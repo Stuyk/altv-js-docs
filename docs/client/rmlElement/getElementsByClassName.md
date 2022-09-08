@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getElementsByClassName_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getElementsByClassName(className: string): ReadonlyArray<RmlElement>;
 
 ## Documentation
 
-<!--@include: ./parts/getElementsByClassName.md-->
+<!--@include: ./getElementsByClassName_partial_footer.md-->

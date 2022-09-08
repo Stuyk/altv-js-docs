@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./vehicleDoor_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -20,4 +22,4 @@ enum VehicleDoor {
 
 ## Documentation
 
-<!--@include: ./parts/vehicleDoor.md-->
+<!--@include: ./vehicleDoor_partial_footer.md-->

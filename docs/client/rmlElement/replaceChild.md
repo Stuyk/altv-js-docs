@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./replaceChild_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public replaceChild(newElem: RmlElement, oldElem: RmlElement): void;
 
 ## Documentation
 
-<!--@include: ./parts/replaceChild.md-->
+<!--@include: ./replaceChild_partial_footer.md-->

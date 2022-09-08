@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./vehicleReloadTime_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public vehicleReloadTime: number;
 
 ## Documentation
 
-<!--@include: ./parts/vehicleReloadTime.md-->
+<!--@include: ./vehicleReloadTime_partial_footer.md-->

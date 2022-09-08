@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./bodyHealth_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public bodyHealth: number;
 
 ## Documentation
 
-<!--@include: ./parts/bodyHealth.md-->
+<!--@include: ./bodyHealth_partial_footer.md-->

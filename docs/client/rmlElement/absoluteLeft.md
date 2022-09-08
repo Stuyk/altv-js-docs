@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./absoluteLeft_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly absoluteLeft: number;
 
 ## Documentation
 
-<!--@include: ./parts/absoluteLeft.md-->
+<!--@include: ./absoluteLeft_partial_footer.md-->

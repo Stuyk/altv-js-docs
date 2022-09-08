@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./hybridExtraState_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public hybridExtraState: number;
 
 ## Documentation
 
-<!--@include: ./parts/hybridExtraState.md-->
+<!--@include: ./hybridExtraState_partial_footer.md-->

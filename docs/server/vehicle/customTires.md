@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./customTires_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public customTires: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/customTires.md-->
+<!--@include: ./customTires_partial_footer.md-->

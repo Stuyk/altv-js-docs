@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./sourceUrl_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly sourceUrl: string;
 
 ## Documentation
 
-<!--@include: ./parts/sourceUrl.md-->
+<!--@include: ./sourceUrl_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./focused_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public focused: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/focused.md-->
+<!--@include: ./focused_partial_footer.md-->

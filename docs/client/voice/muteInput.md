@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./muteInput_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static muteInput: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/muteInput.md-->
+<!--@include: ./muteInput_partial_footer.md-->

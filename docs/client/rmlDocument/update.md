@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./update_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public update(): void;
 
 ## Documentation
 
-<!--@include: ./parts/update.md-->
+<!--@include: ./update_partial_footer.md-->

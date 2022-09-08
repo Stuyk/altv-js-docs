@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./recoilAccuracyMax_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public recoilAccuracyMax: number;
 
 ## Documentation
 
-<!--@include: ./parts/recoilAccuracyMax.md-->
+<!--@include: ./recoilAccuracyMax_partial_footer.md-->

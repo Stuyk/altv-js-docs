@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getElementByID_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getElementByID(id: string): RmlElement | null;
 
 ## Documentation
 
-<!--@include: ./parts/getElementByID.md-->
+<!--@include: ./getElementByID_partial_footer.md-->

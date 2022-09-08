@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setDoorState_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setDoorState<T extends number, V extends number = VehicleDoorState>(doorI
 
 ## Documentation
 
-<!--@include: ./parts/setDoorState.md-->
+<!--@include: ./setDoorState_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./driveMaxFlatVel_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public driveMaxFlatVel: number;
 
 ## Documentation
 
-<!--@include: ./parts/driveMaxFlatVel.md-->
+<!--@include: ./driveMaxFlatVel_partial_footer.md-->

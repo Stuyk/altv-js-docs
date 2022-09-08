@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iHttpResponse_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -17,4 +19,4 @@ interface IHttpResponse {
 
 ## Documentation
 
-<!--@include: ./parts/iHttpResponse.md-->
+<!--@include: ./iHttpResponse_partial_footer.md-->

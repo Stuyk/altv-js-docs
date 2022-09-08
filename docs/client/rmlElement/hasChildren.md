@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./hasChildren_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly hasChildren: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/hasChildren.md-->
+<!--@include: ./hasChildren_partial_footer.md-->

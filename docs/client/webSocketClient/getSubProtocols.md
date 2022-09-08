@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getSubProtocols_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public getSubProtocols(): string[];
 
 ## Documentation
 
-<!--@include: ./parts/getSubProtocols.md-->
+<!--@include: ./getSubProtocols_partial_footer.md-->

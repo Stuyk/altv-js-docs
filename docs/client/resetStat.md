@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./resetStat_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function resetStat(statName: `${StatName}`): void;
 
 ## Documentation
 
-<!--@include: ./parts/resetStat.md-->
+<!--@include: ./resetStat_partial_footer.md-->

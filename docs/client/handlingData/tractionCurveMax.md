@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./tractionCurveMax_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public tractionCurveMax: number;
 
 ## Documentation
 
-<!--@include: ./parts/tractionCurveMax.md-->
+<!--@include: ./tractionCurveMax_partial_footer.md-->

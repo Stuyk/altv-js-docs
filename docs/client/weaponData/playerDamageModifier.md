@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./playerDamageModifier_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public playerDamageModifier: number;
 
 ## Documentation
 
-<!--@include: ./parts/playerDamageModifier.md-->
+<!--@include: ./playerDamageModifier_partial_footer.md-->

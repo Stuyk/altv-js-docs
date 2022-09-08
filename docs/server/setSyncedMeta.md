@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setSyncedMeta_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function setSyncedMeta<V extends any, K extends string = string>(key: K, value: 
 
 ## Documentation
 
-<!--@include: ./parts/setSyncedMeta.md-->
+<!--@include: ./setSyncedMeta_partial_footer.md-->

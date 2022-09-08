@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./colshapeType_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly colshapeType: ColShapeType;
 
 ## Documentation
 
-<!--@include: ./parts/colshapeType.md-->
+<!--@include: ./colshapeType_partial_footer.md-->

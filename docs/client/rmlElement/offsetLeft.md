@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./offsetLeft_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly offsetLeft: number;
 
 ## Documentation
 
-<!--@include: ./parts/offsetLeft.md-->
+<!--@include: ./offsetLeft_partial_footer.md-->

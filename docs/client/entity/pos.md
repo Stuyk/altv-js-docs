@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./pos_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly pos: shared.Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/pos.md-->
+<!--@include: ./pos_partial_footer.md-->

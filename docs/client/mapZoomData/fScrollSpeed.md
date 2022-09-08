@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./fScrollSpeed_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public fScrollSpeed: number;
 
 ## Documentation
 
-<!--@include: ./parts/fScrollSpeed.md-->
+<!--@include: ./fScrollSpeed_partial_footer.md-->

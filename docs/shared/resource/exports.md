@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./exports_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly exports: Record<string, any>;
 
 ## Documentation
 
-<!--@include: ./parts/exports.md-->
+<!--@include: ./exports_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./currentAnimationName_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly currentAnimationName: number;
 
 ## Documentation
 
-<!--@include: ./parts/currentAnimationName.md-->
+<!--@include: ./currentAnimationName_partial_footer.md-->

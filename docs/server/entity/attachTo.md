@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./attachTo_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -27,4 +29,4 @@ public attachTo(entity: Entity, entityBoneId: number, ownBoneId: number, pos: sh
 
 ## Documentation
 
-<!--@include: ./parts/attachTo.md-->
+<!--@include: ./attachTo_partial_footer.md-->

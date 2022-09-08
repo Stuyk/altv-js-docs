@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iDlcProp_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -17,4 +19,4 @@ interface IDlcProp {
 
 ## Documentation
 
-<!--@include: ./parts/iDlcProp.md-->
+<!--@include: ./iDlcProp_partial_footer.md-->

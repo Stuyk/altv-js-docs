@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isWheelOnFire_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public isWheelOnFire(wheelId: number): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isWheelOnFire.md-->
+<!--@include: ./isWheelOnFire_partial_footer.md-->

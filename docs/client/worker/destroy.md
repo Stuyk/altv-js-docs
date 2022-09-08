@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./destroy_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public destroy(): void;
 
 ## Documentation
 
-<!--@include: ./parts/destroy.md-->
+<!--@include: ./destroy_partial_footer.md-->

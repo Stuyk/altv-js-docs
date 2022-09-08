@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./addGxtText_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function addGxtText(key: string | number, value: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/addGxtText.md-->
+<!--@include: ./addGxtText_partial_footer.md-->

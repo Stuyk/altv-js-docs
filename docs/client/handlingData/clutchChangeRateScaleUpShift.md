@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clutchChangeRateScaleUpShift_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public clutchChangeRateScaleUpShift: number;
 
 ## Documentation
 
-<!--@include: ./parts/clutchChangeRateScaleUpShift.md-->
+<!--@include: ./clutchChangeRateScaleUpShift_partial_footer.md-->

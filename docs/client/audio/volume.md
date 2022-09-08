@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./volume_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public volume: number;
 
 ## Documentation
 
-<!--@include: ./parts/volume.md-->
+<!--@include: ./volume_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./vehicleBumperDamage_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -17,4 +19,4 @@ enum VehicleBumperDamage {
 
 ## Documentation
 
-<!--@include: ./parts/vehicleBumperDamage.md-->
+<!--@include: ./vehicleBumperDamage_partial_footer.md-->

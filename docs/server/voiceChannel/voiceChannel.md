@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./voiceChannel_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ const result = new VoiceChannel(isSpatial: boolean, maxDistance: number);
 
 ## Documentation
 
-<!--@include: ./parts/voiceChannel.md-->
+<!--@include: ./voiceChannel_partial_footer.md-->

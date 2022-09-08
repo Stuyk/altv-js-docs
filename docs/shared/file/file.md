@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./file_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ const result = new protected File();
 
 ## Documentation
 
-<!--@include: ./parts/file.md-->
+<!--@include: ./file_partial_footer.md-->

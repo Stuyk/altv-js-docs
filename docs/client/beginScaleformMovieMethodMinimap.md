@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./beginScaleformMovieMethodMinimap_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function beginScaleformMovieMethodMinimap(methodName: string): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/beginScaleformMovieMethodMinimap.md-->
+<!--@include: ./beginScaleformMovieMethodMinimap_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getWheelHealth_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getWheelHealth(wheelId: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/getWheelHealth.md-->
+<!--@include: ./getWheelHealth_partial_footer.md-->

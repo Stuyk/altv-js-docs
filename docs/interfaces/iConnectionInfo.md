@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iConnectionInfo_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -17,4 +19,4 @@ interface IConnectionInfo {
 
 ## Documentation
 
-<!--@include: ./parts/iConnectionInfo.md-->
+<!--@include: ./iConnectionInfo_partial_footer.md-->

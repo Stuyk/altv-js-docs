@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iFireInfo_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -16,4 +18,4 @@ interface IFireInfo {
 
 ## Documentation
 
-<!--@include: ./parts/iFireInfo.md-->
+<!--@include: ./iFireInfo_partial_footer.md-->

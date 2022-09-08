@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./route_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public route: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/route.md-->
+<!--@include: ./route_partial_footer.md-->

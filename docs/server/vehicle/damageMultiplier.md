@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./damageMultiplier_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public damageMultiplier: number;
 
 ## Documentation
 
-<!--@include: ./parts/damageMultiplier.md-->
+<!--@include: ./damageMultiplier_partial_footer.md-->

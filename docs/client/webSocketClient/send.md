@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./send_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public send(message: string | ArrayBuffer | ArrayBufferView): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/send.md-->
+<!--@include: ./send_partial_footer.md-->

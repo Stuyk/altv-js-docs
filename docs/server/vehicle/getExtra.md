@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getExtra_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getExtra(extraId: number): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/getExtra.md-->
+<!--@include: ./getExtra_partial_footer.md-->

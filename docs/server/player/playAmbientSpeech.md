@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./playAmbientSpeech_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -23,4 +25,4 @@ public playAmbientSpeech(speechName: string, speechParam: string, speechDictHash
 
 ## Documentation
 
-<!--@include: ./parts/playAmbientSpeech.md-->
+<!--@include: ./playAmbientSpeech_partial_footer.md-->

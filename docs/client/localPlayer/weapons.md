@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./weapons_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly weapons: Array<number>;
 
 ## Documentation
 
-<!--@include: ./parts/weapons.md-->
+<!--@include: ./weapons_partial_footer.md-->

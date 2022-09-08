@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./sirenActive_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public sirenActive: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/sirenActive.md-->
+<!--@include: ./sirenActive_partial_footer.md-->

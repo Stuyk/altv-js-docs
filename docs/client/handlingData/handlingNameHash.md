@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./handlingNameHash_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly handlingNameHash: number;
 
 ## Documentation
 
-<!--@include: ./parts/handlingNameHash.md-->
+<!--@include: ./handlingNameHash_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getOutputs_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public getOutputs(): ReadonlyArray<Entity | number>;
 
 ## Documentation
 
-<!--@include: ./parts/getOutputs.md-->
+<!--@include: ./getOutputs_partial_footer.md-->

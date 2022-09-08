@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./takeScreenshotGameOnly_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function takeScreenshotGameOnly(): Promise<string>;
 
 ## Documentation
 
-<!--@include: ./parts/takeScreenshotGameOnly.md-->
+<!--@include: ./takeScreenshotGameOnly_partial_footer.md-->

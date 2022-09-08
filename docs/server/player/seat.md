@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./seat_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly seat: number;
 
 ## Documentation
 
-<!--@include: ./parts/seat.md-->
+<!--@include: ./seat_partial_footer.md-->

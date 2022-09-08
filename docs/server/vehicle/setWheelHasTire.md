@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setWheelHasTire_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setWheelHasTire(wheelId: number, state: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/setWheelHasTire.md-->
+<!--@include: ./setWheelHasTire_partial_footer.md-->

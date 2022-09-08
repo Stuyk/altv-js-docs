@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./accuracySpread_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public accuracySpread: number;
 
 ## Documentation
 
-<!--@include: ./parts/accuracySpread.md-->
+<!--@include: ./accuracySpread_partial_footer.md-->

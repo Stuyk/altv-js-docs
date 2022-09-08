@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isTalking_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly isTalking: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isTalking.md-->
+<!--@include: ./isTalking_partial_footer.md-->

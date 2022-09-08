@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./delete_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public static delete(key: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/delete.md-->
+<!--@include: ./delete_partial_footer.md-->

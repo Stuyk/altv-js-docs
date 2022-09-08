@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./put_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public put(url: string, body: string): Promise<IHttpResponse>;
 
 ## Documentation
 
-<!--@include: ./parts/put.md-->
+<!--@include: ./put_partial_footer.md-->

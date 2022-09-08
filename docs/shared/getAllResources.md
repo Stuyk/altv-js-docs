@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getAllResources_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function getAllResources(): ReadonlyArray<IResource>;
 
 ## Documentation
 
-<!--@include: ./parts/getAllResources.md-->
+<!--@include: ./getAllResources_partial_footer.md-->

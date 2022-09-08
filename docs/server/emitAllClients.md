@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./emitAllClients_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function emitAllClients(eventName: string, ...args: any[]): void;
 
 ## Documentation
 
-<!--@include: ./parts/emitAllClients.md-->
+<!--@include: ./emitAllClients_partial_footer.md-->

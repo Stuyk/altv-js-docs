@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./angleTo_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public angleTo(vector: IVector2): Vector2;
 
 ## Documentation
 
-<!--@include: ./parts/angleTo.md-->
+<!--@include: ./angleTo_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./trace_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public trace(url: string, body: string): Promise<IHttpResponse>;
 
 ## Documentation
 
-<!--@include: ./parts/trace.md-->
+<!--@include: ./trace_partial_footer.md-->

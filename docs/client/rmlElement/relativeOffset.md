@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./relativeOffset_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly relativeOffset: shared.Vector2;
 
 ## Documentation
 
-<!--@include: ./parts/relativeOffset.md-->
+<!--@include: ./relativeOffset_partial_footer.md-->

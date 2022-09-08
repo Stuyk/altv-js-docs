@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./handlingFlags_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public handlingFlags: number;
 
 ## Documentation
 
-<!--@include: ./parts/handlingFlags.md-->
+<!--@include: ./handlingFlags_partial_footer.md-->

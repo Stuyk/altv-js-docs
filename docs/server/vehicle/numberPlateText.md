@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./numberPlateText_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public numberPlateText: string;
 
 ## Documentation
 
-<!--@include: ./parts/numberPlateText.md-->
+<!--@include: ./numberPlateText_partial_footer.md-->

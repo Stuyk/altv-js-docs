@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./worker_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ const result = new Worker(filePath: string);
 
 ## Documentation
 
-<!--@include: ./parts/worker.md-->
+<!--@include: ./worker_partial_footer.md-->

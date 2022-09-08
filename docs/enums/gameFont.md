@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./gameFont_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -19,4 +21,4 @@ enum GameFont {
 
 ## Documentation
 
-<!--@include: ./parts/gameFont.md-->
+<!--@include: ./gameFont_partial_footer.md-->

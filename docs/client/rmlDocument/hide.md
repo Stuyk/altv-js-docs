@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./hide_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public hide(): void;
 
 ## Documentation
 
-<!--@include: ./parts/hide.md-->
+<!--@include: ./hide_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getHairHighlightColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public getHairHighlightColor(): number;
 
 ## Documentation
 
-<!--@include: ./parts/getHairHighlightColor.md-->
+<!--@include: ./getHairHighlightColor_partial_footer.md-->

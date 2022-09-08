@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./all_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly all: ReadonlyArray<Vehicle>;
 
 ## Documentation
 
-<!--@include: ./parts/all.md-->
+<!--@include: ./all_partial_footer.md-->

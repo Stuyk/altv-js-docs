@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./requestClipSet_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public static requestClipSet(clipSet: string, timeout?: number): Promise<void>;
 
 ## Documentation
 
-<!--@include: ./parts/requestClipSet.md-->
+<!--@include: ./requestClipSet_partial_footer.md-->

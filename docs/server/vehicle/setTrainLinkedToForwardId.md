@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setTrainLinkedToForwardId_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public setTrainLinkedToForwardId(vehicle: Vehicle | null): void;
 
 ## Documentation
 
-<!--@include: ./parts/setTrainLinkedToForwardId.md-->
+<!--@include: ./setTrainLinkedToForwardId_partial_footer.md-->

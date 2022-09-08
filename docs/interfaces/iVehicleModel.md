@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iVehicleModel_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -28,4 +30,4 @@ interface IVehicleModel {
 
 ## Documentation
 
-<!--@include: ./parts/iVehicleModel.md-->
+<!--@include: ./iVehicleModel_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./currentInterior_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly currentInterior: number;
 
 ## Documentation
 
-<!--@include: ./parts/currentInterior.md-->
+<!--@include: ./currentInterior_partial_footer.md-->

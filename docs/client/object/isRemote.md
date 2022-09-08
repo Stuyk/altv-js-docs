@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isRemote_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly isRemote: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isRemote.md-->
+<!--@include: ./isRemote_partial_footer.md-->

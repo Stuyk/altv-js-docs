@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./byte_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public byte(offset: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/byte.md-->
+<!--@include: ./byte_partial_footer.md-->

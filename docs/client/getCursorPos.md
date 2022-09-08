@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getCursorPos_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function getCursorPos(normalized?: boolean): shared.Vector2;
 
 ## Documentation
 
-<!--@include: ./parts/getCursorPos.md-->
+<!--@include: ./getCursorPos_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isTextureExistInArchetype_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function isTextureExistInArchetype(modelHash: number, targetTextureName: string)
 
 ## Documentation
 
-<!--@include: ./parts/isTextureExistInArchetype.md-->
+<!--@include: ./isTextureExistInArchetype_partial_footer.md-->

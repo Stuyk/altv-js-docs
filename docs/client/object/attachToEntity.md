@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./attachToEntity_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -27,4 +29,4 @@ public attachToEntity(entity: Entity, bone: number, pos: shared.Vector3, rot: sh
 
 ## Documentation
 
-<!--@include: ./parts/attachToEntity.md-->
+<!--@include: ./attachToEntity_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./flashTimer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public flashTimer: number;
 
 ## Documentation
 
-<!--@include: ./parts/flashTimer.md-->
+<!--@include: ./flashTimer_partial_footer.md-->

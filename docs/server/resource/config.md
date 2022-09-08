@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./config_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly config: IResourceConfig;
 
 ## Documentation
 
-<!--@include: ./parts/config.md-->
+<!--@include: ./config_partial_footer.md-->

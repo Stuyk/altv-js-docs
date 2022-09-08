@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setAppearanceDataBase64_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public setAppearanceDataBase64(data: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/setAppearanceDataBase64.md-->
+<!--@include: ./setAppearanceDataBase64_partial_footer.md-->

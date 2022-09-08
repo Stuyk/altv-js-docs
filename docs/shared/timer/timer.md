@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./timer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -23,4 +25,4 @@ const result = new Timer(callback: () => void, ms: number, once: boolean);
 
 ## Documentation
 
-<!--@include: ./parts/timer.md-->
+<!--@include: ./timer_partial_footer.md-->

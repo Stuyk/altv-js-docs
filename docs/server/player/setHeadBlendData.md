@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setHeadBlendData_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -29,4 +31,4 @@ public setHeadBlendData(shapeFirstID: number, shapeSecondID: number, shapeThirdI
 
 ## Documentation
 
-<!--@include: ./parts/setHeadBlendData.md-->
+<!--@include: ./setHeadBlendData_partial_footer.md-->

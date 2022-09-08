@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./trainUnk2_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public trainUnk2: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/trainUnk2.md-->
+<!--@include: ./trainUnk2_partial_footer.md-->

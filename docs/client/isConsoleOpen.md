@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isConsoleOpen_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function isConsoleOpen(): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isConsoleOpen.md-->
+<!--@include: ./isConsoleOpen_partial_footer.md-->

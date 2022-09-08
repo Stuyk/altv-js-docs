@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./tickVisible_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public tickVisible: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/tickVisible.md-->
+<!--@include: ./tickVisible_partial_footer.md-->

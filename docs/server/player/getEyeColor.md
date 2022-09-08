@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getEyeColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public getEyeColor(): number;
 
 ## Documentation
 
-<!--@include: ./parts/getEyeColor.md-->
+<!--@include: ./getEyeColor_partial_footer.md-->

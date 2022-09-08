@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isKeyToggled_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function isKeyToggled(key: number): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isKeyToggled.md-->
+<!--@include: ./isKeyToggled_partial_footer.md-->

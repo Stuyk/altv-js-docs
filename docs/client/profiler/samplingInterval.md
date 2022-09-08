@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./samplingInterval_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static samplingInterval: number;
 
 ## Documentation
 
-<!--@include: ./parts/samplingInterval.md-->
+<!--@include: ./samplingInterval_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./asMissionCreator_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public asMissionCreator: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/asMissionCreator.md-->
+<!--@include: ./asMissionCreator_partial_footer.md-->

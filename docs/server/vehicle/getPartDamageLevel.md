@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getPartDamageLevel_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getPartDamageLevel<T extends number, V extends number = VehiclePartDamage
 
 ## Documentation
 
-<!--@include: ./parts/getPartDamageLevel.md-->
+<!--@include: ./getPartDamageLevel_partial_footer.md-->

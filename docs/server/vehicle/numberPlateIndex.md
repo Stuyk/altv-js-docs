@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./numberPlateIndex_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public numberPlateIndex: NumberPlateStyle;
 
 ## Documentation
 
-<!--@include: ./parts/numberPlateIndex.md-->
+<!--@include: ./numberPlateIndex_partial_footer.md-->

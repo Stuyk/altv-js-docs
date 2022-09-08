@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isPointWithinElement_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public isPointWithinElement(point: shared.IVector2): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isPointWithinElement.md-->
+<!--@include: ./isPointWithinElement_partial_footer.md-->

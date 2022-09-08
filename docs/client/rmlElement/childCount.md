@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./childCount_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly childCount: number;
 
 ## Documentation
 
-<!--@include: ./parts/childCount.md-->
+<!--@include: ./childCount_partial_footer.md-->

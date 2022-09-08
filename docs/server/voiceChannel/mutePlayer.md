@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./mutePlayer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public mutePlayer(player: Player): void;
 
 ## Documentation
 
-<!--@include: ./parts/mutePlayer.md-->
+<!--@include: ./mutePlayer_partial_footer.md-->

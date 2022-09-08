@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clipSize_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly clipSize: number;
 
 ## Documentation
 
-<!--@include: ./parts/clipSize.md-->
+<!--@include: ./clipSize_partial_footer.md-->

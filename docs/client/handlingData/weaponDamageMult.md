@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./weaponDamageMult_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public weaponDamageMult: number;
 
 ## Documentation
 
-<!--@include: ./parts/weaponDamageMult.md-->
+<!--@include: ./weaponDamageMult_partial_footer.md-->

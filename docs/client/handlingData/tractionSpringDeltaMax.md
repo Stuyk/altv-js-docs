@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./tractionSpringDeltaMax_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public tractionSpringDeltaMax: number;
 
 ## Documentation
 
-<!--@include: ./parts/tractionSpringDeltaMax.md-->
+<!--@include: ./tractionSpringDeltaMax_partial_footer.md-->

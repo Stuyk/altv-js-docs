@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./dashboardColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public dashboardColor: number;
 
 ## Documentation
 
-<!--@include: ./parts/dashboardColor.md-->
+<!--@include: ./dashboardColor_partial_footer.md-->

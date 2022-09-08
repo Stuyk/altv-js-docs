@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./pulse_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public pulse: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/pulse.md-->
+<!--@include: ./pulse_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./time_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function time(): void;
 
 ## Documentation
 
-<!--@include: ./parts/time.md-->
+<!--@include: ./time_partial_footer.md-->

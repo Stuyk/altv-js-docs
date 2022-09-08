@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./title_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public title: string;
 
 ## Documentation
 
-<!--@include: ./parts/title.md-->
+<!--@include: ./title_partial_footer.md-->

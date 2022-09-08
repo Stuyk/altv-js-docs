@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./sub_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public sub(vector: IVector2): Vector2;
 
 ## Documentation
 
-<!--@include: ./parts/sub.md-->
+<!--@include: ./sub_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./outlineIndicatorVisible_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public outlineIndicatorVisible: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/outlineIndicatorVisible.md-->
+<!--@include: ./outlineIndicatorVisible_partial_footer.md-->

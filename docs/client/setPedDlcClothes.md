@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setPedDlcClothes_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -26,4 +28,4 @@ function setPedDlcClothes(scriptID: number, dlc: number, component: number, draw
 
 ## Documentation
 
-<!--@include: ./parts/setPedDlcClothes.md-->
+<!--@include: ./setPedDlcClothes_partial_footer.md-->

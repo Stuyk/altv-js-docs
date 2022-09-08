@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isTrainCaboose_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public isTrainCaboose: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isTrainCaboose.md-->
+<!--@include: ./isTrainCaboose_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getByScriptID_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public static getByScriptID(scriptID: number): Player | null;
 
 ## Documentation
 
-<!--@include: ./parts/getByScriptID.md-->
+<!--@include: ./getByScriptID_partial_footer.md-->

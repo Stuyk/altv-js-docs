@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isDead_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly isDead: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isDead.md-->
+<!--@include: ./isDead_partial_footer.md-->

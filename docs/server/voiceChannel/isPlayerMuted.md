@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isPlayerMuted_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public isPlayerMuted(player: Player): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isPlayerMuted.md-->
+<!--@include: ./isPlayerMuted_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setHeadBlendPaletteColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -24,4 +26,4 @@ public setHeadBlendPaletteColor(id: number, red: number, green: number, blue: nu
 
 ## Documentation
 
-<!--@include: ./parts/setHeadBlendPaletteColor.md-->
+<!--@include: ./setHeadBlendPaletteColor_partial_footer.md-->

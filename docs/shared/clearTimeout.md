@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clearTimeout_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function clearTimeout(id: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/clearTimeout.md-->
+<!--@include: ./clearTimeout_partial_footer.md-->

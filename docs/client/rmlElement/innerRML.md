@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./innerRML_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public innerRML: string;
 
 ## Documentation
 
-<!--@include: ./parts/innerRML.md-->
+<!--@include: ./innerRML_partial_footer.md-->

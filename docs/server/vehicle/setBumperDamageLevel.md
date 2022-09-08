@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setBumperDamageLevel_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setBumperDamageLevel<T extends number, V extends number = VehicleBumperDa
 
 ## Documentation
 
-<!--@include: ./parts/setBumperDamageLevel.md-->
+<!--@include: ./setBumperDamageLevel_partial_footer.md-->

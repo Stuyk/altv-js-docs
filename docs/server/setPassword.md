@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setPassword_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function setPassword(password: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/setPassword.md-->
+<!--@include: ./setPassword_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getHeadBlendPaletteColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getHeadBlendPaletteColor(id: number): shared.RGBA;
 
 ## Documentation
 
-<!--@include: ./parts/getHeadBlendPaletteColor.md-->
+<!--@include: ./getHeadBlendPaletteColor_partial_footer.md-->

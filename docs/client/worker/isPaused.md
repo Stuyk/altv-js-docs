@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isPaused_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly isPaused: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isPaused.md-->
+<!--@include: ./isPaused_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./drawText3dThisFrame_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -27,4 +29,4 @@ public static drawText3dThisFrame(text: string, pos3d?: shared.IVector3, font?: 
 
 ## Documentation
 
-<!--@include: ./parts/drawText3dThisFrame.md-->
+<!--@include: ./drawText3dThisFrame_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getScreenResolution_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function getScreenResolution(): shared.Vector2;
 
 ## Documentation
 
-<!--@include: ./parts/getScreenResolution.md-->
+<!--@include: ./getScreenResolution_partial_footer.md-->

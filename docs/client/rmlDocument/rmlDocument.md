@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./rmlDocument_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ const result = new RmlDocument(url: string);
 
 ## Documentation
 
-<!--@include: ./parts/rmlDocument.md-->
+<!--@include: ./rmlDocument_partial_footer.md-->

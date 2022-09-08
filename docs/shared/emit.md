@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./emit_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function emit(eventName: string, ...args: any[]): void;
 
 ## Documentation
 
-<!--@include: ./parts/emit.md-->
+<!--@include: ./emit_partial_footer.md-->

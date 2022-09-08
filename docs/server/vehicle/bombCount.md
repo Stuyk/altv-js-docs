@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./bombCount_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public bombCount: number;
 
 ## Documentation
 
-<!--@include: ./parts/bombCount.md-->
+<!--@include: ./bombCount_partial_footer.md-->

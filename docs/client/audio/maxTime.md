@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./maxTime_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly maxTime: number;
 
 ## Documentation
 
-<!--@include: ./parts/maxTime.md-->
+<!--@include: ./maxTime_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isEntityIn_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public isEntityIn(entity: Entity): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isEntityIn.md-->
+<!--@include: ./isEntityIn_partial_footer.md-->

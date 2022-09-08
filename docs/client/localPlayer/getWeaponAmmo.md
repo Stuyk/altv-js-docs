@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getWeaponAmmo_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getWeaponAmmo(weaponName: string): number;
 
 ## Documentation
 
-<!--@include: ./parts/getWeaponAmmo.md-->
+<!--@include: ./getWeaponAmmo_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setWheelDetached_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setWheelDetached(wheelId: number, state: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/setWheelDetached.md-->
+<!--@include: ./setWheelDetached_partial_footer.md-->

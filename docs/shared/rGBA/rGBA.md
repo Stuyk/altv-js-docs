@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./rGBA_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ const result = new RGBA(rgba: { r: number; g: number; b: number; a?: number });
 
 ## Documentation
 
-<!--@include: ./parts/rGBA.md-->
+<!--@include: ./rGBA_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./modelType_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -32,4 +34,4 @@ enum ModelType {
 
 ## Documentation
 
-<!--@include: ./parts/modelType.md-->
+<!--@include: ./modelType_partial_footer.md-->

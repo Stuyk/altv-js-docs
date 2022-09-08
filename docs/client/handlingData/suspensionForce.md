@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./suspensionForce_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public suspensionForce: number;
 
 ## Documentation
 
-<!--@include: ./parts/suspensionForce.md-->
+<!--@include: ./suspensionForce_partial_footer.md-->

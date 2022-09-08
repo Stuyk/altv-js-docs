@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./loadYtyp_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function loadYtyp(path: string): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/loadYtyp.md-->
+<!--@include: ./loadYtyp_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./div_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public div(vector: IVector3): Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/div.md-->
+<!--@include: ./div_partial_footer.md-->

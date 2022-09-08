@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setHairColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public setHairColor(hairColor: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setHairColor.md-->
+<!--@include: ./setHairColor_partial_footer.md-->

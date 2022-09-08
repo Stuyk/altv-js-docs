@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./pingInterval_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public pingInterval: number;
 
 ## Documentation
 
-<!--@include: ./parts/pingInterval.md-->
+<!--@include: ./pingInterval_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./on_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public on(event: "error", callback: (code: number, message: string) => void): vo
 
 ## Documentation
 
-<!--@include: ./parts/on.md-->
+<!--@include: ./on_partial_footer.md-->

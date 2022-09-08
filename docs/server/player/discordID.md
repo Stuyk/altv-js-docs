@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./discordID_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly discordID: string;
 
 ## Documentation
 
-<!--@include: ./parts/discordID.md-->
+<!--@include: ./discordID_partial_footer.md-->

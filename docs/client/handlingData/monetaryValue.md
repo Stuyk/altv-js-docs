@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./monetaryValue_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public monetaryValue: number;
 
 ## Documentation
 
-<!--@include: ./parts/monetaryValue.md-->
+<!--@include: ./monetaryValue_partial_footer.md-->

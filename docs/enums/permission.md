@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./permission_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -19,4 +21,4 @@ enum Permission {
 
 ## Documentation
 
-<!--@include: ./parts/permission.md-->
+<!--@include: ./permission_partial_footer.md-->

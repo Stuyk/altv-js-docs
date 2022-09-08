@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./wait_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public static wait(timeout: number): Promise<void>;
 
 ## Documentation
 
-<!--@include: ./parts/wait.md-->
+<!--@include: ./wait_partial_footer.md-->

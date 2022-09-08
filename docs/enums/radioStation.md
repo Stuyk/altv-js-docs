@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./radioStation_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -34,4 +36,4 @@ enum RadioStation {
 
 ## Documentation
 
-<!--@include: ./parts/radioStation.md-->
+<!--@include: ./radioStation_partial_footer.md-->

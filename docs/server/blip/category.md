@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./category_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public category: number;
 
 ## Documentation
 
-<!--@include: ./parts/category.md-->
+<!--@include: ./category_partial_footer.md-->

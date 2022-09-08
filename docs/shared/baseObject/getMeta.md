@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getMeta_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getMeta<V extends any>(key: string): V | undefined;
 
 ## Documentation
 
-<!--@include: ./parts/getMeta.md-->
+<!--@include: ./getMeta_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./readyState_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly readyState: WebSocketReadyState;
 
 ## Documentation
 
-<!--@include: ./parts/readyState.md-->
+<!--@include: ./readyState_partial_footer.md-->

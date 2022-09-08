@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./headlightColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public headlightColor: number;
 
 ## Documentation
 
-<!--@include: ./parts/headlightColor.md-->
+<!--@include: ./headlightColor_partial_footer.md-->

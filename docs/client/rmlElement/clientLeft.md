@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clientLeft_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly clientLeft: number;
 
 ## Documentation
 
-<!--@include: ./parts/clientLeft.md-->
+<!--@include: ./clientLeft_partial_footer.md-->

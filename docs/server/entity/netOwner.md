@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./netOwner_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly netOwner: Player | null;
 
 ## Documentation
 
-<!--@include: ./parts/netOwner.md-->
+<!--@include: ./netOwner_partial_footer.md-->

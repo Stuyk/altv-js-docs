@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setMinimapIsRectangle_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function setMinimapIsRectangle(state: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/setMinimapIsRectangle.md-->
+<!--@include: ./setMinimapIsRectangle_partial_footer.md-->

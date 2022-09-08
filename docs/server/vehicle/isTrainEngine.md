@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isTrainEngine_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public isTrainEngine: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isTrainEngine.md-->
+<!--@include: ./isTrainEngine_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./deleteAll_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static deleteAll(): void;
 
 ## Documentation
 
-<!--@include: ./parts/deleteAll.md-->
+<!--@include: ./deleteAll_partial_footer.md-->

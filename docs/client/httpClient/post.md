@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./post_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public post(url: string, body: string): Promise<IHttpResponse>;
 
 ## Documentation
 
-<!--@include: ./parts/post.md-->
+<!--@include: ./post_partial_footer.md-->

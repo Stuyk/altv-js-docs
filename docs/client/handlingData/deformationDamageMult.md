@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./deformationDamageMult_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public deformationDamageMult: number;
 
 ## Documentation
 
-<!--@include: ./parts/deformationDamageMult.md-->
+<!--@include: ./deformationDamageMult_partial_footer.md-->

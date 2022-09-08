@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./hwidExHash_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly hwidExHash: string;
 
 ## Documentation
 
-<!--@include: ./parts/hwidExHash.md-->
+<!--@include: ./hwidExHash_partial_footer.md-->

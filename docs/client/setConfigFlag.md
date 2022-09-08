@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setConfigFlag_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function setConfigFlag(flag: `${ConfigFlag}`, state: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/setConfigFlag.md-->
+<!--@include: ./setConfigFlag_partial_footer.md-->

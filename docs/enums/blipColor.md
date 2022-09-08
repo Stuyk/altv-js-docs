@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./blipColor_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -66,4 +68,4 @@ enum BlipColor {
 
 ## Documentation
 
-<!--@include: ./parts/blipColor.md-->
+<!--@include: ./blipColor_partial_footer.md-->

@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./profiler_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ const result = new protected Profiler();
 
 ## Documentation
 
-<!--@include: ./parts/profiler.md-->
+<!--@include: ./profiler_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./placeOnGroundProperly_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public placeOnGroundProperly(): void;
 
 ## Documentation
 
-<!--@include: ./parts/placeOnGroundProperly.md-->
+<!--@include: ./placeOnGroundProperly_partial_footer.md-->

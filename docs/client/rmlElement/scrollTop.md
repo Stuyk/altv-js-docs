@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./scrollTop_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public scrollTop: number;
 
 ## Documentation
 
-<!--@include: ./parts/scrollTop.md-->
+<!--@include: ./scrollTop_partial_footer.md-->

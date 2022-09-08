@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./oilVolume_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public oilVolume: number;
 
 ## Documentation
 
-<!--@include: ./parts/oilVolume.md-->
+<!--@include: ./oilVolume_partial_footer.md-->

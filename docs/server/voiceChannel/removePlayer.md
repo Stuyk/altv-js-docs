@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./removePlayer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public removePlayer(player: Player): void;
 
 ## Documentation
 
-<!--@include: ./parts/removePlayer.md-->
+<!--@include: ./removePlayer_partial_footer.md-->

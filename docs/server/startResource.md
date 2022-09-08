@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./startResource_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function startResource(name: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/startResource.md-->
+<!--@include: ./startResource_partial_footer.md-->

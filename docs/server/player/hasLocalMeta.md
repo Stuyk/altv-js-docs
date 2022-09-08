@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./hasLocalMeta_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public hasLocalMeta<K extends shared.ExtractStringKeys<shared.ICustomPlayerLocal
 
 ## Documentation
 
-<!--@include: ./parts/hasLocalMeta.md-->
+<!--@include: ./hasLocalMeta_partial_footer.md-->

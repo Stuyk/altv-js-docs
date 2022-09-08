@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./toDegrees_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public toDegrees(): Vector2;
 
 ## Documentation
 
-<!--@include: ./parts/toDegrees.md-->
+<!--@include: ./toDegrees_partial_footer.md-->

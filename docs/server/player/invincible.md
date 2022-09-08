@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./invincible_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public invincible: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/invincible.md-->
+<!--@include: ./invincible_partial_footer.md-->

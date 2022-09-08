@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./valid_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly valid: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/valid.md-->
+<!--@include: ./valid_partial_footer.md-->

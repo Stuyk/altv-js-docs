@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getPermissionState_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function getPermissionState<T extends number, V extends number = PermissionState
 
 ## Documentation
 
-<!--@include: ./parts/getPermissionState.md-->
+<!--@include: ./getPermissionState_partial_footer.md-->

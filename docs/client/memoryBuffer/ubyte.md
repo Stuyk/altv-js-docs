@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./ubyte_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public ubyte(offset: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/ubyte.md-->
+<!--@include: ./ubyte_partial_footer.md-->

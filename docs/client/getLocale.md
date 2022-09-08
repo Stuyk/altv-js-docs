@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getLocale_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function getLocale(): `${Locale}`;
 
 ## Documentation
 
-<!--@include: ./parts/getLocale.md-->
+<!--@include: ./getLocale_partial_footer.md-->

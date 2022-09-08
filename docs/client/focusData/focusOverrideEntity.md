@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./focusOverrideEntity_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly focusOverrideEntity: Entity;
 
 ## Documentation
 
-<!--@include: ./parts/focusOverrideEntity.md-->
+<!--@include: ./focusOverrideEntity_partial_footer.md-->

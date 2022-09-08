@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./dirtLevel_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public dirtLevel: number;
 
 ## Documentation
 
-<!--@include: ./parts/dirtLevel.md-->
+<!--@include: ./dirtLevel_partial_footer.md-->

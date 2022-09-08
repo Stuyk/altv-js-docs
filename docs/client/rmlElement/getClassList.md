@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getClassList_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public getClassList(): ReadonlyArray<string>;
 
 ## Documentation
 
-<!--@include: ./parts/getClassList.md-->
+<!--@include: ./getClassList_partial_footer.md-->

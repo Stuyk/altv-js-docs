@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./nextTick_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ const result = new NextTick(callback: () => void);
 
 ## Documentation
 
-<!--@include: ./parts/nextTick.md-->
+<!--@include: ./nextTick_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iWeapon_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -17,4 +19,4 @@ interface IWeapon {
 
 ## Documentation
 
-<!--@include: ./parts/iWeapon.md-->
+<!--@include: ./iWeapon_partial_footer.md-->

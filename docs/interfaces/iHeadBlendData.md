@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iHeadBlendData_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -23,4 +25,4 @@ interface IHeadBlendData {
 
 ## Documentation
 
-<!--@include: ./parts/iHeadBlendData.md-->
+<!--@include: ./iHeadBlendData_partial_footer.md-->

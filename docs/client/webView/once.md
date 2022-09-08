@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./once_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public once(eventName: string, listener: (...args: any[]) => void): void;
 
 ## Documentation
 
-<!--@include: ./parts/once.md-->
+<!--@include: ./once_partial_footer.md-->

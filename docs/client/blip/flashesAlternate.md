@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./flashesAlternate_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public flashesAlternate: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/flashesAlternate.md-->
+<!--@include: ./flashesAlternate_partial_footer.md-->

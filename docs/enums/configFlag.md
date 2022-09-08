@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./configFlag_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -17,4 +19,4 @@ enum ConfigFlag {
 
 ## Documentation
 
-<!--@include: ./parts/configFlag.md-->
+<!--@include: ./configFlag_partial_footer.md-->

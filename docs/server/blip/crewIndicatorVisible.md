@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./crewIndicatorVisible_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public crewIndicatorVisible: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/crewIndicatorVisible.md-->
+<!--@include: ./crewIndicatorVisible_partial_footer.md-->

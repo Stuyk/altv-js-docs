@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getHeadshotBase64_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function getHeadshotBase64(id: number): string;
 
 ## Documentation
 
-<!--@include: ./parts/getHeadshotBase64.md-->
+<!--@include: ./getHeadshotBase64_partial_footer.md-->

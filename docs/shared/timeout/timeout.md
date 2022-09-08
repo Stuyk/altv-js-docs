@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./timeout_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ const result = new Timeout(callback: () => void, ms: number);
 
 ## Documentation
 
-<!--@include: ./parts/timeout.md-->
+<!--@include: ./timeout_partial_footer.md-->

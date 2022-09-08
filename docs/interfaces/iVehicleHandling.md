@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iVehicleHandling_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -82,4 +84,4 @@ interface IVehicleHandling {
 
 ## Documentation
 
-<!--@include: ./parts/iVehicleHandling.md-->
+<!--@include: ./iVehicleHandling_partial_footer.md-->

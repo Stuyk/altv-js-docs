@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./dot_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public dot(vector: IVector2): Vector2;
 
 ## Documentation
 
-<!--@include: ./parts/dot.md-->
+<!--@include: ./dot_partial_footer.md-->

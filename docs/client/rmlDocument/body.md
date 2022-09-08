@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./body_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly body: RmlElement;
 
 ## Documentation
 
-<!--@include: ./parts/body.md-->
+<!--@include: ./body_partial_footer.md-->

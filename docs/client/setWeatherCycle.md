@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setWeatherCycle_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function setWeatherCycle(weathers: Array<number>, multipliers: Array<number>): v
 
 ## Documentation
 
-<!--@include: ./parts/setWeatherCycle.md-->
+<!--@include: ./setWeatherCycle_partial_footer.md-->

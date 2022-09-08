@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./neon_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public neon: IVehicleNeon;
 
 ## Documentation
 
-<!--@include: ./parts/neon.md-->
+<!--@include: ./neon_partial_footer.md-->

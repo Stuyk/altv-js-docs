@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./pointBlip_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -23,4 +25,4 @@ const result = new PointBlip(x: number, y: number, z: number);
 
 ## Documentation
 
-<!--@include: ./parts/pointBlip.md-->
+<!--@include: ./pointBlip_partial_footer.md-->

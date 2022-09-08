@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./blipSprite_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -599,4 +601,4 @@ enum BlipSprite {
 
 ## Documentation
 
-<!--@include: ./parts/blipSprite.md-->
+<!--@include: ./blipSprite_partial_footer.md-->

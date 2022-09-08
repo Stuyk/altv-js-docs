@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./save_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static save(): void;
 
 ## Documentation
 
-<!--@include: ./parts/save.md-->
+<!--@include: ./save_partial_footer.md-->

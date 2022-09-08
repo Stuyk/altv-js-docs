@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./object_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -25,4 +27,4 @@ const result = new Object(model: string | number, pos: shared.Vector3, rot: shar
 
 ## Documentation
 
-<!--@include: ./parts/object.md-->
+<!--@include: ./object_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./uint_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public uint(offset: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/uint.md-->
+<!--@include: ./uint_partial_footer.md-->

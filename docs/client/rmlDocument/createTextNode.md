@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./createTextNode_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public createTextNode(text: string): RmlElement;
 
 ## Documentation
 
-<!--@include: ./parts/createTextNode.md-->
+<!--@include: ./createTextNode_partial_footer.md-->

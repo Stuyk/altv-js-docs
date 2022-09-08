@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./offsetHeight_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly offsetHeight: number;
 
 ## Documentation
 
-<!--@include: ./parts/offsetHeight.md-->
+<!--@include: ./offsetHeight_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./steeringLockRatio_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public steeringLockRatio: number;
 
 ## Documentation
 
-<!--@include: ./parts/steeringLockRatio.md-->
+<!--@include: ./steeringLockRatio_partial_footer.md-->

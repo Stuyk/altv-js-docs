@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isLightDamaged_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public isLightDamaged(lightId: number): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isLightDamaged.md-->
+<!--@include: ./isLightDamaged_partial_footer.md-->

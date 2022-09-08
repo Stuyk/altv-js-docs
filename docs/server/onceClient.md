@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./onceClient_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function onceClient(listener: (eventName: string, player: Player, ...args: any[]
 
 ## Documentation
 
-<!--@include: ./parts/onceClient.md-->
+<!--@include: ./onceClient_partial_footer.md-->

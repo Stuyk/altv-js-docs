@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./nextTick_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function nextTick(handler: (...args: any[]) => void): number;
 
 ## Documentation
 
-<!--@include: ./parts/nextTick.md-->
+<!--@include: ./nextTick_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./negative_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public negative(): Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/negative.md-->
+<!--@include: ./negative_partial_footer.md-->

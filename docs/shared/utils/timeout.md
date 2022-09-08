@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./timeout_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly Timeout: typeof Timeout;
 
 ## Documentation
 
-<!--@include: ./parts/timeout.md-->
+<!--@include: ./timeout_partial_footer.md-->

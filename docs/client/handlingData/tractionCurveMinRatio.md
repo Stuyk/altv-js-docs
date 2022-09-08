@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./tractionCurveMinRatio_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public tractionCurveMinRatio: number;
 
 ## Documentation
 
-<!--@include: ./parts/tractionCurveMinRatio.md-->
+<!--@include: ./tractionCurveMinRatio_partial_footer.md-->

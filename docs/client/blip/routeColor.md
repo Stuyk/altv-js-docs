@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./routeColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public routeColor: shared.RGBA;
 
 ## Documentation
 
-<!--@include: ./parts/routeColor.md-->
+<!--@include: ./routeColor_partial_footer.md-->

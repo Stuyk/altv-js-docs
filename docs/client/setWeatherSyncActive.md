@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setWeatherSyncActive_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function setWeatherSyncActive(isActive: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/setWeatherSyncActive.md-->
+<!--@include: ./setWeatherSyncActive_partial_footer.md-->

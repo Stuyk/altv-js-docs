@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./localStorage_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ const result = new protected LocalStorage();
 
 ## Documentation
 
-<!--@include: ./parts/localStorage.md-->
+<!--@include: ./localStorage_partial_footer.md-->

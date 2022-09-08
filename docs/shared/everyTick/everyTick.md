@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./everyTick_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ const result = new EveryTick(callback: () => void);
 
 ## Documentation
 
-<!--@include: ./parts/everyTick.md-->
+<!--@include: ./everyTick_partial_footer.md-->

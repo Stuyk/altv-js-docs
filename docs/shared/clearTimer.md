@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clearTimer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function clearTimer(id: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/clearTimer.md-->
+<!--@include: ./clearTimer_partial_footer.md-->

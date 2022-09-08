@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./removeChild_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public removeChild(child: RmlElement): void;
 
 ## Documentation
 
-<!--@include: ./parts/removeChild.md-->
+<!--@include: ./removeChild_partial_footer.md-->

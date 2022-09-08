@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./activeRadioStation_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public activeRadioStation: RadioStation;
 
 ## Documentation
 
-<!--@include: ./parts/activeRadioStation.md-->
+<!--@include: ./activeRadioStation_partial_footer.md-->

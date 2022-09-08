@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./normalize_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public normalize(): Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/normalize.md-->
+<!--@include: ./normalize_partial_footer.md-->

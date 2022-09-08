@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./rpm_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly rpm: number;
 
 ## Documentation
 
-<!--@include: ./parts/rpm.md-->
+<!--@include: ./rpm_partial_footer.md-->

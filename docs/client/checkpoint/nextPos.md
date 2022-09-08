@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./nextPos_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public nextPos: shared.Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/nextPos.md-->
+<!--@include: ./nextPos_partial_footer.md-->

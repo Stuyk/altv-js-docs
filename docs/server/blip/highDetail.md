@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./highDetail_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public highDetail: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/highDetail.md-->
+<!--@include: ./highDetail_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./trainTrackId_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public trainTrackId: number;
 
 ## Documentation
 
-<!--@include: ./parts/trainTrackId.md-->
+<!--@include: ./trainTrackId_partial_footer.md-->

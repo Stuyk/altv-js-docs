@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./dimension_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public dimension: number;
 
 ## Documentation
 
-<!--@include: ./parts/dimension.md-->
+<!--@include: ./dimension_partial_footer.md-->

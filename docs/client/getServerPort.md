@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getServerPort_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function getServerPort(): number;
 
 ## Documentation
 
-<!--@include: ./parts/getServerPort.md-->
+<!--@include: ./getServerPort_partial_footer.md-->

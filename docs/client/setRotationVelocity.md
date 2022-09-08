@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setRotationVelocity_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -24,4 +26,4 @@ function setRotationVelocity(scriptID: number, x: number, y: number, z: number):
 
 ## Documentation
 
-<!--@include: ./parts/setRotationVelocity.md-->
+<!--@include: ./setRotationVelocity_partial_footer.md-->

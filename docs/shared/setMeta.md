@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setMeta_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function setMeta<V extends any, K extends string = string>(key: K, value: Interf
 
 ## Documentation
 
-<!--@include: ./parts/setMeta.md-->
+<!--@include: ./setMeta_partial_footer.md-->

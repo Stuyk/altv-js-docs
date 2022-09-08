@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setProp_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -23,4 +25,4 @@ public setProp(component: number, drawable: number, texture: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setProp.md-->
+<!--@include: ./setProp_partial_footer.md-->

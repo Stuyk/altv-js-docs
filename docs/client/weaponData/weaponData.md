@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./weaponData_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ const result = new protected WeaponData();
 
 ## Documentation
 
-<!--@include: ./parts/weaponData.md-->
+<!--@include: ./weaponData_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./hashServerPassword_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function hashServerPassword(password: string): bigint;
 
 ## Documentation
 
-<!--@include: ./parts/hashServerPassword.md-->
+<!--@include: ./hashServerPassword_partial_footer.md-->

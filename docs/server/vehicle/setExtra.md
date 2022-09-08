@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setExtra_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setExtra(extraId: number, state: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/setExtra.md-->
+<!--@include: ./setExtra_partial_footer.md-->

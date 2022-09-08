@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./resource_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ const result = new protected Resource();
 
 ## Documentation
 
-<!--@include: ./parts/resource.md-->
+<!--@include: ./resource_partial_footer.md-->

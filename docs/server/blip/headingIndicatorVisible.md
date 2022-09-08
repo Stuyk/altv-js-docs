@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./headingIndicatorVisible_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public headingIndicatorVisible: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/headingIndicatorVisible.md-->
+<!--@include: ./headingIndicatorVisible_partial_footer.md-->

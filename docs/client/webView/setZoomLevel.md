@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setZoomLevel_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public setZoomLevel(value: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setZoomLevel.md-->
+<!--@include: ./setZoomLevel_partial_footer.md-->

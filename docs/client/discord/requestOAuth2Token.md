@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./requestOAuth2Token_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public static requestOAuth2Token(appId: string): Promise<string>;
 
 ## Documentation
 
-<!--@include: ./parts/requestOAuth2Token.md-->
+<!--@include: ./requestOAuth2Token_partial_footer.md-->

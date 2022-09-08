@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./fZoomSpeed_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public fZoomSpeed: number;
 
 ## Documentation
 
-<!--@include: ./parts/fZoomSpeed.md-->
+<!--@include: ./fZoomSpeed_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./recoilAccuracyToAllowHeadshotPlayer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public recoilAccuracyToAllowHeadshotPlayer: number;
 
 ## Documentation
 
-<!--@include: ./parts/recoilAccuracyToAllowHeadshotPlayer.md-->
+<!--@include: ./recoilAccuracyToAllowHeadshotPlayer_partial_footer.md-->

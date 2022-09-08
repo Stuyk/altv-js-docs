@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./collisionDamageMult_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public collisionDamageMult: number;
 
 ## Documentation
 
-<!--@include: ./parts/collisionDamageMult.md-->
+<!--@include: ./collisionDamageMult_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./removeOutput_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public removeOutput(entity: Entity | number): void;
 
 ## Documentation
 
-<!--@include: ./parts/removeOutput.md-->
+<!--@include: ./removeOutput_partial_footer.md-->

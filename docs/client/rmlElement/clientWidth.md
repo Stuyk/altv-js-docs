@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clientWidth_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly clientWidth: number;
 
 ## Documentation
 
-<!--@include: ./parts/clientWidth.md-->
+<!--@include: ./clientWidth_partial_footer.md-->

@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./discord_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ const result = new protected Discord();
 
 ## Documentation
 
-<!--@include: ./parts/discord.md-->
+<!--@include: ./discord_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./distanceTo_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public distanceTo(vector: IVector2): number;
 
 ## Documentation
 
-<!--@include: ./parts/distanceTo.md-->
+<!--@include: ./distanceTo_partial_footer.md-->

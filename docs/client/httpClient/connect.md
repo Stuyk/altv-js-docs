@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./connect_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public connect(url: string, body: string): Promise<IHttpResponse>;
 
 ## Documentation
 
-<!--@include: ./parts/connect.md-->
+<!--@include: ./connect_partial_footer.md-->

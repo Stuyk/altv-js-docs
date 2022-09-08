@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clearInterval_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function clearInterval(id: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/clearInterval.md-->
+<!--@include: ./clearInterval_partial_footer.md-->

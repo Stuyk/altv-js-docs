@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./emitRaw_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function emitRaw<K extends string>(eventName: Exclude<K, keyof IClientEvent>, ..
 
 ## Documentation
 
-<!--@include: ./parts/emitRaw.md-->
+<!--@include: ./emitRaw_partial_footer.md-->

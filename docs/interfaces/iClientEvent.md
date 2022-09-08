@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iClientEvent_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -43,4 +45,4 @@ interface IClientEvent {
 
 ## Documentation
 
-<!--@include: ./parts/iClientEvent.md-->
+<!--@include: ./iClientEvent_partial_footer.md-->

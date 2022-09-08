@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./branch_partial_header.md-->
+
 ## Property Definition
 
 ```ts
@@ -24,4 +26,4 @@ console.log(result);
 
 ## Documentation
 
-<!--@include: ./parts/branch.md-->
+<!--@include: ./branch_partial_footer.md-->

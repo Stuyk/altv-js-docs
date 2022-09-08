@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getMemoryProfile_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static getMemoryProfile(): void;
 
 ## Documentation
 
-<!--@include: ./parts/getMemoryProfile.md-->
+<!--@include: ./getMemoryProfile_partial_footer.md-->

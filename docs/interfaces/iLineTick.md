@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iLineTick_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -16,4 +18,4 @@ interface ILineTick {
 
 ## Documentation
 
-<!--@include: ./parts/iLineTick.md-->
+<!--@include: ./iLineTick_partial_footer.md-->

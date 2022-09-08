@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./focusOverrideOffset_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly focusOverrideOffset: shared.Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/focusOverrideOffset.md-->
+<!--@include: ./focusOverrideOffset_partial_footer.md-->

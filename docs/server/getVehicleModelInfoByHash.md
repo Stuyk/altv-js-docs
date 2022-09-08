@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getVehicleModelInfoByHash_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function getVehicleModelInfoByHash(vehicleHash: number): IVehicleModel;
 
 ## Documentation
 
-<!--@include: ./parts/getVehicleModelInfoByHash.md-->
+<!--@include: ./getVehicleModelInfoByHash_partial_footer.md-->

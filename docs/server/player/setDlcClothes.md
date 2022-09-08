@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setDlcClothes_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -25,4 +27,4 @@ public setDlcClothes(dlc: number, component: number, drawable: number, texture: 
 
 ## Documentation
 
-<!--@include: ./parts/setDlcClothes.md-->
+<!--@include: ./setDlcClothes_partial_footer.md-->

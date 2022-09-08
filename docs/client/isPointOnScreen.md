@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isPointOnScreen_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function isPointOnScreen(value: shared.IVector3): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isPointOnScreen.md-->
+<!--@include: ./isPointOnScreen_partial_footer.md-->

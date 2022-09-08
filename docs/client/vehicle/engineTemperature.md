@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./engineTemperature_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public engineTemperature: number;
 
 ## Documentation
 
-<!--@include: ./parts/engineTemperature.md-->
+<!--@include: ./engineTemperature_partial_footer.md-->

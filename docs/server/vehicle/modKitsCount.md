@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./modKitsCount_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly modKitsCount: number;
 
 ## Documentation
 
-<!--@include: ./parts/modKitsCount.md-->
+<!--@include: ./modKitsCount_partial_footer.md-->

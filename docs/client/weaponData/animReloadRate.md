@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./animReloadRate_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public animReloadRate: number;
 
 ## Documentation
 
-<!--@include: ./parts/animReloadRate.md-->
+<!--@include: ./animReloadRate_partial_footer.md-->

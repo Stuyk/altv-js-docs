@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isCamFrozen_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function isCamFrozen(): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isCamFrozen.md-->
+<!--@include: ./isCamFrozen_partial_footer.md-->

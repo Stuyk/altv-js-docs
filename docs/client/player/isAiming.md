@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isAiming_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly isAiming: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isAiming.md-->
+<!--@include: ./isAiming_partial_footer.md-->

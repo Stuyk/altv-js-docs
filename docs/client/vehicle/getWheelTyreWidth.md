@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getWheelTyreWidth_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getWheelTyreWidth(wheelIndex: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/getWheelTyreWidth.md-->
+<!--@include: ./getWheelTyreWidth_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setWheelBurst_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setWheelBurst(wheelId: number, state: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/setWheelBurst.md-->
+<!--@include: ./setWheelBurst_partial_footer.md-->

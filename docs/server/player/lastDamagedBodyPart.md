@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./lastDamagedBodyPart_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public lastDamagedBodyPart: number;
 
 ## Documentation
 
-<!--@include: ./parts/lastDamagedBodyPart.md-->
+<!--@include: ./lastDamagedBodyPart_partial_footer.md-->

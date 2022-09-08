@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./downforceModifier_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public downforceModifier: number;
 
 ## Documentation
 
-<!--@include: ./parts/downforceModifier.md-->
+<!--@include: ./downforceModifier_partial_footer.md-->

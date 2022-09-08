@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./dateTimeDay_partial_header.md-->
+
 ## Type Definition
 
 ```ts
@@ -43,4 +45,4 @@ type DateTimeDay = 0 |
 
 ## Documentation
 
-<!--@include: ./parts/dateTimeDay.md-->
+<!--@include: ./dateTimeDay_partial_footer.md-->

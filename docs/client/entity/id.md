@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./id_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly id: number;
 
 ## Documentation
 
-<!--@include: ./parts/id.md-->
+<!--@include: ./id_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setPedDlcProp_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -25,4 +27,4 @@ function setPedDlcProp(scriptID: number, dlc: number, component: number, drawabl
 
 ## Documentation
 
-<!--@include: ./parts/setPedDlcProp.md-->
+<!--@include: ./setPedDlcProp_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getAttributes_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public getAttributes(): Record<string, string>;
 
 ## Documentation
 
-<!--@include: ./parts/getAttributes.md-->
+<!--@include: ./getAttributes_partial_footer.md-->

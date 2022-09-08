@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./customSecondaryColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public customSecondaryColor: shared.RGBA;
 
 ## Documentation
 
-<!--@include: ./parts/customSecondaryColor.md-->
+<!--@include: ./customSecondaryColor_partial_footer.md-->

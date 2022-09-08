@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./focus_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public focus(): void;
 
 ## Documentation
 
-<!--@include: ./parts/focus.md-->
+<!--@include: ./focus_partial_footer.md-->

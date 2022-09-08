@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./screenToWorld_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function screenToWorld(value: shared.IVector2): shared.Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/screenToWorld.md-->
+<!--@include: ./screenToWorld_partial_footer.md-->

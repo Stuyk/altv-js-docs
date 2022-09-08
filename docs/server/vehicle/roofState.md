@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./roofState_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public roofState: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/roofState.md-->
+<!--@include: ./roofState_partial_footer.md-->

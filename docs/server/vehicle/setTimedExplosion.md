@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setTimedExplosion_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -23,4 +25,4 @@ public setTimedExplosion(state: boolean, culprit: Player, time: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setTimedExplosion.md-->
+<!--@include: ./setTimedExplosion_partial_footer.md-->

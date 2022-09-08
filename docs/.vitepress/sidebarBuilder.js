@@ -14,7 +14,7 @@ function capFirstLetter(string) {
 }
 
 
-export function getFilesAndOrderByPath(folderPath) {
+export function getFilesAndOrderByPath(folderPath, usesPartials) {
     const finalPath = normalizePath(path.join(docsPath, folderPath, '/*.md'));
     const files = glob.sync(finalPath)
 
@@ -23,6 +23,19 @@ export function getFilesAndOrderByPath(folderPath) {
         const fileData = fs.readFileSync(file).toString();
         const matterData = matter(fileData);
         navigation.push({ ...matterData.data, text: matterData.data.title, link: file.replace(docsPath, '') });
+
+        if (usesPartials && !file.includes('index') && !file.includes('partial')) {
+            const headerPath = file.replace('.md', '_partial_header.md');
+            const footerPath = file.replace('.md', '_partial_footer.md');
+
+            if (!fs.existsSync(headerPath)) {
+                fs.writeFileSync(headerPath, 'No Description Provided')
+            }
+
+            if (!fs.existsSync(footerPath)) {
+                fs.writeFileSync(footerPath, 'No Documentation Provided Yet')
+            }
+        }
     }
 
     const sortedResults = navigation.sort((a, b) => {
@@ -32,7 +45,7 @@ export function getFilesAndOrderByPath(folderPath) {
     return sortedResults;
 }
 
-export function getAllFoldersInDirectory(folderPath) {
+export function getAllFoldersInDirectory(folderPath, usesPartials = false) {
     const startPath = normalizePath(path.join(docsPath, folderPath));
     const folders = fs.readdirSync(startPath).filter(x => {
         return !x.includes('.md');
@@ -49,7 +62,7 @@ export function getAllFoldersInDirectory(folderPath) {
             text: `${capFirstLetter(folder)}`,
             collapsible: true,
             collapsed: true,
-            items: getFilesAndOrderByPath(nextPath)
+            items: getFilesAndOrderByPath(nextPath, usesPartials)
         })
     }
 

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./lockState_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly lockState: shared.VehicleLockState;
 
 ## Documentation
 
-<!--@include: ./parts/lockState.md-->
+<!--@include: ./lockState_partial_footer.md-->

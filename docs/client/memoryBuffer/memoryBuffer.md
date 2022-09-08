@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./memoryBuffer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ const result = new MemoryBuffer(size: number);
 
 ## Documentation
 
-<!--@include: ./parts/memoryBuffer.md-->
+<!--@include: ./memoryBuffer_partial_footer.md-->

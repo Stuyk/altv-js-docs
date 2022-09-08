@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./deleteStreamSyncedMeta_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public deleteStreamSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomP
 
 ## Documentation
 
-<!--@include: ./parts/deleteStreamSyncedMeta.md-->
+<!--@include: ./deleteStreamSyncedMeta_partial_footer.md-->

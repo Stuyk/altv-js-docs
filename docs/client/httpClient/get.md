@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./get_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public get(url: string): Promise<IHttpResponse>;
 
 ## Documentation
 
-<!--@include: ./parts/get.md-->
+<!--@include: ./get_partial_footer.md-->

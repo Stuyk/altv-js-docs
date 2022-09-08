@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./emitServerRaw_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function emitServerRaw(eventName: string, ...args: any[]): void;
 
 ## Documentation
 
-<!--@include: ./parts/emitServerRaw.md-->
+<!--@include: ./emitServerRaw_partial_footer.md-->

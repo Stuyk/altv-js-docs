@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setHeadOverlayColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -24,4 +26,4 @@ public setHeadOverlayColor(overlayID: number, colorType: number, colorIndex: num
 
 ## Documentation
 
-<!--@include: ./parts/setHeadOverlayColor.md-->
+<!--@include: ./setHeadOverlayColor_partial_footer.md-->

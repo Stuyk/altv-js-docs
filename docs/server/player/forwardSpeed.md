@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./forwardSpeed_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly forwardSpeed: number;
 
 ## Documentation
 
-<!--@include: ./parts/forwardSpeed.md-->
+<!--@include: ./forwardSpeed_partial_footer.md-->

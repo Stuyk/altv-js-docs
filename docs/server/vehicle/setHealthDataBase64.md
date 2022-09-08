@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setHealthDataBase64_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public setHealthDataBase64(data: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/setHealthDataBase64.md-->
+<!--@include: ./setHealthDataBase64_partial_footer.md-->

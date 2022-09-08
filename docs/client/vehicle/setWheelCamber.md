@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setWheelCamber_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setWheelCamber(wheelIndex: number, camber: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setWheelCamber.md-->
+<!--@include: ./setWheelCamber_partial_footer.md-->

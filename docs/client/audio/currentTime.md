@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./currentTime_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly currentTime: number;
 
 ## Documentation
 
-<!--@include: ./parts/currentTime.md-->
+<!--@include: ./currentTime_partial_footer.md-->

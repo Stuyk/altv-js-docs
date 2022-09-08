@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./windowTint_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -21,4 +23,4 @@ enum WindowTint {
 
 ## Documentation
 
-<!--@include: ./parts/windowTint.md-->
+<!--@include: ./windowTint_partial_footer.md-->

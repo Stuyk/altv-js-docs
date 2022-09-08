@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getModsCount_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getModsCount<T extends number>(modType: T): number;
 
 ## Documentation
 
-<!--@include: ./parts/getModsCount.md-->
+<!--@include: ./getModsCount_partial_footer.md-->

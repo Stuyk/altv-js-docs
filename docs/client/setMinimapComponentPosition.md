@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setMinimapComponentPosition_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -27,4 +29,4 @@ function setMinimapComponentPosition(name: string, alignX: string, alignY: strin
 
 ## Documentation
 
-<!--@include: ./parts/setMinimapComponentPosition.md-->
+<!--@include: ./setMinimapComponentPosition_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./containingBlock_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly containingBlock: shared.Vector2;
 
 ## Documentation
 
-<!--@include: ./parts/containingBlock.md-->
+<!--@include: ./containingBlock_partial_footer.md-->

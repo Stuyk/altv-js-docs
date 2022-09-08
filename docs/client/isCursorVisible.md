@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isCursorVisible_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function isCursorVisible(): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isCursorVisible.md-->
+<!--@include: ./isCursorVisible_partial_footer.md-->

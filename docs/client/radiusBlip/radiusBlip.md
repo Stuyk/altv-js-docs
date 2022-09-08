@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./radiusBlip_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -24,4 +26,4 @@ const result = new RadiusBlip(x: number, y: number, z: number, radius: number);
 
 ## Documentation
 
-<!--@include: ./parts/radiusBlip.md-->
+<!--@include: ./radiusBlip_partial_footer.md-->

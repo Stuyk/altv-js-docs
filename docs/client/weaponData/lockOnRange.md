@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./lockOnRange_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public lockOnRange: number;
 
 ## Documentation
 
-<!--@include: ./parts/lockOnRange.md-->
+<!--@include: ./lockOnRange_partial_footer.md-->

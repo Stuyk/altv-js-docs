@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./scrollHeight_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly scrollHeight: number;
 
 ## Documentation
 
-<!--@include: ./parts/scrollHeight.md-->
+<!--@include: ./scrollHeight_partial_footer.md-->

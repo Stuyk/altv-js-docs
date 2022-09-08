@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./requestAnimSet_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public static requestAnimSet(animSet: string, timeout?: number): Promise<void>;
 
 ## Documentation
 
-<!--@include: ./parts/requestAnimSet.md-->
+<!--@include: ./requestAnimSet_partial_footer.md-->

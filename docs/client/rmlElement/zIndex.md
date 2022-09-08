@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./zIndex_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly zIndex: number;
 
 ## Documentation
 
-<!--@include: ./parts/zIndex.md-->
+<!--@include: ./zIndex_partial_footer.md-->

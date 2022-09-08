@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getWeaponComponents_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getWeaponComponents(weaponName: string): Array<number>;
 
 ## Documentation
 
-<!--@include: ./parts/getWeaponComponents.md-->
+<!--@include: ./getWeaponComponents_partial_footer.md-->

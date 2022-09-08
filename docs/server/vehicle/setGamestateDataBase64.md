@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setGamestateDataBase64_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public setGamestateDataBase64(data: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/setGamestateDataBase64.md-->
+<!--@include: ./setGamestateDataBase64_partial_footer.md-->

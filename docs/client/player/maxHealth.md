@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./maxHealth_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly maxHealth: number;
 
 ## Documentation
 
-<!--@include: ./parts/maxHealth.md-->
+<!--@include: ./maxHealth_partial_footer.md-->

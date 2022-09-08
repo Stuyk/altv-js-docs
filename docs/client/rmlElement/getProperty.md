@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getProperty_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getProperty(name: string): string;
 
 ## Documentation
 
-<!--@include: ./parts/getProperty.md-->
+<!--@include: ./getProperty_partial_footer.md-->

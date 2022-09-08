@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./logDebug_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function logDebug(...args: any[]): void;
 
 ## Documentation
 
-<!--@include: ./parts/logDebug.md-->
+<!--@include: ./logDebug_partial_footer.md-->

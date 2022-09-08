@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isWheelDetached_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public isWheelDetached(wheelId: number): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isWheelDetached.md-->
+<!--@include: ./isWheelDetached_partial_footer.md-->

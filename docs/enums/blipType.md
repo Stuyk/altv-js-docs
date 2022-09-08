@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./blipType_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -26,4 +28,4 @@ enum BlipType {
 
 ## Documentation
 
-<!--@include: ./parts/blipType.md-->
+<!--@include: ./blipType_partial_footer.md-->

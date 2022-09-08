@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./trainConfigIndex_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public trainConfigIndex: number;
 
 ## Documentation
 
-<!--@include: ./parts/trainConfigIndex.md-->
+<!--@include: ./trainConfigIndex_partial_footer.md-->

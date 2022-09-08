@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getDlcProp_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getDlcProp(component: number): IDlcProp;
 
 ## Documentation
 
-<!--@include: ./parts/getDlcProp.md-->
+<!--@include: ./getDlcProp_partial_footer.md-->

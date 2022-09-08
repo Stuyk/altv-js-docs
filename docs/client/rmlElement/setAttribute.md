@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setAttribute_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setAttribute(name: string, value: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/setAttribute.md-->
+<!--@include: ./setAttribute_partial_footer.md-->

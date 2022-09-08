@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./ping_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly ping: number;
 
 ## Documentation
 
-<!--@include: ./parts/ping.md-->
+<!--@include: ./ping_partial_footer.md-->

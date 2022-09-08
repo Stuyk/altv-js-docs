@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./shrinked_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public shrinked: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/shrinked.md-->
+<!--@include: ./shrinked_partial_footer.md-->

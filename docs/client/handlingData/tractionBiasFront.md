@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./tractionBiasFront_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public tractionBiasFront: number;
 
 ## Documentation
 
-<!--@include: ./parts/tractionBiasFront.md-->
+<!--@include: ./tractionBiasFront_partial_footer.md-->

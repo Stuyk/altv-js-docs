@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./dateTimeMinute_partial_header.md-->
+
 ## Type Definition
 
 ```ts
@@ -72,4 +74,4 @@ type DateTimeMinute = 0 |
 
 ## Documentation
 
-<!--@include: ./parts/dateTimeMinute.md-->
+<!--@include: ./dateTimeMinute_partial_footer.md-->

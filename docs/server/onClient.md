@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./onClient_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function onClient(listener: (eventName: string, player: Player, ...args: any[]) 
 
 ## Documentation
 
-<!--@include: ./parts/onClient.md-->
+<!--@include: ./onClient_partial_footer.md-->

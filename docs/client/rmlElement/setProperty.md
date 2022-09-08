@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setProperty_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setProperty(name: string, value: string): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/setProperty.md-->
+<!--@include: ./setProperty_partial_footer.md-->

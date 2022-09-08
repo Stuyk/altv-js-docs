@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./lodDistance_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public lodDistance: number;
 
 ## Documentation
 
-<!--@include: ./parts/lodDistance.md-->
+<!--@include: ./lodDistance_partial_footer.md-->

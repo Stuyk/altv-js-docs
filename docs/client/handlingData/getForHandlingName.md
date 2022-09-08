@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getForHandlingName_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public static getForHandlingName(handlingHash: number): HandlingData;
 
 ## Documentation
 
-<!--@include: ./parts/getForHandlingName.md-->
+<!--@include: ./getForHandlingName_partial_footer.md-->

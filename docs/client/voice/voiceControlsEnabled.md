@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./voiceControlsEnabled_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly voiceControlsEnabled: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/voiceControlsEnabled.md-->
+<!--@include: ./voiceControlsEnabled_partial_footer.md-->

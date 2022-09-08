@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./speed_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly speed: number;
 
 ## Documentation
 
-<!--@include: ./parts/speed.md-->
+<!--@include: ./speed_partial_footer.md-->

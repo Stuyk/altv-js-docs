@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getServerConfig_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function getServerConfig(): IServerConfig;
 
 ## Documentation
 
-<!--@include: ./parts/getServerConfig.md-->
+<!--@include: ./getServerConfig_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./percentSubmerged_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public percentSubmerged: number;
 
 ## Documentation
 
-<!--@include: ./parts/percentSubmerged.md-->
+<!--@include: ./percentSubmerged_partial_footer.md-->

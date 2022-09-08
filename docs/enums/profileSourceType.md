@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./profileSourceType_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -19,4 +21,4 @@ enum ProfileSourceType {
 
 ## Documentation
 
-<!--@include: ./parts/profileSourceType.md-->
+<!--@include: ./profileSourceType_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./hasSyncedMeta_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function hasSyncedMeta<K extends ExtractStringKeys<ICustomGlobalSyncedMeta>>(key
 
 ## Documentation
 
-<!--@include: ./parts/hasSyncedMeta.md-->
+<!--@include: ./hasSyncedMeta_partial_footer.md-->

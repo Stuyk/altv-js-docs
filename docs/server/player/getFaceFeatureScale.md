@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getFaceFeatureScale_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getFaceFeatureScale(index: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/getFaceFeatureScale.md-->
+<!--@include: ./getFaceFeatureScale_partial_footer.md-->

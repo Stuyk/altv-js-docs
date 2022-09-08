@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iProp_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -16,4 +18,4 @@ interface IProp {
 
 ## Documentation
 
-<!--@include: ./parts/iProp.md-->
+<!--@include: ./iProp_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./dependencies_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly dependencies: ReadonlyArray<string>;
 
 ## Documentation
 
-<!--@include: ./parts/dependencies.md-->
+<!--@include: ./dependencies_partial_footer.md-->

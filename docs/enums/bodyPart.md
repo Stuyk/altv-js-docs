@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./bodyPart_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -36,4 +38,4 @@ enum BodyPart {
 
 ## Documentation
 
-<!--@include: ./parts/bodyPart.md-->
+<!--@include: ./bodyPart_partial_footer.md-->

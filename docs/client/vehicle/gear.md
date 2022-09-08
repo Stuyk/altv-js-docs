@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./gear_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public gear: number;
 
 ## Documentation
 
-<!--@include: ./parts/gear.md-->
+<!--@include: ./gear_partial_footer.md-->

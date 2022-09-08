@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./copyToClipboard_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function copyToClipboard(val: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/copyToClipboard.md-->
+<!--@include: ./copyToClipboard_partial_footer.md-->

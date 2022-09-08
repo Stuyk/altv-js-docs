@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./brakeBiasRear_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public brakeBiasRear: number;
 
 ## Documentation
 
-<!--@include: ./parts/brakeBiasRear.md-->
+<!--@include: ./brakeBiasRear_partial_footer.md-->

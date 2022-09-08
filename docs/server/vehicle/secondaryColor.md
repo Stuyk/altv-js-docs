@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./secondaryColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public secondaryColor: number;
 
 ## Documentation
 
-<!--@include: ./parts/secondaryColor.md-->
+<!--@include: ./secondaryColor_partial_footer.md-->

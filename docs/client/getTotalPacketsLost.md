@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getTotalPacketsLost_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function getTotalPacketsLost(): bigint;
 
 ## Documentation
 
-<!--@include: ./parts/getTotalPacketsLost.md-->
+<!--@include: ./getTotalPacketsLost_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./b_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public b: number;
 
 ## Documentation
 
-<!--@include: ./parts/b.md-->
+<!--@include: ./b_partial_footer.md-->

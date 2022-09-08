@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./modelFlags_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public modelFlags: number;
 
 ## Documentation
 
-<!--@include: ./parts/modelFlags.md-->
+<!--@include: ./modelFlags_partial_footer.md-->

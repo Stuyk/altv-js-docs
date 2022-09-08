@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./dateTimeSecond_partial_header.md-->
+
 ## Type Definition
 
 ```ts
@@ -72,4 +74,4 @@ type DateTimeSecond = 0 |
 
 ## Documentation
 
-<!--@include: ./parts/dateTimeSecond.md-->
+<!--@include: ./dateTimeSecond_partial_footer.md-->

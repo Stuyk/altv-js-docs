@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./hasResource_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function hasResource(name: string): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/hasResource.md-->
+<!--@include: ./hasResource_partial_footer.md-->

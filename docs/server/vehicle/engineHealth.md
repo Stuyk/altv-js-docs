@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./engineHealth_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public engineHealth: number;
 
 ## Documentation
 
-<!--@include: ./parts/engineHealth.md-->
+<!--@include: ./engineHealth_partial_footer.md-->

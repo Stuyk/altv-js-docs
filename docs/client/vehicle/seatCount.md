@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./seatCount_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly seatCount: number;
 
 ## Documentation
 
-<!--@include: ./parts/seatCount.md-->
+<!--@include: ./seatCount_partial_footer.md-->

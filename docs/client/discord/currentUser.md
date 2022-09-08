@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./currentUser_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly currentUser: IDiscordUser | null;
 
 ## Documentation
 
-<!--@include: ./parts/currentUser.md-->
+<!--@include: ./currentUser_partial_footer.md-->

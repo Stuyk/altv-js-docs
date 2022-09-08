@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./frozen_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public frozen: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/frozen.md-->
+<!--@include: ./frozen_partial_footer.md-->

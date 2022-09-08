@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clientTop_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly clientTop: number;
 
 ## Documentation
 
-<!--@include: ./parts/clientTop.md-->
+<!--@include: ./clientTop_partial_footer.md-->

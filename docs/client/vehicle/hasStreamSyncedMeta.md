@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./hasStreamSyncedMeta_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public hasStreamSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomVehi
 
 ## Documentation
 
-<!--@include: ./parts/hasStreamSyncedMeta.md-->
+<!--@include: ./hasStreamSyncedMeta_partial_footer.md-->

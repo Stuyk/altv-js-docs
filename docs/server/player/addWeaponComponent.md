@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./addWeaponComponent_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public addWeaponComponent(weaponHash: number, component: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/addWeaponComponent.md-->
+<!--@include: ./addWeaponComponent_partial_footer.md-->

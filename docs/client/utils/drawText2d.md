@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./drawText2d_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -27,4 +29,4 @@ public static drawText2d(text: string, pos2d?: shared.IVector2, font?: GameFont,
 
 ## Documentation
 
-<!--@include: ./parts/drawText2d.md-->
+<!--@include: ./drawText2d_partial_footer.md-->

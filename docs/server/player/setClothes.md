@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setClothes_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -24,4 +26,4 @@ public setClothes(component: number, drawable: number, texture: number, palette?
 
 ## Documentation
 
-<!--@include: ./parts/setClothes.md-->
+<!--@include: ./setClothes_partial_footer.md-->

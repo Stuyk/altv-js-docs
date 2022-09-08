@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setTrainEngineId_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public setTrainEngineId(vehicle: Vehicle | null): void;
 
 ## Documentation
 
-<!--@include: ./parts/setTrainEngineId.md-->
+<!--@include: ./setTrainEngineId_partial_footer.md-->

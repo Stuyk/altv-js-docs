@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isSuperJumpEnabled_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly isSuperJumpEnabled: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isSuperJumpEnabled.md-->
+<!--@include: ./isSuperJumpEnabled_partial_footer.md-->

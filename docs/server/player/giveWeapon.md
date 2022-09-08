@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./giveWeapon_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -23,4 +25,4 @@ public giveWeapon(weaponHash: number, ammo: number, equipNow: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/giveWeapon.md-->
+<!--@include: ./giveWeapon_partial_footer.md-->

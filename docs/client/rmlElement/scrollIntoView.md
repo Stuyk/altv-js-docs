@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./scrollIntoView_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public scrollIntoView(alignToTop?: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/scrollIntoView.md-->
+<!--@include: ./scrollIntoView_partial_footer.md-->

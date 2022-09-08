@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./handling_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public handling: IVehicleHandling;
 
 ## Documentation
 
-<!--@include: ./parts/handling.md-->
+<!--@include: ./handling_partial_footer.md-->

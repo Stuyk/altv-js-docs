@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./scriptMaxSpeed_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public scriptMaxSpeed: number;
 
 ## Documentation
 
-<!--@include: ./parts/scriptMaxSpeed.md-->
+<!--@include: ./scriptMaxSpeed_partial_footer.md-->

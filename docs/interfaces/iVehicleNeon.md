@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iVehicleNeon_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -18,4 +20,4 @@ interface IVehicleNeon {
 
 ## Documentation
 
-<!--@include: ./parts/iVehicleNeon.md-->
+<!--@include: ./iVehicleNeon_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./nonSpatialVolume_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public nonSpatialVolume: number;
 
 ## Documentation
 
-<!--@include: ./parts/nonSpatialVolume.md-->
+<!--@include: ./nonSpatialVolume_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./toggleRmlControls_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function toggleRmlControls(state: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/toggleRmlControls.md-->
+<!--@include: ./toggleRmlControls_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./focusedElement_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly focusedElement: RmlElement | null;
 
 ## Documentation
 
-<!--@include: ./parts/focusedElement.md-->
+<!--@include: ./focusedElement_partial_footer.md-->

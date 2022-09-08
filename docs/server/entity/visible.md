@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./visible_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public visible: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/visible.md-->
+<!--@include: ./visible_partial_footer.md-->

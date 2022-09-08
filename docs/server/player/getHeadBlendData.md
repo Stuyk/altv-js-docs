@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getHeadBlendData_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public getHeadBlendData(): IHeadBlendData;
 
 ## Documentation
 
-<!--@include: ./parts/getHeadBlendData.md-->
+<!--@include: ./getHeadBlendData_partial_footer.md-->

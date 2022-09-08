@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getProp_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getProp(component: number): IProp;
 
 ## Documentation
 
-<!--@include: ./parts/getProp.md-->
+<!--@include: ./getProp_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./appendChild_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public appendChild(child: RmlElement): void;
 
 ## Documentation
 
-<!--@include: ./parts/appendChild.md-->
+<!--@include: ./appendChild_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./timer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly Timer: typeof Timer;
 
 ## Documentation
 
-<!--@include: ./parts/timer.md-->
+<!--@include: ./timer_partial_footer.md-->

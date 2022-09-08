@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getWheelRimRadius_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getWheelRimRadius(wheelIndex: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/getWheelRimRadius.md-->
+<!--@include: ./getWheelRimRadius_partial_footer.md-->

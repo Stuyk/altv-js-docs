@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./loadRmlFont_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -24,4 +26,4 @@ function loadRmlFont(path: string, name: string, italic?: boolean, bold?: boolea
 
 ## Documentation
 
-<!--@include: ./parts/loadRmlFont.md-->
+<!--@include: ./loadRmlFont_partial_footer.md-->

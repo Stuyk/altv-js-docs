@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./watermarkPosition_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -19,4 +21,4 @@ enum WatermarkPosition {
 
 ## Documentation
 
-<!--@include: ./parts/watermarkPosition.md-->
+<!--@include: ./watermarkPosition_partial_footer.md-->

@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./colshapeCuboid_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -26,4 +28,4 @@ const result = new ColshapeCuboid(x1: number, y1: number, z1: number, x2: number
 
 ## Documentation
 
-<!--@include: ./parts/colshapeCuboid.md-->
+<!--@include: ./colshapeCuboid_partial_footer.md-->

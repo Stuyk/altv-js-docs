@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getClothes_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getClothes(component: number): ICloth;
 
 ## Documentation
 
-<!--@include: ./parts/getClothes.md-->
+<!--@include: ./getClothes_partial_footer.md-->

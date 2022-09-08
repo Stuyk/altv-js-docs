@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./removeSharedArrayBuffer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public static removeSharedArrayBuffer(id: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/removeSharedArrayBuffer.md-->
+<!--@include: ./removeSharedArrayBuffer_partial_footer.md-->

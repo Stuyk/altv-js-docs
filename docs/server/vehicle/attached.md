@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./attached_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly attached: Vehicle | null;
 
 ## Documentation
 
-<!--@include: ./parts/attached.md-->
+<!--@include: ./attached_partial_footer.md-->

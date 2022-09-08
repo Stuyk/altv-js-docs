@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./local_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly local: LocalPlayer;
 
 ## Documentation
 
-<!--@include: ./parts/local.md-->
+<!--@include: ./local_partial_footer.md-->

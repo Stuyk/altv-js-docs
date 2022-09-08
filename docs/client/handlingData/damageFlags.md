@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./damageFlags_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public damageFlags: number;
 
 ## Documentation
 
-<!--@include: ./parts/damageFlags.md-->
+<!--@include: ./damageFlags_partial_footer.md-->

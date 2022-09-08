@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./on_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function on(listener: (eventName: string, ...args: any[]) => void): void;
 
 ## Documentation
 
-<!--@include: ./parts/on.md-->
+<!--@include: ./on_partial_footer.md-->

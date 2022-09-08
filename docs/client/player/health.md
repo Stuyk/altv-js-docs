@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./health_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly health: number;
 
 ## Documentation
 
-<!--@include: ./parts/health.md-->
+<!--@include: ./health_partial_footer.md-->

@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./audio_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -24,4 +26,4 @@ const result = new public Audio(source: string, volume: number, category?: share
 
 ## Documentation
 
-<!--@include: ./parts/audio.md-->
+<!--@include: ./audio_partial_footer.md-->

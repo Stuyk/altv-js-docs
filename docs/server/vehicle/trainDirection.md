@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./trainDirection_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public trainDirection: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/trainDirection.md-->
+<!--@include: ./trainDirection_partial_footer.md-->

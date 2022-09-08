@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./get_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public static get(zoomData: string): MapZoomData;
 
 ## Documentation
 
-<!--@include: ./parts/get.md-->
+<!--@include: ./get_partial_footer.md-->

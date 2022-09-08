@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./ulong_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public ulong(offset: number): bigint;
 
 ## Documentation
 
-<!--@include: ./parts/ulong.md-->
+<!--@include: ./ulong_partial_footer.md-->

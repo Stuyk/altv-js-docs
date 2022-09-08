@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getDlcClothes_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getDlcClothes(component: number): IDlcCloth;
 
 ## Documentation
 
-<!--@include: ./parts/getDlcClothes.md-->
+<!--@include: ./getDlcClothes_partial_footer.md-->

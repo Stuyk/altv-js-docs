@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./textureVariation_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public textureVariation: number;
 
 ## Documentation
 
-<!--@include: ./parts/textureVariation.md-->
+<!--@include: ./textureVariation_partial_footer.md-->

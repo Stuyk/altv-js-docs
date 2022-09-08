@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./handbrakeActive_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly handbrakeActive: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/handbrakeActive.md-->
+<!--@include: ./handbrakeActive_partial_footer.md-->

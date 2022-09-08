@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./removeAttribute_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public removeAttribute(name: string): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/removeAttribute.md-->
+<!--@include: ./removeAttribute_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isReloading_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly isReloading: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isReloading.md-->
+<!--@include: ./isReloading_partial_footer.md-->

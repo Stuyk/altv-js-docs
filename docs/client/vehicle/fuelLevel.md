@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./fuelLevel_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public fuelLevel: number;
 
 ## Documentation
 
-<!--@include: ./parts/fuelLevel.md-->
+<!--@include: ./fuelLevel_partial_footer.md-->

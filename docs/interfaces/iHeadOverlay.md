@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iHeadOverlay_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -19,4 +21,4 @@ interface IHeadOverlay {
 
 ## Documentation
 
-<!--@include: ./parts/iHeadOverlay.md-->
+<!--@include: ./iHeadOverlay_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./offClient_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function offClient(eventName: string, listener: (...args: any[]) => void): void;
 
 ## Documentation
 
-<!--@include: ./parts/offClient.md-->
+<!--@include: ./offClient_partial_footer.md-->

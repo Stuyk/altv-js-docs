@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./handlingData_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ const result = new protected HandlingData();
 
 ## Documentation
 
-<!--@include: ./parts/handlingData.md-->
+<!--@include: ./handlingData_partial_footer.md-->

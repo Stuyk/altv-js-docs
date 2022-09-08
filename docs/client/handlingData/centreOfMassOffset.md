@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./centreOfMassOffset_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public centreOfMassOffset: shared.Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/centreOfMassOffset.md-->
+<!--@include: ./centreOfMassOffset_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./restartResource_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function restartResource(name: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/restartResource.md-->
+<!--@include: ./restartResource_partial_footer.md-->

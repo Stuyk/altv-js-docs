@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isWorldObject_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly isWorldObject: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isWorldObject.md-->
+<!--@include: ./isWorldObject_partial_footer.md-->

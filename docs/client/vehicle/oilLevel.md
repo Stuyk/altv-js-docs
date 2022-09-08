@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./oilLevel_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public oilLevel: number;
 
 ## Documentation
 
-<!--@include: ./parts/oilLevel.md-->
+<!--@include: ./oilLevel_partial_footer.md-->

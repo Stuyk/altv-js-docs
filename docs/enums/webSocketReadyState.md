@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./webSocketReadyState_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -18,4 +20,4 @@ enum WebSocketReadyState {
 
 ## Documentation
 
-<!--@include: ./parts/webSocketReadyState.md-->
+<!--@include: ./webSocketReadyState_partial_footer.md-->

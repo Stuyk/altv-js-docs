@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./statName_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -21,4 +23,4 @@ enum StatName {
 
 ## Documentation
 
-<!--@include: ./parts/statName.md-->
+<!--@include: ./statName_partial_footer.md-->

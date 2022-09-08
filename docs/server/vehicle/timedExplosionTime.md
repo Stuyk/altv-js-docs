@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./timedExplosionTime_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly timedExplosionTime: number;
 
 ## Documentation
 
-<!--@include: ./parts/timedExplosionTime.md-->
+<!--@include: ./timedExplosionTime_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./pearlColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public pearlColor: number;
 
 ## Documentation
 
-<!--@include: ./parts/pearlColor.md-->
+<!--@include: ./pearlColor_partial_footer.md-->

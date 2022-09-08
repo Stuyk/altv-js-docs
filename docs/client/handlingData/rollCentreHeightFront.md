@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./rollCentreHeightFront_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public rollCentreHeightFront: number;
 
 ## Documentation
 
-<!--@include: ./parts/rollCentreHeightFront.md-->
+<!--@include: ./rollCentreHeightFront_partial_footer.md-->

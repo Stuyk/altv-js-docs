@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./loadModel_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function loadModel(modelHash: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/loadModel.md-->
+<!--@include: ./loadModel_partial_footer.md-->

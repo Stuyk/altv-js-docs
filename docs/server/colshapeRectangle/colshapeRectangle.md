@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./colshapeRectangle_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -24,4 +26,4 @@ const result = new ColshapeRectangle(x1: number, y1: number, x2: number, y2: num
 
 ## Documentation
 
-<!--@include: ./parts/colshapeRectangle.md-->
+<!--@include: ./colshapeRectangle_partial_footer.md-->

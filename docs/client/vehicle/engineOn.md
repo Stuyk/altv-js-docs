@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./engineOn_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly engineOn: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/engineOn.md-->
+<!--@include: ./engineOn_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./roofLivery_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public roofLivery: number;
 
 ## Documentation
 
-<!--@include: ./parts/roofLivery.md-->
+<!--@include: ./roofLivery_partial_footer.md-->

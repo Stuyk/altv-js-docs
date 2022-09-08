@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./livery_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public livery: number;
 
 ## Documentation
 
-<!--@include: ./parts/livery.md-->
+<!--@include: ./livery_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./toggleGameControls_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function toggleGameControls(state: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/toggleGameControls.md-->
+<!--@include: ./toggleGameControls_partial_footer.md-->

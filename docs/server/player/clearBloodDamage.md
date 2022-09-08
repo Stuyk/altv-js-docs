@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clearBloodDamage_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public clearBloodDamage(): void;
 
 ## Documentation
 
-<!--@include: ./parts/clearBloodDamage.md-->
+<!--@include: ./clearBloodDamage_partial_footer.md-->

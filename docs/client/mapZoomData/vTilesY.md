@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./vTilesY_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public vTilesY: number;
 
 ## Documentation
 
-<!--@include: ./parts/vTilesY.md-->
+<!--@include: ./vTilesY_partial_footer.md-->

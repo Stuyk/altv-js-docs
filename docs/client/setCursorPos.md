@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setCursorPos_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function setCursorPos(pos: shared.IVector2, normalized?: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/setCursorPos.md-->
+<!--@include: ./setCursorPos_partial_footer.md-->

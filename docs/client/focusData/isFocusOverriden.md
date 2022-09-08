@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isFocusOverriden_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly isFocusOverriden: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isFocusOverriden.md-->
+<!--@include: ./isFocusOverriden_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setSearchLightTo_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setSearchLightTo(entity: Entity, state: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/setSearchLightTo.md-->
+<!--@include: ./setSearchLightTo_partial_footer.md-->

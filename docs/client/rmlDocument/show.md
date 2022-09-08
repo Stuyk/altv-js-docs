@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./show_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public show(isModal?: boolean, focused?: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/show.md-->
+<!--@include: ./show_partial_footer.md-->

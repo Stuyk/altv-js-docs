@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./removeIpl_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function removeIpl(iplName: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/removeIpl.md-->
+<!--@include: ./removeIpl_partial_footer.md-->

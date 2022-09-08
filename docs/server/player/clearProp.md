@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clearProp_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public clearProp(component: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/clearProp.md-->
+<!--@include: ./clearProp_partial_footer.md-->

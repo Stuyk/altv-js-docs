@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./brakeForce_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public brakeForce: number;
 
 ## Documentation
 
-<!--@include: ./parts/brakeForce.md-->
+<!--@include: ./brakeForce_partial_footer.md-->

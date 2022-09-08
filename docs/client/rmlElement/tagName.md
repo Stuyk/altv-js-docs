@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./tagName_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly tagName: string;
 
 ## Documentation
 
-<!--@include: ./parts/tagName.md-->
+<!--@include: ./tagName_partial_footer.md-->

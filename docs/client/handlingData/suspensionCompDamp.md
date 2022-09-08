@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./suspensionCompDamp_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public suspensionCompDamp: number;
 
 ## Documentation
 
-<!--@include: ./parts/suspensionCompDamp.md-->
+<!--@include: ./suspensionCompDamp_partial_footer.md-->

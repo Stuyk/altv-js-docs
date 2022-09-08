@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./vector2_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ const result = new Vector2(value: number);
 
 ## Documentation
 
-<!--@include: ./parts/vector2.md-->
+<!--@include: ./vector2_partial_footer.md-->

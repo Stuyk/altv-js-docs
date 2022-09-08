@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getResourcePath_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function getResourcePath(name: string): string;
 
 ## Documentation
 
-<!--@include: ./parts/getResourcePath.md-->
+<!--@include: ./getResourcePath_partial_footer.md-->

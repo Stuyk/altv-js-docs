@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./read_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public static read(filename: string, encoding: FileEncoding.Binary | `${FileEnco
 
 ## Documentation
 
-<!--@include: ./parts/read.md-->
+<!--@include: ./read_partial_footer.md-->

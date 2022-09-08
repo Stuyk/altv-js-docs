@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clearNextTick_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function clearNextTick(id: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/clearNextTick.md-->
+<!--@include: ./clearNextTick_partial_footer.md-->

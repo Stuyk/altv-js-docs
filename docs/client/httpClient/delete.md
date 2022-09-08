@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./delete_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public delete(url: string, body: string): Promise<IHttpResponse>;
 
 ## Documentation
 
-<!--@include: ./parts/delete.md-->
+<!--@include: ./delete_partial_footer.md-->

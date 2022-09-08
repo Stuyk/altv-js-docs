@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getTotalPacketsSent_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function getTotalPacketsSent(): bigint;
 
 ## Documentation
 
-<!--@include: ./parts/getTotalPacketsSent.md-->
+<!--@include: ./getTotalPacketsSent_partial_footer.md-->

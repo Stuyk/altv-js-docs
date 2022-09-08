@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./ip_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly ip: string;
 
 ## Documentation
 
-<!--@include: ./parts/ip.md-->
+<!--@include: ./ip_partial_footer.md-->

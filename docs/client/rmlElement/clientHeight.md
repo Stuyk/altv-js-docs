@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clientHeight_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly clientHeight: number;
 
 ## Documentation
 
-<!--@include: ./parts/clientHeight.md-->
+<!--@include: ./clientHeight_partial_footer.md-->

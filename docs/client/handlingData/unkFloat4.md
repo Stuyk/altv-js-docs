@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./unkFloat4_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public unkFloat4: number;
 
 ## Documentation
 
-<!--@include: ./parts/unkFloat4.md-->
+<!--@include: ./unkFloat4_partial_footer.md-->

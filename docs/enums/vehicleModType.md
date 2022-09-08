@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./vehicleModType_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -63,4 +65,4 @@ enum VehicleModType {
 
 ## Documentation
 
-<!--@include: ./parts/vehicleModType.md-->
+<!--@include: ./vehicleModType_partial_footer.md-->

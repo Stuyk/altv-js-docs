@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setWeather_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public setWeather<T extends number>(weatherType: T): void;
 
 ## Documentation
 
-<!--@include: ./parts/setWeather.md-->
+<!--@include: ./setWeather_partial_footer.md-->

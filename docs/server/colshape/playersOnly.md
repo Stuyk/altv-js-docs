@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./playersOnly_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public playersOnly: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/playersOnly.md-->
+<!--@include: ./playersOnly_partial_footer.md-->

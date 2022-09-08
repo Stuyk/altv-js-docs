@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./players_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly players: ReadonlyArray<Player>;
 
 ## Documentation
 
-<!--@include: ./parts/players.md-->
+<!--@include: ./players_partial_footer.md-->

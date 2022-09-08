@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getPseudoClassList_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public getPseudoClassList(): ReadonlyArray<string>;
 
 ## Documentation
 
-<!--@include: ./parts/getPseudoClassList.md-->
+<!--@include: ./getPseudoClassList_partial_footer.md-->

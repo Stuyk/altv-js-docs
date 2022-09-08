@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./headshotDamageModifier_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public headshotDamageModifier: number;
 
 ## Documentation
 
-<!--@include: ./parts/headshotDamageModifier.md-->
+<!--@include: ./headshotDamageModifier_partial_footer.md-->

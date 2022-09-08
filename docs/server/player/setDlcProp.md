@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setDlcProp_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -24,4 +26,4 @@ public setDlcProp(dlc: number, component: number, drawable: number, texture: num
 
 ## Documentation
 
-<!--@include: ./parts/setDlcProp.md-->
+<!--@include: ./setDlcProp_partial_footer.md-->

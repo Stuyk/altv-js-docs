@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iDiscordUser_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -18,4 +20,4 @@ interface IDiscordUser {
 
 ## Documentation
 
-<!--@include: ./parts/iDiscordUser.md-->
+<!--@include: ./iDiscordUser_partial_footer.md-->

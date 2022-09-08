@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isPlayerInChannel_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public isPlayerInChannel(player: Player): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isPlayerInChannel.md-->
+<!--@include: ./isPlayerInChannel_partial_footer.md-->

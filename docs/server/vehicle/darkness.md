@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./darkness_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public darkness: number;
 
 ## Documentation
 
-<!--@include: ./parts/darkness.md-->
+<!--@include: ./darkness_partial_footer.md-->

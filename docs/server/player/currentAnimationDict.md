@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./currentAnimationDict_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly currentAnimationDict: number;
 
 ## Documentation
 
-<!--@include: ./parts/currentAnimationDict.md-->
+<!--@include: ./currentAnimationDict_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iServerConfig_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -46,4 +48,4 @@ interface IServerConfig {
 
 ## Documentation
 
-<!--@include: ./parts/iServerConfig.md-->
+<!--@include: ./iServerConfig_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./ushort_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public ushort(offset: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/ushort.md-->
+<!--@include: ./ushort_partial_footer.md-->

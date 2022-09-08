@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./stopServer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function stopServer(): void;
 
 ## Documentation
 
-<!--@include: ./parts/stopServer.md-->
+<!--@include: ./stopServer_partial_footer.md-->

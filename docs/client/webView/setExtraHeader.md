@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setExtraHeader_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setExtraHeader(header: string, value: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/setExtraHeader.md-->
+<!--@include: ./setExtraHeader_partial_footer.md-->

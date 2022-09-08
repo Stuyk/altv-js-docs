@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setArmoredWindowHealth_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setArmoredWindowHealth(windowId: number, health: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setArmoredWindowHealth.md-->
+<!--@include: ./setArmoredWindowHealth_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./maxWorkers_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly maxWorkers: number;
 
 ## Documentation
 
-<!--@include: ./parts/maxWorkers.md-->
+<!--@include: ./maxWorkers_partial_footer.md-->

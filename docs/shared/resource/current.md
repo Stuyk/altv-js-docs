@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./current_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly current: Resource;
 
 ## Documentation
 
-<!--@include: ./parts/current.md-->
+<!--@include: ./current_partial_footer.md-->

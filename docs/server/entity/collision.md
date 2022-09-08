@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./collision_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public collision: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/collision.md-->
+<!--@include: ./collision_partial_footer.md-->

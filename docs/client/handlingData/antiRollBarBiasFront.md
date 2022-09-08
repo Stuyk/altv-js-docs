@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./antiRollBarBiasFront_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public antiRollBarBiasFront: number;
 
 ## Documentation
 
-<!--@include: ./parts/antiRollBarBiasFront.md-->
+<!--@include: ./antiRollBarBiasFront_partial_footer.md-->

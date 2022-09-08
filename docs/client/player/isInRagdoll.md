@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isInRagdoll_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly isInRagdoll: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isInRagdoll.md-->
+<!--@include: ./isInRagdoll_partial_footer.md-->

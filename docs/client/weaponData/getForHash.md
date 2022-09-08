@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getForHash_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public static getForHash(weaponHash: number): WeaponData;
 
 ## Documentation
 
-<!--@include: ./parts/getForHash.md-->
+<!--@include: ./getForHash_partial_footer.md-->

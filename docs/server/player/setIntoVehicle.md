@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setIntoVehicle_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setIntoVehicle(vehicle: Vehicle, seat: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setIntoVehicle.md-->
+<!--@include: ./setIntoVehicle_partial_footer.md-->

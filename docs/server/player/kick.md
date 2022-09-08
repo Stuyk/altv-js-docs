@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./kick_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public kick(reason?: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/kick.md-->
+<!--@include: ./kick_partial_footer.md-->

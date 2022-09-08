@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./hasTimedExplosion_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly hasTimedExplosion: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/hasTimedExplosion.md-->
+<!--@include: ./hasTimedExplosion_partial_footer.md-->

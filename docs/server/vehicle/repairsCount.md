@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./repairsCount_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly repairsCount: number;
 
 ## Documentation
 
-<!--@include: ./parts/repairsCount.md-->
+<!--@include: ./repairsCount_partial_footer.md-->

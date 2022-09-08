@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./hybridExtraActive_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public hybridExtraActive: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/hybridExtraActive.md-->
+<!--@include: ./hybridExtraActive_partial_footer.md-->

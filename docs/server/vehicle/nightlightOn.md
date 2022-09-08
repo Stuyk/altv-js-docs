@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./nightlightOn_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly nightlightOn: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/nightlightOn.md-->
+<!--@include: ./nightlightOn_partial_footer.md-->

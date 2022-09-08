@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./off_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public off(eventName: string, listener: (...args: any[]) => void): void;
 
 ## Documentation
 
-<!--@include: ./parts/off.md-->
+<!--@include: ./off_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./stop_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public stop(): void;
 
 ## Documentation
 
-<!--@include: ./parts/stop.md-->
+<!--@include: ./stop_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./waitForSpawn_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public waitForSpawn(): Promise<void>;
 
 ## Documentation
 
-<!--@include: ./parts/waitForSpawn.md-->
+<!--@include: ./waitForSpawn_partial_footer.md-->

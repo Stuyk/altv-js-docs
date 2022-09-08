@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./removeGxtText_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function removeGxtText(key: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/removeGxtText.md-->
+<!--@include: ./removeGxtText_partial_footer.md-->

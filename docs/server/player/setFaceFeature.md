@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setFaceFeature_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setFaceFeature(index: number, scale: number): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/setFaceFeature.md-->
+<!--@include: ./setFaceFeature_partial_footer.md-->

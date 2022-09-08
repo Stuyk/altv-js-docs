@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./zero_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly zero: Vector2;
 
 ## Documentation
 
-<!--@include: ./parts/zero.md-->
+<!--@include: ./zero_partial_footer.md-->

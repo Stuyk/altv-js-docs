@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getNetTime_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function getNetTime(): number;
 
 ## Documentation
 
-<!--@include: ./parts/getNetTime.md-->
+<!--@include: ./getNetTime_partial_footer.md-->

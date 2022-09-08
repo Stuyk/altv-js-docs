@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iServerEvent_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -54,4 +56,4 @@ interface IServerEvent {
 
 ## Documentation
 
-<!--@include: ./parts/iServerEvent.md-->
+<!--@include: ./iServerEvent_partial_footer.md-->

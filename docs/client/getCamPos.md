@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getCamPos_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function getCamPos(): shared.Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/getCamPos.md-->
+<!--@include: ./getCamPos_partial_footer.md-->

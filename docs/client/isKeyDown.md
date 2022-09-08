@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isKeyDown_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function isKeyDown(key: number): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isKeyDown.md-->
+<!--@include: ./isKeyDown_partial_footer.md-->

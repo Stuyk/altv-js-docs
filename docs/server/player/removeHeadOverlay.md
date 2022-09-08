@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./removeHeadOverlay_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public removeHeadOverlay(overlayID: number): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/removeHeadOverlay.md-->
+<!--@include: ./removeHeadOverlay_partial_footer.md-->

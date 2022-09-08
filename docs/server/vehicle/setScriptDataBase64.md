@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setScriptDataBase64_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public setScriptDataBase64(data: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/setScriptDataBase64.md-->
+<!--@include: ./setScriptDataBase64_partial_footer.md-->

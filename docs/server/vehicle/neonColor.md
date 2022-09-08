@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./neonColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public neonColor: shared.RGBA;
 
 ## Documentation
 
-<!--@include: ./parts/neonColor.md-->
+<!--@include: ./neonColor_partial_footer.md-->

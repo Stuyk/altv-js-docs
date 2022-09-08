@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./vehicleIndicatorLights_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -19,4 +21,4 @@ enum VehicleIndicatorLights {
 
 ## Documentation
 
-<!--@include: ./parts/vehicleIndicatorLights.md-->
+<!--@include: ./vehicleIndicatorLights_partial_footer.md-->

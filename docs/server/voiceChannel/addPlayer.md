@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./addPlayer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public addPlayer(player: Player): void;
 
 ## Documentation
 
-<!--@include: ./parts/addPlayer.md-->
+<!--@include: ./addPlayer_partial_footer.md-->

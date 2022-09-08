@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./driftModeEnabled_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public driftModeEnabled: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/driftModeEnabled.md-->
+<!--@include: ./driftModeEnabled_partial_footer.md-->

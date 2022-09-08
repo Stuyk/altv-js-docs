@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./seek_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public seek(time: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/seek.md-->
+<!--@include: ./seek_partial_footer.md-->

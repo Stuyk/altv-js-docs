@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isStealthy_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly isStealthy: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isStealthy.md-->
+<!--@include: ./isStealthy_partial_footer.md-->

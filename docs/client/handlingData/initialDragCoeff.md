@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./initialDragCoeff_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public initialDragCoeff: number;
 
 ## Documentation
 
-<!--@include: ./parts/initialDragCoeff.md-->
+<!--@include: ./initialDragCoeff_partial_footer.md-->

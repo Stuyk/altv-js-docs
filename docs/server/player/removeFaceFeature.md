@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./removeFaceFeature_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public removeFaceFeature(index: number): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/removeFaceFeature.md-->
+<!--@include: ./removeFaceFeature_partial_footer.md-->

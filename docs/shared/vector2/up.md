@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./up_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly up: Vector2;
 
 ## Documentation
 
-<!--@include: ./parts/up.md-->
+<!--@include: ./up_partial_footer.md-->

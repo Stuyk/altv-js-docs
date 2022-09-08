@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./ownerDocument_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly ownerDocument: RmlDocument;
 
 ## Documentation
 
-<!--@include: ./parts/ownerDocument.md-->
+<!--@include: ./ownerDocument_partial_footer.md-->

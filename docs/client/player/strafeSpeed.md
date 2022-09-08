@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./strafeSpeed_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly strafeSpeed: number;
 
 ## Documentation
 
-<!--@include: ./parts/strafeSpeed.md-->
+<!--@include: ./strafeSpeed_partial_footer.md-->

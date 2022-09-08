@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./evalModule_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function evalModule(code: string): Record<string, any>;
 
 ## Documentation
 
-<!--@include: ./parts/evalModule.md-->
+<!--@include: ./evalModule_partial_footer.md-->

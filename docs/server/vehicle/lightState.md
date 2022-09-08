@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./lightState_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public lightState: number;
 
 ## Documentation
 
-<!--@include: ./parts/lightState.md-->
+<!--@include: ./lightState_partial_footer.md-->

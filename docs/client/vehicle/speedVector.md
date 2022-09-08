@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./speedVector_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly speedVector: shared.Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/speedVector.md-->
+<!--@include: ./speedVector_partial_footer.md-->

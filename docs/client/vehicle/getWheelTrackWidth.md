@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getWheelTrackWidth_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getWheelTrackWidth(wheelIndex: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/getWheelTrackWidth.md-->
+<!--@include: ./getWheelTrackWidth_partial_footer.md-->

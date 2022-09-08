@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isWindowOpened_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public isWindowOpened(windowId: number): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isWindowOpened.md-->
+<!--@include: ./isWindowOpened_partial_footer.md-->

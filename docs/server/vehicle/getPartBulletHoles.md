@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getPartBulletHoles_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getPartBulletHoles<T extends number>(partId: T): number;
 
 ## Documentation
 
-<!--@include: ./parts/getPartBulletHoles.md-->
+<!--@include: ./getPartBulletHoles_partial_footer.md-->

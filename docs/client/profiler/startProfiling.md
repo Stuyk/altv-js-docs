@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./startProfiling_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public static startProfiling(profileName?: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/startProfiling.md-->
+<!--@include: ./startProfiling_partial_footer.md-->

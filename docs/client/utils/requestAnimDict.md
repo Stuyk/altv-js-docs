@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./requestAnimDict_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public static requestAnimDict(animDict: string, timeout?: number): Promise<void>
 
 ## Documentation
 
-<!--@include: ./parts/requestAnimDict.md-->
+<!--@include: ./requestAnimDict_partial_footer.md-->

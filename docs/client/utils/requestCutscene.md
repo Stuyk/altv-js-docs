@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./requestCutscene_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -23,4 +25,4 @@ public static requestCutscene(cutsceneName: string, flags: string | number, time
 
 ## Documentation
 
-<!--@include: ./parts/requestCutscene.md-->
+<!--@include: ./requestCutscene_partial_footer.md-->

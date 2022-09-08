@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./suspensionRaise_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public suspensionRaise: number;
 
 ## Documentation
 
-<!--@include: ./parts/suspensionRaise.md-->
+<!--@include: ./suspensionRaise_partial_footer.md-->

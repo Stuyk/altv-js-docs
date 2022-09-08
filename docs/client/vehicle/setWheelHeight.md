@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setWheelHeight_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setWheelHeight(wheelIndex: number, height: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setWheelHeight.md-->
+<!--@include: ./setWheelHeight_partial_footer.md-->

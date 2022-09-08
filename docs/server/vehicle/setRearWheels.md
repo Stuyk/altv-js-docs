@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setRearWheels_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public setRearWheels(wheelId: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setRearWheels.md-->
+<!--@include: ./setRearWheels_partial_footer.md-->

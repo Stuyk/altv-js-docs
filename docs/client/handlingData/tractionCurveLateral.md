@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./tractionCurveLateral_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public tractionCurveLateral: number;
 
 ## Documentation
 
-<!--@include: ./parts/tractionCurveLateral.md-->
+<!--@include: ./tractionCurveLateral_partial_footer.md-->

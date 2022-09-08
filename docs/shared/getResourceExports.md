@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getResourceExports_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function getResourceExports(name: string): any;
 
 ## Documentation
 
-<!--@include: ./parts/getResourceExports.md-->
+<!--@include: ./getResourceExports_partial_footer.md-->

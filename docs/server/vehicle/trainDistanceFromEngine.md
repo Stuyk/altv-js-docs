@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./trainDistanceFromEngine_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public trainDistanceFromEngine: number;
 
 ## Documentation
 
-<!--@include: ./parts/trainDistanceFromEngine.md-->
+<!--@include: ./trainDistanceFromEngine_partial_footer.md-->

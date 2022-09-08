@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./suspensionReboundDamp_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public suspensionReboundDamp: number;
 
 ## Documentation
 
-<!--@include: ./parts/suspensionReboundDamp.md-->
+<!--@include: ./suspensionReboundDamp_partial_footer.md-->

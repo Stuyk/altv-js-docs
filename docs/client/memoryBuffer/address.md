@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./address_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly address: bigint;
 
 ## Documentation
 
-<!--@include: ./parts/address.md-->
+<!--@include: ./address_partial_footer.md-->

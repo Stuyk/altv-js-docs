@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./showCursor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function showCursor(state: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/showCursor.md-->
+<!--@include: ./showCursor_partial_footer.md-->

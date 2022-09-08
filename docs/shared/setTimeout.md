@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setTimeout_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function setTimeout(handler: (...args: any[]) => void, miliseconds: number): num
 
 ## Documentation
 
-<!--@include: ./parts/setTimeout.md-->
+<!--@include: ./setTimeout_partial_footer.md-->

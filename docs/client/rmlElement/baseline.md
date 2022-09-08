@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./baseline_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly baseline: number;
 
 ## Documentation
 
-<!--@include: ./parts/baseline.md-->
+<!--@include: ./baseline_partial_footer.md-->

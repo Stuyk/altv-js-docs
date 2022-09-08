@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setWheelFixed_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public setWheelFixed(wheelId: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setWheelFixed.md-->
+<!--@include: ./setWheelFixed_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./streamed_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public streamed: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/streamed.md-->
+<!--@include: ./streamed_partial_footer.md-->

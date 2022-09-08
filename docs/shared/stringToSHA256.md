@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./stringToSHA256_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function stringToSHA256(string: string): string;
 
 ## Documentation
 
-<!--@include: ./parts/stringToSHA256.md-->
+<!--@include: ./stringToSHA256_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./audioCategory_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -240,4 +242,4 @@ enum AudioCategory {
 
 ## Documentation
 
-<!--@include: ./parts/audioCategory.md-->
+<!--@include: ./audioCategory_partial_footer.md-->

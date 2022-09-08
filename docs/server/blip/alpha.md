@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./alpha_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public alpha: number;
 
 ## Documentation
 
-<!--@include: ./parts/alpha.md-->
+<!--@include: ./alpha_partial_footer.md-->

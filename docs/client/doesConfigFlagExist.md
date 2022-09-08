@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./doesConfigFlagExist_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function doesConfigFlagExist(flag: string): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/doesConfigFlagExist.md-->
+<!--@include: ./doesConfigFlagExist_partial_footer.md-->

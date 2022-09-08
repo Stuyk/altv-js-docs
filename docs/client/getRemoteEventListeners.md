@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getRemoteEventListeners_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function getRemoteEventListeners(eventName: string | null): ((...args: any[]) =>
 
 ## Documentation
 
-<!--@include: ./parts/getRemoteEventListeners.md-->
+<!--@include: ./getRemoteEventListeners_partial_footer.md-->

@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./checkpoint_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -26,4 +28,4 @@ const result = new Checkpoint(type: shared.CheckpointType, pos: shared.IVector3,
 
 ## Documentation
 
-<!--@include: ./parts/checkpoint.md-->
+<!--@include: ./checkpoint_partial_footer.md-->

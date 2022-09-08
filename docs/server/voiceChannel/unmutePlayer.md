@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./unmutePlayer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public unmutePlayer(player: Player): void;
 
 ## Documentation
 
-<!--@include: ./parts/unmutePlayer.md-->
+<!--@include: ./unmutePlayer_partial_footer.md-->

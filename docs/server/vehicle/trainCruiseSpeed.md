@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./trainCruiseSpeed_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public trainCruiseSpeed: number;
 
 ## Documentation
 
-<!--@include: ./parts/trainCruiseSpeed.md-->
+<!--@include: ./trainCruiseSpeed_partial_footer.md-->

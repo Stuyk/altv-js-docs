@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./requiredPermissions_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly requiredPermissions: ReadonlyArray<Permission>;
 
 ## Documentation
 
-<!--@include: ./parts/requiredPermissions.md-->
+<!--@include: ./requiredPermissions_partial_footer.md-->

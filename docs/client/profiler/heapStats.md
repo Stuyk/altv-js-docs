@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./heapStats_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly heapStats: IHeapStats;
 
 ## Documentation
 
-<!--@include: ./parts/heapStats.md-->
+<!--@include: ./heapStats_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./querySelectorAll_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public querySelectorAll(selector: string): ReadonlyArray<RmlElement>;
 
 ## Documentation
 
-<!--@include: ./parts/querySelectorAll.md-->
+<!--@include: ./querySelectorAll_partial_footer.md-->

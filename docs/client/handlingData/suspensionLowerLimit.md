@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./suspensionLowerLimit_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public suspensionLowerLimit: number;
 
 ## Documentation
 
-<!--@include: ./parts/suspensionLowerLimit.md-->
+<!--@include: ./suspensionLowerLimit_partial_footer.md-->

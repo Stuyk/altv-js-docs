@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./webSocketClient_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ const result = new WebSocketClient(url: string);
 
 ## Documentation
 
-<!--@include: ./parts/webSocketClient.md-->
+<!--@include: ./webSocketClient_partial_footer.md-->

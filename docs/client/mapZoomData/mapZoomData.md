@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./mapZoomData_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ const result = new MapZoomData(zoomDataId: number);
 
 ## Documentation
 
-<!--@include: ./parts/mapZoomData.md-->
+<!--@include: ./mapZoomData_partial_footer.md-->

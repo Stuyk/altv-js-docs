@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isWindowDamaged_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public isWindowDamaged(windowId: number): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isWindowDamaged.md-->
+<!--@include: ./isWindowDamaged_partial_footer.md-->

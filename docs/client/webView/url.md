@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./url_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public url: string;
 
 ## Documentation
 
-<!--@include: ./parts/url.md-->
+<!--@include: ./url_partial_footer.md-->

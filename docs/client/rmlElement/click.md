@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./click_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public click(): void;
 
 ## Documentation
 
-<!--@include: ./parts/click.md-->
+<!--@include: ./click_partial_footer.md-->

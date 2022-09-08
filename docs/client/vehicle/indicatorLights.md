@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./indicatorLights_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public indicatorLights: VehicleIndicatorLights;
 
 ## Documentation
 
-<!--@include: ./parts/indicatorLights.md-->
+<!--@include: ./indicatorLights_partial_footer.md-->

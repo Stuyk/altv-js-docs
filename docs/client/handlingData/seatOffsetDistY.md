@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./seatOffsetDistY_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public seatOffsetDistY: number;
 
 ## Documentation
 
-<!--@include: ./parts/seatOffsetDistY.md-->
+<!--@include: ./seatOffsetDistY_partial_footer.md-->

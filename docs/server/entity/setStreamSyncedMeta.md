@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setStreamSyncedMeta_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setStreamSyncedMeta<V extends any, K extends string = string>(key: K, val
 
 ## Documentation
 
-<!--@include: ./parts/setStreamSyncedMeta.md-->
+<!--@include: ./setStreamSyncedMeta_partial_footer.md-->

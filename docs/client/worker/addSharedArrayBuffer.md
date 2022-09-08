@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./addSharedArrayBuffer_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public static addSharedArrayBuffer(buffer: SharedArrayBuffer): number;
 
 ## Documentation
 
-<!--@include: ./parts/addSharedArrayBuffer.md-->
+<!--@include: ./addSharedArrayBuffer_partial_footer.md-->

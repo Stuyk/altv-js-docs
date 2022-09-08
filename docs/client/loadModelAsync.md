@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./loadModelAsync_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function loadModelAsync(modelHash: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/loadModelAsync.md-->
+<!--@include: ./loadModelAsync_partial_footer.md-->

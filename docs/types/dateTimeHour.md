@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./dateTimeHour_partial_header.md-->
+
 ## Type Definition
 
 ```ts
@@ -36,4 +38,4 @@ type DateTimeHour = 0 |
 
 ## Documentation
 
-<!--@include: ./parts/dateTimeHour.md-->
+<!--@include: ./dateTimeHour_partial_footer.md-->

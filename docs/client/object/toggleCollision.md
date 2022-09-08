@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./toggleCollision_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public toggleCollision(toggle: boolean, keepPhysics: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/toggleCollision.md-->
+<!--@include: ./toggleCollision_partial_footer.md-->

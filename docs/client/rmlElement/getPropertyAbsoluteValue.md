@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getPropertyAbsoluteValue_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getPropertyAbsoluteValue(name: string): number;
 
 ## Documentation
 
-<!--@include: ./parts/getPropertyAbsoluteValue.md-->
+<!--@include: ./getPropertyAbsoluteValue_partial_footer.md-->

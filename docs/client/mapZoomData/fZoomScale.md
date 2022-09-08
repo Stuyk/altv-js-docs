@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./fZoomScale_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public fZoomScale: number;
 
 ## Documentation
 
-<!--@include: ./parts/fZoomScale.md-->
+<!--@include: ./fZoomScale_partial_footer.md-->

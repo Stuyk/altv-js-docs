@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./dateTimeMonth_partial_header.md-->
+
 ## Type Definition
 
 ```ts
@@ -24,4 +26,4 @@ type DateTimeMonth = 0 |
 
 ## Documentation
 
-<!--@include: ./parts/dateTimeMonth.md-->
+<!--@include: ./dateTimeMonth_partial_footer.md-->

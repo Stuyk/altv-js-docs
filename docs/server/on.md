@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./on_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function on<K extends string>(eventName: K, listener: shared.InterfaceValueByKey
 
 ## Documentation
 
-<!--@include: ./parts/on.md-->
+<!--@include: ./on_partial_footer.md-->

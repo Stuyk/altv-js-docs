@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iHeapStats_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -19,4 +21,4 @@ interface IHeapStats {
 
 ## Documentation
 
-<!--@include: ./parts/iHeapStats.md-->
+<!--@include: ./iHeapStats_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getArmoredWindowShootCount_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getArmoredWindowShootCount(windowId: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/getArmoredWindowShootCount.md-->
+<!--@include: ./getArmoredWindowShootCount_partial_footer.md-->

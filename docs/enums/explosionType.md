@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./explosionType_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -54,4 +56,4 @@ enum ExplosionType {
 
 ## Documentation
 
-<!--@include: ./parts/explosionType.md-->
+<!--@include: ./explosionType_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clearFocus_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static clearFocus(): void;
 
 ## Documentation
 
-<!--@include: ./parts/clearFocus.md-->
+<!--@include: ./clearFocus_partial_footer.md-->

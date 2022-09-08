@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./scale_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public scale: number;
 
 ## Documentation
 
-<!--@include: ./parts/scale.md-->
+<!--@include: ./scale_partial_footer.md-->

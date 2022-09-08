@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getWeaponCapacity_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getWeaponCapacity(weaponIndex: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/getWeaponCapacity.md-->
+<!--@include: ./getWeaponCapacity_partial_footer.md-->

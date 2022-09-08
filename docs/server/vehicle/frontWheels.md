@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./frontWheels_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly frontWheels: number;
 
 ## Documentation
 
-<!--@include: ./parts/frontWheels.md-->
+<!--@include: ./frontWheels_partial_footer.md-->

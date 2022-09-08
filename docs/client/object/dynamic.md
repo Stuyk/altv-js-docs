@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./dynamic_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly dynamic: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/dynamic.md-->
+<!--@include: ./dynamic_partial_footer.md-->

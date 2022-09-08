@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./addSubProtocol_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public addSubProtocol(protocol: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/addSubProtocol.md-->
+<!--@include: ./addSubProtocol_partial_footer.md-->

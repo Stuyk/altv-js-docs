@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./distanceToSquared_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public distanceToSquared(vector: IVector3): number;
 
 ## Documentation
 
-<!--@include: ./parts/distanceToSquared.md-->
+<!--@include: ./distanceToSquared_partial_footer.md-->

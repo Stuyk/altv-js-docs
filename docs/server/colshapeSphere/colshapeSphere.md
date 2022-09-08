@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./colshapeSphere_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -24,4 +26,4 @@ const result = new ColshapeSphere(x: number, y: number, z: number, radius: numbe
 
 ## Documentation
 
-<!--@include: ./parts/colshapeSphere.md-->
+<!--@include: ./colshapeSphere_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./removeProperty_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public removeProperty(name: string): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/removeProperty.md-->
+<!--@include: ./removeProperty_partial_footer.md-->

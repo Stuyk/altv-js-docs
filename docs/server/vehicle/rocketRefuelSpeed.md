@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./rocketRefuelSpeed_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public rocketRefuelSpeed: number;
 
 ## Documentation
 
-<!--@include: ./parts/rocketRefuelSpeed.md-->
+<!--@include: ./rocketRefuelSpeed_partial_footer.md-->

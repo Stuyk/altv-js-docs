@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./primaryColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public primaryColor: number;
 
 ## Documentation
 
-<!--@include: ./parts/primaryColor.md-->
+<!--@include: ./primaryColor_partial_footer.md-->

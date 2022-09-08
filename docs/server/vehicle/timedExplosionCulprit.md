@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./timedExplosionCulprit_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly timedExplosionCulprit: Player;
 
 ## Documentation
 
-<!--@include: ./parts/timedExplosionCulprit.md-->
+<!--@include: ./timedExplosionCulprit_partial_footer.md-->

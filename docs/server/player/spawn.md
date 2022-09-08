@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./spawn_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public spawn(model: string | number, pos: shared.IVector3): void;
 
 ## Documentation
 
-<!--@include: ./parts/spawn.md-->
+<!--@include: ./spawn_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./inertiaMultiplier_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public inertiaMultiplier: shared.Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/inertiaMultiplier.md-->
+<!--@include: ./inertiaMultiplier_partial_footer.md-->

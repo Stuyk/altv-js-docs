@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./mul_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public mul(vector: IVector3): Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/mul.md-->
+<!--@include: ./mul_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./trainRenderDerailed_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public trainRenderDerailed: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/trainRenderDerailed.md-->
+<!--@include: ./trainRenderDerailed_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./positiveInfinity_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly positiveInfinity: Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/positiveInfinity.md-->
+<!--@include: ./positiveInfinity_partial_footer.md-->

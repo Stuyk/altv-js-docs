@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./socialID_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly socialID: string;
 
 ## Documentation
 
-<!--@include: ./parts/socialID.md-->
+<!--@include: ./socialID_partial_footer.md-->

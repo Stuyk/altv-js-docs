@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setDamageStatusBase64_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public setDamageStatusBase64(data: string): void;
 
 ## Documentation
 
-<!--@include: ./parts/setDamageStatusBase64.md-->
+<!--@include: ./setDamageStatusBase64_partial_footer.md-->

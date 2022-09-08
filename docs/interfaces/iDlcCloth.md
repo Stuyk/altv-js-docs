@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iDlcCloth_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -18,4 +20,4 @@ interface IDlcCloth {
 
 ## Documentation
 
-<!--@include: ./parts/iDlcCloth.md-->
+<!--@include: ./iDlcCloth_partial_footer.md-->

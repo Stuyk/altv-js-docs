@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getExtraHeaders_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public getExtraHeaders(): Record<string, string>;
 
 ## Documentation
 
-<!--@include: ./parts/getExtraHeaders.md-->
+<!--@include: ./getExtraHeaders_partial_footer.md-->

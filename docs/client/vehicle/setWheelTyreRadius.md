@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setWheelTyreRadius_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setWheelTyreRadius(wheelIndex: number, radius: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setWheelTyreRadius.md-->
+<!--@include: ./setWheelTyreRadius_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./lerp_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public lerp(vector: IVector2, ratio: number): Vector2;
 
 ## Documentation
 
-<!--@include: ./parts/lerp.md-->
+<!--@include: ./lerp_partial_footer.md-->

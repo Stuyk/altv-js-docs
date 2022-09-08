@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./locale_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -40,4 +42,4 @@ enum Locale {
 
 ## Documentation
 
-<!--@include: ./parts/locale.md-->
+<!--@include: ./locale_partial_footer.md-->

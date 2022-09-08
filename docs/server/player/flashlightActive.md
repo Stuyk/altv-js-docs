@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./flashlightActive_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly flashlightActive: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/flashlightActive.md-->
+<!--@include: ./flashlightActive_partial_footer.md-->

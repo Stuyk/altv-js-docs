@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./baseObjectType_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -27,4 +29,4 @@ enum BaseObjectType {
 
 ## Documentation
 
-<!--@include: ./parts/baseObjectType.md-->
+<!--@include: ./baseObjectType_partial_footer.md-->

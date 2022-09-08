@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isInRange_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public isInRange(vector: IVector3, range: number): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isInRange.md-->
+<!--@include: ./isInRange_partial_footer.md-->

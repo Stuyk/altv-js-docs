@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./driver_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly driver: Player | null;
 
 ## Documentation
 
-<!--@include: ./parts/driver.md-->
+<!--@include: ./driver_partial_footer.md-->

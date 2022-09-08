@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setWheelTyreWidth_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setWheelTyreWidth(wheelIndex: number, width: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setWheelTyreWidth.md-->
+<!--@include: ./setWheelTyreWidth_partial_footer.md-->

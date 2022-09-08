@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./toArray_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public toArray(): [number, number, number];
 
 ## Documentation
 
-<!--@include: ./parts/toArray.md-->
+<!--@include: ./toArray_partial_footer.md-->

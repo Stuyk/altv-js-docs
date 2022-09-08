@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./hasPseudoClass_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public hasPseudoClass(name: string): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/hasPseudoClass.md-->
+<!--@include: ./hasPseudoClass_partial_footer.md-->

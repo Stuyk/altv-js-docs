@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./tireSmokeColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public tireSmokeColor: shared.RGBA;
 
 ## Documentation
 
-<!--@include: ./parts/tireSmokeColor.md-->
+<!--@include: ./tireSmokeColor_partial_footer.md-->

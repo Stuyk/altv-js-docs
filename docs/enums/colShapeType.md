@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./colShapeType_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -21,4 +23,4 @@ enum ColShapeType {
 
 ## Documentation
 
-<!--@include: ./parts/colShapeType.md-->
+<!--@include: ./colShapeType_partial_footer.md-->

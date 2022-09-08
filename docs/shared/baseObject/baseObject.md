@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./baseObject_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ const result = new protected BaseObject();
 
 ## Documentation
 
-<!--@include: ./parts/baseObject.md-->
+<!--@include: ./baseObject_partial_footer.md-->

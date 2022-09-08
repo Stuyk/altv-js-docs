@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./wheelColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public wheelColor: number;
 
 ## Documentation
 
-<!--@include: ./parts/wheelColor.md-->
+<!--@include: ./wheelColor_partial_footer.md-->

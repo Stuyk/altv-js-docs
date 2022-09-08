@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./blur_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public blur(): void;
 
 ## Documentation
 
-<!--@include: ./parts/blur.md-->
+<!--@include: ./blur_partial_footer.md-->

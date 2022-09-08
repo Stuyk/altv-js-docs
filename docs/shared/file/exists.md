@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./exists_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public static exists(filename: string): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/exists.md-->
+<!--@include: ./exists_partial_footer.md-->

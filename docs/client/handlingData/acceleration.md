@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./acceleration_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public acceleration: number;
 
 ## Documentation
 
-<!--@include: ./parts/acceleration.md-->
+<!--@include: ./acceleration_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./insertBefore_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public insertBefore(child: RmlElement, adjacent: RmlElement): void;
 
 ## Documentation
 
-<!--@include: ./parts/insertBefore.md-->
+<!--@include: ./insertBefore_partial_footer.md-->

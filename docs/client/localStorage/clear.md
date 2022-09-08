@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./clear_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static clear(): void;
 
 ## Documentation
 
-<!--@include: ./parts/clear.md-->
+<!--@include: ./clear_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./driveBiasFront_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public driveBiasFront: number;
 
 ## Documentation
 
-<!--@include: ./parts/driveBiasFront.md-->
+<!--@include: ./driveBiasFront_partial_footer.md-->

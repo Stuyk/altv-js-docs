@@ -20,49 +20,49 @@ export function getSidebar() {
             {
                 text: 'Server API',
                 collapsible: true,
-                items: [...getFilesAndOrderByPath('server')]
+                items: [...getFilesAndOrderByPath('server', true)]
             },
-            ...getAllFoldersInDirectory('server')
+            ...getAllFoldersInDirectory('server', true)
         ],
         '/client/': [
             {
                 text: 'Client API',
                 collapsible: true,
-                items: getFilesAndOrderByPath('client')
+                items: getFilesAndOrderByPath('client', true)
             },
-            ...getAllFoldersInDirectory('client')
+            ...getAllFoldersInDirectory('client', true)
         ],
         '/shared/': [
             {
                 text: 'Shared API',
                 collapsible: true,
-                items: getFilesAndOrderByPath('shared')
+                items: getFilesAndOrderByPath('shared', true)
             },
-            ...getAllFoldersInDirectory('shared')
+            ...getAllFoldersInDirectory('shared', true)
         ],
         '/enums/': [
             {
                 text: 'Enums',
                 collapsible: true,
-                items: getFilesAndOrderByPath('enums')
+                items: getFilesAndOrderByPath('enums', true)
             },
-            ...getAllFoldersInDirectory('enums')
+            ...getAllFoldersInDirectory('enums', true)
         ],
         '/interfaces/': [
             {
                 text: 'Interfaces',
                 collapsible: true,
-                items: getFilesAndOrderByPath('interfaces')
+                items: getFilesAndOrderByPath('interfaces', true)
             },
-            ...getAllFoldersInDirectory('interfaces')
+            ...getAllFoldersInDirectory('interfaces', true)
         ],
         '/types/': [
             {
                 text: 'Types',
                 collapsible: true,
-                items: getFilesAndOrderByPath('types')
+                items: getFilesAndOrderByPath('types', true)
             },
-            ...getAllFoldersInDirectory('types')
+            ...getAllFoldersInDirectory('types', true)
         ],
     };
 }

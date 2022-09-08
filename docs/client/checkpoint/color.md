@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./color_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public color: shared.RGBA;
 
 ## Documentation
 
-<!--@include: ./parts/color.md-->
+<!--@include: ./color_partial_footer.md-->

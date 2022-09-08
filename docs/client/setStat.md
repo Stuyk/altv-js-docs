@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setStat_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ function setStat(statName: `${StatName}`, value: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setStat.md-->
+<!--@include: ./setStat_partial_footer.md-->

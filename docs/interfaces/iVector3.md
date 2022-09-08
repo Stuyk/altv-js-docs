@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iVector3_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -17,4 +19,4 @@ interface IVector3 {
 
 ## Documentation
 
-<!--@include: ./parts/iVector3.md-->
+<!--@include: ./iVector3_partial_footer.md-->

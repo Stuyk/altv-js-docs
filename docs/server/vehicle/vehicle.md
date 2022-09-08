@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./vehicle_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -23,4 +25,4 @@ const result = new Vehicle(model: string | number, pos: shared.IVector3, rot: sh
 
 ## Documentation
 
-<!--@include: ./parts/vehicle.md-->
+<!--@include: ./vehicle_partial_footer.md-->

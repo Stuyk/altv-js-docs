@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./showCone_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public showCone: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/showCone.md-->
+<!--@include: ./showCone_partial_footer.md-->

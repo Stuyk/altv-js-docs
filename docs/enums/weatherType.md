@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./weatherType_partial_header.md-->
+
 ## Enum Definition
 
 ```ts
@@ -29,4 +31,4 @@ enum WeatherType {
 
 ## Documentation
 
-<!--@include: ./parts/weatherType.md-->
+<!--@include: ./weatherType_partial_footer.md-->

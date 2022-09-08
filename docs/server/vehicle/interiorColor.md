@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./interiorColor_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public interiorColor: number;
 
 ## Documentation
 
-<!--@include: ./parts/interiorColor.md-->
+<!--@include: ./interiorColor_partial_footer.md-->

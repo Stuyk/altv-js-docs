@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isOwned_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly isOwned: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isOwned.md-->
+<!--@include: ./isOwned_partial_footer.md-->

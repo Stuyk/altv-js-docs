@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./filePath_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly filePath: string;
 
 ## Documentation
 
-<!--@include: ./parts/filePath.md-->
+<!--@include: ./filePath_partial_footer.md-->

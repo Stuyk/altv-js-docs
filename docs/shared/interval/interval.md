@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./interval_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ const result = new Interval(callback: () => void, ms: number);
 
 ## Documentation
 
-<!--@include: ./parts/interval.md-->
+<!--@include: ./interval_partial_footer.md-->

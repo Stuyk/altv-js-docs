@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setMsPerGameMinute_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ function setMsPerGameMinute(milliseconds: number): void;
 
 ## Documentation
 
-<!--@include: ./parts/setMsPerGameMinute.md-->
+<!--@include: ./setMsPerGameMinute_partial_footer.md-->

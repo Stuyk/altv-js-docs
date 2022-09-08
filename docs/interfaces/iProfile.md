@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iProfile_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -20,4 +22,4 @@ interface IProfile {
 
 ## Documentation
 
-<!--@include: ./parts/iProfile.md-->
+<!--@include: ./iProfile_partial_footer.md-->

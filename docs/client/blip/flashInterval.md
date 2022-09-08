@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./flashInterval_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public flashInterval: number;
 
 ## Documentation
 
-<!--@include: ./parts/flashInterval.md-->
+<!--@include: ./flashInterval_partial_footer.md-->

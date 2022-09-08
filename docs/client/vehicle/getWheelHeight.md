@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getWheelHeight_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public getWheelHeight(wheelIndex: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/getWheelHeight.md-->
+<!--@include: ./getWheelHeight_partial_footer.md-->

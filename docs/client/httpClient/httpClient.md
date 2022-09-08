@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./httpClient_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ const result = new public HttpClient();
 
 ## Documentation
 
-<!--@include: ./parts/httpClient.md-->
+<!--@include: ./httpClient_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./resetNetOwner_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public resetNetOwner(disableMigration?: boolean): void;
 
 ## Documentation
 
-<!--@include: ./parts/resetNetOwner.md-->
+<!--@include: ./resetNetOwner_partial_footer.md-->

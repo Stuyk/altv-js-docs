@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./setLocalMeta_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public setLocalMeta<V extends any, K extends string = string>(key: K, value: sha
 
 ## Documentation
 
-<!--@include: ./parts/setLocalMeta.md-->
+<!--@include: ./setLocalMeta_partial_footer.md-->

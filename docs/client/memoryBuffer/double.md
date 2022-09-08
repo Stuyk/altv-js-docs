@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./double_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public double(offset: number): number;
 
 ## Documentation
 
-<!--@include: ./parts/double.md-->
+<!--@include: ./double_partial_footer.md-->

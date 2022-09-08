@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./manualEngineControl_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public manualEngineControl: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/manualEngineControl.md-->
+<!--@include: ./manualEngineControl_partial_footer.md-->

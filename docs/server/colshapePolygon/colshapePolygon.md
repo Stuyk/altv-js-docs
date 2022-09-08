@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./colshapePolygon_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -23,4 +25,4 @@ const result = new ColshapePolygon(minZ: number, maxZ: number, points: Array<sha
 
 ## Documentation
 
-<!--@include: ./parts/colshapePolygon.md-->
+<!--@include: ./colshapePolygon_partial_footer.md-->

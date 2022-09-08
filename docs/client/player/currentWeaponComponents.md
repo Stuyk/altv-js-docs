@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./currentWeaponComponents_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly currentWeaponComponents: ReadonlyArray<number>;
 
 ## Documentation
 
-<!--@include: ./parts/currentWeaponComponents.md-->
+<!--@include: ./currentWeaponComponents_partial_footer.md-->

@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./iResourceConfig_partial_header.md-->
+
 ## Interface Definition
 
 ```ts
@@ -23,4 +25,4 @@ interface IResourceConfig {
 
 ## Documentation
 
-<!--@include: ./parts/iResourceConfig.md-->
+<!--@include: ./iResourceConfig_partial_footer.md-->

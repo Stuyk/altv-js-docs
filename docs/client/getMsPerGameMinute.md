@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./getMsPerGameMinute_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function getMsPerGameMinute(): number;
 
 ## Documentation
 
-<!--@include: ./parts/getMsPerGameMinute.md-->
+<!--@include: ./getMsPerGameMinute_partial_footer.md-->

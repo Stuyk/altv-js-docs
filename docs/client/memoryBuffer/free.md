@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./free_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public free(): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/free.md-->
+<!--@include: ./free_partial_footer.md-->

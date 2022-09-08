@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./entityAimingAt_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly entityAimingAt: Entity | null;
 
 ## Documentation
 
-<!--@include: ./parts/entityAimingAt.md-->
+<!--@include: ./entityAimingAt_partial_footer.md-->

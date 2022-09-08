@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./stopProfiling_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public static stopProfiling(profileName?: string): IProfile;
 
 ## Documentation
 
-<!--@include: ./parts/stopProfiling.md-->
+<!--@include: ./stopProfiling_partial_footer.md-->

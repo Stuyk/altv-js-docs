@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./tractionLossMult_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public tractionLossMult: number;
 
 ## Documentation
 
-<!--@include: ./parts/tractionLossMult.md-->
+<!--@include: ./tractionLossMult_partial_footer.md-->

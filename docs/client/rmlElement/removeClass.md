@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./removeClass_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -21,4 +23,4 @@ public removeClass(name: string): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/removeClass.md-->
+<!--@include: ./removeClass_partial_footer.md-->

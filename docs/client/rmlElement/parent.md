@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./parent_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly parent: RmlElement | null;
 
 ## Documentation
 
-<!--@include: ./parts/parent.md-->
+<!--@include: ./parent_partial_footer.md-->

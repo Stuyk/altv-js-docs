@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./destroyed_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly destroyed: boolean;
 
 ## Documentation
 
-<!--@include: ./parts/destroyed.md-->
+<!--@include: ./destroyed_partial_footer.md-->

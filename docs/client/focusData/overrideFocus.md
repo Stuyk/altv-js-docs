@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./overrideFocus_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -22,4 +24,4 @@ public static overrideFocus(pos: Entity, offset?: shared.Vector3): void;
 
 ## Documentation
 
-<!--@include: ./parts/overrideFocus.md-->
+<!--@include: ./overrideFocus_partial_footer.md-->

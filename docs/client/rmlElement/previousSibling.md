@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./previousSibling_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly previousSibling: RmlElement | null;
 
 ## Documentation
 
-<!--@include: ./parts/previousSibling.md-->
+<!--@include: ./previousSibling_partial_footer.md-->

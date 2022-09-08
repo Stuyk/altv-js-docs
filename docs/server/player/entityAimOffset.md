@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./entityAimOffset_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public readonly entityAimOffset: shared.Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/entityAimOffset.md-->
+<!--@include: ./entityAimOffset_partial_footer.md-->

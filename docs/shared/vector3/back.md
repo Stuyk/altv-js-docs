@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./back_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public static readonly back: Vector3;
 
 ## Documentation
 
-<!--@include: ./parts/back.md-->
+<!--@include: ./back_partial_footer.md-->

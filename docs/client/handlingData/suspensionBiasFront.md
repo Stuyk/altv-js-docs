@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./suspensionBiasFront_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ public suspensionBiasFront: number;
 
 ## Documentation
 
-<!--@include: ./parts/suspensionBiasFront.md-->
+<!--@include: ./suspensionBiasFront_partial_footer.md-->

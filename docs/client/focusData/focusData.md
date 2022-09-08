@@ -5,6 +5,8 @@ order: -99
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./focusData_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ const result = new protected FocusData();
 
 ## Documentation
 
-<!--@include: ./parts/focusData.md-->
+<!--@include: ./focusData_partial_footer.md-->

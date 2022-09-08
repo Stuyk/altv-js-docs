@@ -5,6 +5,8 @@ order: 0
 
 # {{ $frontmatter.title }}
 
+<!--@include: ./isMenuOpen_partial_header.md-->
+
 ## Function Definition
 
 ```ts
@@ -17,4 +19,4 @@ function isMenuOpen(): boolean;
 
 ## Documentation
 
-<!--@include: ./parts/isMenuOpen.md-->
+<!--@include: ./isMenuOpen_partial_footer.md-->
