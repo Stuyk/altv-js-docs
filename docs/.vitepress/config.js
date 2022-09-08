@@ -18,10 +18,26 @@ export default {
                 text: 'Intro', link: '/intro/index'
             },
             {
-                text: 'Server', link: '/server/index'
-            },
-            {
-                text: 'Client', link: '/client/index'
+                text: 'API', items: [
+                    {
+                        text: 'Server', link: '/server/index'
+                    },
+                    {
+                        text: 'Client', link: '/client/index'
+                    },
+                    {
+                        text: 'Shared', link: '/shared/index'
+                    },
+                    {
+                        text: 'Enums', link: '/enums/index'
+                    },
+                    {
+                        text: 'Types', link: '/types/index'
+                    },
+                    {
+                        text: 'Interfaces', link: '/interfaces/index'
+                    }
+                ],
             },
             {
                 text: 'Guides', link: '/guides/index'

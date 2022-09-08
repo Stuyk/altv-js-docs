@@ -1,14 +1,16 @@
 ---
-title: getSyncedMeta()
+title: getSyncedMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@deprecated See {@link "alt-shared".ICustomVehicleSyncedMeta} 
-
-## Usage
+## Function Definition
 
 ```ts
-getSyncedMeta<V extends any>(key: string): V | undefined;
+public getSyncedMeta<V extends any>(key: string): V | undefined;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getSyncedMeta.md-->

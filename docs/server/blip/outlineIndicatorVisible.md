@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-outlineIndicatorVisible: boolean;
+public outlineIndicatorVisible: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/outlineIndicatorVisible.md-->

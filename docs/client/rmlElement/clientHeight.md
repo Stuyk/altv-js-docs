@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly clientHeight: number;
+public readonly clientHeight: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/clientHeight.md-->

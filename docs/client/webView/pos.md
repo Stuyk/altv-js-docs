@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Set and get the webview position.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly pos: shared.Vector2;
+public readonly pos: shared.Vector2;
 ```
+
+## Documentation
+
+<!--@include: ./parts/pos.md-->

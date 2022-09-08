@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-tickVisible: boolean;
+public tickVisible: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/tickVisible.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-perMessageDeflate: boolean;
+public perMessageDeflate: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/perMessageDeflate.md-->

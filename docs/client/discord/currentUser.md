@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly currentUser: IDiscordUser | null;
+public static readonly currentUser: IDiscordUser | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/currentUser.md-->

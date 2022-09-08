@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isModal: boolean;
+public readonly isModal: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isModal.md-->

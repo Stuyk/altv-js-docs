@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the lights intensity and distance of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-lightsMultiplier: number;
+public lightsMultiplier: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/lightsMultiplier.md-->

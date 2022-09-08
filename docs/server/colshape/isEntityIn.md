@@ -1,14 +1,16 @@
 ---
-title: isEntityIn()
+title: isEntityIn
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-isEntityIn(entityID: number): boolean;
+public isEntityIn(entityID: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isEntityIn.md-->

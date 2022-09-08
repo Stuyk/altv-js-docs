@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Whether the entity is visible.
-
-## Usage
+## Function Definition
 
 ```ts
-visible: boolean;
+public visible: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/visible.md-->

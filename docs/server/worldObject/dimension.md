@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Object dimension.
-
-## Usage
+## Function Definition
 
 ```ts
-dimension: number;
+public dimension: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/dimension.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the track id of the train.
-
-## Usage
+## Function Definition
 
 ```ts
-trainTrackId: number;
+public trainTrackId: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/trainTrackId.md-->

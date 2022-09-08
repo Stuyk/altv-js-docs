@@ -1,14 +1,16 @@
 ---
-title: get()
+title: get
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Gets the value from the specified key in the local storage.
-
-## Usage
+## Function Definition
 
 ```ts
-static get(key: string): any;
+public static get(key: string): any;
 ```
+
+## Documentation
+
+<!--@include: ./parts/get.md-->

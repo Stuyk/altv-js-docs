@@ -1,14 +1,16 @@
 ---
-title: activatePhysics()
+title: activatePhysics
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-activatePhysics(): void;
+public activatePhysics(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/activatePhysics.md-->

@@ -1,14 +1,16 @@
 ---
-title: focus()
+title: focus
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-focus(): boolean;
+public focus(): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/focus.md-->

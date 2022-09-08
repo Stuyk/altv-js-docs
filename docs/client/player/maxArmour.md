@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Max available armour value.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly maxArmour: number;
+public readonly maxArmour: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/maxArmour.md-->

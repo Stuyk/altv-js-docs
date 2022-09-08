@@ -31,7 +31,39 @@ export function getSidebar() {
                 items: getFilesAndOrderByPath('client')
             },
             ...getAllFoldersInDirectory('client')
-        ]
+        ],
+        '/shared/': [
+            {
+                text: 'Shared API',
+                collapsible: true,
+                items: getFilesAndOrderByPath('shared')
+            },
+            ...getAllFoldersInDirectory('shared')
+        ],
+        '/enums/': [
+            {
+                text: 'Enums',
+                collapsible: true,
+                items: getFilesAndOrderByPath('enums')
+            },
+            ...getAllFoldersInDirectory('enums')
+        ],
+        '/interfaces/': [
+            {
+                text: 'Interfaces',
+                collapsible: true,
+                items: getFilesAndOrderByPath('interfaces')
+            },
+            ...getAllFoldersInDirectory('interfaces')
+        ],
+        '/types/': [
+            {
+                text: 'Types',
+                collapsible: true,
+                items: getFilesAndOrderByPath('types')
+            },
+            ...getAllFoldersInDirectory('types')
+        ],
     };
 }
 

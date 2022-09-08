@@ -1,14 +1,16 @@
 ---
-title: stop()
+title: stop
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Stops the websocket connection.
-
-## Usage
+## Function Definition
 
 ```ts
-stop(): void;
+public stop(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/stop.md-->

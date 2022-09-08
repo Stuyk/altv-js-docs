@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly entityAimingAt: Entity | null;
+public readonly entityAimingAt: Entity | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/entityAimingAt.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-damageMultiplier: number;
+public damageMultiplier: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/damageMultiplier.md-->

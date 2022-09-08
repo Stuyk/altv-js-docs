@@ -1,14 +1,16 @@
 ---
-title: requestCutscene()
+title: requestCutscene
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static requestCutscene(cutsceneName: string, flags: string | number, timeout?: number): Promise<void>;
+public static requestCutscene(cutsceneName: string, flags: string | number, timeout?: number): Promise<void>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/requestCutscene.md-->

@@ -1,14 +1,16 @@
 ---
-title: despawn()
+title: despawn
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-despawn(): void;
+public despawn(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/despawn.md-->

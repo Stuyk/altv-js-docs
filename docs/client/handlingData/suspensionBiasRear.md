@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-suspensionBiasRear: number;
+public suspensionBiasRear: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/suspensionBiasRear.md-->

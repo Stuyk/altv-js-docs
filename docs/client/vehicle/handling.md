@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Vehicle handling, which affects how vehicle responds and reacts to the inputs of a driver.
-
-## Usage
+## Function Definition
 
 ```ts
-handling: IVehicleHandling;
+public handling: IVehicleHandling;
 ```
+
+## Documentation
+
+<!--@include: ./parts/handling.md-->

@@ -1,14 +1,16 @@
 ---
-title: resetAll()
+title: resetAll
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static resetAll(): void;
+public static resetAll(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/resetAll.md-->

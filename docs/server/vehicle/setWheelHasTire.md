@@ -1,14 +1,16 @@
 ---
-title: setWheelHasTire()
+title: setWheelHasTire
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets if a specific wheel has a tire.
-
-## Usage
+## Function Definition
 
 ```ts
-setWheelHasTire(wheelId: number, state: boolean): void;
+public setWheelHasTire(wheelId: number, state: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWheelHasTire.md-->

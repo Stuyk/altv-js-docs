@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-percentSubmergedRatio: number;
+public percentSubmergedRatio: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/percentSubmergedRatio.md-->

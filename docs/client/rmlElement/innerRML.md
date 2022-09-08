@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-innerRML: string;
+public innerRML: string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/innerRML.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly heapStats: IHeapStats;
+public static readonly heapStats: IHeapStats;
 ```
+
+## Documentation
+
+<!--@include: ./parts/heapStats.md-->

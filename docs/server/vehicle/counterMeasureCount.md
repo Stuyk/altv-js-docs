@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-counterMeasureCount: number;
+public counterMeasureCount: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/counterMeasureCount.md-->

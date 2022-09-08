@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-The file path that was used to create this worker.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly filePath: string;
+public readonly filePath: string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/filePath.md-->

@@ -1,14 +1,16 @@
 ---
-title: addPlayer()
+title: addPlayer
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-addPlayer(player: Player): void;
+public addPlayer(player: Player): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/addPlayer.md-->

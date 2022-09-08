@@ -1,14 +1,16 @@
 ---
-title: on()
+title: on
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Listens to an event emitted by the worker.
-
-## Usage
+## Function Definition
 
 ```ts
-on(eventName: string, callback: (...args: any[]) => void): void;
+public on(eventName: string, callback: (...args: any[]) => void): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/on.md-->

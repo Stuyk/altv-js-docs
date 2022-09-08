@@ -1,14 +1,16 @@
 ---
-title: requestAnimDict()
+title: requestAnimDict
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static requestAnimDict(animDict: string, timeout?: number): Promise<void>;
+public static requestAnimDict(animDict: string, timeout?: number): Promise<void>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/requestAnimDict.md-->

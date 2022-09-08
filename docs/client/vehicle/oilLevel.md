@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-The vehicle's oil level.
-
-## Usage
+## Function Definition
 
 ```ts
-oilLevel: number;
+public oilLevel: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/oilLevel.md-->

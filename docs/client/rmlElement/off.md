@@ -1,14 +1,16 @@
 ---
-title: off()
+title: off
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-off(eventName: string, func: (...args: any[]) => void): void;
+public off(eventName: string, func: (...args: any[]) => void): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/off.md-->

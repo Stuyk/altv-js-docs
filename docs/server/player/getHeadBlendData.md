@@ -1,14 +1,16 @@
 ---
-title: getHeadBlendData()
+title: getHeadBlendData
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getHeadBlendData(): IHeadBlendData;
+public getHeadBlendData(): IHeadBlendData;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getHeadBlendData.md-->

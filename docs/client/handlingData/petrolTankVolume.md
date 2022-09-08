@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-petrolTankVolume: number;
+public petrolTankVolume: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/petrolTankVolume.md-->

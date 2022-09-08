@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets the wheel type.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly wheelType: number;
+public readonly wheelType: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/wheelType.md-->

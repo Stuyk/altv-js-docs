@@ -1,14 +1,16 @@
 ---
-title: getPropertyAbsoluteValue()
+title: getPropertyAbsoluteValue
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getPropertyAbsoluteValue(name: string): number;
+public getPropertyAbsoluteValue(name: string): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getPropertyAbsoluteValue.md-->

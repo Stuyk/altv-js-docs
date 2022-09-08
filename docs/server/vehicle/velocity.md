@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets the velocity vector of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly velocity: shared.Vector3;
+public readonly velocity: shared.Vector3;
 ```
+
+## Documentation
+
+<!--@include: ./parts/velocity.md-->

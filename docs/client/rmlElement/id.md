@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-id: string;
+public id: string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/id.md-->

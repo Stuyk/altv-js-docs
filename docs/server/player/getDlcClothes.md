@@ -1,14 +1,16 @@
 ---
-title: getDlcClothes()
+title: getDlcClothes
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Gets the specified dlc clothing component.
-
-## Usage
+## Function Definition
 
 ```ts
-getDlcClothes(component: number): IDlcCloth;
+public getDlcClothes(component: number): IDlcCloth;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getDlcClothes.md-->

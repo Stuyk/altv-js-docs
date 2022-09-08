@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-monetaryValue: number;
+public monetaryValue: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/monetaryValue.md-->

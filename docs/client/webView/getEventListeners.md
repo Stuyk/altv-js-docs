@@ -1,14 +1,16 @@
 ---
-title: getEventListeners()
+title: getEventListeners
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Gets all the listeners for the specified webview event.
-
-## Usage
+## Function Definition
 
 ```ts
-getEventListeners(eventName: string | null): ((...args: any[]) => void)[];
+public getEventListeners(eventName: string | null): ((...args: any[]) => void)[];
 ```
+
+## Documentation
+
+<!--@include: ./parts/getEventListeners.md-->

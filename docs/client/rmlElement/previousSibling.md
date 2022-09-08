@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly previousSibling: RmlElement | null;
+public readonly previousSibling: RmlElement | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/previousSibling.md-->

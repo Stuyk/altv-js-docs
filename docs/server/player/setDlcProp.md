@@ -1,14 +1,16 @@
 ---
-title: setDlcProp()
+title: setDlcProp
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the specified dlc prop component.
-
-## Usage
+## Function Definition
 
 ```ts
-setDlcProp(dlc: number, component: number, drawable: number, texture: number): void;
+public setDlcProp(dlc: number, component: number, drawable: number, texture: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setDlcProp.md-->

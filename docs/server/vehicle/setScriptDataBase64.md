@@ -1,14 +1,16 @@
 ---
-title: setScriptDataBase64()
+title: setScriptDataBase64
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the script data of a vehicle based on a base64 string.
-
-## Usage
+## Function Definition
 
 ```ts
-setScriptDataBase64(data: string): void;
+public setScriptDataBase64(data: string): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setScriptDataBase64.md-->

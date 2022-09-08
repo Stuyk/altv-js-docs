@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the trains config index.
-
-## Usage
+## Function Definition
 
 ```ts
-trainConfigIndex: number;
+public trainConfigIndex: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/trainConfigIndex.md-->

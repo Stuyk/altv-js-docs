@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-The vehicle's engine temperature.
-
-## Usage
+## Function Definition
 
 ```ts
-engineTemperature: number;
+public engineTemperature: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/engineTemperature.md-->

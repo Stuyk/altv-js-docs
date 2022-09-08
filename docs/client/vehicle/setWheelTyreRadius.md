@@ -1,14 +1,16 @@
 ---
-title: setWheelTyreRadius()
+title: setWheelTyreRadius
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@remarks Applies only physical effects to the wheel.
-
-## Usage
+## Function Definition
 
 ```ts
-setWheelTyreRadius(wheelIndex: number, radius: number): void;
+public setWheelTyreRadius(wheelIndex: number, radius: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWheelTyreRadius.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Sampling interval in microseconds. Defaults to 100. 
-
-## Usage
+## Function Definition
 
 ```ts
-static samplingInterval: number;
+public static samplingInterval: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/samplingInterval.md-->

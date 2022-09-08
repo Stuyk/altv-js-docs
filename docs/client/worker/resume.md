@@ -1,14 +1,16 @@
 ---
-title: resume()
+title: resume
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Resumes execution of the worker.
-
-## Usage
+## Function Definition
 
 ```ts
-resume(): void;
+public resume(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/resume.md-->

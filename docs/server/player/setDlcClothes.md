@@ -1,14 +1,16 @@
 ---
-title: setDlcClothes()
+title: setDlcClothes
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the specified dlc clothing component.
-
-## Usage
+## Function Definition
 
 ```ts
-setDlcClothes(dlc: number, component: number, drawable: number, texture: number, palette?: number): void;
+public setDlcClothes(dlc: number, component: number, drawable: number, texture: number, palette?: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setDlcClothes.md-->

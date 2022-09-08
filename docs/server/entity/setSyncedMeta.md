@@ -1,14 +1,16 @@
 ---
-title: setSyncedMeta()
+title: setSyncedMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@deprecated See {@link "alt-shared".ICustomEntitySyncedMeta} 
-
-## Usage
+## Function Definition
 
 ```ts
-setSyncedMeta<V extends any, K extends string = string>(key: K, value: shared.InterfaceValueByKey<shared.ICustomEntitySyncedMeta, K, V>): void;
+public setSyncedMeta<V extends any, K extends string = string>(key: K, value: shared.InterfaceValueByKey<shared.ICustomEntitySyncedMeta, K, V>): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setSyncedMeta.md-->

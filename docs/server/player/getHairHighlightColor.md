@@ -1,14 +1,16 @@
 ---
-title: getHairHighlightColor()
+title: getHairHighlightColor
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getHairHighlightColor(): number;
+public getHairHighlightColor(): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getHairHighlightColor.md-->

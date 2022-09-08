@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-heading: number;
+public heading: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/heading.md-->

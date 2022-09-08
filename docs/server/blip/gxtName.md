@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-gxtName: string;
+public gxtName: string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/gxtName.md-->

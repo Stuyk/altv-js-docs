@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isSuperJumpEnabled: boolean;
+public readonly isSuperJumpEnabled: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isSuperJumpEnabled.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-The vehicle's petrol tank health.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly petrolTankHealth: number;
+public readonly petrolTankHealth: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/petrolTankHealth.md-->

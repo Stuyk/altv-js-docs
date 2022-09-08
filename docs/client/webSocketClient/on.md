@@ -1,14 +1,16 @@
 ---
-title: on()
+title: on
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-on(eventName: "error", listener: (error: string) => void): void;
+public on(eventName: "error", listener: (error: string) => void): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/on.md-->

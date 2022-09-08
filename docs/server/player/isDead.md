@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isDead: boolean;
+public readonly isDead: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isDead.md-->

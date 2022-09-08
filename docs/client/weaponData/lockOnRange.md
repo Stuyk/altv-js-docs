@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-lockOnRange: number;
+public lockOnRange: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/lockOnRange.md-->

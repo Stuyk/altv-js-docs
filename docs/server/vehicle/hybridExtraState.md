@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-hybridExtraState: number;
+public hybridExtraState: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hybridExtraState.md-->

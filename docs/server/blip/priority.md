@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-priority: number;
+public priority: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/priority.md-->

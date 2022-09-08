@@ -1,14 +1,16 @@
 ---
-title: getDlcProp()
+title: getDlcProp
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Gets the specified dlc prop component.
-
-## Usage
+## Function Definition
 
 ```ts
-getDlcProp(component: number): IDlcProp;
+public getDlcProp(component: number): IDlcProp;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getDlcProp.md-->

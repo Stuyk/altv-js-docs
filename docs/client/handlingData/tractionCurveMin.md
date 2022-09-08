@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-tractionCurveMin: number;
+public tractionCurveMin: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/tractionCurveMin.md-->

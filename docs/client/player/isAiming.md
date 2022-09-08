@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Is the player currently aiming.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isAiming: boolean;
+public readonly isAiming: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isAiming.md-->

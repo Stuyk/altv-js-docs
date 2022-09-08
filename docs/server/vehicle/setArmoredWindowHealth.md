@@ -1,14 +1,16 @@
 ---
-title: setArmoredWindowHealth()
+title: setArmoredWindowHealth
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the health of a specific armored window.
-
-## Usage
+## Function Definition
 
 ```ts
-setArmoredWindowHealth(windowId: number, health: number): void;
+public setArmoredWindowHealth(windowId: number, health: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setArmoredWindowHealth.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-headingIndicatorVisible: boolean;
+public headingIndicatorVisible: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/headingIndicatorVisible.md-->

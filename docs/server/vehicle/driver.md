@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets the current driver of the vehicle. It returns null, if there is no driver.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly driver: Player | null;
+public readonly driver: Player | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/driver.md-->

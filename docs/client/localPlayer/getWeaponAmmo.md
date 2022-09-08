@@ -1,14 +1,16 @@
 ---
-title: getWeaponAmmo()
+title: getWeaponAmmo
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-getWeaponAmmo(weaponName: string): number;
+public getWeaponAmmo(weaponName: string): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getWeaponAmmo.md-->

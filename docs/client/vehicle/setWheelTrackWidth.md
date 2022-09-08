@@ -1,14 +1,16 @@
 ---
-title: setWheelTrackWidth()
+title: setWheelTrackWidth
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the track width of the specified wheel.
-
-## Usage
+## Function Definition
 
 ```ts
-setWheelTrackWidth(wheelIndex: number, width: number): void;
+public setWheelTrackWidth(wheelIndex: number, width: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWheelTrackWidth.md-->

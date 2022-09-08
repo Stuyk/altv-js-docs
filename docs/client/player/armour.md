@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Current armour.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly armour: number;
+public readonly armour: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/armour.md-->

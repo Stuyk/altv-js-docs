@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-radius: number;
+public radius: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/radius.md-->

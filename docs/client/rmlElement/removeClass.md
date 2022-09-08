@@ -1,14 +1,16 @@
 ---
-title: removeClass()
+title: removeClass
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-removeClass(name: string): boolean;
+public removeClass(name: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/removeClass.md-->

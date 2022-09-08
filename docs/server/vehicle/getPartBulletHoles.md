@@ -1,14 +1,16 @@
 ---
-title: getPartBulletHoles()
+title: getPartBulletHoles
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getPartBulletHoles<T extends number>(partId: T): number;
+public getPartBulletHoles<T extends number>(partId: T): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getPartBulletHoles.md-->

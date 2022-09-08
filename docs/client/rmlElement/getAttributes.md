@@ -1,14 +1,16 @@
 ---
-title: getAttributes()
+title: getAttributes
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getAttributes(): Record<string, string>;
+public getAttributes(): Record<string, string>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getAttributes.md-->

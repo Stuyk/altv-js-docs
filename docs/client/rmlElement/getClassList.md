@@ -1,14 +1,16 @@
 ---
-title: getClassList()
+title: getClassList
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getClassList(): ReadonlyArray<string>;
+public getClassList(): ReadonlyArray<string>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getClassList.md-->

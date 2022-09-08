@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Hash of entity model 
-
-## Usage
+## Function Definition
 
 ```ts
-readonly model: number;
+public readonly model: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/model.md-->

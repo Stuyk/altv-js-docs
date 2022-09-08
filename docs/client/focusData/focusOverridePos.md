@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly focusOverridePos: shared.Vector3;
+public static readonly focusOverridePos: shared.Vector3;
 ```
+
+## Documentation
+
+<!--@include: ./parts/focusOverridePos.md-->

@@ -1,14 +1,16 @@
 ---
-title: isWindowDamaged()
+title: isWindowDamaged
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns if a specific window is damaged.
-
-## Usage
+## Function Definition
 
 ```ts
-isWindowDamaged(windowId: number): boolean;
+public isWindowDamaged(windowId: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isWindowDamaged.md-->

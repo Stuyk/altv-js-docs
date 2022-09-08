@@ -1,14 +1,16 @@
 ---
-title: isPointWithinElement()
+title: isPointWithinElement
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-isPointWithinElement(point: shared.IVector2): boolean;
+public isPointWithinElement(point: shared.IVector2): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isPointWithinElement.md-->

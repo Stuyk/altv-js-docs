@@ -1,14 +1,16 @@
 ---
-title: setBumperDamageLevel()
+title: setBumperDamageLevel
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setBumperDamageLevel<T extends number, V extends number = VehicleBumperDamage>(bumperId: T, level: V): void;
+public setBumperDamageLevel<T extends number, V extends number = VehicleBumperDamage>(bumperId: T, level: V): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setBumperDamageLevel.md-->

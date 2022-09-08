@@ -1,14 +1,16 @@
 ---
-title: get()
+title: get
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-get(url: string): Promise<IHttpResponse>;
+public get(url: string): Promise<IHttpResponse>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/get.md-->

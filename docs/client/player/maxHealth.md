@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Current max health of the player.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly maxHealth: number;
+public readonly maxHealth: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/maxHealth.md-->

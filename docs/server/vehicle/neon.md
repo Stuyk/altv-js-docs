@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Enables or disables a neon light on a specific position.
-
-## Usage
+## Function Definition
 
 ```ts
-neon: IVehicleNeon;
+public neon: IVehicleNeon;
 ```
+
+## Documentation
+
+<!--@include: ./parts/neon.md-->

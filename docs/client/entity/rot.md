@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Entity rotation in radians 
-
-## Usage
+## Function Definition
 
 ```ts
-readonly rot: shared.Vector3;
+public readonly rot: shared.Vector3;
 ```
+
+## Documentation
+
+<!--@include: ./parts/rot.md-->

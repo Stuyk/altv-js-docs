@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly relativeOffset: shared.Vector2;
+public readonly relativeOffset: shared.Vector2;
 ```
+
+## Documentation
+
+<!--@include: ./parts/relativeOffset.md-->

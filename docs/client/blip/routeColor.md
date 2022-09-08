@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-routeColor: shared.RGBA;
+public routeColor: shared.RGBA;
 ```
+
+## Documentation
+
+<!--@include: ./parts/routeColor.md-->

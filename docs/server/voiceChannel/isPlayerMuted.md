@@ -1,14 +1,16 @@
 ---
-title: isPlayerMuted()
+title: isPlayerMuted
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-isPlayerMuted(player: Player): boolean;
+public isPlayerMuted(player: Player): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isPlayerMuted.md-->

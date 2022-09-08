@@ -1,14 +1,16 @@
 ---
-title: replaceChild()
+title: replaceChild
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-replaceChild(newElem: RmlElement, oldElem: RmlElement): void;
+public replaceChild(newElem: RmlElement, oldElem: RmlElement): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/replaceChild.md-->

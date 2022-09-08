@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-downforceModifier: number;
+public downforceModifier: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/downforceModifier.md-->

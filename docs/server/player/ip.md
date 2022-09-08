@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly ip: string;
+public readonly ip: string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/ip.md-->

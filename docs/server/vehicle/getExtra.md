@@ -1,14 +1,16 @@
 ---
-title: getExtra()
+title: getExtra
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns the state of a specific extra of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-getExtra(extraId: number): boolean;
+public getExtra(extraId: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getExtra.md-->

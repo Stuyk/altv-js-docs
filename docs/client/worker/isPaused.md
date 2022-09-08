@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Whether the worker is currently paused. See {@link pause} and {@link resume}.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isPaused: boolean;
+public readonly isPaused: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isPaused.md-->

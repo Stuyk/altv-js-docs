@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets if the train is a passenger carriage.
-
-## Usage
+## Function Definition
 
 ```ts
-trainPassengerCarriages: boolean;
+public trainPassengerCarriages: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/trainPassengerCarriages.md-->

@@ -1,14 +1,16 @@
 ---
-title: closest()
+title: closest
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-closest(selectors: string): RmlElement | null;
+public closest(selectors: string): RmlElement | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/closest.md-->

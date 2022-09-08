@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-brakeBiasFront: number;
+public brakeBiasFront: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/brakeBiasFront.md-->

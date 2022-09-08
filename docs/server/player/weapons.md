@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly weapons: ReadonlyArray<IWeapon>;
+public readonly weapons: ReadonlyArray<IWeapon>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/weapons.md-->

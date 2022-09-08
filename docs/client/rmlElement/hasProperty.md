@@ -1,14 +1,16 @@
 ---
-title: hasProperty()
+title: hasProperty
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-hasProperty(name: string): boolean;
+public hasProperty(name: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasProperty.md-->

@@ -1,14 +1,16 @@
 ---
-title: removeWeapon()
+title: removeWeapon
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Removes the specified weapon from the player.
-
-## Usage
+## Function Definition
 
 ```ts
-removeWeapon(weaponHash: number): void;
+public removeWeapon(weaponHash: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/removeWeapon.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-flashTimer: number;
+public flashTimer: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/flashTimer.md-->

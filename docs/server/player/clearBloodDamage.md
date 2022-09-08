@@ -1,14 +1,16 @@
 ---
-title: clearBloodDamage()
+title: clearBloodDamage
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Removes the visible blood on the player body.
-
-## Usage
+## Function Definition
 
 ```ts
-clearBloodDamage(): void;
+public clearBloodDamage(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/clearBloodDamage.md-->

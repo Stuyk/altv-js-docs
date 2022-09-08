@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-asMissionCreator: boolean;
+public asMissionCreator: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/asMissionCreator.md-->

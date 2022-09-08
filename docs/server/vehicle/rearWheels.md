@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets the type of the rear wheels.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly rearWheels: number;
+public readonly rearWheels: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/rearWheels.md-->

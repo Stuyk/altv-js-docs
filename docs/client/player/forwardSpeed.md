@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Forward speed of the player.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly forwardSpeed: number;
+public readonly forwardSpeed: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/forwardSpeed.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Vehicle RPM.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly rpm: number;
+public readonly rpm: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/rpm.md-->

@@ -1,14 +1,16 @@
 ---
-title: hasSyncedMeta()
+title: hasSyncedMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-hasSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomEntitySyncedMeta>>(key: K): boolean;
+public hasSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomEntitySyncedMeta>>(key: K): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasSyncedMeta.md-->

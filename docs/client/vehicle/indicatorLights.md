@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Vehicle indicator lights.
-
-## Usage
+## Function Definition
 
 ```ts
-indicatorLights: VehicleIndicatorLights;
+public indicatorLights: VehicleIndicatorLights;
 ```
+
+## Documentation
+
+<!--@include: ./parts/indicatorLights.md-->

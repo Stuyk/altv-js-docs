@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-handlingFlags: number;
+public handlingFlags: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/handlingFlags.md-->

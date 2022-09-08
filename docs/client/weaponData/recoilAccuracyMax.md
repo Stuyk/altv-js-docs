@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-recoilAccuracyMax: number;
+public recoilAccuracyMax: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/recoilAccuracyMax.md-->

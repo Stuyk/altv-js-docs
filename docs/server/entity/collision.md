@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-collision: boolean;
+public collision: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/collision.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly visible: boolean;
+public readonly visible: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/visible.md-->

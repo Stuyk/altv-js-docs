@@ -1,14 +1,16 @@
 ---
-title: getLocalProperty()
+title: getLocalProperty
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getLocalProperty(name: string): string;
+public getLocalProperty(name: string): string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getLocalProperty.md-->

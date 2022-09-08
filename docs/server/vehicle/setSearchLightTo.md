@@ -1,14 +1,16 @@
 ---
-title: setSearchLightTo()
+title: setSearchLightTo
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Activates the searchlight and follows the target.
-
-## Usage
+## Function Definition
 
 ```ts
-setSearchLightTo(entity: Entity, state: boolean): void;
+public setSearchLightTo(entity: Entity, state: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setSearchLightTo.md-->

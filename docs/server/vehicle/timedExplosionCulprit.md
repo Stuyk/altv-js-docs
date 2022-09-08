@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly timedExplosionCulprit: Player;
+public readonly timedExplosionCulprit: Player;
 ```
+
+## Documentation
+
+<!--@include: ./parts/timedExplosionCulprit.md-->

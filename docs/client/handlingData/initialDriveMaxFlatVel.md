@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-initialDriveMaxFlatVel: number;
+public initialDriveMaxFlatVel: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/initialDriveMaxFlatVel.md-->

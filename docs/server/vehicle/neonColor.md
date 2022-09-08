@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the color of the neon lights.
-
-## Usage
+## Function Definition
 
 ```ts
-neonColor: shared.RGBA;
+public neonColor: shared.RGBA;
 ```
+
+## Documentation
+
+<!--@include: ./parts/neonColor.md-->

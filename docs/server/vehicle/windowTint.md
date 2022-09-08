@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the window tint of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-windowTint: WindowTint;
+public windowTint: WindowTint;
 ```
+
+## Documentation
+
+<!--@include: ./parts/windowTint.md-->

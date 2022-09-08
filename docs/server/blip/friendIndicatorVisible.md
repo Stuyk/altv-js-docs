@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-friendIndicatorVisible: boolean;
+public friendIndicatorVisible: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/friendIndicatorVisible.md-->

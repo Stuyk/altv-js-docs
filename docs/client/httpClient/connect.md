@@ -1,14 +1,16 @@
 ---
-title: connect()
+title: connect
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-connect(url: string, body: string): Promise<IHttpResponse>;
+public connect(url: string, body: string): Promise<IHttpResponse>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/connect.md-->

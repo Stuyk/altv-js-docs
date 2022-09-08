@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Array with all blips.
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly all: ReadonlyArray<Blip>;
+public static readonly all: ReadonlyArray<Blip>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/all.md-->

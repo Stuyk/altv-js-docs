@@ -1,14 +1,16 @@
 ---
-title: show()
+title: show
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-show(isModal?: boolean, focused?: boolean): void;
+public show(isModal?: boolean, focused?: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/show.md-->

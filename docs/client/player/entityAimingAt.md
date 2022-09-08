@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-The entity the player is aiming at.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly entityAimingAt: Entity | null;
+public readonly entityAimingAt: Entity | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/entityAimingAt.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the cruise speed of the train.
-
-## Usage
+## Function Definition
 
 ```ts
-trainCruiseSpeed: number;
+public trainCruiseSpeed: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/trainCruiseSpeed.md-->

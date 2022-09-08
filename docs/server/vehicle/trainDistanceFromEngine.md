@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the distance of the trains to the engine.
-
-## Usage
+## Function Definition
 
 ```ts
-trainDistanceFromEngine: number;
+public trainDistanceFromEngine: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/trainDistanceFromEngine.md-->

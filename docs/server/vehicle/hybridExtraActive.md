@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-hybridExtraActive: boolean;
+public hybridExtraActive: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hybridExtraActive.md-->

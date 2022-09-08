@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Vehicle speed vector.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly speedVector: shared.Vector3;
+public readonly speedVector: shared.Vector3;
 ```
+
+## Documentation
+
+<!--@include: ./parts/speedVector.md-->

@@ -1,14 +1,16 @@
 ---
-title: isLightDamaged()
+title: isLightDamaged
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns if a specific light is damaged.
-
-## Usage
+## Function Definition
 
 ```ts
-isLightDamaged(lightId: number): boolean;
+public isLightDamaged(lightId: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isLightDamaged.md-->

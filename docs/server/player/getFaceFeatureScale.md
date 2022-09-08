@@ -1,14 +1,16 @@
 ---
-title: getFaceFeatureScale()
+title: getFaceFeatureScale
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getFaceFeatureScale(index: number): number;
+public getFaceFeatureScale(index: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getFaceFeatureScale.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the livery of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-livery: number;
+public livery: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/livery.md-->

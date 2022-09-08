@@ -1,14 +1,16 @@
 ---
-title: once()
+title: once
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Subscribes to WebView event with specified listener, which only triggers once.
-
-## Usage
+## Function Definition
 
 ```ts
-once(eventName: string, listener: (...args: any[]) => void): void;
+public once(eventName: string, listener: (...args: any[]) => void): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/once.md-->

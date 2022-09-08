@@ -1,14 +1,16 @@
 ---
-title: getPseudoClassList()
+title: getPseudoClassList
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getPseudoClassList(): ReadonlyArray<string>;
+public getPseudoClassList(): ReadonlyArray<string>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getPseudoClassList.md-->

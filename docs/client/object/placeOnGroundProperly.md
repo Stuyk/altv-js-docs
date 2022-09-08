@@ -1,14 +1,16 @@
 ---
-title: placeOnGroundProperly()
+title: placeOnGroundProperly
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Places the object properly on the ground. 
-
-## Usage
+## Function Definition
 
 ```ts
-placeOnGroundProperly(): void;
+public placeOnGroundProperly(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/placeOnGroundProperly.md-->

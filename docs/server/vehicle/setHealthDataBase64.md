@@ -1,14 +1,16 @@
 ---
-title: setHealthDataBase64()
+title: setHealthDataBase64
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the health data of a vehicle with a given base64 string.
-
-## Usage
+## Function Definition
 
 ```ts
-setHealthDataBase64(data: string): void;
+public setHealthDataBase64(data: string): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setHealthDataBase64.md-->

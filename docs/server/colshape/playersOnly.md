@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Whether this colshape should only trigger its enter/leave events for players or all entities.
-
-## Usage
+## Function Definition
 
 ```ts
-playersOnly: boolean;
+public playersOnly: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/playersOnly.md-->

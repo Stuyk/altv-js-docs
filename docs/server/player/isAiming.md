@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isAiming: boolean;
+public readonly isAiming: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isAiming.md-->

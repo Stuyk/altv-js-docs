@@ -1,14 +1,16 @@
 ---
-title: getMeta()
+title: getMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@deprecated See {@link ICustomBaseObjectMeta} 
-
-## Usage
+## Function Definition
 
 ```ts
-getMeta<V extends any>(key: string): V | undefined;
+public getMeta<V extends any>(key: string): V | undefined;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getMeta.md-->

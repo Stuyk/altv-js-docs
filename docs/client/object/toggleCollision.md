@@ -1,14 +1,16 @@
 ---
-title: toggleCollision()
+title: toggleCollision
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-toggleCollision(toggle: boolean, keepPhysics: boolean): void;
+public toggleCollision(toggle: boolean, keepPhysics: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/toggleCollision.md-->

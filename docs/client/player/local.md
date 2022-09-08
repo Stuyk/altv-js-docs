@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-The local player instance.
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly local: LocalPlayer;
+public static readonly local: LocalPlayer;
 ```
+
+## Documentation
+
+<!--@include: ./parts/local.md-->

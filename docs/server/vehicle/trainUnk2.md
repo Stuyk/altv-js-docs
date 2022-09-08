@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-trainUnk2: boolean;
+public trainUnk2: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/trainUnk2.md-->

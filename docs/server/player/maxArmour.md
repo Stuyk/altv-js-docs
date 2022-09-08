@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-maxArmour: number;
+public maxArmour: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/maxArmour.md-->

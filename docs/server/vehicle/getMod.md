@@ -1,14 +1,16 @@
 ---
-title: getMod()
+title: getMod
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getMod<T extends number>(modType: T): number;
+public getMod<T extends number>(modType: T): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getMod.md-->

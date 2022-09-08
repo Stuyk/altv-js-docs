@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly isFocusOverriden: boolean;
+public static readonly isFocusOverriden: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isFocusOverriden.md-->

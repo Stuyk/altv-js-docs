@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-antiRollBarBiasFront: number;
+public antiRollBarBiasFront: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/antiRollBarBiasFront.md-->

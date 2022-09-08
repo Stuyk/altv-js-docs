@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-showCone: boolean;
+public showCone: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/showCone.md-->

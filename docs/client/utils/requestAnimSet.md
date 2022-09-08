@@ -1,14 +1,16 @@
 ---
-title: requestAnimSet()
+title: requestAnimSet
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static requestAnimSet(animSet: string, timeout?: number): Promise<void>;
+public static requestAnimSet(animSet: string, timeout?: number): Promise<void>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/requestAnimSet.md-->

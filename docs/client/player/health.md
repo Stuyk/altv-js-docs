@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Current health of the player.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly health: number;
+public readonly health: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/health.md-->

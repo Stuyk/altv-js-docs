@@ -1,14 +1,16 @@
 ---
-title: ubyte()
+title: ubyte
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-ubyte(offset: number): number;
+public ubyte(offset: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/ubyte.md-->

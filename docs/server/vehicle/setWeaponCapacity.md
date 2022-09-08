@@ -1,14 +1,16 @@
 ---
-title: setWeaponCapacity()
+title: setWeaponCapacity
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-setWeaponCapacity(weaponIndex: number, capacity: number): void;
+public setWeaponCapacity(weaponIndex: number, capacity: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWeaponCapacity.md-->

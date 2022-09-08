@@ -1,14 +1,16 @@
 ---
-title: on()
+title: on
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-on(eventName: string, func: (senderElement: RmlElement, ...args: any[]) => void): void;
+public on(eventName: string, func: (senderElement: RmlElement, ...args: any[]) => void): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/on.md-->

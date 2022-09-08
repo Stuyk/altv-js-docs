@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the dirt level of the vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-dirtLevel: number;
+public dirtLevel: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/dirtLevel.md-->

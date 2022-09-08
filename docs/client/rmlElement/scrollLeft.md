@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-scrollLeft: number;
+public scrollLeft: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/scrollLeft.md-->

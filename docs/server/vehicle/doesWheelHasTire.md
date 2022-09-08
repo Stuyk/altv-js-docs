@@ -1,14 +1,16 @@
 ---
-title: doesWheelHasTire()
+title: doesWheelHasTire
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns if a specific wheel has a tire.
-
-## Usage
+## Function Definition
 
 ```ts
-doesWheelHasTire(wheelId: number): boolean;
+public doesWheelHasTire(wheelId: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/doesWheelHasTire.md-->

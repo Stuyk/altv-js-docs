@@ -1,14 +1,16 @@
 ---
-title: setOffset()
+title: setOffset
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setOffset(element: RmlElement, offset: shared.IVector2, fixed?: boolean): void;
+public setOffset(element: RmlElement, offset: shared.IVector2, fixed?: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setOffset.md-->

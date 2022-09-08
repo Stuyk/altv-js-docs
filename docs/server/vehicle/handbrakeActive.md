@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets if the handbrake of a car is active.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly handbrakeActive: boolean;
+public readonly handbrakeActive: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/handbrakeActive.md-->

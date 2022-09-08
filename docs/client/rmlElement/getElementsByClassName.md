@@ -1,14 +1,16 @@
 ---
-title: getElementsByClassName()
+title: getElementsByClassName
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getElementsByClassName(className: string): ReadonlyArray<RmlElement>;
+public getElementsByClassName(className: string): ReadonlyArray<RmlElement>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getElementsByClassName.md-->

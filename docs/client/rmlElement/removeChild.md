@@ -1,14 +1,16 @@
 ---
-title: removeChild()
+title: removeChild
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-removeChild(child: RmlElement): void;
+public removeChild(child: RmlElement): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/removeChild.md-->

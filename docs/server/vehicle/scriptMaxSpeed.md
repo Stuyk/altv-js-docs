@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-scriptMaxSpeed: number;
+public scriptMaxSpeed: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/scriptMaxSpeed.md-->

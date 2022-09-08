@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Is the player currently reloading their weapon.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isReloading: boolean;
+public readonly isReloading: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isReloading.md-->

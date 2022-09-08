@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly entityAimOffset: shared.Vector3;
+public readonly entityAimOffset: shared.Vector3;
 ```
+
+## Documentation
+
+<!--@include: ./parts/entityAimOffset.md-->

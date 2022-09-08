@@ -1,14 +1,16 @@
 ---
-title: hasLocalProperty()
+title: hasLocalProperty
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-hasLocalProperty(name: string): boolean;
+public hasLocalProperty(name: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasLocalProperty.md-->

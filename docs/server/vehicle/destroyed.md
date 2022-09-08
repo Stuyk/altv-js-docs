@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets if a vehicle is destroyed.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly destroyed: boolean;
+public readonly destroyed: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/destroyed.md-->

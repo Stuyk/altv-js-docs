@@ -1,14 +1,16 @@
 ---
-title: setHeadBlendPaletteColor()
+title: setHeadBlendPaletteColor
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setHeadBlendPaletteColor(id: number, red: number, green: number, blue: number): boolean;
+public setHeadBlendPaletteColor(id: number, red: number, green: number, blue: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setHeadBlendPaletteColor.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Player's vehicle, null if player is not in any vehicle 
-
-## Usage
+## Function Definition
 
 ```ts
-readonly vehicle: Vehicle | null;
+public readonly vehicle: Vehicle | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/vehicle.md-->

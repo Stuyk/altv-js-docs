@@ -1,14 +1,16 @@
 ---
-title: querySelector()
+title: querySelector
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-querySelector(selector: string): RmlElement | null;
+public querySelector(selector: string): RmlElement | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/querySelector.md-->

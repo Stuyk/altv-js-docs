@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-maxHealth: number;
+public maxHealth: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/maxHealth.md-->

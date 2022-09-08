@@ -1,14 +1,16 @@
 ---
-title: setWindowDamaged()
+title: setWindowDamaged
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets if a specific window is damaged.
-
-## Usage
+## Function Definition
 
 ```ts
-setWindowDamaged(windowId: number, isDamaged: boolean): void;
+public setWindowDamaged(windowId: number, isDamaged: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWindowDamaged.md-->

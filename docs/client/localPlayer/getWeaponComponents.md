@@ -1,14 +1,16 @@
 ---
-title: getWeaponComponents()
+title: getWeaponComponents
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-getWeaponComponents(weaponName: string): Array<number>;
+public getWeaponComponents(weaponName: string): Array<number>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getWeaponComponents.md-->

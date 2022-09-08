@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-sprite: shared.BlipSprite;
+public sprite: shared.BlipSprite;
 ```
+
+## Documentation
+
+<!--@include: ./parts/sprite.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Vehicle seat count.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly seatCount: number;
+public readonly seatCount: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/seatCount.md-->

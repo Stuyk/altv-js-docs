@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-recoilRecoveryRate: number;
+public recoilRecoveryRate: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/recoilRecoveryRate.md-->

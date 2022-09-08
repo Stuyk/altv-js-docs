@@ -1,14 +1,16 @@
 ---
-title: setHeadOverlay()
+title: setHeadOverlay
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setHeadOverlay(overlayID: number, index: number, opacity: number): boolean;
+public setHeadOverlay(overlayID: number, index: number, opacity: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setHeadOverlay.md-->

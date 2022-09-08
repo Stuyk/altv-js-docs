@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the direction of the train.
-
-## Usage
+## Function Definition
 
 ```ts
-trainDirection: boolean;
+public trainDirection: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/trainDirection.md-->

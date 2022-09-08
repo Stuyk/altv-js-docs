@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Returns the keycode of the voice activation key.
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly activationKey: number;
+public static readonly activationKey: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/activationKey.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets a vehicle that is attached to the vehicle instance.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly attached: Vehicle | null;
+public readonly attached: Vehicle | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/attached.md-->

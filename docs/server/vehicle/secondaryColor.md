@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the current secondary color.
-
-## Usage
+## Function Definition
 
 ```ts
-secondaryColor: number;
+public secondaryColor: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/secondaryColor.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly clipSize: number;
+public readonly clipSize: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/clipSize.md-->

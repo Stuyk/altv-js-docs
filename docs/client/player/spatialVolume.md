@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Set & get the volume for 3D Voice.
-
-## Usage
+## Function Definition
 
 ```ts
-spatialVolume: number;
+public spatialVolume: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/spatialVolume.md-->

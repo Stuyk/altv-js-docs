@@ -1,14 +1,16 @@
 ---
-title: getEventListeners()
+title: getEventListeners
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getEventListeners(eventName: string): ((senderElement: RmlElement, ...args: any[]) => void)[];
+public getEventListeners(eventName: string): ((senderElement: RmlElement, ...args: any[]) => void)[];
 ```
+
+## Documentation
+
+<!--@include: ./parts/getEventListeners.md-->

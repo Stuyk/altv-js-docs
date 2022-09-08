@@ -1,14 +1,16 @@
 ---
-title: isWindowOpened()
+title: isWindowOpened
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns if a specific window is open.
-
-## Usage
+## Function Definition
 
 ```ts
-isWindowOpened(windowId: number): boolean;
+public isWindowOpened(windowId: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isWindowOpened.md-->

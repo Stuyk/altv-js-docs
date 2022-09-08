@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the additional body health.
-
-## Usage
+## Function Definition
 
 ```ts
-bodyAdditionalHealth: number;
+public bodyAdditionalHealth: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/bodyAdditionalHealth.md-->

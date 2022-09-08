@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-tractionLossMult: number;
+public tractionLossMult: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/tractionLossMult.md-->

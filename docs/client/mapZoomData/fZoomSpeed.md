@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-fZoomSpeed: number;
+public fZoomSpeed: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/fZoomSpeed.md-->

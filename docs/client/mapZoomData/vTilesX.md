@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-vTilesX: number;
+public vTilesX: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/vTilesX.md-->

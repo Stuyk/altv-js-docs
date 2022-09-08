@@ -1,14 +1,16 @@
 ---
-title: hasStreamSyncedMeta()
+title: hasStreamSyncedMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-hasStreamSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomVehicleStreamSyncedMeta>>(key: K): boolean;
+public hasStreamSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomVehicleStreamSyncedMeta>>(key: K): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasStreamSyncedMeta.md-->

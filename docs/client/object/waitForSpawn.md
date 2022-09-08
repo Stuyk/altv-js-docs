@@ -1,14 +1,16 @@
 ---
-title: waitForSpawn()
+title: waitForSpawn
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Waits asynchronously until the object spawns. 
-
-## Usage
+## Function Definition
 
 ```ts
-waitForSpawn(): Promise<void>;
+public waitForSpawn(): Promise<void>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/waitForSpawn.md-->

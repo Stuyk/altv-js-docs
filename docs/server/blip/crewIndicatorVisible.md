@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-crewIndicatorVisible: boolean;
+public crewIndicatorVisible: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/crewIndicatorVisible.md-->

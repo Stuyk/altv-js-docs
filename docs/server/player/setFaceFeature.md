@@ -1,14 +1,16 @@
 ---
-title: setFaceFeature()
+title: setFaceFeature
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setFaceFeature(index: number, scale: number): boolean;
+public setFaceFeature(index: number, scale: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setFaceFeature.md-->

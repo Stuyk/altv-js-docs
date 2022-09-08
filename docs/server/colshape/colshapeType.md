@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly colshapeType: ColShapeType;
+public readonly colshapeType: ColShapeType;
 ```
+
+## Documentation
+
+<!--@include: ./parts/colshapeType.md-->

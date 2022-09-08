@@ -1,14 +1,16 @@
 ---
-title: setWheelOnFire()
+title: setWheelOnFire
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets a wheel either on fire or not
-
-## Usage
+## Function Definition
 
 ```ts
-setWheelOnFire(wheelId: number, state: boolean): void;
+public setWheelOnFire(wheelId: number, state: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWheelOnFire.md-->

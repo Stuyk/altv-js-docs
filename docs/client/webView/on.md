@@ -1,14 +1,16 @@
 ---
-title: on()
+title: on
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Subscribes to WebView event handler with specified listener.
-
-## Usage
+## Function Definition
 
 ```ts
-on(eventName: "load", listener: () => void): void;
+public on(eventName: "load", listener: () => void): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/on.md-->

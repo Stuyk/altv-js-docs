@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly currentInterior: number;
+public readonly currentInterior: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/currentInterior.md-->

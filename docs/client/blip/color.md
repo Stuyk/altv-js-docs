@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-color: shared.BlipColor;
+public color: shared.BlipColor;
 ```
+
+## Documentation
+
+<!--@include: ./parts/color.md-->

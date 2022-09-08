@@ -1,14 +1,16 @@
 ---
-title: setTrainLinkedToBackwardId()
+title: setTrainLinkedToBackwardId
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Links another train to the back of the train.
-
-## Usage
+## Function Definition
 
 ```ts
-setTrainLinkedToBackwardId(vehicle: Vehicle | null): void;
+public setTrainLinkedToBackwardId(vehicle: Vehicle | null): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setTrainLinkedToBackwardId.md-->

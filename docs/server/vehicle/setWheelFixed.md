@@ -1,14 +1,16 @@
 ---
-title: setWheelFixed()
+title: setWheelFixed
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Repairs a specific wheel.
-
-## Usage
+## Function Definition
 
 ```ts
-setWheelFixed(wheelId: number): void;
+public setWheelFixed(wheelId: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWheelFixed.md-->

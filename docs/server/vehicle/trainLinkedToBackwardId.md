@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets another train that is linked to the back of the train. Returns null if there is no linked train.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly trainLinkedToBackwardId: Vehicle | null;
+public readonly trainLinkedToBackwardId: Vehicle | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/trainLinkedToBackwardId.md-->

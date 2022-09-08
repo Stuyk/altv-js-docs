@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Object position
-
-## Usage
+## Function Definition
 
 ```ts
-pos: shared.Vector3;
+public pos: shared.Vector3;
 ```
+
+## Documentation
+
+<!--@include: ./parts/pos.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Is the webview ready.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isReady: boolean;
+public readonly isReady: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isReady.md-->

@@ -1,14 +1,16 @@
 ---
-title: setTimedExplosion()
+title: setTimedExplosion
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setTimedExplosion(state: boolean, culprit: Player, time: number): void;
+public setTimedExplosion(state: boolean, culprit: Player, time: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setTimedExplosion.md-->

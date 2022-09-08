@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the current primary color of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-primaryColor: number;
+public primaryColor: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/primaryColor.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Whether the entity should be streamed for other entities.
-
-## Usage
+## Function Definition
 
 ```ts
-streamed: boolean;
+public streamed: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/streamed.md-->

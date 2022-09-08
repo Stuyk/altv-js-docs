@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the color of the tire smoke.
-
-## Usage
+## Function Definition
 
 ```ts
-tireSmokeColor: shared.RGBA;
+public tireSmokeColor: shared.RGBA;
 ```
+
+## Documentation
+
+<!--@include: ./parts/tireSmokeColor.md-->

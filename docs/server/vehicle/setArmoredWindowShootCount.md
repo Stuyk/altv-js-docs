@@ -1,14 +1,16 @@
 ---
-title: setArmoredWindowShootCount()
+title: setArmoredWindowShootCount
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the shoot count of a specific armoured window.
-
-## Usage
+## Function Definition
 
 ```ts
-setArmoredWindowShootCount(windowId: number, count: number): void;
+public setArmoredWindowShootCount(windowId: number, count: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setArmoredWindowShootCount.md-->

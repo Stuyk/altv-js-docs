@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets if a flamethrower of a vehicle is active on vehicle models like `cerberus`.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly flamethrowerActive: boolean;
+public readonly flamethrowerActive: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/flamethrowerActive.md-->

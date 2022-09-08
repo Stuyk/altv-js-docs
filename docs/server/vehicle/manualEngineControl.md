@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Enables or disables the manual engine control.
-
-## Usage
+## Function Definition
 
 ```ts
-manualEngineControl: boolean;
+public manualEngineControl: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/manualEngineControl.md-->

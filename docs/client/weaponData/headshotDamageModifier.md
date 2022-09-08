@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-headshotDamageModifier: number;
+public headshotDamageModifier: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/headshotDamageModifier.md-->

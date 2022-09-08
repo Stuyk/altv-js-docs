@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-The distance at which the LOD model of the object starts being applied. 
-
-## Usage
+## Function Definition
 
 ```ts
-lodDistance: number;
+public lodDistance: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/lodDistance.md-->

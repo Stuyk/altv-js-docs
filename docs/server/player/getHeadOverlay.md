@@ -1,14 +1,16 @@
 ---
-title: getHeadOverlay()
+title: getHeadOverlay
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getHeadOverlay(overlayID: number): IHeadOverlay;
+public getHeadOverlay(overlayID: number): IHeadOverlay;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getHeadOverlay.md-->

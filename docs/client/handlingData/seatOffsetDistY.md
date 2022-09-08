@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-seatOffsetDistY: number;
+public seatOffsetDistY: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/seatOffsetDistY.md-->

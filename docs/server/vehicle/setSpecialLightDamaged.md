@@ -1,14 +1,16 @@
 ---
-title: setSpecialLightDamaged()
+title: setSpecialLightDamaged
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets if a special light is damaged.
-
-## Usage
+## Function Definition
 
 ```ts
-setSpecialLightDamaged(specialLightId: number, isDamaged: boolean): void;
+public setSpecialLightDamaged(specialLightId: number, isDamaged: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setSpecialLightDamaged.md-->

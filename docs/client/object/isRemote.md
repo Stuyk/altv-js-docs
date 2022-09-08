@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Whether this object was created clientside or serverside. (Clientside = false, Serverside = true) 
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isRemote: boolean;
+public readonly isRemote: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isRemote.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-style: Record<string, string>;
+public style: Record<string, string>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/style.md-->

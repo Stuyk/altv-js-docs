@@ -1,14 +1,16 @@
 ---
-title: kick()
+title: kick
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Forcefully disconnects the player with a reason message.
-
-## Usage
+## Function Definition
 
 ```ts
-kick(reason?: string): void;
+public kick(reason?: string): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/kick.md-->

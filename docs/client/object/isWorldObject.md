@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isWorldObject: boolean;
+public readonly isWorldObject: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isWorldObject.md-->

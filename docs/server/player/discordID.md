@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly discordID: string;
+public readonly discordID: string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/discordID.md-->

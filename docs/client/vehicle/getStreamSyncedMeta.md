@@ -1,14 +1,16 @@
 ---
-title: getStreamSyncedMeta()
+title: getStreamSyncedMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@deprecated See {@link "alt-shared".ICustomVehicleStreamSyncedMeta} 
-
-## Usage
+## Function Definition
 
 ```ts
-getStreamSyncedMeta<V extends any>(key: string): V | undefined;
+public getStreamSyncedMeta<V extends any>(key: string): V | undefined;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getStreamSyncedMeta.md-->

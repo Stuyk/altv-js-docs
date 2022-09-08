@@ -1,14 +1,16 @@
 ---
-title: head()
+title: head
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-head(url: string): Promise<IHttpResponse>;
+public head(url: string): Promise<IHttpResponse>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/head.md-->

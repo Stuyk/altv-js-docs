@@ -1,14 +1,16 @@
 ---
-title: start()
+title: start
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Starts the websocket connection.
-
-## Usage
+## Function Definition
 
 ```ts
-start(): void;
+public start(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/start.md-->

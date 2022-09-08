@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-inertiaMultiplier: shared.Vector3;
+public inertiaMultiplier: shared.Vector3;
 ```
+
+## Documentation
+
+<!--@include: ./parts/inertiaMultiplier.md-->

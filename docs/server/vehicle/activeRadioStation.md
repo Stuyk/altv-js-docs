@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the active radio station.
-
-## Usage
+## Function Definition
 
 ```ts
-activeRadioStation: RadioStation;
+public activeRadioStation: RadioStation;
 ```
+
+## Documentation
+
+<!--@include: ./parts/activeRadioStation.md-->

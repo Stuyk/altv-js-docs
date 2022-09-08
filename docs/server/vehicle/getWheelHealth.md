@@ -1,14 +1,16 @@
 ---
-title: getWheelHealth()
+title: getWheelHealth
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns the health of a specific wheel.
-
-## Usage
+## Function Definition
 
 ```ts
-getWheelHealth(wheelId: number): number;
+public getWheelHealth(wheelId: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getWheelHealth.md-->

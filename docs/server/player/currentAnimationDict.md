@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly currentAnimationDict: number;
+public readonly currentAnimationDict: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/currentAnimationDict.md-->

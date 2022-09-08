@@ -1,14 +1,16 @@
 ---
-title: uint()
+title: uint
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-uint(offset: number): number;
+public uint(offset: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/uint.md-->

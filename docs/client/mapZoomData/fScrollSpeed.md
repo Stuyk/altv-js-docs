@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-fScrollSpeed: number;
+public fScrollSpeed: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/fScrollSpeed.md-->

@@ -1,14 +1,16 @@
 ---
-title: setHeadOverlayColor()
+title: setHeadOverlayColor
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setHeadOverlayColor(overlayID: number, colorType: number, colorIndex: number, secondColorIndex: number): boolean;
+public setHeadOverlayColor(overlayID: number, colorType: number, colorIndex: number, secondColorIndex: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setHeadOverlayColor.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Is the webview focused.
-
-## Usage
+## Function Definition
 
 ```ts
-focused: boolean;
+public focused: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/focused.md-->

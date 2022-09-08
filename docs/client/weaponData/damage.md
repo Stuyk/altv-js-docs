@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-damage: number;
+public damage: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/damage.md-->

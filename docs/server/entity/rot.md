@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Entity rotation.
-
-## Usage
+## Function Definition
 
 ```ts
-rot: shared.Vector3;
+public rot: shared.Vector3;
 ```
+
+## Documentation
+
+<!--@include: ./parts/rot.md-->

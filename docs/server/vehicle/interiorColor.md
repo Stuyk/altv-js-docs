@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the interior color of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-interiorColor: number;
+public interiorColor: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/interiorColor.md-->

@@ -1,14 +1,16 @@
 ---
-title: isEntityInStreamRange()
+title: isEntityInStreamRange
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-isEntityInStreamRange(entityID: number): boolean;
+public isEntityInStreamRange(entityID: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isEntityInStreamRange.md-->

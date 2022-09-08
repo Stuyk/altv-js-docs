@@ -1,14 +1,16 @@
 ---
-title: string()
+title: string
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-string(offset: number, length: number): string;
+public string(offset: number, length: number): string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/string.md-->

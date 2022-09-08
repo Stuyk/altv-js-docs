@@ -1,14 +1,16 @@
 ---
-title: resetNetOwner()
+title: resetNetOwner
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Resets overwritten network owner.
-
-## Usage
+## Function Definition
 
 ```ts
-resetNetOwner(disableMigration?: boolean): void;
+public resetNetOwner(disableMigration?: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/resetNetOwner.md-->

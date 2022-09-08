@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Set and get the webview size.
-
-## Usage
+## Function Definition
 
 ```ts
-size: shared.Vector2;
+public size: shared.Vector2;
 ```
+
+## Documentation
+
+<!--@include: ./parts/size.md-->

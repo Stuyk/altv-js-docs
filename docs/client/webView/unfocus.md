@@ -1,14 +1,16 @@
 ---
-title: unfocus()
+title: unfocus
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Unfocuses the webview so it ignores user input.
-
-## Usage
+## Function Definition
 
 ```ts
-unfocus(): void;
+public unfocus(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/unfocus.md-->

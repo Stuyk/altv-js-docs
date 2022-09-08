@@ -1,14 +1,16 @@
 ---
-title: get()
+title: get
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static get(zoomData: string): MapZoomData;
+public static get(zoomData: string): MapZoomData;
 ```
+
+## Documentation
+
+<!--@include: ./parts/get.md-->

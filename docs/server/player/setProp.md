@@ -1,14 +1,16 @@
 ---
-title: setProp()
+title: setProp
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the specified prop component.
-
-## Usage
+## Function Definition
 
 ```ts
-setProp(component: number, drawable: number, texture: number): void;
+public setProp(component: number, drawable: number, texture: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setProp.md-->

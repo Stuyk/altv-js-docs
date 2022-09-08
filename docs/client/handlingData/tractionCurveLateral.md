@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-tractionCurveLateral: number;
+public tractionCurveLateral: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/tractionCurveLateral.md-->

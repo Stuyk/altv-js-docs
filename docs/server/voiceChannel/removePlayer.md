@@ -1,14 +1,16 @@
 ---
-title: removePlayer()
+title: removePlayer
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-removePlayer(player: Player): void;
+public removePlayer(player: Player): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/removePlayer.md-->

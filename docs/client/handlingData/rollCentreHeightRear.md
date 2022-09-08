@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-rollCentreHeightRear: number;
+public rollCentreHeightRear: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/rollCentreHeightRear.md-->

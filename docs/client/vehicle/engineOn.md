@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Vehicle engine state.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly engineOn: boolean;
+public readonly engineOn: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/engineOn.md-->

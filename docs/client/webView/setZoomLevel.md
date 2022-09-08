@@ -1,14 +1,16 @@
 ---
-title: setZoomLevel()
+title: setZoomLevel
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the zoom level for webview.
-
-## Usage
+## Function Definition
 
 ```ts
-setZoomLevel(value: number): void;
+public setZoomLevel(value: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setZoomLevel.md-->

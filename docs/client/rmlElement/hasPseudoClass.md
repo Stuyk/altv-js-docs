@@ -1,14 +1,16 @@
 ---
-title: hasPseudoClass()
+title: hasPseudoClass
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-hasPseudoClass(name: string): boolean;
+public hasPseudoClass(name: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasPseudoClass.md-->

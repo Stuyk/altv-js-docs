@@ -1,14 +1,16 @@
 ---
-title: getLocalMeta()
+title: getLocalMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@deprecated See {@link "alt-shared".ICustomPlayerLocalMeta} 
-
-## Usage
+## Function Definition
 
 ```ts
-getLocalMeta<V extends any>(key: string): V | undefined;
+public getLocalMeta<V extends any>(key: string): V | undefined;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getLocalMeta.md-->

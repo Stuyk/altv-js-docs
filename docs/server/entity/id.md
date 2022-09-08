@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Internal identificator of the entity which is identical on both sides.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly id: number;
+public readonly id: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/id.md-->

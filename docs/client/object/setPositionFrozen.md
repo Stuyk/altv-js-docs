@@ -1,14 +1,16 @@
 ---
-title: setPositionFrozen()
+title: setPositionFrozen
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Freeze the object on the position 
-
-## Usage
+## Function Definition
 
 ```ts
-setPositionFrozen(toggle: boolean): void;
+public setPositionFrozen(toggle: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setPositionFrozen.md-->

@@ -1,14 +1,16 @@
 ---
-title: mutePlayer()
+title: mutePlayer
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-mutePlayer(player: Player): void;
+public mutePlayer(player: Player): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/mutePlayer.md-->

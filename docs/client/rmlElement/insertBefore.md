@@ -1,14 +1,16 @@
 ---
-title: insertBefore()
+title: insertBefore
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-insertBefore(child: RmlElement, adjacent: RmlElement): void;
+public insertBefore(child: RmlElement, adjacent: RmlElement): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/insertBefore.md-->

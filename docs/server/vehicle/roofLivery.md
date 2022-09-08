@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the roof livery of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-roofLivery: number;
+public roofLivery: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/roofLivery.md-->

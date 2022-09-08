@@ -1,14 +1,16 @@
 ---
-title: removeHeadOverlay()
+title: removeHeadOverlay
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-removeHeadOverlay(overlayID: number): boolean;
+public removeHeadOverlay(overlayID: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/removeHeadOverlay.md-->

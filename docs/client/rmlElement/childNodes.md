@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly childNodes: ReadonlyArray<RmlElement>;
+public readonly childNodes: ReadonlyArray<RmlElement>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/childNodes.md-->

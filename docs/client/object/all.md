@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly all: ReadonlyArray<Object>;
+public static readonly all: ReadonlyArray<Object>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/all.md-->

@@ -1,14 +1,16 @@
 ---
-title: createElement()
+title: createElement
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-createElement(tag: string): RmlElement;
+public createElement(tag: string): RmlElement;
 ```
+
+## Documentation
+
+<!--@include: ./parts/createElement.md-->

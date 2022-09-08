@@ -1,14 +1,16 @@
 ---
-title: getMemoryProfile()
+title: getMemoryProfile
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static getMemoryProfile(): void;
+public static getMemoryProfile(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getMemoryProfile.md-->

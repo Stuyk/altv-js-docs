@@ -1,14 +1,16 @@
 ---
-title: repair()
+title: repair
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Repairs the vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-repair(): void;
+public repair(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/repair.md-->

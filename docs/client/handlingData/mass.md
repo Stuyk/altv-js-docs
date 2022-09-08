@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-mass: number;
+public mass: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/mass.md-->

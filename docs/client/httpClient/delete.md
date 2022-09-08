@@ -1,14 +1,16 @@
 ---
-title: delete()
+title: delete
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-delete(url: string, body: string): Promise<IHttpResponse>;
+public delete(url: string, body: string): Promise<IHttpResponse>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/delete.md-->

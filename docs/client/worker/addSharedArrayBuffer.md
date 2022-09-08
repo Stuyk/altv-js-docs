@@ -1,14 +1,16 @@
 ---
-title: addSharedArrayBuffer()
+title: addSharedArrayBuffer
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Adds a shared array buffer to the workers array buffer pool.
-
-## Usage
+## Function Definition
 
 ```ts
-static addSharedArrayBuffer(buffer: SharedArrayBuffer): number;
+public static addSharedArrayBuffer(buffer: SharedArrayBuffer): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/addSharedArrayBuffer.md-->

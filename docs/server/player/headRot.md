@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly headRot: shared.Vector3;
+public readonly headRot: shared.Vector3;
 ```
+
+## Documentation
+
+<!--@include: ./parts/headRot.md-->

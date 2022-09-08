@@ -1,14 +1,16 @@
 ---
-title: playAmbientSpeech()
+title: playAmbientSpeech
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Plays ambient speech.
-
-## Usage
+## Function Definition
 
 ```ts
-playAmbientSpeech(speechName: string, speechParam: string, speechDictHash: number): void;
+public playAmbientSpeech(speechName: string, speechParam: string, speechDictHash: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/playAmbientSpeech.md-->

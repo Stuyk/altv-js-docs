@@ -1,14 +1,16 @@
 ---
-title: save()
+title: save
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Saves the changes to the disk.
-
-## Usage
+## Function Definition
 
 ```ts
-static save(): void;
+public static save(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/save.md-->

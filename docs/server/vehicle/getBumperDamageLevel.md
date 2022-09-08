@@ -1,14 +1,16 @@
 ---
-title: getBumperDamageLevel()
+title: getBumperDamageLevel
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getBumperDamageLevel<T extends number, V extends number = VehicleBumperDamage>(bumperId: T): V;
+public getBumperDamageLevel<T extends number, V extends number = VehicleBumperDamage>(bumperId: T): V;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getBumperDamageLevel.md-->

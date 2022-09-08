@@ -1,14 +1,16 @@
 ---
-title: setStreamSyncedMeta()
+title: setStreamSyncedMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@deprecated See {@link "alt-shared".ICustomPlayerStreamSyncedMeta} 
-
-## Usage
+## Function Definition
 
 ```ts
-setStreamSyncedMeta<V extends any, K extends string = string>(key: K, value: shared.InterfaceValueByKey<shared.ICustomPlayerStreamSyncedMeta, K, V>): void;
+public setStreamSyncedMeta<V extends any, K extends string = string>(key: K, value: shared.InterfaceValueByKey<shared.ICustomPlayerStreamSyncedMeta, K, V>): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setStreamSyncedMeta.md-->

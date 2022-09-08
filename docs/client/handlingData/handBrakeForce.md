@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-handBrakeForce: number;
+public handBrakeForce: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/handBrakeForce.md-->

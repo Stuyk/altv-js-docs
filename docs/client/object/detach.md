@@ -1,14 +1,16 @@
 ---
-title: detach()
+title: detach
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Detaches the object from the current attached entity.
-
-## Usage
+## Function Definition
 
 ```ts
-detach(dynamic?: boolean): void;
+public detach(dynamic?: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/detach.md-->

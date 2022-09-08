@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly nameHash: number;
+public readonly nameHash: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/nameHash.md-->

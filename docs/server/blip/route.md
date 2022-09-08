@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-route: boolean;
+public route: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/route.md-->

@@ -1,14 +1,16 @@
 ---
-title: getByID()
+title: getByID
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Retrieves the entity from the pool.
-
-## Usage
+## Function Definition
 
 ```ts
-static getByID(id: number): Entity | null;
+public static getByID(id: number): Entity | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getByID.md-->

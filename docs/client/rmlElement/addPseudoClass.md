@@ -1,14 +1,16 @@
 ---
-title: addPseudoClass()
+title: addPseudoClass
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-addPseudoClass(name: string): boolean;
+public addPseudoClass(name: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/addPseudoClass.md-->

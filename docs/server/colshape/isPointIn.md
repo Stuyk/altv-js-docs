@@ -1,14 +1,16 @@
 ---
-title: isPointIn()
+title: isPointIn
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-isPointIn(position: shared.IVector3): boolean;
+public isPointIn(position: shared.IVector3): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isPointIn.md-->

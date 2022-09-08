@@ -1,14 +1,16 @@
 ---
-title: short()
+title: short
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-short(offset: number): number;
+public short(offset: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/short.md-->

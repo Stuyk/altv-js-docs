@@ -1,14 +1,16 @@
 ---
-title: ushort()
+title: ushort
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-ushort(offset: number): number;
+public ushort(offset: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/ushort.md-->

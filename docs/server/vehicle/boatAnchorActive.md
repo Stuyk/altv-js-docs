@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the status of the boat anchor.
-
-## Usage
+## Function Definition
 
 ```ts
-boatAnchorActive: boolean;
+public boatAnchorActive: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/boatAnchorActive.md-->

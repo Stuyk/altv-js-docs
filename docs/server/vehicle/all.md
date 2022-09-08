@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Array with all vehicles.
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly all: Array<Vehicle>;
+public static readonly all: Array<Vehicle>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/all.md-->

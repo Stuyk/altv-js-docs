@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly voiceControlsEnabled: boolean;
+public static readonly voiceControlsEnabled: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/voiceControlsEnabled.md-->

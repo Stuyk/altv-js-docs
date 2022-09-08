@@ -1,14 +1,16 @@
 ---
-title: clearProp()
+title: clearProp
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Removes a specified prop component.
-
-## Usage
+## Function Definition
 
 ```ts
-clearProp(component: number): void;
+public clearProp(component: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/clearProp.md-->

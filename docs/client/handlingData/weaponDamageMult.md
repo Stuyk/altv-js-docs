@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-weaponDamageMult: number;
+public weaponDamageMult: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/weaponDamageMult.md-->

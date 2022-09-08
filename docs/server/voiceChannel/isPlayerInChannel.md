@@ -1,14 +1,16 @@
 ---
-title: isPlayerInChannel()
+title: isPlayerInChannel
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-isPlayerInChannel(player: Player): boolean;
+public isPlayerInChannel(player: Player): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isPlayerInChannel.md-->

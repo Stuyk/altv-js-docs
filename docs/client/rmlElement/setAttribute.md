@@ -1,14 +1,16 @@
 ---
-title: setAttribute()
+title: setAttribute
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setAttribute(name: string, value: string): void;
+public setAttribute(name: string, value: string): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setAttribute.md-->

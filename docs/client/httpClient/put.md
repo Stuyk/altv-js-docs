@@ -1,14 +1,16 @@
 ---
-title: put()
+title: put
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-put(url: string, body: string): Promise<IHttpResponse>;
+public put(url: string, body: string): Promise<IHttpResponse>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/put.md-->

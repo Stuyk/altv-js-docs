@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Array with all streamed in players.
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly streamedIn: ReadonlyArray<Player>;
+public static readonly streamedIn: ReadonlyArray<Player>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/streamedIn.md-->

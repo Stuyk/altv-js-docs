@@ -1,14 +1,16 @@
 ---
-title: querySelectorAll()
+title: querySelectorAll
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-querySelectorAll(selector: string): ReadonlyArray<RmlElement>;
+public querySelectorAll(selector: string): ReadonlyArray<RmlElement>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/querySelectorAll.md-->

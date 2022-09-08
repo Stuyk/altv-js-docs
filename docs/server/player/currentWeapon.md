@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-currentWeapon: number;
+public currentWeapon: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/currentWeapon.md-->

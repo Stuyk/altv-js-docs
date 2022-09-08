@@ -1,14 +1,16 @@
 ---
-title: getProperty()
+title: getProperty
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getProperty(name: string): string;
+public getProperty(name: string): string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getProperty.md-->

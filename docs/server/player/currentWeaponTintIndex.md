@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly currentWeaponTintIndex: number;
+public readonly currentWeaponTintIndex: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/currentWeaponTintIndex.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-steeringLockRatio: number;
+public steeringLockRatio: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/steeringLockRatio.md-->

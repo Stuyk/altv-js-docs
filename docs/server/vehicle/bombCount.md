@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-bombCount: number;
+public bombCount: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/bombCount.md-->

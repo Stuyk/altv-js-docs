@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly hasTimedExplosion: boolean;
+public readonly hasTimedExplosion: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasTimedExplosion.md-->

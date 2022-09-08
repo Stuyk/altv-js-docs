@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-scale: number;
+public scale: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/scale.md-->

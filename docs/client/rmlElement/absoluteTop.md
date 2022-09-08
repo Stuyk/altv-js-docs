@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly absoluteTop: number;
+public readonly absoluteTop: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/absoluteTop.md-->

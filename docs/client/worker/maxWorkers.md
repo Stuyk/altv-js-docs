@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Maximum available workers per resource.
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly maxWorkers: number;
+public static readonly maxWorkers: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/maxWorkers.md-->

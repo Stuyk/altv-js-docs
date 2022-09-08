@@ -1,14 +1,16 @@
 ---
-title: set()
+title: set
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the specified key to the specified value in the local storage.
-
-## Usage
+## Function Definition
 
 ```ts
-static set(key: string, value: any): void;
+public static set(key: string, value: any): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/set.md-->

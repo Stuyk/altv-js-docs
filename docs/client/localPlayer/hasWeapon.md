@@ -1,14 +1,16 @@
 ---
-title: hasWeapon()
+title: hasWeapon
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-hasWeapon(weaponName: string): boolean;
+public hasWeapon(weaponName: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasWeapon.md-->

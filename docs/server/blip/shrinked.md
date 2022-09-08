@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-shrinked: boolean;
+public shrinked: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/shrinked.md-->

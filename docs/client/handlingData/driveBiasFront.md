@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-driveBiasFront: number;
+public driveBiasFront: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/driveBiasFront.md-->

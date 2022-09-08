@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly path: string;
+public readonly path: string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/path.md-->

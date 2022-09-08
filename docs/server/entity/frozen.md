@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-frozen: boolean;
+public frozen: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/frozen.md-->

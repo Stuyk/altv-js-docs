@@ -1,14 +1,16 @@
 ---
-title: removeAttribute()
+title: removeAttribute
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-removeAttribute(name: string): boolean;
+public removeAttribute(name: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/removeAttribute.md-->

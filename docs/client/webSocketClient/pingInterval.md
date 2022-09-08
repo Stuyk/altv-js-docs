@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Optional heartbeat, sent every x seconds when there isn't any traffic.
-
-## Usage
+## Function Definition
 
 ```ts
-pingInterval: number;
+public pingInterval: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/pingInterval.md-->

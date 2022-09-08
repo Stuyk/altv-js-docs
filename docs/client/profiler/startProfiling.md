@@ -1,14 +1,16 @@
 ---
-title: startProfiling()
+title: startProfiling
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Starts a new profile with the specified name.
-
-## Usage
+## Function Definition
 
 ```ts
-static startProfiling(profileName?: string): void;
+public static startProfiling(profileName?: string): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/startProfiling.md-->

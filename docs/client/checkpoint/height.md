@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-height: number;
+public height: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/height.md-->

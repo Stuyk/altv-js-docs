@@ -1,14 +1,16 @@
 ---
-title: drawText3dThisFrame()
+title: drawText3dThisFrame
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-static drawText3dThisFrame(text: string, pos3d?: shared.IVector3, font?: GameFont, scale?: number, color?: shared.RGBA, outline?: boolean, dropShadow?: boolean): void;
+public static drawText3dThisFrame(text: string, pos3d?: shared.IVector3, font?: GameFont, scale?: number, color?: shared.RGBA, outline?: boolean, dropShadow?: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/drawText3dThisFrame.md-->

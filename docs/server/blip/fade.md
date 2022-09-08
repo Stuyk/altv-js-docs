@@ -1,14 +1,16 @@
 ---
-title: fade()
+title: fade
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-fade(opacity: number, duration: number): void;
+public fade(opacity: number, duration: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/fade.md-->

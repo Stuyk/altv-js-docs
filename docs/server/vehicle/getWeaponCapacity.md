@@ -1,14 +1,16 @@
 ---
-title: getWeaponCapacity()
+title: getWeaponCapacity
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-getWeaponCapacity(weaponIndex: number): number;
+public getWeaponCapacity(weaponIndex: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getWeaponCapacity.md-->

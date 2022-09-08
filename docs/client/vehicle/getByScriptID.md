@@ -1,14 +1,16 @@
 ---
-title: getByScriptID()
+title: getByScriptID
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Retrieves the vehicle from the pool.
-
-## Usage
+## Function Definition
 
 ```ts
-static getByScriptID(scriptID: number): Vehicle | null;
+public static getByScriptID(scriptID: number): Vehicle | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getByScriptID.md-->

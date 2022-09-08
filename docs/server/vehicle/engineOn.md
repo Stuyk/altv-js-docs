@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the engine state of the vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-engineOn: boolean;
+public engineOn: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/engineOn.md-->

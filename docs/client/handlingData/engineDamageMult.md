@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-engineDamageMult: number;
+public engineDamageMult: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/engineDamageMult.md-->

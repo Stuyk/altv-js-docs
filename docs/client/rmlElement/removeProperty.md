@@ -1,14 +1,16 @@
 ---
-title: removeProperty()
+title: removeProperty
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-removeProperty(name: string): boolean;
+public removeProperty(name: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/removeProperty.md-->

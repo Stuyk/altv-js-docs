@@ -1,14 +1,16 @@
 ---
-title: addSubProtocol()
+title: addSubProtocol
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Adds a sub protocol to the websocket.
-
-## Usage
+## Function Definition
 
 ```ts
-addSubProtocol(protocol: string): void;
+public addSubProtocol(protocol: string): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/addSubProtocol.md-->

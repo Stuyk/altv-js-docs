@@ -1,14 +1,16 @@
 ---
-title: getHealthDataBase64()
+title: getHealthDataBase64
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns the health data of a vehicle as a base64 string.
-
-## Usage
+## Function Definition
 
 ```ts
-getHealthDataBase64(): string;
+public getHealthDataBase64(): string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getHealthDataBase64.md-->

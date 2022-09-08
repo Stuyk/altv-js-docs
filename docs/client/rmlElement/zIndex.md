@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly zIndex: number;
+public readonly zIndex: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/zIndex.md-->

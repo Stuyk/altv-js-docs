@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-rocketRefuelSpeed: number;
+public rocketRefuelSpeed: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/rocketRefuelSpeed.md-->

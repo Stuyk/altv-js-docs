@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly profilesRunning: number;
+public static readonly profilesRunning: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/profilesRunning.md-->

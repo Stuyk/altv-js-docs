@@ -1,14 +1,16 @@
 ---
-title: getEyeColor()
+title: getEyeColor
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getEyeColor(): number;
+public getEyeColor(): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getEyeColor.md-->

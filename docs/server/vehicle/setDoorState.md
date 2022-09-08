@@ -1,14 +1,16 @@
 ---
-title: setDoorState()
+title: setDoorState
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setDoorState<T extends number, V extends number = VehicleDoorState>(doorId: T, state: V): void;
+public setDoorState<T extends number, V extends number = VehicleDoorState>(doorId: T, state: V): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setDoorState.md-->

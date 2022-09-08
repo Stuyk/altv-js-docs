@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets if the car has armored windows.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly hasArmoredWindows: boolean;
+public readonly hasArmoredWindows: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasArmoredWindows.md-->

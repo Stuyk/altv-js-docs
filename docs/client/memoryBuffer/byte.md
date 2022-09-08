@@ -1,14 +1,16 @@
 ---
-title: byte()
+title: byte
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-byte(offset: number): number;
+public byte(offset: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/byte.md-->

@@ -1,14 +1,16 @@
 ---
-title: hasMeta()
+title: hasMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-hasMeta<K extends shared.ExtractStringKeys<ICustomVoiceChannelMeta>>(key: K): boolean;
+public hasMeta<K extends shared.ExtractStringKeys<ICustomVoiceChannelMeta>>(key: K): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasMeta.md-->

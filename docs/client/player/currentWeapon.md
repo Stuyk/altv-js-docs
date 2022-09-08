@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Currently equipped weapon.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly currentWeapon: number;
+public readonly currentWeapon: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/currentWeapon.md-->

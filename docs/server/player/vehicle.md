@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly vehicle: Vehicle | null;
+public readonly vehicle: Vehicle | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/vehicle.md-->

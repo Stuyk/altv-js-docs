@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isSpawned: boolean;
+public readonly isSpawned: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isSpawned.md-->

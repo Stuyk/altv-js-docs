@@ -1,14 +1,16 @@
 ---
-title: blur()
+title: blur
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-blur(): void;
+public blur(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/blur.md-->

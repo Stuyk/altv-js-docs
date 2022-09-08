@@ -1,14 +1,16 @@
 ---
-title: isWheelDetached()
+title: isWheelDetached
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns if a specific wheel is detached.
-
-## Usage
+## Function Definition
 
 ```ts
-isWheelDetached(wheelId: number): boolean;
+public isWheelDetached(wheelId: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isWheelDetached.md-->

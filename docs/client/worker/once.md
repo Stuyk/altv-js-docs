@@ -1,14 +1,16 @@
 ---
-title: once()
+title: once
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Listens to an event emitted by the worker once.
-
-## Usage
+## Function Definition
 
 ```ts
-once(eventName: string, callback: (...args: any[]) => void): void;
+public once(eventName: string, callback: (...args: any[]) => void): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/once.md-->

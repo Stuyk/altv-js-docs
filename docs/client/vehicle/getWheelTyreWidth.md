@@ -1,14 +1,16 @@
 ---
-title: getWheelTyreWidth()
+title: getWheelTyreWidth
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Gets the tyre width the specified wheel.
-
-## Usage
+## Function Definition
 
 ```ts
-getWheelTyreWidth(wheelIndex: number): number;
+public getWheelTyreWidth(wheelIndex: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getWheelTyreWidth.md-->

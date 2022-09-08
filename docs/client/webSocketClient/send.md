@@ -1,14 +1,16 @@
 ---
-title: send()
+title: send
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sends the specified message to the websocket server.
-
-## Usage
+## Function Definition
 
 ```ts
-send(message: string | ArrayBuffer | ArrayBufferView): boolean;
+public send(message: string | ArrayBuffer | ArrayBufferView): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/send.md-->

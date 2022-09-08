@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-suspensionRaise: number;
+public suspensionRaise: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/suspensionRaise.md-->

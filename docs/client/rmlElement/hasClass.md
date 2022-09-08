@@ -1,14 +1,16 @@
 ---
-title: hasClass()
+title: hasClass
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-hasClass(name: string): boolean;
+public hasClass(name: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasClass.md-->

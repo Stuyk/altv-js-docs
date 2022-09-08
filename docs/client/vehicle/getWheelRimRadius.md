@@ -1,14 +1,16 @@
 ---
-title: getWheelRimRadius()
+title: getWheelRimRadius
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Gets the rim radius of the specified wheel.
-
-## Usage
+## Function Definition
 
 ```ts
-getWheelRimRadius(wheelIndex: number): number;
+public getWheelRimRadius(wheelIndex: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getWheelRimRadius.md-->

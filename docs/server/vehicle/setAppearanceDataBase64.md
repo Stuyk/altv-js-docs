@@ -1,14 +1,16 @@
 ---
-title: setAppearanceDataBase64()
+title: setAppearanceDataBase64
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the appearance of a vehicle with a base64 string.
-
-## Usage
+## Function Definition
 
 ```ts
-setAppearanceDataBase64(data: string): void;
+public setAppearanceDataBase64(data: string): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setAppearanceDataBase64.md-->

@@ -1,14 +1,16 @@
 ---
-title: getArmoredWindowShootCount()
+title: getArmoredWindowShootCount
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns the amount of shoots that a specific armoured window received.
-
-## Usage
+## Function Definition
 
 ```ts
-getArmoredWindowShootCount(windowId: number): number;
+public getArmoredWindowShootCount(windowId: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getArmoredWindowShootCount.md-->

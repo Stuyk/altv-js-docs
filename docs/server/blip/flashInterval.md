@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-flashInterval: number;
+public flashInterval: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/flashInterval.md-->

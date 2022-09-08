@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly flashlightActive: boolean;
+public readonly flashlightActive: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/flashlightActive.md-->

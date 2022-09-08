@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-vehicleReloadTime: number;
+public vehicleReloadTime: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/vehicleReloadTime.md-->

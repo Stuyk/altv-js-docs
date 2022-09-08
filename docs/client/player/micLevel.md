@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Player talking volume 
-
-## Usage
+## Function Definition
 
 ```ts
-readonly micLevel: number;
+public readonly micLevel: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/micLevel.md-->

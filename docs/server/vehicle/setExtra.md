@@ -1,14 +1,16 @@
 ---
-title: setExtra()
+title: setExtra
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the state of an extra of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-setExtra(extraId: number, state: boolean): void;
+public setExtra(extraId: number, state: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setExtra.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Whether the object is affected by gravity. 
-
-## Usage
+## Function Definition
 
 ```ts
-hasGravity: boolean;
+public hasGravity: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasGravity.md-->

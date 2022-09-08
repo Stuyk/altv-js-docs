@@ -1,14 +1,16 @@
 ---
-title: getSubProtocols()
+title: getSubProtocols
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Gets all added sub protocols.
-
-## Usage
+## Function Definition
 
 ```ts
-getSubProtocols(): string[];
+public getSubProtocols(): string[];
 ```
+
+## Documentation
+
+<!--@include: ./parts/getSubProtocols.md-->

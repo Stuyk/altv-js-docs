@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Vehicle wheels speed.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly speed: number;
+public readonly speed: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/speed.md-->

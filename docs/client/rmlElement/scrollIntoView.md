@@ -1,14 +1,16 @@
 ---
-title: scrollIntoView()
+title: scrollIntoView
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-scrollIntoView(alignToTop?: boolean): void;
+public scrollIntoView(alignToTop?: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/scrollIntoView.md-->

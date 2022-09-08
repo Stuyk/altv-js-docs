@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Vehicle wheels count.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly wheelsCount: number;
+public readonly wheelsCount: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/wheelsCount.md-->

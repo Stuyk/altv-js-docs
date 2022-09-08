@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the lock state of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-lockState: shared.VehicleLockState;
+public lockState: shared.VehicleLockState;
 ```
+
+## Documentation
+
+<!--@include: ./parts/lockState.md-->

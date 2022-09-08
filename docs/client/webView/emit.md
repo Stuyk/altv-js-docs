@@ -1,14 +1,16 @@
 ---
-title: emit()
+title: emit
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Emits specified event across particular WebView.
-
-## Usage
+## Function Definition
 
 ```ts
-emit(eventName: string, ...args: any[]): void;
+public emit(eventName: string, ...args: any[]): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/emit.md-->

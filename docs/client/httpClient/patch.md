@@ -1,14 +1,16 @@
 ---
-title: patch()
+title: patch
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-patch(url: string, body: string): Promise<IHttpResponse>;
+public patch(url: string, body: string): Promise<IHttpResponse>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/patch.md-->

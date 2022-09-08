@@ -1,14 +1,16 @@
 ---
-title: getExtraHeaders()
+title: getExtraHeaders
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getExtraHeaders(): Record<string, string>;
+public getExtraHeaders(): Record<string, string>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getExtraHeaders.md-->

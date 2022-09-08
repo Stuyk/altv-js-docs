@@ -1,14 +1,16 @@
 ---
-title: getHeadBlendPaletteColor()
+title: getHeadBlendPaletteColor
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getHeadBlendPaletteColor(id: number): shared.RGBA;
+public getHeadBlendPaletteColor(id: number): shared.RGBA;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getHeadBlendPaletteColor.md-->

@@ -1,14 +1,16 @@
 ---
-title: getScriptDataBase64()
+title: getScriptDataBase64
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns the script data of a vehicle as a base64 string.
-
-## Usage
+## Function Definition
 
 ```ts
-getScriptDataBase64(): string;
+public getScriptDataBase64(): string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getScriptDataBase64.md-->

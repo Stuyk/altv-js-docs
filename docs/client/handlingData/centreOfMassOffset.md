@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-centreOfMassOffset: shared.Vector3;
+public centreOfMassOffset: shared.Vector3;
 ```
+
+## Documentation
+
+<!--@include: ./parts/centreOfMassOffset.md-->

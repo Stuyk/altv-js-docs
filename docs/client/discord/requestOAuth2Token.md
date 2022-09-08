@@ -1,14 +1,16 @@
 ---
-title: requestOAuth2Token()
+title: requestOAuth2Token
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static requestOAuth2Token(appId: string): Promise<string>;
+public static requestOAuth2Token(appId: string): Promise<string>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/requestOAuth2Token.md-->

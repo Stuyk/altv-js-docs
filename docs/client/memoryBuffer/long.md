@@ -1,14 +1,16 @@
 ---
-title: long()
+title: long
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-long(offset: number): bigint;
+public long(offset: number): bigint;
 ```
+
+## Documentation
+
+<!--@include: ./parts/long.md-->

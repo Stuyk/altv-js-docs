@@ -1,14 +1,16 @@
 ---
-title: getProp()
+title: getProp
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Gets the specified prop component.
-
-## Usage
+## Function Definition
 
 ```ts
-getProp(component: number): IProp;
+public getProp(component: number): IProp;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getProp.md-->

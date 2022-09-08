@@ -1,14 +1,16 @@
 ---
-title: hasAttribute()
+title: hasAttribute
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-hasAttribute(name: string): boolean;
+public hasAttribute(name: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasAttribute.md-->

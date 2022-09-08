@@ -1,14 +1,16 @@
 ---
-title: getWheelCamber()
+title: getWheelCamber
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Gets the camber angle of the specified wheel.
-
-## Usage
+## Function Definition
 
 ```ts
-getWheelCamber(wheelIndex: number): number;
+public getWheelCamber(wheelIndex: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getWheelCamber.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets the maximum amount of vehicle mod kits available.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly modKitsCount: number;
+public readonly modKitsCount: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/modKitsCount.md-->

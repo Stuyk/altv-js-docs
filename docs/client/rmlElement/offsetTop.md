@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly offsetTop: number;
+public readonly offsetTop: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/offsetTop.md-->

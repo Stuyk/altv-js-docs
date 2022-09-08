@@ -1,14 +1,16 @@
 ---
-title: stopProfiling()
+title: stopProfiling
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Stops the profile with the specified name.
-
-## Usage
+## Function Definition
 
 ```ts
-static stopProfiling(profileName?: string): IProfile;
+public static stopProfiling(profileName?: string): IProfile;
 ```
+
+## Documentation
+
+<!--@include: ./parts/stopProfiling.md-->

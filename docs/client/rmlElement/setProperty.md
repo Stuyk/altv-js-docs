@@ -1,14 +1,16 @@
 ---
-title: setProperty()
+title: setProperty
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setProperty(name: string, value: string): boolean;
+public setProperty(name: string, value: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setProperty.md-->

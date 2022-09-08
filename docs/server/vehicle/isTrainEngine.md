@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets if the train is the engine of the train.
-
-## Usage
+## Function Definition
 
 ```ts
-isTrainEngine: boolean;
+public isTrainEngine: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isTrainEngine.md-->

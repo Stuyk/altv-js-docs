@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the custom secondary color as a RGBA type.
-
-## Usage
+## Function Definition
 
 ```ts
-customSecondaryColor: shared.RGBA;
+public customSecondaryColor: shared.RGBA;
 ```
+
+## Documentation
+
+<!--@include: ./parts/customSecondaryColor.md-->

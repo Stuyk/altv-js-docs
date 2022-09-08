@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-recoilShakeAmplitude: number;
+public recoilShakeAmplitude: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/recoilShakeAmplitude.md-->

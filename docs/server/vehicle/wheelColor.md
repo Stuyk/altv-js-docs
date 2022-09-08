@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the wheel color.
-
-## Usage
+## Function Definition
 
 ```ts
-wheelColor: number;
+public wheelColor: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/wheelColor.md-->

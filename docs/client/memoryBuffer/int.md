@@ -1,14 +1,16 @@
 ---
-title: int()
+title: int
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-int(offset: number): number;
+public int(offset: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/int.md-->

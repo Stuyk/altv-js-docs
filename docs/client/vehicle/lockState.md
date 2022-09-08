@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Vehicle lock state.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly lockState: shared.VehicleLockState;
+public readonly lockState: shared.VehicleLockState;
 ```
+
+## Documentation
+
+<!--@include: ./parts/lockState.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly clientLeft: number;
+public readonly clientLeft: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/clientLeft.md-->

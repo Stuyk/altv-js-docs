@@ -1,14 +1,16 @@
 ---
-title: delete()
+title: delete
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Deletes the specified key from the local storage.
-
-## Usage
+## Function Definition
 
 ```ts
-static delete(key: string): void;
+public static delete(key: string): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/delete.md-->

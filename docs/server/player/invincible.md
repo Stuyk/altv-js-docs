@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-invincible: boolean;
+public invincible: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/invincible.md-->

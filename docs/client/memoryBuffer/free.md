@@ -1,14 +1,16 @@
 ---
-title: free()
+title: free
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-free(): boolean;
+public free(): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/free.md-->

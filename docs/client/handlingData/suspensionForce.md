@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-suspensionForce: number;
+public suspensionForce: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/suspensionForce.md-->

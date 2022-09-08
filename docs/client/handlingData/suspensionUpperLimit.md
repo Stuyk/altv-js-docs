@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-suspensionUpperLimit: number;
+public suspensionUpperLimit: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/suspensionUpperLimit.md-->

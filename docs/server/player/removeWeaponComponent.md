@@ -1,14 +1,16 @@
 ---
-title: removeWeaponComponent()
+title: removeWeaponComponent
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Removes the specified weapon component from the specified weapon.
-
-## Usage
+## Function Definition
 
 ```ts
-removeWeaponComponent(weaponHash: number, component: number): void;
+public removeWeaponComponent(weaponHash: number, component: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/removeWeaponComponent.md-->

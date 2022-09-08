@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-fZoomScale: number;
+public fZoomScale: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/fZoomScale.md-->

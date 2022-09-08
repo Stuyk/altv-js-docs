@@ -1,14 +1,16 @@
 ---
-title: getByScriptID()
+title: getByScriptID
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Retrieves the player from the pool.
-
-## Usage
+## Function Definition
 
 ```ts
-static getByScriptID(scriptID: number): Player | null;
+public static getByScriptID(scriptID: number): Player | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getByScriptID.md-->

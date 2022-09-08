@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly socialID: string;
+public readonly socialID: string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/socialID.md-->

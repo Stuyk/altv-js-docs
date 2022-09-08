@@ -1,14 +1,16 @@
 ---
-title: setWeather()
+title: setWeather
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setWeather<T extends number>(weatherType: T): void;
+public setWeather<T extends number>(weatherType: T): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWeather.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly strafeSpeed: number;
+public readonly strafeSpeed: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/strafeSpeed.md-->

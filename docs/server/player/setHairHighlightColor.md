@@ -1,14 +1,16 @@
 ---
-title: setHairHighlightColor()
+title: setHairHighlightColor
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setHairHighlightColor(hairHighlightColor: number): void;
+public setHairHighlightColor(hairHighlightColor: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setHairHighlightColor.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Ammo of the currently held weapon.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly currentAmmo: number;
+public readonly currentAmmo: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/currentAmmo.md-->

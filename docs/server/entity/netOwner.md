@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Network owner of the entity.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly netOwner: Player | null;
+public readonly netOwner: Player | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/netOwner.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-nextPos: shared.Vector3;
+public nextPos: shared.Vector3;
 ```
+
+## Documentation
+
+<!--@include: ./parts/nextPos.md-->

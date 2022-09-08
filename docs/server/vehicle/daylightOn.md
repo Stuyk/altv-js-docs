@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets the current state of the daylights.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly daylightOn: boolean;
+public readonly daylightOn: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/daylightOn.md-->

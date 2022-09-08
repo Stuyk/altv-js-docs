@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Player talking state 
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isTalking: boolean;
+public readonly isTalking: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isTalking.md-->

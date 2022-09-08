@@ -1,14 +1,16 @@
 ---
-title: setNetOwner()
+title: setNetOwner
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Changes network owner to the specified player.
-
-## Usage
+## Function Definition
 
 ```ts
-setNetOwner(player: Player, disableMigration?: boolean): void;
+public setNetOwner(player: Player, disableMigration?: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setNetOwner.md-->

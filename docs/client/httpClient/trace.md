@@ -1,14 +1,16 @@
 ---
-title: trace()
+title: trace
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-trace(url: string, body: string): Promise<IHttpResponse>;
+public trace(url: string, body: string): Promise<IHttpResponse>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/trace.md-->

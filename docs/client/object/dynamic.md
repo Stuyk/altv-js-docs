@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly dynamic: boolean;
+public readonly dynamic: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/dynamic.md-->

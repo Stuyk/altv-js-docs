@@ -1,14 +1,16 @@
 ---
-title: setEyeColor()
+title: setEyeColor
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setEyeColor(eyeColor: number): boolean;
+public setEyeColor(eyeColor: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setEyeColor.md-->

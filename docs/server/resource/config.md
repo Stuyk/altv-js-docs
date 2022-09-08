@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly config: IResourceConfig;
+public readonly config: IResourceConfig;
 ```
+
+## Documentation
+
+<!--@include: ./parts/config.md-->

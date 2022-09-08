@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-url: string;
+public url: string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/url.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Set & get the volume for 2D Voice.
-
-## Usage
+## Function Definition
 
 ```ts
-nonSpatialVolume: number;
+public nonSpatialVolume: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/nonSpatialVolume.md-->

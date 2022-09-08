@@ -1,14 +1,16 @@
 ---
-title: setLightDamaged()
+title: setLightDamaged
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets a specific light of the vehicle either damaged or not.
-
-## Usage
+## Function Definition
 
 ```ts
-setLightDamaged(lightId: number, isDamaged: boolean): void;
+public setLightDamaged(lightId: number, isDamaged: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setLightDamaged.md-->

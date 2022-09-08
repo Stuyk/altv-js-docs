@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Current weapon components.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly currentWeaponComponents: ReadonlyArray<number>;
+public readonly currentWeaponComponents: ReadonlyArray<number>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/currentWeaponComponents.md-->

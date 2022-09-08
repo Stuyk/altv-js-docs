@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-textureVariation: number;
+public textureVariation: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/textureVariation.md-->

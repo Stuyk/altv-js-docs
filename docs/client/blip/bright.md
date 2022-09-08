@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-bright: boolean;
+public bright: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/bright.md-->

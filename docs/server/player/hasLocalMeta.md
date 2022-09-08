@@ -1,14 +1,16 @@
 ---
-title: hasLocalMeta()
+title: hasLocalMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-hasLocalMeta<K extends shared.ExtractStringKeys<shared.ICustomPlayerLocalMeta>>(key: K): boolean;
+public hasLocalMeta<K extends shared.ExtractStringKeys<shared.ICustomPlayerLocalMeta>>(key: K): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasLocalMeta.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-tractionBiasRear: number;
+public tractionBiasRear: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/tractionBiasRear.md-->

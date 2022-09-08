@@ -1,14 +1,16 @@
 ---
-title: getClothes()
+title: getClothes
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Gets the specified clothing component.
-
-## Usage
+## Function Definition
 
 ```ts
-getClothes(component: number): ICloth;
+public getClothes(component: number): ICloth;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getClothes.md-->

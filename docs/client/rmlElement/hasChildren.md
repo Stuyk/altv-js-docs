@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly hasChildren: boolean;
+public readonly hasChildren: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hasChildren.md-->

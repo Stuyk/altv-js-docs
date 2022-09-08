@@ -1,14 +1,16 @@
 ---
-title: setWindowOpened()
+title: setWindowOpened
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets if a specific window is open.
-
-## Usage
+## Function Definition
 
 ```ts
-setWindowOpened(windowId: number, state: boolean): void;
+public setWindowOpened(windowId: number, state: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWindowOpened.md-->

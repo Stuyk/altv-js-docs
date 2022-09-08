@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the dashboard color of the vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-dashboardColor: number;
+public dashboardColor: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/dashboardColor.md-->

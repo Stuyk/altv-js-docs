@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-pulse: boolean;
+public pulse: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/pulse.md-->

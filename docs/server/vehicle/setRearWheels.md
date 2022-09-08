@@ -1,14 +1,16 @@
 ---
-title: setRearWheels()
+title: setRearWheels
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets type of the rear wheels.
-
-## Usage
+## Function Definition
 
 ```ts
-setRearWheels(wheelId: number): void;
+public setRearWheels(wheelId: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setRearWheels.md-->

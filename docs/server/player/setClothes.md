@@ -1,14 +1,16 @@
 ---
-title: setClothes()
+title: setClothes
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the specified clothing component.
-
-## Usage
+## Function Definition
 
 ```ts
-setClothes(component: number, drawable: number, texture: number, palette?: number): void;
+public setClothes(component: number, drawable: number, texture: number, palette?: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setClothes.md-->

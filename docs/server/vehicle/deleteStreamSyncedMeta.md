@@ -1,14 +1,16 @@
 ---
-title: deleteStreamSyncedMeta()
+title: deleteStreamSyncedMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-deleteStreamSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomVehicleStreamSyncedMeta>>(key: K): void;
+public deleteStreamSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomVehicleStreamSyncedMeta>>(key: K): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/deleteStreamSyncedMeta.md-->

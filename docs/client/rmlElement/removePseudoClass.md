@@ -1,14 +1,16 @@
 ---
-title: removePseudoClass()
+title: removePseudoClass
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-removePseudoClass(name: string): boolean;
+public removePseudoClass(name: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/removePseudoClass.md-->

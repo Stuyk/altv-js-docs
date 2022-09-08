@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Is the player currently in ragdoll.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isInRagdoll: boolean;
+public readonly isInRagdoll: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isInRagdoll.md-->

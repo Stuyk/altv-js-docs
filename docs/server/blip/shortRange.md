@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-shortRange: boolean;
+public shortRange: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/shortRange.md-->

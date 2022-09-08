@@ -1,14 +1,16 @@
 ---
-title: getForHash()
+title: getForHash
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Initializes a new instance of the {@link WeaponData}.
-
-## Usage
+## Function Definition
 
 ```ts
-static getForHash(weaponHash: number): WeaponData;
+public static getForHash(weaponHash: number): WeaponData;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getForHash.md-->

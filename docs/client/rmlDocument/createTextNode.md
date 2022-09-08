@@ -1,14 +1,16 @@
 ---
-title: createTextNode()
+title: createTextNode
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-createTextNode(text: string): RmlElement;
+public createTextNode(text: string): RmlElement;
 ```
+
+## Documentation
+
+<!--@include: ./parts/createTextNode.md-->

@@ -1,14 +1,16 @@
 ---
-title: getModsCount()
+title: getModsCount
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getModsCount<T extends number>(modType: T): number;
+public getModsCount<T extends number>(modType: T): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getModsCount.md-->

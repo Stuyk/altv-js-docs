@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the current engine health.
-
-## Usage
+## Function Definition
 
 ```ts
-engineHealth: number;
+public engineHealth: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/engineHealth.md-->

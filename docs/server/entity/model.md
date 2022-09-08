@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Entity model hash.
-
-## Usage
+## Function Definition
 
 ```ts
-model: number | string;
+public model: number | string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/model.md-->

@@ -1,14 +1,16 @@
 ---
-title: clearFocus()
+title: clearFocus
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static clearFocus(): void;
+public static clearFocus(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/clearFocus.md-->

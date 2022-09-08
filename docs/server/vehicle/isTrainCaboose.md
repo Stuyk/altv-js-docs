@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets if the train is a caboose.
-
-## Usage
+## Function Definition
 
 ```ts
-isTrainCaboose: boolean;
+public isTrainCaboose: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isTrainCaboose.md-->

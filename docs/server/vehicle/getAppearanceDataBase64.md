@@ -1,14 +1,16 @@
 ---
-title: getAppearanceDataBase64()
+title: getAppearanceDataBase64
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns the appearance of a vehicle as a base64 string.
-
-## Usage
+## Function Definition
 
 ```ts
-getAppearanceDataBase64(): string;
+public getAppearanceDataBase64(): string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getAppearanceDataBase64.md-->

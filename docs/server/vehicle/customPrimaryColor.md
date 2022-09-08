@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the custom primary color as a RGBA type.
-
-## Usage
+## Function Definition
 
 ```ts
-customPrimaryColor: shared.RGBA;
+public customPrimaryColor: shared.RGBA;
 ```
+
+## Documentation
+
+<!--@include: ./parts/customPrimaryColor.md-->

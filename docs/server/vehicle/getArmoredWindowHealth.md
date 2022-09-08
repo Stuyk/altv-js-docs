@@ -1,14 +1,16 @@
 ---
-title: getArmoredWindowHealth()
+title: getArmoredWindowHealth
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns the health of a specific armored window.
-
-## Usage
+## Function Definition
 
 ```ts
-getArmoredWindowHealth(windowId: number): number;
+public getArmoredWindowHealth(windowId: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getArmoredWindowHealth.md-->

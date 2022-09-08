@@ -1,14 +1,16 @@
 ---
-title: addClass()
+title: addClass
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-addClass(name: string): boolean;
+public addClass(name: string): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/addClass.md-->

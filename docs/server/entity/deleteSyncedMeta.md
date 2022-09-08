@@ -1,14 +1,16 @@
 ---
-title: deleteSyncedMeta()
+title: deleteSyncedMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-deleteSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomEntitySyncedMeta>>(key: K): void;
+public deleteSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomEntitySyncedMeta>>(key: K): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/deleteSyncedMeta.md-->

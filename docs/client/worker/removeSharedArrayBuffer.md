@@ -1,14 +1,16 @@
 ---
-title: removeSharedArrayBuffer()
+title: removeSharedArrayBuffer
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Removes the shared array buffer from the workers array buffer pool.
-
-## Usage
+## Function Definition
 
 ```ts
-static removeSharedArrayBuffer(id: number): void;
+public static removeSharedArrayBuffer(id: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/removeSharedArrayBuffer.md-->

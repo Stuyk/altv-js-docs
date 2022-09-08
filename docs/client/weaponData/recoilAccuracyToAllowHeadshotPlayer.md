@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-recoilAccuracyToAllowHeadshotPlayer: number;
+public recoilAccuracyToAllowHeadshotPlayer: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/recoilAccuracyToAllowHeadshotPlayer.md-->

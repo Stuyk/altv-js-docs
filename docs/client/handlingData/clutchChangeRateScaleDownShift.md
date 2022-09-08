@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-clutchChangeRateScaleDownShift: number;
+public clutchChangeRateScaleDownShift: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/clutchChangeRateScaleDownShift.md-->

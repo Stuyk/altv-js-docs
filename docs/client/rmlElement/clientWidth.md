@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly clientWidth: number;
+public readonly clientWidth: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/clientWidth.md-->

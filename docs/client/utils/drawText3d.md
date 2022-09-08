@@ -1,14 +1,16 @@
 ---
-title: drawText3d()
+title: drawText3d
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-static drawText3d(text: string, pos3d?: shared.IVector3, font?: GameFont, scale?: number, color?: shared.RGBA, outline?: boolean, dropShadow?: boolean): shared.EveryTick;
+public static drawText3d(text: string, pos3d?: shared.IVector3, font?: GameFont, scale?: number, color?: shared.RGBA, outline?: boolean, dropShadow?: boolean): shared.EveryTick;
 ```
+
+## Documentation
+
+<!--@include: ./parts/drawText3d.md-->

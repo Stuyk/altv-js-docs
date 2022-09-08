@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Rotation of the head of the player.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly headRot: shared.Vector3;
+public readonly headRot: shared.Vector3;
 ```
+
+## Documentation
+
+<!--@include: ./parts/headRot.md-->

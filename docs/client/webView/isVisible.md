@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-View visibility state 
-
-## Usage
+## Function Definition
 
 ```ts
-isVisible: boolean;
+public isVisible: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isVisible.md-->

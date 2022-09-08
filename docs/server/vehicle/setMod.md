@@ -1,14 +1,16 @@
 ---
-title: setMod()
+title: setMod
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setMod<T extends number>(modType: T, modId: number): void;
+public setMod<T extends number>(modType: T, modId: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setMod.md-->

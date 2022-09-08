@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly ping: number;
+public readonly ping: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/ping.md-->

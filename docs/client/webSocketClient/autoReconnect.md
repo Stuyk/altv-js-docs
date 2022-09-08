@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-autoReconnect: boolean;
+public autoReconnect: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/autoReconnect.md-->

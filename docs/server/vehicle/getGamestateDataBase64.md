@@ -1,14 +1,16 @@
 ---
-title: getGamestateDataBase64()
+title: getGamestateDataBase64
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns the game state data of a vehicle as a base64 string.
-
-## Usage
+## Function Definition
 
 ```ts
-getGamestateDataBase64(): string;
+public getGamestateDataBase64(): string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getGamestateDataBase64.md-->

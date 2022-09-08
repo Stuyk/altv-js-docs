@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-secondaryColor: number | shared.RGBA;
+public secondaryColor: number | shared.RGBA;
 ```
+
+## Documentation
+
+<!--@include: ./parts/secondaryColor.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly focusedElement: RmlElement | null;
+public readonly focusedElement: RmlElement | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/focusedElement.md-->

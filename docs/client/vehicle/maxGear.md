@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Vehicle max gear.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly maxGear: number;
+public readonly maxGear: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/maxGear.md-->

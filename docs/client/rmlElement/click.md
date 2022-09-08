@@ -1,14 +1,16 @@
 ---
-title: click()
+title: click
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-click(): void;
+public click(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/click.md-->

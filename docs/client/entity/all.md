@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Array with all entities.
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly all: ReadonlyArray<Entity>;
+public static readonly all: ReadonlyArray<Entity>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/all.md-->

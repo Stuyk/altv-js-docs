@@ -1,14 +1,16 @@
 ---
-title: setWheelHealth()
+title: setWheelHealth
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the health of a specific wheel.
-
-## Usage
+## Function Definition
 
 ```ts
-setWheelHealth(wheelId: number, health: number): void;
+public setWheelHealth(wheelId: number, health: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWheelHealth.md-->

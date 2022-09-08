@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets if the trains is rendered derailed.
-
-## Usage
+## Function Definition
 
 ```ts
-trainRenderDerailed: boolean;
+public trainRenderDerailed: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/trainRenderDerailed.md-->

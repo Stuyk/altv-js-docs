@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Determines whether the microphone input is currently disabled.
-
-## Usage
+## Function Definition
 
 ```ts
-static muteInput: boolean;
+public static muteInput: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/muteInput.md-->

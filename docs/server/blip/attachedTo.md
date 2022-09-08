@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-attachedTo: Entity | null;
+public attachedTo: Entity | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/attachedTo.md-->

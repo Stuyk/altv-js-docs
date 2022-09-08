@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isStealthy: boolean;
+public readonly isStealthy: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isStealthy.md-->

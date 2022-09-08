@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-@remarks Does't properly work for areablips currently.
-
-## Usage
+## Function Definition
 
 ```ts
-size: shared.Vector2;
+public size: shared.Vector2;
 ```
+
+## Documentation
+
+<!--@include: ./parts/size.md-->

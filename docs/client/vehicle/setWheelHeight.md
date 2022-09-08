@@ -1,14 +1,16 @@
 ---
-title: setWheelHeight()
+title: setWheelHeight
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the height of the specified wheel.
-
-## Usage
+## Function Definition
 
 ```ts
-setWheelHeight(wheelIndex: number, height: number): void;
+public setWheelHeight(wheelIndex: number, height: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWheelHeight.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-initialDragCoeff: number;
+public initialDragCoeff: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/initialDragCoeff.md-->

@@ -1,14 +1,16 @@
 ---
-title: isWheelOnFire()
+title: isWheelOnFire
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns if a specific wheel is on fire.
-
-## Usage
+## Function Definition
 
 ```ts
-isWheelOnFire(wheelId: number): boolean;
+public isWheelOnFire(wheelId: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isWheelOnFire.md-->

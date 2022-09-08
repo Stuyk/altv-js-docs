@@ -1,14 +1,16 @@
 ---
-title: setExtraHeader()
+title: setExtraHeader
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setExtraHeader(header: string, value: string): void;
+public setExtraHeader(header: string, value: string): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setExtraHeader.md-->

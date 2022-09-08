@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the config index of the train's carriage.
-
-## Usage
+## Function Definition
 
 ```ts
-trainCarriageConfigIndex: number;
+public trainCarriageConfigIndex: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/trainCarriageConfigIndex.md-->

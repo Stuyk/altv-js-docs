@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly ownerDocument: RmlDocument;
+public readonly ownerDocument: RmlDocument;
 ```
+
+## Documentation
+
+<!--@include: ./parts/ownerDocument.md-->

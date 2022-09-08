@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly body: RmlElement;
+public readonly body: RmlElement;
 ```
+
+## Documentation
+
+<!--@include: ./parts/body.md-->

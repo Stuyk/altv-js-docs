@@ -1,14 +1,16 @@
 ---
-title: setWheelCamber()
+title: setWheelCamber
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the camber angle of the specified wheel.
-
-## Usage
+## Function Definition
 
 ```ts
-setWheelCamber(wheelIndex: number, camber: number): void;
+public setWheelCamber(wheelIndex: number, camber: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWheelCamber.md-->

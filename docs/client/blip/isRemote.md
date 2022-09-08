@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Returns whether the blip was created on serverside (false for clientside blips)
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isRemote: boolean;
+public readonly isRemote: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isRemote.md-->

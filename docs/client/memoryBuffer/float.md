@@ -1,14 +1,16 @@
 ---
-title: float()
+title: float
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-float(offset: number): number;
+public float(offset: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/float.md-->

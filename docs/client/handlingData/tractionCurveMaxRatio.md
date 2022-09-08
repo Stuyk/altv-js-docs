@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-tractionCurveMaxRatio: number;
+public tractionCurveMaxRatio: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/tractionCurveMaxRatio.md-->

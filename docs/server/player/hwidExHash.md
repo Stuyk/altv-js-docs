@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly hwidExHash: string;
+public readonly hwidExHash: string;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hwidExHash.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-initialDriveGears: number;
+public initialDriveGears: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/initialDriveGears.md-->

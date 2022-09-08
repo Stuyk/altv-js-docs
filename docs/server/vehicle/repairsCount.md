@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets how often a vehicle got repaired.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly repairsCount: number;
+public readonly repairsCount: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/repairsCount.md-->

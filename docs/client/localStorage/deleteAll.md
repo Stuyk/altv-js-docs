@@ -1,14 +1,16 @@
 ---
-title: deleteAll()
+title: deleteAll
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Deletes all keys from the local storage.
-
-## Usage
+## Function Definition
 
 ```ts
-static deleteAll(): void;
+public static deleteAll(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/deleteAll.md-->

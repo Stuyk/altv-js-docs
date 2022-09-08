@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-accuracySpread: number;
+public accuracySpread: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/accuracySpread.md-->

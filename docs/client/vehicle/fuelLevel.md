@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-The vehicle's fuel level.
-
-## Usage
+## Function Definition
 
 ```ts
-fuelLevel: number;
+public fuelLevel: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/fuelLevel.md-->

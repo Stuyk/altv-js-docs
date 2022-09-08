@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets the amount of wheels of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly wheelsCount: number;
+public readonly wheelsCount: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/wheelsCount.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the pearl color of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-pearlColor: number;
+public pearlColor: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/pearlColor.md-->

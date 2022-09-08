@@ -1,14 +1,16 @@
 ---
-title: setWeaponTintIndex()
+title: setWeaponTintIndex
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-setWeaponTintIndex(weaponHash: number, tintIndex: number): void;
+public setWeaponTintIndex(weaponHash: number, tintIndex: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWeaponTintIndex.md-->

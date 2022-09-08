@@ -1,14 +1,16 @@
 ---
-title: hide()
+title: hide
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-hide(): void;
+public hide(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/hide.md-->

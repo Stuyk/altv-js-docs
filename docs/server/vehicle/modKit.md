@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the current mod kit of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-modKit: number;
+public modKit: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/modKit.md-->

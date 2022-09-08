@@ -1,14 +1,16 @@
 ---
-title: setWheelTyreWidth()
+title: setWheelTyreWidth
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-@remarks Does not show any visible effect.
-
-## Usage
+## Function Definition
 
 ```ts
-setWheelTyreWidth(wheelIndex: number, width: number): void;
+public setWheelTyreWidth(wheelIndex: number, width: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWheelTyreWidth.md-->

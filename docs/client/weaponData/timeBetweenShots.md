@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly timeBetweenShots: number;
+public readonly timeBetweenShots: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/timeBetweenShots.md-->

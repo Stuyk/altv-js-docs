@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the headlight color of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-headlightColor: number;
+public headlightColor: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/headlightColor.md-->

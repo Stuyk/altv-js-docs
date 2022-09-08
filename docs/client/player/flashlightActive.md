@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Is the flashlight of the player activated.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly flashlightActive: boolean;
+public readonly flashlightActive: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/flashlightActive.md-->

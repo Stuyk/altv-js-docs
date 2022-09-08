@@ -1,14 +1,16 @@
 ---
-title: clear()
+title: clear
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Alias for {@link deleteAll}.
-
-## Usage
+## Function Definition
 
 ```ts
-static clear(): void;
+public static clear(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/clear.md-->

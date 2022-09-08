@@ -1,14 +1,16 @@
 ---
-title: isWheelBurst()
+title: isWheelBurst
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Returns if a specific wheel is burst.
-
-## Usage
+## Function Definition
 
 ```ts
-isWheelBurst(wheelId: number): boolean;
+public isWheelBurst(wheelId: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isWheelBurst.md-->

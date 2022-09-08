@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the drift mode state of the vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-driftModeEnabled: boolean;
+public driftModeEnabled: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/driftModeEnabled.md-->

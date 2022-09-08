@@ -1,14 +1,16 @@
 ---
-title: getWheelTrackWidth()
+title: getWheelTrackWidth
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Gets the track width of the specified wheel.
-
-## Usage
+## Function Definition
 
 ```ts
-getWheelTrackWidth(wheelIndex: number): number;
+public getWheelTrackWidth(wheelIndex: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getWheelTrackWidth.md-->

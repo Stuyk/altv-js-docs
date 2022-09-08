@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-flashesAlternate: boolean;
+public flashesAlternate: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/flashesAlternate.md-->

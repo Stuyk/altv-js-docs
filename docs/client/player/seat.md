@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Curent seat the player is sitting in.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly seat: number;
+public readonly seat: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/seat.md-->

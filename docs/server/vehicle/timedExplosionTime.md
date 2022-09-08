@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly timedExplosionTime: number;
+public readonly timedExplosionTime: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/timedExplosionTime.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Current player movement speed.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly moveSpeed: number;
+public readonly moveSpeed: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/moveSpeed.md-->

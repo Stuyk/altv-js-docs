@@ -1,14 +1,16 @@
 ---
-title: setWheels()
+title: setWheels
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Applies a wheel style based on the type and variation.
-
-## Usage
+## Function Definition
 
 ```ts
-setWheels(wheelType: number, wheelId: number): void;
+public setWheels(wheelType: number, wheelId: number): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWheels.md-->

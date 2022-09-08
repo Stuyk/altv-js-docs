@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly address: bigint;
+public readonly address: bigint;
 ```
+
+## Documentation
+
+<!--@include: ./parts/address.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Vehicle gear.
-
-## Usage
+## Function Definition
 
 ```ts
-gear: number;
+public gear: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/gear.md-->

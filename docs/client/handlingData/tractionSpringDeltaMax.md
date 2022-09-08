@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-tractionSpringDeltaMax: number;
+public tractionSpringDeltaMax: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/tractionSpringDeltaMax.md-->

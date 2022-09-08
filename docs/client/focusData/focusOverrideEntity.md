@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly focusOverrideEntity: Entity;
+public static readonly focusOverrideEntity: Entity;
 ```
+
+## Documentation
+
+<!--@include: ./parts/focusOverrideEntity.md-->

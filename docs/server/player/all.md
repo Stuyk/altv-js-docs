@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Array with all players connected to the server.
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly all: ReadonlyArray<Player>;
+public static readonly all: ReadonlyArray<Player>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/all.md-->

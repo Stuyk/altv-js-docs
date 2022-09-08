@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-camberStiffnesss: number;
+public camberStiffnesss: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/camberStiffnesss.md-->

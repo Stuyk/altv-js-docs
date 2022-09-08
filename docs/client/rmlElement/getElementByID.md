@@ -1,14 +1,16 @@
 ---
-title: getElementByID()
+title: getElementByID
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getElementByID(id: string): RmlElement | null;
+public getElementByID(id: string): RmlElement | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getElementByID.md-->

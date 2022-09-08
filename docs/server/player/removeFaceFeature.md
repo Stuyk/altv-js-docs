@@ -1,14 +1,16 @@
 ---
-title: removeFaceFeature()
+title: removeFaceFeature
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-removeFaceFeature(index: number): boolean;
+public removeFaceFeature(index: number): boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/removeFaceFeature.md-->

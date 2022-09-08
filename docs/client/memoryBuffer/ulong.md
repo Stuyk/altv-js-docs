@@ -1,14 +1,16 @@
 ---
-title: ulong()
+title: ulong
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-ulong(offset: number): bigint;
+public ulong(offset: number): bigint;
 ```
+
+## Documentation
+
+<!--@include: ./parts/ulong.md-->

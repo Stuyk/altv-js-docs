@@ -1,14 +1,16 @@
 ---
-title: requestClipSet()
+title: requestClipSet
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-static requestClipSet(clipSet: string, timeout?: number): Promise<void>;
+public static requestClipSet(clipSet: string, timeout?: number): Promise<void>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/requestClipSet.md-->

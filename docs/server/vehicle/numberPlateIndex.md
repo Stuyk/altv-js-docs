@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the current number plate style.
-
-## Usage
+## Function Definition
 
 ```ts
-numberPlateIndex: NumberPlateStyle;
+public numberPlateIndex: NumberPlateStyle;
 ```
+
+## Documentation
+
+<!--@include: ./parts/numberPlateIndex.md-->

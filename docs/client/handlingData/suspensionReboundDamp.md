@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-suspensionReboundDamp: number;
+public suspensionReboundDamp: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/suspensionReboundDamp.md-->

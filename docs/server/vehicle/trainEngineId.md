@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets the engine of the train.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly trainEngineId: Vehicle | null;
+public readonly trainEngineId: Vehicle | null;
 ```
+
+## Documentation
+
+<!--@include: ./parts/trainEngineId.md-->

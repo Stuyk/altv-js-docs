@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Is the webview a overlay.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isOverlay: boolean;
+public readonly isOverlay: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isOverlay.md-->

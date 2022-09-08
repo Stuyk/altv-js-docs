@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-lastDamagedBodyPart: number;
+public lastDamagedBodyPart: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/lastDamagedBodyPart.md-->

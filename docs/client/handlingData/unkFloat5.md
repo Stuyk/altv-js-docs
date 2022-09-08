@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-unkFloat5: number;
+public unkFloat5: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/unkFloat5.md-->

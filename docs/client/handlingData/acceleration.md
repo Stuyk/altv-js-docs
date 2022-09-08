@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-acceleration: number;
+public acceleration: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/acceleration.md-->

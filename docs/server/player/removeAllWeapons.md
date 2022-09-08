@@ -1,14 +1,16 @@
 ---
-title: removeAllWeapons()
+title: removeAllWeapons
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Removes every weapon from the player.
-
-## Usage
+## Function Definition
 
 ```ts
-removeAllWeapons(): void;
+public removeAllWeapons(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/removeAllWeapons.md-->

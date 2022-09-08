@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly offsetWidth: number;
+public readonly offsetWidth: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/offsetWidth.md-->

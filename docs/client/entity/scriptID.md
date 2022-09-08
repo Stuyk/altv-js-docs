@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Internal game id that can be used in native calls 
-
-## Usage
+## Function Definition
 
 ```ts
-readonly scriptID: number;
+public readonly scriptID: number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/scriptID.md-->

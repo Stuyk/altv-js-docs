@@ -1,14 +1,16 @@
 ---
-title: getPartDamageLevel()
+title: getPartDamageLevel
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-getPartDamageLevel<T extends number, V extends number = VehiclePartDamage>(partId: T): V;
+public getPartDamageLevel<T extends number, V extends number = VehiclePartDamage>(partId: T): V;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getPartDamageLevel.md-->

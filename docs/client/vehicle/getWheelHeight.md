@@ -1,14 +1,16 @@
 ---
-title: getWheelHeight()
+title: getWheelHeight
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Gets the height of the specified wheel.
-
-## Usage
+## Function Definition
 
 ```ts
-getWheelHeight(wheelIndex: number): number;
+public getWheelHeight(wheelIndex: number): number;
 ```
+
+## Documentation
+
+<!--@include: ./parts/getWheelHeight.md-->

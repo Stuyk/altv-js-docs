@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Returns whether the entity is spawned in the game world.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly isSpawned: boolean;
+public readonly isSpawned: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isSpawned.md-->

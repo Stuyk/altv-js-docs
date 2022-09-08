@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-@alpha 
-
-## Usage
+## Function Definition
 
 ```ts
-readonly weapons: Array<number>;
+public readonly weapons: Array<number>;
 ```
+
+## Documentation
+
+<!--@include: ./parts/weapons.md-->

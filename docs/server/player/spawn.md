@@ -1,14 +1,16 @@
 ---
-title: spawn()
+title: spawn
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets the model and spawns the player in the world.
-
-## Usage
+## Function Definition
 
 ```ts
-spawn(model: string | number, pos: shared.IVector3): void;
+public spawn(model: string | number, pos: shared.IVector3): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/spawn.md-->

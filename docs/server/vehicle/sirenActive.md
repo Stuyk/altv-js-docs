@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets the siren state of a vehicle.
-
-## Usage
+## Function Definition
 
 ```ts
-sirenActive: boolean;
+public sirenActive: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/sirenActive.md-->

@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly readyState: WebSocketReadyState;
+public readonly readyState: WebSocketReadyState;
 ```
+
+## Documentation
+
+<!--@include: ./parts/readyState.md-->

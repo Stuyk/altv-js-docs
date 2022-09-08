@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets or sets if the created train is a mission train.
-
-## Usage
+## Function Definition
 
 ```ts
-isMissionTrain: boolean;
+public isMissionTrain: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/isMissionTrain.md-->

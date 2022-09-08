@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Determines if the voice activation is enabled.
-
-## Usage
+## Function Definition
 
 ```ts
-static readonly activityInputEnabled: boolean;
+public static readonly activityInputEnabled: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/activityInputEnabled.md-->

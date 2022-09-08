@@ -1,14 +1,16 @@
 ---
-title: appendChild()
+title: appendChild
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-appendChild(child: RmlElement): void;
+public appendChild(child: RmlElement): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/appendChild.md-->

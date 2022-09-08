@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-Gets the current state of the nightlights.
-
-## Usage
+## Function Definition
 
 ```ts
-readonly nightlightOn: boolean;
+public readonly nightlightOn: boolean;
 ```
+
+## Documentation
+
+<!--@include: ./parts/nightlightOn.md-->

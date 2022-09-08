@@ -1,14 +1,16 @@
 ---
-title: deleteMeta()
+title: deleteMeta
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-deleteMeta<K extends shared.ExtractStringKeys<ICustomLocalPlayerMeta>>(key: K): void;
+public deleteMeta<K extends shared.ExtractStringKeys<ICustomLocalPlayerMeta>>(key: K): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/deleteMeta.md-->

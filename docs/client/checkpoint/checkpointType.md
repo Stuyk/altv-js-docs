@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-checkpointType: shared.CheckpointType;
+public checkpointType: shared.CheckpointType;
 ```
+
+## Documentation
+
+<!--@include: ./parts/checkpointType.md-->

@@ -1,14 +1,16 @@
 ---
-title: focus()
+title: focus
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Focuses the webview so it can be interacted with.
-
-## Usage
+## Function Definition
 
 ```ts
-focus(): void;
+public focus(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/focus.md-->

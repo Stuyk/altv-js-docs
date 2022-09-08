@@ -1,14 +1,16 @@
 ---
-title: setWheelBurst()
+title: setWheelBurst
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-Sets if a specific wheel is burst.
-
-## Usage
+## Function Definition
 
 ```ts
-setWheelBurst(wheelId: number, state: boolean): void;
+public setWheelBurst(wheelId: number, state: boolean): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/setWheelBurst.md-->

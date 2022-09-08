@@ -5,10 +5,12 @@ order: 0
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-readonly absoluteOffset: shared.Vector2;
+public readonly absoluteOffset: shared.Vector2;
 ```
+
+## Documentation
+
+<!--@include: ./parts/absoluteOffset.md-->

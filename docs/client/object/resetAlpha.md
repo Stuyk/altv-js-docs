@@ -1,14 +1,16 @@
 ---
-title: resetAlpha()
+title: resetAlpha
 order: 0
 ---
 
 # {{ $frontmatter.title }}
 
-No Description
-
-## Usage
+## Function Definition
 
 ```ts
-resetAlpha(): void;
+public resetAlpha(): void;
 ```
+
+## Documentation
+
+<!--@include: ./parts/resetAlpha.md-->
