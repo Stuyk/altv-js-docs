@@ -14,7 +14,7 @@ public off(eventName: string, func: (...args: any[]) => void): void;
 ### Arguments
 
 * eventName: string
-* func: (...args: any[]) => void
+* func: (...args: any[]) =\> void
 
 ## Documentation
 

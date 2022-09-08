@@ -14,7 +14,7 @@ public setSyncedMeta<V extends any, K extends string = string>(key: K, value: sh
 ### Arguments
 
 * key: K
-* value: shared.InterfaceValueByKey<shared.ICustomEntitySyncedMeta, K, V>
+* value: shared.InterfaceValueByKey\<shared.ICustomEntitySyncedMeta, K, V\>
 
 ## Documentation
 

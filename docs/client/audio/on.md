@@ -14,7 +14,7 @@ public on(event: "error", callback: (code: number, message: string) => void): vo
 ### Arguments
 
 * event: "error"
-* callback: (code: number, message: string) => void
+* callback: (code: number, message: string) =\> void
 
 ## Documentation
 

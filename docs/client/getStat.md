@@ -13,7 +13,7 @@ function getStat(statName: `${StatName}`): number;
 
 ### Arguments
 
-* statName: `${StatName}`
+* statName: `$\{StatName\}`
 
 ## Documentation
 

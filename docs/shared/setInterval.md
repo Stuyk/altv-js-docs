@@ -13,7 +13,7 @@ function setInterval(handler: (...args: any[]) => void, miliseconds: number): nu
 
 ### Arguments
 
-* handler: (...args: any[]) => void
+* handler: (...args: any[]) =\> void
 * miliseconds: number
 
 ## Documentation

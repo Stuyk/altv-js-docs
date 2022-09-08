@@ -14,7 +14,7 @@ public once(eventName: string, callback: (...args: any[]) => void): void;
 ### Arguments
 
 * eventName: string
-* callback: (...args: any[]) => void
+* callback: (...args: any[]) =\> void
 
 ## Documentation
 

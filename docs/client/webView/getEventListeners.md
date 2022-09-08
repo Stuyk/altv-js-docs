@@ -13,7 +13,7 @@ public getEventListeners(eventName: string | null): ((...args: any[]) => void)[]
 
 ### Arguments
 
-* eventName: string | null): ((...args: any[]) => void
+* eventName: string | null): ((...args: any[]) =\> void
 
 ## Documentation
 

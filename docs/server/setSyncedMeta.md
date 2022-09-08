@@ -14,7 +14,7 @@ function setSyncedMeta<V extends any, K extends string = string>(key: K, value: 
 ### Arguments
 
 * key: K
-* value: shared.InterfaceValueByKey<shared.ICustomGlobalSyncedMeta, K, V>
+* value: shared.InterfaceValueByKey\<shared.ICustomGlobalSyncedMeta, K, V\>
 
 ## Documentation
 

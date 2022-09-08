@@ -14,7 +14,7 @@ function on<K extends string>(eventName: K, listener: shared.InterfaceValueByKey
 ### Arguments
 
 * eventName: K
-* listener: shared.InterfaceValueByKey<IServerEvent, K, (...args: any[]) => void, never>
+* listener: shared.InterfaceValueByKey\<IServerEvent, K, (...args: any[]) =\> void, never\>
 
 ## Documentation
 

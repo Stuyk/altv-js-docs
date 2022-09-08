@@ -13,8 +13,8 @@ function setWeatherCycle(weathers: Array<number>, multipliers: Array<number>): v
 
 ### Arguments
 
-* weathers: Array<number>
-* multipliers: Array<number>
+* weathers: Array\<number\>
+* multipliers: Array\<number\>
 
 ## Documentation
 

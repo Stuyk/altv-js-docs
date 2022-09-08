@@ -13,7 +13,7 @@ constructor(rgba: { r: number; g: number; b: number; a?: number });
 
 ### Arguments
 
-* rgba: { r: number; g: number; b: number; a?: number }
+* rgba: \{ r: number; g: number; b: number; a?: number \}
 
 ## Documentation
 

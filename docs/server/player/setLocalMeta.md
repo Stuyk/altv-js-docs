@@ -14,7 +14,7 @@ public setLocalMeta<V extends any, K extends string = string>(key: K, value: sha
 ### Arguments
 
 * key: K
-* value: shared.InterfaceValueByKey<shared.ICustomPlayerLocalMeta, K, V>
+* value: shared.InterfaceValueByKey\<shared.ICustomPlayerLocalMeta, K, V\>
 
 ## Documentation
 

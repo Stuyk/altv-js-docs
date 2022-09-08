@@ -13,7 +13,7 @@ constructor(callback: () => void, ms: number, once: boolean);
 
 ### Arguments
 
-* callback: () => void
+* callback: () =\> void
 * ms: number
 * once: boolean
 

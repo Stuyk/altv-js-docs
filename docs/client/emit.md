@@ -13,7 +13,7 @@ function emit<K extends string>(eventName: Exclude<K, keyof IClientEvent>, ...ar
 
 ### Arguments
 
-* eventName: Exclude<K, keyof IClientEvent>
+* eventName: Exclude\<K, keyof IClientEvent\>
 * ...args: any[]
 
 ## Documentation

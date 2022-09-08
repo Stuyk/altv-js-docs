@@ -14,7 +14,7 @@ public on(eventName: string, func: (senderElement: RmlElement, ...args: any[]) =
 ### Arguments
 
 * eventName: string
-* func: (senderElement: RmlElement, ...args: any[]) => void
+* func: (senderElement: RmlElement, ...args: any[]) =\> void
 
 ## Documentation
 

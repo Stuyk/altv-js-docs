@@ -13,7 +13,7 @@ function onServer(listener: (eventName: string, ...args: any[]) => void): void;
 
 ### Arguments
 
-* listener: (eventName: string, ...args: any[]) => void
+* listener: (eventName: string, ...args: any[]) =\> void
 
 ## Documentation
 

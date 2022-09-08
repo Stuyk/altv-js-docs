@@ -14,7 +14,7 @@ public on(eventName: "error", listener: (error: string) => void): void;
 ### Arguments
 
 * eventName: "error"
-* listener: (error: string) => void
+* listener: (error: string) =\> void
 
 ## Documentation
 

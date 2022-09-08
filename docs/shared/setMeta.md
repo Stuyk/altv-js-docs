@@ -14,7 +14,7 @@ function setMeta<V extends any, K extends string = string>(key: K, value: Interf
 ### Arguments
 
 * key: K
-* value: InterfaceValueByKey<ICustomGlobalMeta, K, V>
+* value: InterfaceValueByKey\<ICustomGlobalMeta, K, V\>
 
 ## Documentation
 

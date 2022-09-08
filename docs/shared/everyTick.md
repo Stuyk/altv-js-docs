@@ -13,7 +13,7 @@ function everyTick(handler: (...args: any[]) => void): number;
 
 ### Arguments
 
-* handler: (...args: any[]) => void
+* handler: (...args: any[]) =\> void
 
 ## Documentation
 

@@ -13,7 +13,7 @@ function emitRaw<K extends string>(eventName: Exclude<K, keyof IServerEvent>, ..
 
 ### Arguments
 
-* eventName: Exclude<K, keyof IServerEvent>
+* eventName: Exclude\<K, keyof IServerEvent\>
 * ...args: any[]
 
 ## Documentation

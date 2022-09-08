@@ -14,7 +14,7 @@ public setMeta<V extends any, K extends string = string>(key: K, value: shared.I
 ### Arguments
 
 * key: K
-* value: shared.InterfaceValueByKey<ICustomBlipMeta, K, V>
+* value: shared.InterfaceValueByKey\<ICustomBlipMeta, K, V\>
 
 ## Documentation
 

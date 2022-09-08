@@ -15,7 +15,7 @@ public constructor(source: string, volume: number, category?: shared.AudioCatego
 
 * source: string
 * volume: number
-* category?: shared.AudioCategory | `${shared.AudioCategory}`
+* category?: shared.AudioCategory | `$\{shared.AudioCategory\}`
 * play2D?: boolean
 
 ## Documentation

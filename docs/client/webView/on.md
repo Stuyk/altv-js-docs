@@ -14,7 +14,7 @@ public on(eventName: "load", listener: () => void): void;
 ### Arguments
 
 * eventName: "load"
-* listener: () => void
+* listener: () =\> void
 
 ## Documentation
 

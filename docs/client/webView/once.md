@@ -14,7 +14,7 @@ public once(eventName: string, listener: (...args: any[]) => void): void;
 ### Arguments
 
 * eventName: string
-* listener: (...args: any[]) => void
+* listener: (...args: any[]) =\> void
 
 ## Documentation
 

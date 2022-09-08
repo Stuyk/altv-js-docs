@@ -14,7 +14,7 @@ public static read(filename: string, encoding: FileEncoding.Binary | `${FileEnco
 ### Arguments
 
 * filename: string
-* encoding: FileEncoding.Binary | `${FileEncoding.Binary}`
+* encoding: FileEncoding.Binary | `$\{FileEncoding.Binary\}`
 
 ## Documentation
 

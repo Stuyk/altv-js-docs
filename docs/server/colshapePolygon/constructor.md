@@ -15,7 +15,7 @@ constructor(minZ: number, maxZ: number, points: Array<shared.IVector2>);
 
 * minZ: number
 * maxZ: number
-* points: Array<shared.IVector2>
+* points: Array\<shared.IVector2\>
 
 ## Documentation
 

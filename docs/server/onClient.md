@@ -13,7 +13,7 @@ function onClient(listener: (eventName: string, player: Player, ...args: any[]) 
 
 ### Arguments
 
-* listener: (eventName: string, player: Player, ...args: any[]) => void
+* listener: (eventName: string, player: Player, ...args: any[]) =\> void
 
 ## Documentation
 

@@ -13,7 +13,7 @@ function setStat(statName: `${StatName}`, value: number): void;
 
 ### Arguments
 
-* statName: `${StatName}`
+* statName: `$\{StatName\}`
 * value: number
 
 ## Documentation

@@ -14,7 +14,7 @@ public setMeta<V extends any, K extends string = string>(key: K, value: shared.I
 ### Arguments
 
 * key: K
-* value: shared.InterfaceValueByKey<ICustomCheckpointMeta, K, V>
+* value: shared.InterfaceValueByKey\<ICustomCheckpointMeta, K, V\>
 
 ## Documentation
 

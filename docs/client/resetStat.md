@@ -13,7 +13,7 @@ function resetStat(statName: `${StatName}`): void;
 
 ### Arguments
 
-* statName: `${StatName}`
+* statName: `$\{StatName\}`
 
 ## Documentation
 

@@ -13,7 +13,7 @@ public static waitFor(callback: () => boolean, timeout?: number): Promise<void>;
 
 ### Arguments
 
-* callback: () => boolean
+* callback: () =\> boolean
 * timeout?: number
 
 ## Documentation

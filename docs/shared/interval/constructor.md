@@ -13,7 +13,7 @@ constructor(callback: () => void, ms: number);
 
 ### Arguments
 
-* callback: () => void
+* callback: () =\> void
 * ms: number
 
 ## Documentation

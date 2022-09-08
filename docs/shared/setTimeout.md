@@ -13,7 +13,7 @@ function setTimeout(handler: (...args: any[]) => void, miliseconds: number): num
 
 ### Arguments
 
-* handler: (...args: any[]) => void
+* handler: (...args: any[]) =\> void
 * miliseconds: number
 
 ## Documentation

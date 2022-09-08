@@ -13,7 +13,7 @@ function setConfigFlag(flag: `${ConfigFlag}`, state: boolean): void;
 
 ### Arguments
 
-* flag: `${ConfigFlag}`
+* flag: `$\{ConfigFlag\}`
 * state: boolean
 
 ## Documentation

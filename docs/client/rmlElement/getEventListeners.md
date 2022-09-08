@@ -13,7 +13,7 @@ public getEventListeners(eventName: string): ((senderElement: RmlElement, ...arg
 
 ### Arguments
 
-* eventName: string): ((senderElement: RmlElement, ...args: any[]) => void
+* eventName: string): ((senderElement: RmlElement, ...args: any[]) =\> void
 
 ## Documentation
 

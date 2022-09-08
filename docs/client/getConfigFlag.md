@@ -13,7 +13,7 @@ function getConfigFlag(flag: `${ConfigFlag}`): boolean;
 
 ### Arguments
 
-* flag: `${ConfigFlag}`
+* flag: `$\{ConfigFlag\}`
 
 ## Documentation
 

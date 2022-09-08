@@ -14,7 +14,7 @@ public setStreamSyncedMeta<V extends any, K extends string = string>(key: K, val
 ### Arguments
 
 * key: K
-* value: shared.InterfaceValueByKey<shared.ICustomEntityStreamSyncedMeta, K, V>
+* value: shared.InterfaceValueByKey\<shared.ICustomEntityStreamSyncedMeta, K, V\>
 
 ## Documentation
 

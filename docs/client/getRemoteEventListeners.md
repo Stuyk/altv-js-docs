@@ -13,7 +13,7 @@ function getRemoteEventListeners(eventName: string | null): ((...args: any[]) =>
 
 ### Arguments
 
-* eventName: string | null): ((...args: any[]) => void
+* eventName: string | null): ((...args: any[]) =\> void
 
 ## Documentation
 

@@ -14,7 +14,7 @@ public setMeta<V extends any, K extends string = string>(key: K, value: Interfac
 ### Arguments
 
 * key: K
-* value: InterfaceValueByKey<ICustomBaseObjectMeta, K, V>
+* value: InterfaceValueByKey\<ICustomBaseObjectMeta, K, V\>
 
 ## Documentation
 
