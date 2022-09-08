@@ -44,25 +44,25 @@ export function getSidebar() {
             {
                 text: 'Enums',
                 collapsible: true,
-                items: getFilesAndOrderByPath('enums', true)
+                items: getFilesAndOrderByPath('enums', false)
             },
-            ...getAllFoldersInDirectory('enums', true)
+            ...getAllFoldersInDirectory('enums', false)
         ],
         '/interfaces/': [
             {
                 text: 'Interfaces',
                 collapsible: true,
-                items: getFilesAndOrderByPath('interfaces', true)
+                items: getFilesAndOrderByPath('interfaces', false)
             },
-            ...getAllFoldersInDirectory('interfaces', true)
+            ...getAllFoldersInDirectory('interfaces', false)
         ],
         '/types/': [
             {
                 text: 'Types',
                 collapsible: true,
-                items: getFilesAndOrderByPath('types', true)
+                items: getFilesAndOrderByPath('types', false)
             },
-            ...getAllFoldersInDirectory('types', true)
+            ...getAllFoldersInDirectory('types', false)
         ],
     };
 }
