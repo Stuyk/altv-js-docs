@@ -1,1 +1,1 @@
-No Description Provided
+Returns `true` if the player is rolling around on the ground in a ragdoll position.

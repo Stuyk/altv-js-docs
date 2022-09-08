@@ -1,1 +1,1 @@
-No Description Provided
+Used to get or set a player's armour.

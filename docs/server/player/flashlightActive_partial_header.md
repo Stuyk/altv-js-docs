@@ -1,1 +1,1 @@
-No Description Provided
+Check if flashlight is active for this player.

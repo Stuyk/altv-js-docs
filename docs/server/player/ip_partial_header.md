@@ -1,1 +1,1 @@
-No Description Provided
+Returns the player's current IP.

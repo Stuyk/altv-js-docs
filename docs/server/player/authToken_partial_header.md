@@ -1,1 +1,1 @@
-No Description Provided
+Used in tandem with [Early Auth](https://docs.altv.mp/articles/earlyauth.html)

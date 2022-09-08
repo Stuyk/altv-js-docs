@@ -1,1 +1,1 @@
-No Description Provided
+Get the vehicle, player, etc. that the player is aiming at.

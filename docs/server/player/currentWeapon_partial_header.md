@@ -1,1 +1,1 @@
-No Description Provided
+Get the current weapon in the player's hand as a hash.

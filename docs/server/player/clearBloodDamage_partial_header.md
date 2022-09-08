@@ -1,1 +1,1 @@
-No Description Provided
+Used to clear blood damage on a player after they respawn.

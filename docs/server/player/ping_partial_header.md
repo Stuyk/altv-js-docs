@@ -1,1 +1,1 @@
-No Description Provided
+Get the player's current ping / latency.

@@ -1,1 +1,1 @@
-No Description Provided
+Used to give a player a weapon based on a hash.

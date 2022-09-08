@@ -1,1 +1,5 @@
-No Documentation Provided Yet
+### Examples
+
+```ts
+player.clearBloodDamage();
+```

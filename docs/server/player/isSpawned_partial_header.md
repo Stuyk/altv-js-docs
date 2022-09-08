@@ -1,1 +1,1 @@
-No Description Provided
+Returns `true` if the player has had `player.spawn` function called on them.

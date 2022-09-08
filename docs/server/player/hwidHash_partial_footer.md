@@ -1,1 +1,6 @@
-No Documentation Provided Yet
+### Examples
+
+```ts
+const someHash = player.hwidExHash;
+console.log(someHash);
+```

@@ -1,1 +1,1 @@
-No Description Provided
+Returns `true` if the player is hunched over walking slowly.

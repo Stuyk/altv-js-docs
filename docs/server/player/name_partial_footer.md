@@ -1,1 +1,6 @@
-No Documentation Provided Yet
+### Examples
+
+```ts
+const currentName = player.name;
+console.log(currentName);
+```
