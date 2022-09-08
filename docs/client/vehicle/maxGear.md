@@ -1,5 +1,5 @@
 ---
-title: maxGear
+title: maxGear()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly maxGear: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

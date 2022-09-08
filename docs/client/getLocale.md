@@ -1,5 +1,5 @@
 ---
-title: getLocale
+title: getLocale()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function getLocale(): `${Locale}`;
 ```
+
+### Returns
+
+* `$\{Locale\}`
 
 ## Documentation
 

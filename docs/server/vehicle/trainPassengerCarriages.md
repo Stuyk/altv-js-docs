@@ -1,5 +1,5 @@
 ---
-title: trainPassengerCarriages
+title: trainPassengerCarriages()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public trainPassengerCarriages: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

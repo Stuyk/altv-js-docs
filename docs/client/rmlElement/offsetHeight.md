@@ -1,5 +1,5 @@
 ---
-title: offsetHeight
+title: offsetHeight()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly offsetHeight: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

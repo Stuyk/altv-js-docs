@@ -1,5 +1,5 @@
 ---
-title: discordID
+title: discordID()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly discordID: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

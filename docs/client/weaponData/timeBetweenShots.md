@@ -1,5 +1,5 @@
 ---
-title: timeBetweenShots
+title: timeBetweenShots()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly timeBetweenShots: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: distanceTo
+title: distanceTo()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public distanceTo(vector: IVector2): number;
 ### Arguments
 
 * vector: IVector2
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: velocity
+title: velocity()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly velocity: shared.Vector3;
 ```
+
+### Returns
+
+* shared.Vector3
 
 ## Documentation
 

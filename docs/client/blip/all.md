@@ -1,5 +1,5 @@
 ---
-title: all
+title: all()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly all: ReadonlyArray<Blip>;
 ```
+
+### Returns
+
+* ReadonlyArray\<Blip\>
 
 ## Documentation
 

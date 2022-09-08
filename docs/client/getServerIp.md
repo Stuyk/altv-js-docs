@@ -1,5 +1,5 @@
 ---
-title: getServerIp
+title: getServerIp()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function getServerIp(): string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

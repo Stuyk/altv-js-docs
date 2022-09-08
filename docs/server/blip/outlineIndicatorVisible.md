@@ -1,5 +1,5 @@
 ---
-title: outlineIndicatorVisible
+title: outlineIndicatorVisible()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public outlineIndicatorVisible: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

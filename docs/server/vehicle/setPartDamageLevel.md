@@ -1,5 +1,5 @@
 ---
-title: setPartDamageLevel
+title: setPartDamageLevel()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setPartDamageLevel<T extends number, V extends number = VehiclePartDamage
 
 * partId: T
 * level: V
+
+### Returns
+
+* void
 
 ## Documentation
 

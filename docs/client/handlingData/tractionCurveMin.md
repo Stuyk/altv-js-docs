@@ -1,5 +1,5 @@
 ---
-title: tractionCurveMin
+title: tractionCurveMin()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public tractionCurveMin: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

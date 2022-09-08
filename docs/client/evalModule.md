@@ -1,5 +1,5 @@
 ---
-title: evalModule
+title: evalModule()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function evalModule(code: string): Record<string, any>;
 ### Arguments
 
 * code: string
+
+### Returns
+
+* Record\<string, any\>
 
 ## Documentation
 

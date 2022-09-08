@@ -1,5 +1,5 @@
 ---
-title: body
+title: body()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly body: RmlElement;
 ```
+
+### Returns
+
+* RmlElement
 
 ## Documentation
 

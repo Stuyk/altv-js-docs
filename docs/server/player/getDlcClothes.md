@@ -1,5 +1,5 @@
 ---
-title: getDlcClothes
+title: getDlcClothes()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getDlcClothes(component: number): IDlcCloth;
 ### Arguments
 
 * component: number
+
+### Returns
+
+* IDlcCloth
 
 ## Documentation
 

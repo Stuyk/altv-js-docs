@@ -1,5 +1,5 @@
 ---
-title: deleteAll
+title: deleteAll()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static deleteAll(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

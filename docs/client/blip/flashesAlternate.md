@@ -1,5 +1,5 @@
 ---
-title: flashesAlternate
+title: flashesAlternate()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public flashesAlternate: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

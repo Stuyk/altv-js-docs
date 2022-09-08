@@ -1,5 +1,5 @@
 ---
-title: isMenuOpen
+title: isMenuOpen()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function isMenuOpen(): boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

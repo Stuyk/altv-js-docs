@@ -1,5 +1,5 @@
 ---
-title: fade
+title: fade()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public fade(opacity: number, duration: number): void;
 
 * opacity: number
 * duration: number
+
+### Returns
+
+* void
 
 ## Documentation
 

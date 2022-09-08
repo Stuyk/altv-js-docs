@@ -1,5 +1,5 @@
 ---
-title: isInRagdoll
+title: isInRagdoll()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isInRagdoll: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

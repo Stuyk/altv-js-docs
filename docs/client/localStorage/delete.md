@@ -1,5 +1,5 @@
 ---
-title: delete
+title: delete()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static delete(key: string): void;
 ### Arguments
 
 * key: string
+
+### Returns
+
+* void
 
 ## Documentation
 

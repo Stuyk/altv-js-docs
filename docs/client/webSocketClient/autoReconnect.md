@@ -1,5 +1,5 @@
 ---
-title: autoReconnect
+title: autoReconnect()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public autoReconnect: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

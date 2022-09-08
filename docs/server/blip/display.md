@@ -1,5 +1,5 @@
 ---
-title: display
+title: display()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public display: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

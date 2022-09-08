@@ -1,5 +1,5 @@
 ---
-title: beginScaleformMovieMethodMinimap
+title: beginScaleformMovieMethodMinimap()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function beginScaleformMovieMethodMinimap(methodName: string): boolean;
 ### Arguments
 
 * methodName: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

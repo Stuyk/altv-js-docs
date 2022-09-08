@@ -1,5 +1,5 @@
 ---
-title: moveSpeed
+title: moveSpeed()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly moveSpeed: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: sirenActive
+title: sirenActive()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public sirenActive: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: socialID
+title: socialID()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly socialID: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

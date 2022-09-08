@@ -1,5 +1,5 @@
 ---
-title: dashboardColor
+title: dashboardColor()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public dashboardColor: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

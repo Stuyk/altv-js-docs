@@ -1,5 +1,5 @@
 ---
-title: neon
+title: neon()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public neon: IVehicleNeon;
 ```
+
+### Returns
+
+* IVehicleNeon
 
 ## Documentation
 

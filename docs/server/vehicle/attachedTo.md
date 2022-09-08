@@ -1,5 +1,5 @@
 ---
-title: attachedTo
+title: attachedTo()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly attachedTo: Vehicle | null;
 ```
+
+### Returns
+
+* Vehicle | null
 
 ## Documentation
 

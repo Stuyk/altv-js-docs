@@ -1,5 +1,5 @@
 ---
-title: ip
+title: ip()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly ip: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

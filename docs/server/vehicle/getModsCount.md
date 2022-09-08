@@ -1,5 +1,5 @@
 ---
-title: getModsCount
+title: getModsCount()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getModsCount<T extends number>(modType: T): number;
 ### Arguments
 
 * modType: T
+
+### Returns
+
+* number
 
 ## Documentation
 

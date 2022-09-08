@@ -1,5 +1,5 @@
 ---
-title: fZoomSpeed
+title: fZoomSpeed()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public fZoomSpeed: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

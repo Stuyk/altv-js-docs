@@ -1,5 +1,5 @@
 ---
-title: seatCount
+title: seatCount()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly seatCount: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

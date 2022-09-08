@@ -1,5 +1,5 @@
 ---
-title: options
+title: options()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public options(url: string, body: string): Promise<IHttpResponse>;
 
 * url: string
 * body: string
+
+### Returns
+
+* Promise\<IHttpResponse\>
 
 ## Documentation
 

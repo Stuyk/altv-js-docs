@@ -1,5 +1,5 @@
 ---
-title: hasLocalProperty
+title: hasLocalProperty()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public hasLocalProperty(name: string): boolean;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

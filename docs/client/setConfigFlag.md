@@ -1,5 +1,5 @@
 ---
-title: setConfigFlag
+title: setConfigFlag()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function setConfigFlag(flag: `${ConfigFlag}`, state: boolean): void;
 
 * flag: `$\{ConfigFlag\}`
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

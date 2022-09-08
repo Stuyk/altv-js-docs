@@ -1,5 +1,5 @@
 ---
-title: getLocalMeta
+title: getLocalMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getLocalMeta<V extends any>(key: string): V | undefined;
 ### Arguments
 
 * key: string
+
+### Returns
+
+* V | undefined
 
 ## Documentation
 

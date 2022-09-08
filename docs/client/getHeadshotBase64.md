@@ -1,5 +1,5 @@
 ---
-title: getHeadshotBase64
+title: getHeadshotBase64()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getHeadshotBase64(id: number): string;
 ### Arguments
 
 * id: number
+
+### Returns
+
+* string
 
 ## Documentation
 

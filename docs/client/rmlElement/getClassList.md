@@ -1,5 +1,5 @@
 ---
-title: getClassList
+title: getClassList()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getClassList(): ReadonlyArray<string>;
 ```
+
+### Returns
+
+* ReadonlyArray\<string\>
 
 ## Documentation
 

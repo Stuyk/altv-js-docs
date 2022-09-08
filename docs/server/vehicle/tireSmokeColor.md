@@ -1,5 +1,5 @@
 ---
-title: tireSmokeColor
+title: tireSmokeColor()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public tireSmokeColor: shared.RGBA;
 ```
+
+### Returns
+
+* shared.RGBA
 
 ## Documentation
 

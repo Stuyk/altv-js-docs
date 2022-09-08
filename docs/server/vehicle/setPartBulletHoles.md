@@ -1,5 +1,5 @@
 ---
-title: setPartBulletHoles
+title: setPartBulletHoles()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setPartBulletHoles<T extends number>(partId: T, count: number): void;
 
 * partId: T
 * count: number
+
+### Returns
+
+* void
 
 ## Documentation
 

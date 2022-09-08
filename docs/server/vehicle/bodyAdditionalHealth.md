@@ -1,5 +1,5 @@
 ---
-title: bodyAdditionalHealth
+title: bodyAdditionalHealth()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public bodyAdditionalHealth: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

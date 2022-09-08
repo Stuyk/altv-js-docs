@@ -1,5 +1,5 @@
 ---
-title: primaryColor
+title: primaryColor()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public primaryColor: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

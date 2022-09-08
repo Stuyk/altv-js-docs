@@ -1,5 +1,5 @@
 ---
-title: removeWeaponComponent
+title: removeWeaponComponent()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public removeWeaponComponent(weaponHash: number, component: number): void;
 
 * weaponHash: number
 * component: number
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: isMissionTrain
+title: isMissionTrain()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public isMissionTrain: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

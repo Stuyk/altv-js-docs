@@ -1,5 +1,5 @@
 ---
-title: resetAll
+title: resetAll()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static resetAll(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

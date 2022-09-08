@@ -1,5 +1,5 @@
 ---
-title: asMissionCreator
+title: asMissionCreator()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public asMissionCreator: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

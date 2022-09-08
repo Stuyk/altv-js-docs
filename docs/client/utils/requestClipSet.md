@@ -1,5 +1,5 @@
 ---
-title: requestClipSet
+title: requestClipSet()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public static requestClipSet(clipSet: string, timeout?: number): Promise<void>;
 
 * clipSet: string
 * timeout?: number
+
+### Returns
+
+* Promise\<void\>
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: ulong
+title: ulong()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public ulong(offset: number): bigint;
 ### Arguments
 
 * offset: number
+
+### Returns
+
+* bigint
 
 ## Documentation
 

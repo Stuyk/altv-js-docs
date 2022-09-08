@@ -1,5 +1,5 @@
 ---
-title: isReady
+title: isReady()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isReady: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

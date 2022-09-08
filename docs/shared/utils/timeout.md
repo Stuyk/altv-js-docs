@@ -1,5 +1,5 @@
 ---
-title: Timeout
+title: Timeout()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly Timeout: typeof Timeout;
 ```
+
+### Returns
+
+* typeof Timeout
 
 ## Documentation
 

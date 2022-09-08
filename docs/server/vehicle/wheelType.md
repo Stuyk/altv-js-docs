@@ -1,5 +1,5 @@
 ---
-title: wheelType
+title: wheelType()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly wheelType: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

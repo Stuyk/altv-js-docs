@@ -1,5 +1,5 @@
 ---
-title: headlightColor
+title: headlightColor()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public headlightColor: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

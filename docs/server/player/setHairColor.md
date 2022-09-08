@@ -1,5 +1,5 @@
 ---
-title: setHairColor
+title: setHairColor()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setHairColor(hairColor: number): void;
 ### Arguments
 
 * hairColor: number
+
+### Returns
+
+* void
 
 ## Documentation
 

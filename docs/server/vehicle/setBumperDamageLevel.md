@@ -1,5 +1,5 @@
 ---
-title: setBumperDamageLevel
+title: setBumperDamageLevel()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setBumperDamageLevel<T extends number, V extends number = VehicleBumperDa
 
 * bumperId: T
 * level: V
+
+### Returns
+
+* void
 
 ## Documentation
 

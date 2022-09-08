@@ -1,5 +1,5 @@
 ---
-title: authToken
+title: authToken()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly authToken: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

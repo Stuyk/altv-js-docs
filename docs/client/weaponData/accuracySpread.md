@@ -1,5 +1,5 @@
 ---
-title: accuracySpread
+title: accuracySpread()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public accuracySpread: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

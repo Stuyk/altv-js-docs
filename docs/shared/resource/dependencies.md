@@ -1,5 +1,5 @@
 ---
-title: dependencies
+title: dependencies()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly dependencies: ReadonlyArray<string>;
 ```
+
+### Returns
+
+* ReadonlyArray\<string\>
 
 ## Documentation
 

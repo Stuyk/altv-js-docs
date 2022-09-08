@@ -1,5 +1,5 @@
 ---
-title: ushort
+title: ushort()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public ushort(offset: number): number;
 ### Arguments
 
 * offset: number
+
+### Returns
+
+* number
 
 ## Documentation
 

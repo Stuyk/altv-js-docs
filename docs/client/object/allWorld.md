@@ -1,5 +1,5 @@
 ---
-title: allWorld
+title: allWorld()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly allWorld: ReadonlyArray<Object>;
 ```
+
+### Returns
+
+* ReadonlyArray\<Object\>
 
 ## Documentation
 

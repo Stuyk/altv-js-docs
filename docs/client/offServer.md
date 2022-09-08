@@ -1,5 +1,5 @@
 ---
-title: offServer
+title: offServer()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function offServer(eventName: string, listener: (...args: any[]) => void): void;
 
 * eventName: string
 * listener: (...args: any[]) =\> void
+
+### Returns
+
+* void
 
 ## Documentation
 

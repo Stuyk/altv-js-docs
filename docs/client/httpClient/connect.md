@@ -1,5 +1,5 @@
 ---
-title: connect
+title: connect()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public connect(url: string, body: string): Promise<IHttpResponse>;
 
 * url: string
 * body: string
+
+### Returns
+
+* Promise\<IHttpResponse\>
 
 ## Documentation
 

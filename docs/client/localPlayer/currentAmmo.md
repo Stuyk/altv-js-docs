@@ -1,5 +1,5 @@
 ---
-title: currentAmmo
+title: currentAmmo()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly currentAmmo: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

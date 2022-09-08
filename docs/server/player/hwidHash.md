@@ -1,5 +1,5 @@
 ---
-title: hwidHash
+title: hwidHash()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly hwidHash: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

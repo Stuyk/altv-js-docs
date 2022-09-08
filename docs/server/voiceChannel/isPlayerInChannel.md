@@ -1,5 +1,5 @@
 ---
-title: isPlayerInChannel
+title: isPlayerInChannel()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isPlayerInChannel(player: Player): boolean;
 ### Arguments
 
 * player: Player
+
+### Returns
+
+* boolean
 
 ## Documentation
 

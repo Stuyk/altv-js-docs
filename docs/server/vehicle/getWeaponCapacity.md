@@ -1,5 +1,5 @@
 ---
-title: getWeaponCapacity
+title: getWeaponCapacity()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getWeaponCapacity(weaponIndex: number): number;
 ### Arguments
 
 * weaponIndex: number
+
+### Returns
+
+* number
 
 ## Documentation
 

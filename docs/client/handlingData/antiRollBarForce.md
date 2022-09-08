@@ -1,5 +1,5 @@
 ---
-title: antiRollBarForce
+title: antiRollBarForce()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public antiRollBarForce: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

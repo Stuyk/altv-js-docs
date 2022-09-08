@@ -1,5 +1,5 @@
 ---
-title: priority
+title: priority()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public priority: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

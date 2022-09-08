@@ -1,5 +1,5 @@
 ---
-title: setFaceFeature
+title: setFaceFeature()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setFaceFeature(index: number, scale: number): boolean;
 
 * index: number
 * scale: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

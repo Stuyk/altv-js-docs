@@ -1,5 +1,5 @@
 ---
-title: profilesRunning
+title: profilesRunning()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly profilesRunning: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

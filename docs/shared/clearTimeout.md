@@ -1,5 +1,5 @@
 ---
-title: clearTimeout
+title: clearTimeout()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function clearTimeout(id: number): void;
 ### Arguments
 
 * id: number
+
+### Returns
+
+* void
 
 ## Documentation
 

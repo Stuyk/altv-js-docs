@@ -1,5 +1,5 @@
 ---
-title: centreOfMassOffset
+title: centreOfMassOffset()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public centreOfMassOffset: shared.Vector3;
 ```
+
+### Returns
+
+* shared.Vector3
 
 ## Documentation
 

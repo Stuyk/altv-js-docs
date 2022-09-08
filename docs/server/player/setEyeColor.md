@@ -1,5 +1,5 @@
 ---
-title: setEyeColor
+title: setEyeColor()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setEyeColor(eyeColor: number): boolean;
 ### Arguments
 
 * eyeColor: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: route
+title: route()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public route: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

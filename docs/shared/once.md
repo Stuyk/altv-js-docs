@@ -1,5 +1,5 @@
 ---
-title: once
+title: once()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function once(listener: (eventName: string, ...args: any[]) => void): void;
 ### Arguments
 
 * listener: (eventName: string, ...args: any[]) =\> void
+
+### Returns
+
+* void
 
 ## Documentation
 

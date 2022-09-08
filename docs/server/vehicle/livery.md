@@ -1,5 +1,5 @@
 ---
-title: livery
+title: livery()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public livery: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: stopServer
+title: stopServer()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function stopServer(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

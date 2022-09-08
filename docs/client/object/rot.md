@@ -1,5 +1,5 @@
 ---
-title: rot
+title: rot()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public rot: shared.Vector3;
 ```
+
+### Returns
+
+* shared.Vector3
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: loadDefaultIpls
+title: loadDefaultIpls()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function loadDefaultIpls(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

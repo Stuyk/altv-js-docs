@@ -1,5 +1,5 @@
 ---
-title: numberPlateText
+title: numberPlateText()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public numberPlateText: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

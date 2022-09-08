@@ -1,5 +1,5 @@
 ---
-title: show
+title: show()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public show(isModal?: boolean, focused?: boolean): void;
 
 * isModal?: boolean
 * focused?: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

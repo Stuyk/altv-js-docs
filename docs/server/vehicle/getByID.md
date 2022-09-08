@@ -1,5 +1,5 @@
 ---
-title: getByID
+title: getByID()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static getByID(id: number): Vehicle | null;
 ### Arguments
 
 * id: number
+
+### Returns
+
+* Vehicle | null
 
 ## Documentation
 

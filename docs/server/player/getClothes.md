@@ -1,5 +1,5 @@
 ---
-title: getClothes
+title: getClothes()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getClothes(component: number): ICloth;
 ### Arguments
 
 * component: number
+
+### Returns
+
+* ICloth
 
 ## Documentation
 

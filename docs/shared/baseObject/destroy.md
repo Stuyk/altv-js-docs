@@ -1,5 +1,5 @@
 ---
-title: destroy
+title: destroy()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public destroy(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

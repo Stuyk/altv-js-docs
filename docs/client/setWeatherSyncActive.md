@@ -1,5 +1,5 @@
 ---
-title: setWeatherSyncActive
+title: setWeatherSyncActive()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function setWeatherSyncActive(isActive: boolean): void;
 ### Arguments
 
 * isActive: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

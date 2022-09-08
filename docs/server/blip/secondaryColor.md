@@ -1,5 +1,5 @@
 ---
-title: secondaryColor
+title: secondaryColor()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public secondaryColor: number | shared.RGBA;
 ```
+
+### Returns
+
+* number | shared.RGBA
 
 ## Documentation
 

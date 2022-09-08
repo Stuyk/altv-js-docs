@@ -1,5 +1,5 @@
 ---
-title: insertBefore
+title: insertBefore()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public insertBefore(child: RmlElement, adjacent: RmlElement): void;
 
 * child: RmlElement
 * adjacent: RmlElement
+
+### Returns
+
+* void
 
 ## Documentation
 

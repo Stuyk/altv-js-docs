@@ -1,5 +1,5 @@
 ---
-title: trainLinkedToBackwardId
+title: trainLinkedToBackwardId()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly trainLinkedToBackwardId: Vehicle | null;
 ```
+
+### Returns
+
+* Vehicle | null
 
 ## Documentation
 

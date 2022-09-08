@@ -1,5 +1,5 @@
 ---
-title: setWheelHasTire
+title: setWheelHasTire()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWheelHasTire(wheelId: number, state: boolean): void;
 
 * wheelId: number
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

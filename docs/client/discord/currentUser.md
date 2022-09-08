@@ -1,5 +1,5 @@
 ---
-title: currentUser
+title: currentUser()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly currentUser: IDiscordUser | null;
 ```
+
+### Returns
+
+* IDiscordUser | null
 
 ## Documentation
 

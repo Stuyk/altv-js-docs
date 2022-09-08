@@ -1,5 +1,5 @@
 ---
-title: onceClient
+title: onceClient()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function onceClient(listener: (eventName: string, player: Player, ...args: any[]
 ### Arguments
 
 * listener: (eventName: string, player: Player, ...args: any[]) =\> void
+
+### Returns
+
+* void
 
 ## Documentation
 

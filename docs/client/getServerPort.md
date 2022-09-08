@@ -1,5 +1,5 @@
 ---
-title: getServerPort
+title: getServerPort()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function getServerPort(): number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

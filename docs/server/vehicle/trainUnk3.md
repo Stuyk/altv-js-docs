@@ -1,5 +1,5 @@
 ---
-title: trainUnk3
+title: trainUnk3()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public trainUnk3: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

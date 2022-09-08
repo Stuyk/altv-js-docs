@@ -1,5 +1,5 @@
 ---
-title: setWeaponTintIndex
+title: setWeaponTintIndex()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWeaponTintIndex(weaponHash: number, tintIndex: number): void;
 
 * weaponHash: number
 * tintIndex: number
+
+### Returns
+
+* void
 
 ## Documentation
 

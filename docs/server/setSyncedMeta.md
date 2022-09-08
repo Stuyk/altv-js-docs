@@ -1,5 +1,5 @@
 ---
-title: setSyncedMeta
+title: setSyncedMeta()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function setSyncedMeta<V extends any, K extends string = string>(key: K, value: 
 
 * key: K
 * value: shared.InterfaceValueByKey\<shared.ICustomGlobalSyncedMeta, K, V\>
+
+### Returns
+
+* void
 
 ## Documentation
 

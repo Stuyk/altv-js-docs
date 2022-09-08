@@ -1,5 +1,5 @@
 ---
-title: on
+title: on()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public on(eventName: string, callback: (...args: any[]) => void): void;
 
 * eventName: string
 * callback: (...args: any[]) =\> void
+
+### Returns
+
+* void
 
 ## Documentation
 

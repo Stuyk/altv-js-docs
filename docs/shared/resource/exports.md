@@ -1,5 +1,5 @@
 ---
-title: exports
+title: exports()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly exports: Record<string, any>;
 ```
+
+### Returns
+
+* Record\<string, any\>
 
 ## Documentation
 

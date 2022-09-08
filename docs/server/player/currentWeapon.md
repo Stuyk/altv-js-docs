@@ -1,5 +1,5 @@
 ---
-title: currentWeapon
+title: currentWeapon()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public currentWeapon: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

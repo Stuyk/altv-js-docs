@@ -1,5 +1,5 @@
 ---
-title: scriptMaxSpeed
+title: scriptMaxSpeed()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public scriptMaxSpeed: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

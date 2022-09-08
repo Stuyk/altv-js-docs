@@ -1,5 +1,5 @@
 ---
-title: logWarning
+title: logWarning()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function logWarning(...args: any[]): void;
 ### Arguments
 
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

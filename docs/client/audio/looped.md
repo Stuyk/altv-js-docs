@@ -1,5 +1,5 @@
 ---
-title: looped
+title: looped()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public looped: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

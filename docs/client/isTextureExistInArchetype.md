@@ -1,5 +1,5 @@
 ---
-title: isTextureExistInArchetype
+title: isTextureExistInArchetype()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function isTextureExistInArchetype(modelHash: number, targetTextureName: string)
 
 * modelHash: number
 * targetTextureName: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

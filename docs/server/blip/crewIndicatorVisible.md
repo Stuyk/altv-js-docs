@@ -1,5 +1,5 @@
 ---
-title: crewIndicatorVisible
+title: crewIndicatorVisible()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public crewIndicatorVisible: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

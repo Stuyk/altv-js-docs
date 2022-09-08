@@ -1,5 +1,5 @@
 ---
-title: setDateTime
+title: setDateTime()
 order: 0
 ---
 
@@ -19,6 +19,10 @@ public setDateTime(day: DateTimeDay, month: DateTimeMonth, year: number, hour: D
 * hour: DateTimeHour
 * minute: DateTimeMinute
 * second: DateTimeSecond
+
+### Returns
+
+* void
 
 ## Documentation
 

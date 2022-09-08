@@ -1,5 +1,5 @@
 ---
-title: suspensionRaise
+title: suspensionRaise()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public suspensionRaise: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

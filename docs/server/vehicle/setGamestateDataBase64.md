@@ -1,5 +1,5 @@
 ---
-title: setGamestateDataBase64
+title: setGamestateDataBase64()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setGamestateDataBase64(data: string): void;
 ### Arguments
 
 * data: string
+
+### Returns
+
+* void
 
 ## Documentation
 

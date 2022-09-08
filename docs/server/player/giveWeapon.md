@@ -1,5 +1,5 @@
 ---
-title: giveWeapon
+title: giveWeapon()
 order: 0
 ---
 
@@ -16,6 +16,10 @@ public giveWeapon(weaponHash: number, ammo: number, equipNow: boolean): void;
 * weaponHash: number
 * ammo: number
 * equipNow: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

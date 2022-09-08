@@ -1,5 +1,5 @@
 ---
-title: isKeyToggled
+title: isKeyToggled()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function isKeyToggled(key: number): boolean;
 ### Arguments
 
 * key: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: isWheelBurst
+title: isWheelBurst()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isWheelBurst(wheelId: number): boolean;
 ### Arguments
 
 * wheelId: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

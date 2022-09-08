@@ -1,5 +1,5 @@
 ---
-title: driveBiasFront
+title: driveBiasFront()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public driveBiasFront: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

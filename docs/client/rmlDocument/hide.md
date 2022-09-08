@@ -1,5 +1,5 @@
 ---
-title: hide
+title: hide()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public hide(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

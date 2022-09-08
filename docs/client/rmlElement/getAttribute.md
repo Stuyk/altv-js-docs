@@ -1,5 +1,5 @@
 ---
-title: getAttribute
+title: getAttribute()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getAttribute(name: string): string;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* string
 
 ## Documentation
 

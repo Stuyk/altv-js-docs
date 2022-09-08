@@ -1,5 +1,5 @@
 ---
-title: steeringLockRatio
+title: steeringLockRatio()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public steeringLockRatio: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

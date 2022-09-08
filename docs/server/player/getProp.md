@@ -1,5 +1,5 @@
 ---
-title: getProp
+title: getProp()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getProp(component: number): IProp;
 ### Arguments
 
 * component: number
+
+### Returns
+
+* IProp
 
 ## Documentation
 

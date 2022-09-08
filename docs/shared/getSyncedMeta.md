@@ -1,5 +1,5 @@
 ---
-title: getSyncedMeta
+title: getSyncedMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getSyncedMeta<V extends any>(key: string): V | undefined;
 ### Arguments
 
 * key: string
+
+### Returns
+
+* V | undefined
 
 ## Documentation
 

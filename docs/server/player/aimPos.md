@@ -1,5 +1,5 @@
 ---
-title: aimPos
+title: aimPos()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly aimPos: shared.Vector3;
 ```
+
+### Returns
+
+* shared.Vector3
 
 ## Documentation
 

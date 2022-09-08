@@ -1,5 +1,5 @@
 ---
-title: getResourcePath
+title: getResourcePath()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getResourcePath(name: string): string;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* string
 
 ## Documentation
 

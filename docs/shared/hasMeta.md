@@ -1,5 +1,5 @@
 ---
-title: hasMeta
+title: hasMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function hasMeta<K extends ExtractStringKeys<ICustomGlobalMeta>>(key: K): boolea
 ### Arguments
 
 * key: K
+
+### Returns
+
+* boolean
 
 ## Documentation
 

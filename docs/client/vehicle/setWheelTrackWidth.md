@@ -1,5 +1,5 @@
 ---
-title: setWheelTrackWidth
+title: setWheelTrackWidth()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWheelTrackWidth(wheelIndex: number, width: number): void;
 
 * wheelIndex: number
 * width: number
+
+### Returns
+
+* void
 
 ## Documentation
 

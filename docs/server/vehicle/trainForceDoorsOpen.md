@@ -1,5 +1,5 @@
 ---
-title: trainForceDoorsOpen
+title: trainForceDoorsOpen()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public trainForceDoorsOpen: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

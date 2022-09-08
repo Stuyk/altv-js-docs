@@ -1,5 +1,5 @@
 ---
-title: free
+title: free()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public free(): boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

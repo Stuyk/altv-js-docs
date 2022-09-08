@@ -1,5 +1,5 @@
 ---
-title: once
+title: once()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function once<K extends string>(eventName: K, listener: shared.InterfaceValueByK
 
 * eventName: K
 * listener: shared.InterfaceValueByKey\<IClientEvent, K, (...args: any[]) =\> void, never\>
+
+### Returns
+
+* void
 
 ## Documentation
 

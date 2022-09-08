@@ -1,5 +1,5 @@
 ---
-title: daylightOn
+title: daylightOn()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly daylightOn: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

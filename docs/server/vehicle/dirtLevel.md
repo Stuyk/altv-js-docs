@@ -1,5 +1,5 @@
 ---
-title: dirtLevel
+title: dirtLevel()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public dirtLevel: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

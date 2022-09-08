@@ -1,5 +1,5 @@
 ---
-title: EveryTick
+title: EveryTick()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly EveryTick: typeof EveryTick;
 ```
+
+### Returns
+
+* typeof EveryTick
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: setInterval
+title: setInterval()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function setInterval(handler: (...args: any[]) => void, miliseconds: number): nu
 
 * handler: (...args: any[]) =\> void
 * miliseconds: number
+
+### Returns
+
+* number
 
 ## Documentation
 

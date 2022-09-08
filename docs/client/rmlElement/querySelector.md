@@ -1,5 +1,5 @@
 ---
-title: querySelector
+title: querySelector()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public querySelector(selector: string): RmlElement | null;
 ### Arguments
 
 * selector: string
+
+### Returns
+
+* RmlElement | null
 
 ## Documentation
 

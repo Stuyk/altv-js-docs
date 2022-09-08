@@ -1,5 +1,5 @@
 ---
-title: isConsoleOpen
+title: isConsoleOpen()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function isConsoleOpen(): boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

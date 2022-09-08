@@ -1,5 +1,5 @@
 ---
-title: clearProp
+title: clearProp()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public clearProp(component: number): void;
 ### Arguments
 
 * component: number
+
+### Returns
+
+* void
 
 ## Documentation
 

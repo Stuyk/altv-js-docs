@@ -1,5 +1,5 @@
 ---
-title: setWheelHeight
+title: setWheelHeight()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWheelHeight(wheelIndex: number, height: number): void;
 
 * wheelIndex: number
 * height: number
+
+### Returns
+
+* void
 
 ## Documentation
 

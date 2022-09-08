@@ -1,5 +1,5 @@
 ---
-title: setCamFrozen
+title: setCamFrozen()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function setCamFrozen(state: boolean): void;
 ### Arguments
 
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: patch
+title: patch()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public patch(url: string, body: string): Promise<IHttpResponse>;
 
 * url: string
 * body: string
+
+### Returns
+
+* Promise\<IHttpResponse\>
 
 ## Documentation
 

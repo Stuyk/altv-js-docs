@@ -1,5 +1,5 @@
 ---
-title: addSharedArrayBuffer
+title: addSharedArrayBuffer()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static addSharedArrayBuffer(buffer: SharedArrayBuffer): number;
 ### Arguments
 
 * buffer: SharedArrayBuffer
+
+### Returns
+
+* number
 
 ## Documentation
 

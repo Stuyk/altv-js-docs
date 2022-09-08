@@ -1,5 +1,5 @@
 ---
-title: pos
+title: pos()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly pos: shared.Vector2;
 ```
+
+### Returns
+
+* shared.Vector2
 
 ## Documentation
 

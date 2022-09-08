@@ -1,5 +1,5 @@
 ---
-title: suspensionCompDamp
+title: suspensionCompDamp()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public suspensionCompDamp: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

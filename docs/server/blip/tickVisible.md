@@ -1,5 +1,5 @@
 ---
-title: tickVisible
+title: tickVisible()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public tickVisible: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

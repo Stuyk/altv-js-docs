@@ -1,5 +1,5 @@
 ---
-title: toggleGameControls
+title: toggleGameControls()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function toggleGameControls(state: boolean): void;
 ### Arguments
 
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

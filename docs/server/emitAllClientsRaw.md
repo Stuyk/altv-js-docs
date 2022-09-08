@@ -1,5 +1,5 @@
 ---
-title: emitAllClientsRaw
+title: emitAllClientsRaw()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function emitAllClientsRaw(eventName: string, ...args: any[]): void;
 
 * eventName: string
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

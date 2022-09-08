@@ -1,5 +1,5 @@
 ---
-title: frontendPlay
+title: frontendPlay()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly frontendPlay: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

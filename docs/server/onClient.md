@@ -1,5 +1,5 @@
 ---
-title: onClient
+title: onClient()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function onClient(listener: (eventName: string, player: Player, ...args: any[]) 
 ### Arguments
 
 * listener: (eventName: string, player: Player, ...args: any[]) =\> void
+
+### Returns
+
+* void
 
 ## Documentation
 

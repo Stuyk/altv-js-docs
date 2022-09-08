@@ -1,5 +1,5 @@
 ---
-title: hybridExtraActive
+title: hybridExtraActive()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public hybridExtraActive: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

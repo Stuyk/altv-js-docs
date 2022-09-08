@@ -1,5 +1,5 @@
 ---
-title: drawText3d
+title: drawText3d()
 order: 0
 ---
 
@@ -20,6 +20,10 @@ public static drawText3d(text: string, pos3d?: shared.IVector3, font?: GameFont,
 * color?: shared.RGBA
 * outline?: boolean
 * dropShadow?: boolean
+
+### Returns
+
+* shared.EveryTick
 
 ## Documentation
 

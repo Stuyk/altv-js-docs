@@ -1,5 +1,5 @@
 ---
-title: isTrainEngine
+title: isTrainEngine()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public isTrainEngine: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

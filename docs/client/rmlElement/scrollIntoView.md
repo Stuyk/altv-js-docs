@@ -1,5 +1,5 @@
 ---
-title: scrollIntoView
+title: scrollIntoView()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public scrollIntoView(alignToTop?: boolean): void;
 ### Arguments
 
 * alignToTop?: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

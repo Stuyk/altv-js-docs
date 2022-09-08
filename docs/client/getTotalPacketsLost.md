@@ -1,5 +1,5 @@
 ---
-title: getTotalPacketsLost
+title: getTotalPacketsLost()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function getTotalPacketsLost(): bigint;
 ```
+
+### Returns
+
+* bigint
 
 ## Documentation
 

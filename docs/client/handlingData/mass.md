@@ -1,5 +1,5 @@
 ---
-title: mass
+title: mass()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public mass: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

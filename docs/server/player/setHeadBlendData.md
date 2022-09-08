@@ -1,5 +1,5 @@
 ---
-title: setHeadBlendData
+title: setHeadBlendData()
 order: 0
 ---
 
@@ -22,6 +22,10 @@ public setHeadBlendData(shapeFirstID: number, shapeSecondID: number, shapeThirdI
 * shapeMix: number
 * skinMix: number
 * thirdMix: number
+
+### Returns
+
+* void
 
 ## Documentation
 

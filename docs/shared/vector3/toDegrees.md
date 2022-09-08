@@ -1,5 +1,5 @@
 ---
-title: toDegrees
+title: toDegrees()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public toDegrees(): Vector3;
 ```
+
+### Returns
+
+* Vector3
 
 ## Documentation
 

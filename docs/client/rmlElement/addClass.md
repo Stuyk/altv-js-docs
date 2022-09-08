@@ -1,5 +1,5 @@
 ---
-title: addClass
+title: addClass()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public addClass(name: string): boolean;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

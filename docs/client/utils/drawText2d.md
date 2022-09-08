@@ -1,5 +1,5 @@
 ---
-title: drawText2d
+title: drawText2d()
 order: 0
 ---
 
@@ -20,6 +20,10 @@ public static drawText2d(text: string, pos2d?: shared.IVector2, font?: GameFont,
 * color?: shared.RGBA
 * outline?: boolean
 * dropShadow?: boolean
+
+### Returns
+
+* shared.EveryTick
 
 ## Documentation
 

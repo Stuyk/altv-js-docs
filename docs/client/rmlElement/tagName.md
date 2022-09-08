@@ -1,5 +1,5 @@
 ---
-title: tagName
+title: tagName()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly tagName: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: getCursorPos
+title: getCursorPos()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getCursorPos(normalized?: boolean): shared.Vector2;
 ### Arguments
 
 * normalized?: boolean
+
+### Returns
+
+* shared.Vector2
 
 ## Documentation
 

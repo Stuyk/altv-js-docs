@@ -1,5 +1,5 @@
 ---
-title: kick
+title: kick()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public kick(reason?: string): void;
 ### Arguments
 
 * reason?: string
+
+### Returns
+
+* void
 
 ## Documentation
 

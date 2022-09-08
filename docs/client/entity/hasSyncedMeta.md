@@ -1,5 +1,5 @@
 ---
-title: hasSyncedMeta
+title: hasSyncedMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public hasSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomEntitySync
 ### Arguments
 
 * key: K
+
+### Returns
+
+* boolean
 
 ## Documentation
 

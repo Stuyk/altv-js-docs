@@ -1,5 +1,5 @@
 ---
-title: deformationDamageMult
+title: deformationDamageMult()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public deformationDamageMult: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

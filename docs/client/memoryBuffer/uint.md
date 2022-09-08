@@ -1,5 +1,5 @@
 ---
-title: uint
+title: uint()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public uint(offset: number): number;
 ### Arguments
 
 * offset: number
+
+### Returns
+
+* number
 
 ## Documentation
 

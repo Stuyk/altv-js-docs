@@ -1,5 +1,5 @@
 ---
-title: offsetTop
+title: offsetTop()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly offsetTop: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

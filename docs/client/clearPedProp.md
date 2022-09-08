@@ -1,5 +1,5 @@
 ---
-title: clearPedProp
+title: clearPedProp()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function clearPedProp(scriptID: number, component: number): void;
 
 * scriptID: number
 * component: number
+
+### Returns
+
+* void
 
 ## Documentation
 

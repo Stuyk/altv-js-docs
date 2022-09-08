@@ -1,5 +1,5 @@
 ---
-title: setExtra
+title: setExtra()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setExtra(extraId: number, state: boolean): void;
 
 * extraId: number
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

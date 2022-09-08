@@ -1,5 +1,5 @@
 ---
-title: clientLeft
+title: clientLeft()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly clientLeft: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

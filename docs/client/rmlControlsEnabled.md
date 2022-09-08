@@ -1,5 +1,5 @@
 ---
-title: rmlControlsEnabled
+title: rmlControlsEnabled()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function rmlControlsEnabled(): boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

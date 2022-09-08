@@ -1,5 +1,5 @@
 ---
-title: emit
+title: emit()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function emit<K extends string>(eventName: Exclude<K, keyof IClientEvent>, ...ar
 
 * eventName: Exclude\<K, keyof IClientEvent\>
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

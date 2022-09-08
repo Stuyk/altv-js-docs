@@ -1,5 +1,5 @@
 ---
-title: setLightDamaged
+title: setLightDamaged()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setLightDamaged(lightId: number, isDamaged: boolean): void;
 
 * lightId: number
 * isDamaged: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

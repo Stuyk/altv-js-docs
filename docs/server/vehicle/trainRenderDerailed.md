@@ -1,5 +1,5 @@
 ---
-title: trainRenderDerailed
+title: trainRenderDerailed()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public trainRenderDerailed: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

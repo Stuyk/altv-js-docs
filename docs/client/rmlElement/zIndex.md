@@ -1,5 +1,5 @@
 ---
-title: zIndex
+title: zIndex()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly zIndex: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

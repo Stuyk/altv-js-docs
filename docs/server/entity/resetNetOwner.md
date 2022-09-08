@@ -1,5 +1,5 @@
 ---
-title: resetNetOwner
+title: resetNetOwner()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public resetNetOwner(disableMigration?: boolean): void;
 ### Arguments
 
 * disableMigration?: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

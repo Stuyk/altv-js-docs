@@ -1,5 +1,5 @@
 ---
-title: invincible
+title: invincible()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public invincible: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

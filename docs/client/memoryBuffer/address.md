@@ -1,5 +1,5 @@
 ---
-title: address
+title: address()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly address: bigint;
 ```
+
+### Returns
+
+* bigint
 
 ## Documentation
 

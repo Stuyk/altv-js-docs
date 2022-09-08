@@ -1,5 +1,5 @@
 ---
-title: indicatorLights
+title: indicatorLights()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public indicatorLights: VehicleIndicatorLights;
 ```
+
+### Returns
+
+* VehicleIndicatorLights
 
 ## Documentation
 

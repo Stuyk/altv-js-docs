@@ -1,5 +1,5 @@
 ---
-title: startResource
+title: startResource()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function startResource(name: string): void;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* void
 
 ## Documentation
 

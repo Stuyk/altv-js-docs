@@ -1,5 +1,5 @@
 ---
-title: engineHealth
+title: engineHealth()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public engineHealth: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: getForHandlingName
+title: getForHandlingName()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static getForHandlingName(handlingHash: number): HandlingData;
 ### Arguments
 
 * handlingHash: number
+
+### Returns
+
+* HandlingData
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: logError
+title: logError()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function logError(...args: any[]): void;
 ### Arguments
 
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

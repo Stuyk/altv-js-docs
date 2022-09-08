@@ -1,5 +1,5 @@
 ---
-title: get
+title: get()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static get(key: string): any;
 ### Arguments
 
 * key: string
+
+### Returns
+
+* any
 
 ## Documentation
 

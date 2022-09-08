@@ -1,5 +1,5 @@
 ---
-title: getPartBulletHoles
+title: getPartBulletHoles()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getPartBulletHoles<T extends number>(partId: T): number;
 ### Arguments
 
 * partId: T
+
+### Returns
+
+* number
 
 ## Documentation
 

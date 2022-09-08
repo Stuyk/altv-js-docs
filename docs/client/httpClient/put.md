@@ -1,5 +1,5 @@
 ---
-title: put
+title: put()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public put(url: string, body: string): Promise<IHttpResponse>;
 
 * url: string
 * body: string
+
+### Returns
+
+* Promise\<IHttpResponse\>
 
 ## Documentation
 

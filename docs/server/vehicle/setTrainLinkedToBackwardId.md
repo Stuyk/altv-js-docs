@@ -1,5 +1,5 @@
 ---
-title: setTrainLinkedToBackwardId
+title: setTrainLinkedToBackwardId()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setTrainLinkedToBackwardId(vehicle: Vehicle | null): void;
 ### Arguments
 
 * vehicle: Vehicle | null
+
+### Returns
+
+* void
 
 ## Documentation
 

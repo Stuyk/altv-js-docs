@@ -1,5 +1,5 @@
 ---
-title: animReloadRate
+title: animReloadRate()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public animReloadRate: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: hasLocalMeta
+title: hasLocalMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public hasLocalMeta<K extends shared.ExtractStringKeys<shared.ICustomPlayerLocal
 ### Arguments
 
 * key: K
+
+### Returns
+
+* boolean
 
 ## Documentation
 

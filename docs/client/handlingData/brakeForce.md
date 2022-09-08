@@ -1,5 +1,5 @@
 ---
-title: brakeForce
+title: brakeForce()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public brakeForce: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

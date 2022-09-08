@@ -1,5 +1,5 @@
 ---
-title: engineTemperature
+title: engineTemperature()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public engineTemperature: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

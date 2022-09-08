@@ -1,5 +1,5 @@
 ---
-title: getGxtText
+title: getGxtText()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getGxtText(key: string): string;
 ### Arguments
 
 * key: string
+
+### Returns
+
+* string
 
 ## Documentation
 

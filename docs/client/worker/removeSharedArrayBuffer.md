@@ -1,5 +1,5 @@
 ---
-title: removeSharedArrayBuffer
+title: removeSharedArrayBuffer()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static removeSharedArrayBuffer(id: number): void;
 ### Arguments
 
 * id: number
+
+### Returns
+
+* void
 
 ## Documentation
 

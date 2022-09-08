@@ -1,5 +1,5 @@
 ---
-title: isTrainCaboose
+title: isTrainCaboose()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public isTrainCaboose: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

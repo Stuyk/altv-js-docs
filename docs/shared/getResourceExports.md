@@ -1,5 +1,5 @@
 ---
-title: getResourceExports
+title: getResourceExports()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getResourceExports(name: string): any;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* any
 
 ## Documentation
 

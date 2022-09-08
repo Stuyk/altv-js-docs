@@ -1,5 +1,5 @@
 ---
-title: vehicle
+title: vehicle()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly vehicle: Vehicle | null;
 ```
+
+### Returns
+
+* Vehicle | null
 
 ## Documentation
 

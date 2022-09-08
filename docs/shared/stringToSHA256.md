@@ -1,5 +1,5 @@
 ---
-title: stringToSHA256
+title: stringToSHA256()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function stringToSHA256(string: string): string;
 ### Arguments
 
 * string: string
+
+### Returns
+
+* string
 
 ## Documentation
 

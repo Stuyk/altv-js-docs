@@ -1,5 +1,5 @@
 ---
-title: isCollisionEnabled
+title: isCollisionEnabled()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isCollisionEnabled: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

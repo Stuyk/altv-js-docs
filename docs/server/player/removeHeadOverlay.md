@@ -1,5 +1,5 @@
 ---
-title: removeHeadOverlay
+title: removeHeadOverlay()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public removeHeadOverlay(overlayID: number): boolean;
 ### Arguments
 
 * overlayID: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

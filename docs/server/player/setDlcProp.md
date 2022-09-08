@@ -1,5 +1,5 @@
 ---
-title: setDlcProp
+title: setDlcProp()
 order: 0
 ---
 
@@ -17,6 +17,10 @@ public setDlcProp(dlc: number, component: number, drawable: number, texture: num
 * component: number
 * drawable: number
 * texture: number
+
+### Returns
+
+* void
 
 ## Documentation
 

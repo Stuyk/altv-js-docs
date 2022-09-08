@@ -1,5 +1,5 @@
 ---
-title: angleTo
+title: angleTo()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public angleTo(vector: IVector3): number;
 ### Arguments
 
 * vector: IVector3
+
+### Returns
+
+* number
 
 ## Documentation
 

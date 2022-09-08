@@ -1,5 +1,5 @@
 ---
-title: micLevel
+title: micLevel()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly micLevel: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

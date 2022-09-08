@@ -1,5 +1,5 @@
 ---
-title: setAppearanceDataBase64
+title: setAppearanceDataBase64()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setAppearanceDataBase64(data: string): void;
 ### Arguments
 
 * data: string
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: source
+title: source()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public source: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

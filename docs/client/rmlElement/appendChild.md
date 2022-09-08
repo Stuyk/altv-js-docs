@@ -1,5 +1,5 @@
 ---
-title: appendChild
+title: appendChild()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public appendChild(child: RmlElement): void;
 ### Arguments
 
 * child: RmlElement
+
+### Returns
+
+* void
 
 ## Documentation
 

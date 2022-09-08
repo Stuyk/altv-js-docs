@@ -1,5 +1,5 @@
 ---
-title: setStreamSyncedMeta
+title: setStreamSyncedMeta()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setStreamSyncedMeta<V extends any, K extends string = string>(key: K, val
 
 * key: K
 * value: shared.InterfaceValueByKey\<shared.ICustomPlayerStreamSyncedMeta, K, V\>
+
+### Returns
+
+* void
 
 ## Documentation
 

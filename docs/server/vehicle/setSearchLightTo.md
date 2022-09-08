@@ -1,5 +1,5 @@
 ---
-title: setSearchLightTo
+title: setSearchLightTo()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setSearchLightTo(entity: Entity, state: boolean): void;
 
 * entity: Entity
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

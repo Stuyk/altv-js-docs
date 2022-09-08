@@ -1,5 +1,5 @@
 ---
-title: setWheelTyreRadius
+title: setWheelTyreRadius()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWheelTyreRadius(wheelIndex: number, radius: number): void;
 
 * wheelIndex: number
 * radius: number
+
+### Returns
+
+* void
 
 ## Documentation
 

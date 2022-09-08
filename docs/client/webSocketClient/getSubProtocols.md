@@ -1,5 +1,5 @@
 ---
-title: getSubProtocols
+title: getSubProtocols()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getSubProtocols(): string[];
 ```
+
+### Returns
+
+* string[]
 
 ## Documentation
 

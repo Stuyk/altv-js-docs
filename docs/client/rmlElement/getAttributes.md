@@ -1,5 +1,5 @@
 ---
-title: getAttributes
+title: getAttributes()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getAttributes(): Record<string, string>;
 ```
+
+### Returns
+
+* Record\<string, string\>
 
 ## Documentation
 

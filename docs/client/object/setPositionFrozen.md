@@ -1,5 +1,5 @@
 ---
-title: setPositionFrozen
+title: setPositionFrozen()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setPositionFrozen(toggle: boolean): void;
 ### Arguments
 
 * toggle: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

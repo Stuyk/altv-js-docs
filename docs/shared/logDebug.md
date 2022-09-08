@@ -1,5 +1,5 @@
 ---
-title: logDebug
+title: logDebug()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function logDebug(...args: any[]): void;
 ### Arguments
 
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

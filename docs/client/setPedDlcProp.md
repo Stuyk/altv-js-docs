@@ -1,5 +1,5 @@
 ---
-title: setPedDlcProp
+title: setPedDlcProp()
 order: 0
 ---
 
@@ -18,6 +18,10 @@ function setPedDlcProp(scriptID: number, dlc: number, component: number, drawabl
 * component: number
 * drawable: number
 * texture: number
+
+### Returns
+
+* void
 
 ## Documentation
 

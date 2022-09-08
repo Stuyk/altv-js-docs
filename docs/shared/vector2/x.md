@@ -1,5 +1,5 @@
 ---
-title: x
+title: x()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly x: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

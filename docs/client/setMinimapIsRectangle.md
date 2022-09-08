@@ -1,5 +1,5 @@
 ---
-title: setMinimapIsRectangle
+title: setMinimapIsRectangle()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function setMinimapIsRectangle(state: boolean): void;
 ### Arguments
 
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

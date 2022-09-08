@@ -1,5 +1,5 @@
 ---
-title: getWheelHeight
+title: getWheelHeight()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getWheelHeight(wheelIndex: number): number;
 ### Arguments
 
 * wheelIndex: number
+
+### Returns
+
+* number
 
 ## Documentation
 

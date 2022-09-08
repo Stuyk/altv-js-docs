@@ -1,5 +1,5 @@
 ---
-title: hasArmoredWindows
+title: hasArmoredWindows()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly hasArmoredWindows: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

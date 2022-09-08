@@ -1,5 +1,5 @@
 ---
-title: focusedElement
+title: focusedElement()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly focusedElement: RmlElement | null;
 ```
+
+### Returns
+
+* RmlElement | null
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: fScrollSpeed
+title: fScrollSpeed()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public fScrollSpeed: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

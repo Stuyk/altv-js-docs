@@ -1,5 +1,5 @@
 ---
-title: setWheelFixed
+title: setWheelFixed()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setWheelFixed(wheelId: number): void;
 ### Arguments
 
 * wheelId: number
+
+### Returns
+
+* void
 
 ## Documentation
 

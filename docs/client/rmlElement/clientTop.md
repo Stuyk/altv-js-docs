@@ -1,5 +1,5 @@
 ---
-title: clientTop
+title: clientTop()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly clientTop: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: zero
+title: zero()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly zero: Vector3;
 ```
+
+### Returns
+
+* Vector3
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: wheelColor
+title: wheelColor()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public wheelColor: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

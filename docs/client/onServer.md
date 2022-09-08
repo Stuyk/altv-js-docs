@@ -1,5 +1,5 @@
 ---
-title: onServer
+title: onServer()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function onServer(listener: (eventName: string, ...args: any[]) => void): void;
 ### Arguments
 
 * listener: (eventName: string, ...args: any[]) =\> void
+
+### Returns
+
+* void
 
 ## Documentation
 

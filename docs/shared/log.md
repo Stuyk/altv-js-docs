@@ -1,5 +1,5 @@
 ---
-title: log
+title: log()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function log(...args: any[]): void;
 ### Arguments
 
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

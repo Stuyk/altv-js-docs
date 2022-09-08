@@ -1,5 +1,5 @@
 ---
-title: setArmoredWindowShootCount
+title: setArmoredWindowShootCount()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setArmoredWindowShootCount(windowId: number, count: number): void;
 
 * windowId: number
 * count: number
+
+### Returns
+
+* void
 
 ## Documentation
 

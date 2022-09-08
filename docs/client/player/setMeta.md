@@ -1,5 +1,5 @@
 ---
-title: setMeta
+title: setMeta()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setMeta<V extends any, K extends string = string>(key: K, value: shared.I
 
 * key: K
 * value: shared.InterfaceValueByKey\<ICustomPlayerMeta, K, V\>
+
+### Returns
+
+* void
 
 ## Documentation
 

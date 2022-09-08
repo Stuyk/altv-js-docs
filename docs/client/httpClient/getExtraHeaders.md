@@ -1,5 +1,5 @@
 ---
-title: getExtraHeaders
+title: getExtraHeaders()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getExtraHeaders(): Record<string, string>;
 ```
+
+### Returns
+
+* Record\<string, string\>
 
 ## Documentation
 

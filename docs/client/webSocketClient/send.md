@@ -1,5 +1,5 @@
 ---
-title: send
+title: send()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public send(message: string | ArrayBuffer | ArrayBufferView): boolean;
 ### Arguments
 
 * message: string | ArrayBuffer | ArrayBufferView
+
+### Returns
+
+* boolean
 
 ## Documentation
 

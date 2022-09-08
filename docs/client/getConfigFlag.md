@@ -1,5 +1,5 @@
 ---
-title: getConfigFlag
+title: getConfigFlag()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getConfigFlag(flag: `${ConfigFlag}`): boolean;
 ### Arguments
 
 * flag: `$\{ConfigFlag\}`
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: ping
+title: ping()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly ping: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

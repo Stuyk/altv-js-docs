@@ -1,5 +1,5 @@
 ---
-title: overrideFocus
+title: overrideFocus()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public static overrideFocus(pos: Entity, offset?: shared.Vector3): void;
 
 * pos: Entity
 * offset?: shared.Vector3
+
+### Returns
+
+* void
 
 ## Documentation
 

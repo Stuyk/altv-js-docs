@@ -1,5 +1,5 @@
 ---
-title: setDlcClothes
+title: setDlcClothes()
 order: 0
 ---
 
@@ -18,6 +18,10 @@ public setDlcClothes(dlc: number, component: number, drawable: number, texture: 
 * drawable: number
 * texture: number
 * palette?: number
+
+### Returns
+
+* void
 
 ## Documentation
 

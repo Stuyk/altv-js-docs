@@ -1,5 +1,5 @@
 ---
-title: heapStats
+title: heapStats()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly heapStats: IHeapStats;
 ```
+
+### Returns
+
+* IHeapStats
 
 ## Documentation
 

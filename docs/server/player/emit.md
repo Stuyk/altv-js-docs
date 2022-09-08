@@ -1,5 +1,5 @@
 ---
-title: emit
+title: emit()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public emit(eventName: string, ...args: any[]): void;
 
 * eventName: string
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

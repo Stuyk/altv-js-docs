@@ -1,5 +1,5 @@
 ---
-title: isEntityInStreamRange
+title: isEntityInStreamRange()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isEntityInStreamRange(entityID: number): boolean;
 ### Arguments
 
 * entityID: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

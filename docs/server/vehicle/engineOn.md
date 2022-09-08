@@ -1,5 +1,5 @@
 ---
-title: engineOn
+title: engineOn()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public engineOn: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

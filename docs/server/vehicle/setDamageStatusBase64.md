@@ -1,5 +1,5 @@
 ---
-title: setDamageStatusBase64
+title: setDamageStatusBase64()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setDamageStatusBase64(data: string): void;
 ### Arguments
 
 * data: string
+
+### Returns
+
+* void
 
 ## Documentation
 

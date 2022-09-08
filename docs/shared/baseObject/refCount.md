@@ -1,5 +1,5 @@
 ---
-title: refCount
+title: refCount()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly refCount: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

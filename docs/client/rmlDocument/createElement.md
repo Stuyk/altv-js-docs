@@ -1,5 +1,5 @@
 ---
-title: createElement
+title: createElement()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public createElement(tag: string): RmlElement;
 ### Arguments
 
 * tag: string
+
+### Returns
+
+* RmlElement
 
 ## Documentation
 

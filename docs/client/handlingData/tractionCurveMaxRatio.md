@@ -1,5 +1,5 @@
 ---
-title: tractionCurveMaxRatio
+title: tractionCurveMaxRatio()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public tractionCurveMaxRatio: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

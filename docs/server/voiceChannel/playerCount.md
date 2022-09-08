@@ -1,5 +1,5 @@
 ---
-title: playerCount
+title: playerCount()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly playerCount: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

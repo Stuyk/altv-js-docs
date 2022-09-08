@@ -1,5 +1,5 @@
 ---
-title: maxTime
+title: maxTime()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly maxTime: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

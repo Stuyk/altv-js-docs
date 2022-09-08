@@ -1,5 +1,5 @@
 ---
-title: string
+title: string()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public string(offset: number, length: number): string;
 
 * offset: number
 * length: number
+
+### Returns
+
+* string
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: engineDamageMult
+title: engineDamageMult()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public engineDamageMult: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

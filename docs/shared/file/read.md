@@ -1,5 +1,5 @@
 ---
-title: read
+title: read()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public static read(filename: string, encoding: FileEncoding.Binary | `${FileEnco
 
 * filename: string
 * encoding: FileEncoding.Binary | `$\{FileEncoding.Binary\}`
+
+### Returns
+
+* ArrayBuffer
 
 ## Documentation
 

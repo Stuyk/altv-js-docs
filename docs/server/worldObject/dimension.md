@@ -1,5 +1,5 @@
 ---
-title: dimension
+title: dimension()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public dimension: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

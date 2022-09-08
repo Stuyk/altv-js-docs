@@ -1,5 +1,5 @@
 ---
-title: setHairHighlightColor
+title: setHairHighlightColor()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setHairHighlightColor(hairHighlightColor: number): void;
 ### Arguments
 
 * hairHighlightColor: number
+
+### Returns
+
+* void
 
 ## Documentation
 

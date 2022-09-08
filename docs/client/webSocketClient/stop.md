@@ -1,5 +1,5 @@
 ---
-title: stop
+title: stop()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public stop(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

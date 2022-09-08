@@ -1,5 +1,5 @@
 ---
-title: short
+title: short()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public short(offset: number): number;
 ### Arguments
 
 * offset: number
+
+### Returns
+
+* number
 
 ## Documentation
 

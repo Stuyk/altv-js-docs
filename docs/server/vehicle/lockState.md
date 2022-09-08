@@ -1,5 +1,5 @@
 ---
-title: lockState
+title: lockState()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public lockState: shared.VehicleLockState;
 ```
+
+### Returns
+
+* shared.VehicleLockState
 
 ## Documentation
 

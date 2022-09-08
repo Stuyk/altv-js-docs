@@ -1,5 +1,5 @@
 ---
-title: y
+title: y()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly y: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

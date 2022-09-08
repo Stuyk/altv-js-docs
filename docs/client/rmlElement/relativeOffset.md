@@ -1,5 +1,5 @@
 ---
-title: relativeOffset
+title: relativeOffset()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly relativeOffset: shared.Vector2;
 ```
+
+### Returns
+
+* shared.Vector2
 
 ## Documentation
 

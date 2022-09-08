@@ -1,5 +1,5 @@
 ---
-title: absoluteLeft
+title: absoluteLeft()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly absoluteLeft: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: vehicleReloadTime
+title: vehicleReloadTime()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public vehicleReloadTime: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: loadYtyp
+title: loadYtyp()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function loadYtyp(path: string): boolean;
 ### Arguments
 
 * path: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

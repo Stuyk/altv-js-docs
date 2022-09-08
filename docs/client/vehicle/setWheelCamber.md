@@ -1,5 +1,5 @@
 ---
-title: setWheelCamber
+title: setWheelCamber()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWheelCamber(wheelIndex: number, camber: number): void;
 
 * wheelIndex: number
 * camber: number
+
+### Returns
+
+* void
 
 ## Documentation
 

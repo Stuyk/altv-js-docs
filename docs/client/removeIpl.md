@@ -1,5 +1,5 @@
 ---
-title: removeIpl
+title: removeIpl()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function removeIpl(iplName: string): void;
 ### Arguments
 
 * iplName: string
+
+### Returns
+
+* void
 
 ## Documentation
 

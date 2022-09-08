@@ -1,5 +1,5 @@
 ---
-title: hasStreamSyncedMeta
+title: hasStreamSyncedMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public hasStreamSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomPlay
 ### Arguments
 
 * key: K
+
+### Returns
+
+* boolean
 
 ## Documentation
 

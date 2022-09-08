@@ -40,6 +40,10 @@ export function getAllFoldersInDirectory(folderPath) {
 
     const objects = [];
     for (let folder of folders) {
+        if (folder === 'parts') {
+            continue;
+        }
+
         const nextPath = normalizePath(path.join(startPath, folder)).replace(docsPath, '');
         objects.push({
             text: `${capFirstLetter(folder)}`,

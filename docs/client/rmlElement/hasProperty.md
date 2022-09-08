@@ -1,5 +1,5 @@
 ---
-title: hasProperty
+title: hasProperty()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public hasProperty(name: string): boolean;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: get
+title: get()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public get(url: string): Promise<IHttpResponse>;
 ### Arguments
 
 * url: string
+
+### Returns
+
+* Promise\<IHttpResponse\>
 
 ## Documentation
 

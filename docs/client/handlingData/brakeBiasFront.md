@@ -1,5 +1,5 @@
 ---
-title: brakeBiasFront
+title: brakeBiasFront()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public brakeBiasFront: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

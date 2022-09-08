@@ -1,5 +1,5 @@
 ---
-title: setWeather
+title: setWeather()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setWeather<T extends number>(weatherType: T): void;
 ### Arguments
 
 * weatherType: T
+
+### Returns
+
+* void
 
 ## Documentation
 

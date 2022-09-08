@@ -1,5 +1,5 @@
 ---
-title: showCursor
+title: showCursor()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function showCursor(state: boolean): void;
 ### Arguments
 
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

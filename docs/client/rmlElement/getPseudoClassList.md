@@ -1,5 +1,5 @@
 ---
-title: getPseudoClassList
+title: getPseudoClassList()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getPseudoClassList(): ReadonlyArray<string>;
 ```
+
+### Returns
+
+* ReadonlyArray\<string\>
 
 ## Documentation
 

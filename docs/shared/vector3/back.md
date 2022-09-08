@@ -1,5 +1,5 @@
 ---
-title: back
+title: back()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly back: Vector3;
 ```
+
+### Returns
+
+* Vector3
 
 ## Documentation
 

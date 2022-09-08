@@ -1,5 +1,5 @@
 ---
-title: setDoorState
+title: setDoorState()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setDoorState<T extends number, V extends number = VehicleDoorState>(doorI
 
 * doorId: T
 * state: V
+
+### Returns
+
+* void
 
 ## Documentation
 

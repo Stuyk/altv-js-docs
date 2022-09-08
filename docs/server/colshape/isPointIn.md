@@ -1,5 +1,5 @@
 ---
-title: isPointIn
+title: isPointIn()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isPointIn(position: shared.IVector3): boolean;
 ### Arguments
 
 * position: shared.IVector3
+
+### Returns
+
+* boolean
 
 ## Documentation
 

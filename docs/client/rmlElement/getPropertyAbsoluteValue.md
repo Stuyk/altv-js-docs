@@ -1,5 +1,5 @@
 ---
-title: getPropertyAbsoluteValue
+title: getPropertyAbsoluteValue()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getPropertyAbsoluteValue(name: string): number;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* number
 
 ## Documentation
 

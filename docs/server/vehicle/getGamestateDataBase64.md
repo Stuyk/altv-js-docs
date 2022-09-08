@@ -1,5 +1,5 @@
 ---
-title: getGamestateDataBase64
+title: getGamestateDataBase64()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getGamestateDataBase64(): string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

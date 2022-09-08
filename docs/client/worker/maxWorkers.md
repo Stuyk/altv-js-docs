@@ -1,5 +1,5 @@
 ---
-title: maxWorkers
+title: maxWorkers()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly maxWorkers: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

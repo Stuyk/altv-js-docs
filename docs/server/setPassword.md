@@ -1,5 +1,5 @@
 ---
-title: setPassword
+title: setPassword()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function setPassword(password: string): void;
 ### Arguments
 
 * password: string
+
+### Returns
+
+* void
 
 ## Documentation
 

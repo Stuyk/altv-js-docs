@@ -1,5 +1,5 @@
 ---
-title: set
+title: set()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public static set(key: string, value: any): void;
 
 * key: string
 * value: any
+
+### Returns
+
+* void
 
 ## Documentation
 

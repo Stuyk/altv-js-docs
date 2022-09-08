@@ -1,5 +1,5 @@
 ---
-title: petrolTankHealth
+title: petrolTankHealth()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly petrolTankHealth: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

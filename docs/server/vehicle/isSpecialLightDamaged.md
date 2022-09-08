@@ -1,5 +1,5 @@
 ---
-title: isSpecialLightDamaged
+title: isSpecialLightDamaged()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isSpecialLightDamaged(specialLightId: number): boolean;
 ### Arguments
 
 * specialLightId: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

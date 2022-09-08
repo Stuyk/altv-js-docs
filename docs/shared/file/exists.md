@@ -1,5 +1,5 @@
 ---
-title: exists
+title: exists()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static exists(filename: string): boolean;
 ### Arguments
 
 * filename: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

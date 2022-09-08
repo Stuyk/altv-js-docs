@@ -1,5 +1,5 @@
 ---
-title: size
+title: size()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public size: shared.Vector2;
 ```
+
+### Returns
+
+* shared.Vector2
 
 ## Documentation
 

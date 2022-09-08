@@ -1,5 +1,5 @@
 ---
-title: handbrakeActive
+title: handbrakeActive()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly handbrakeActive: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

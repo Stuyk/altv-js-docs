@@ -1,5 +1,5 @@
 ---
-title: clearEveryTick
+title: clearEveryTick()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function clearEveryTick(id: number): void;
 ### Arguments
 
 * id: number
+
+### Returns
+
+* void
 
 ## Documentation
 

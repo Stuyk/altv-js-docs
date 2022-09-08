@@ -1,5 +1,5 @@
 ---
-title: setHealthDataBase64
+title: setHealthDataBase64()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setHealthDataBase64(data: string): void;
 ### Arguments
 
 * data: string
+
+### Returns
+
+* void
 
 ## Documentation
 

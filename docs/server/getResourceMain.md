@@ -1,5 +1,5 @@
 ---
-title: getResourceMain
+title: getResourceMain()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getResourceMain(name: string): string;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* string
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: suspensionBiasFront
+title: suspensionBiasFront()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public suspensionBiasFront: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

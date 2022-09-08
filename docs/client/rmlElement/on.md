@@ -1,5 +1,5 @@
 ---
-title: on
+title: on()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public on(eventName: string, func: (senderElement: RmlElement, ...args: any[]) =
 
 * eventName: string
 * func: (senderElement: RmlElement, ...args: any[]) =\> void
+
+### Returns
+
+* void
 
 ## Documentation
 

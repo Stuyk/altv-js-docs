@@ -1,5 +1,5 @@
 ---
-title: requestModel
+title: requestModel()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public static requestModel(model: string | number, timeout?: number): Promise<vo
 
 * model: string | number
 * timeout?: number
+
+### Returns
+
+* Promise\<void\>
 
 ## Documentation
 

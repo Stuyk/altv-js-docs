@@ -1,5 +1,5 @@
 ---
-title: stopProfiling
+title: stopProfiling()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static stopProfiling(profileName?: string): IProfile;
 ### Arguments
 
 * profileName?: string
+
+### Returns
+
+* IProfile
 
 ## Documentation
 

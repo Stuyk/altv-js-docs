@@ -1,5 +1,5 @@
 ---
-title: stopResource
+title: stopResource()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function stopResource(name: string): void;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* void
 
 ## Documentation
 

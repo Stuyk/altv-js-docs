@@ -1,5 +1,5 @@
 ---
-title: toggleCollision
+title: toggleCollision()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public toggleCollision(toggle: boolean, keepPhysics: boolean): void;
 
 * toggle: boolean
 * keepPhysics: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

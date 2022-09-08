@@ -1,5 +1,5 @@
 ---
-title: style
+title: style()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public style: Record<string, string>;
 ```
+
+### Returns
+
+* Record\<string, string\>
 
 ## Documentation
 

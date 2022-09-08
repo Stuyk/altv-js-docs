@@ -1,5 +1,5 @@
 ---
-title: scrollTop
+title: scrollTop()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public scrollTop: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

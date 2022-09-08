@@ -1,5 +1,5 @@
 ---
-title: requestIpl
+title: requestIpl()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function requestIpl(iplName: string): void;
 ### Arguments
 
 * iplName: string
+
+### Returns
+
+* void
 
 ## Documentation
 

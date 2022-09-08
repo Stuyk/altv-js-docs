@@ -1,5 +1,5 @@
 ---
-title: drawText3dThisFrame
+title: drawText3dThisFrame()
 order: 0
 ---
 
@@ -20,6 +20,10 @@ public static drawText3dThisFrame(text: string, pos3d?: shared.IVector3, font?: 
 * color?: shared.RGBA
 * outline?: boolean
 * dropShadow?: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: nightlightOn
+title: nightlightOn()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly nightlightOn: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

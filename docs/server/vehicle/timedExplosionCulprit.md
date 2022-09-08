@@ -1,5 +1,5 @@
 ---
-title: timedExplosionCulprit
+title: timedExplosionCulprit()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly timedExplosionCulprit: Player;
 ```
+
+### Returns
+
+* Player
 
 ## Documentation
 

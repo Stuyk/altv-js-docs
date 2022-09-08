@@ -1,5 +1,5 @@
 ---
-title: unfocus
+title: unfocus()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public unfocus(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: fZoomScale
+title: fZoomScale()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public fZoomScale: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

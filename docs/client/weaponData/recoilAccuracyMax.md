@@ -1,5 +1,5 @@
 ---
-title: recoilAccuracyMax
+title: recoilAccuracyMax()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public recoilAccuracyMax: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

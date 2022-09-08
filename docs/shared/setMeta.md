@@ -1,5 +1,5 @@
 ---
-title: setMeta
+title: setMeta()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function setMeta<V extends any, K extends string = string>(key: K, value: Interf
 
 * key: K
 * value: InterfaceValueByKey\<ICustomGlobalMeta, K, V\>
+
+### Returns
+
+* void
 
 ## Documentation
 

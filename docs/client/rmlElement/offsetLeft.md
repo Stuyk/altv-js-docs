@@ -1,5 +1,5 @@
 ---
-title: offsetLeft
+title: offsetLeft()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly offsetLeft: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

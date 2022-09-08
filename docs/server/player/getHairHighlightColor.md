@@ -1,5 +1,5 @@
 ---
-title: getHairHighlightColor
+title: getHairHighlightColor()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getHairHighlightColor(): number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

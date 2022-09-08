@@ -1,5 +1,5 @@
 ---
-title: hasChildren
+title: hasChildren()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly hasChildren: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

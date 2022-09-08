@@ -1,5 +1,5 @@
 ---
-title: setWeatherCycle
+title: setWeatherCycle()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function setWeatherCycle(weathers: Array<number>, multipliers: Array<number>): v
 
 * weathers: Array\<number\>
 * multipliers: Array\<number\>
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: isPointOnScreen
+title: isPointOnScreen()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function isPointOnScreen(value: shared.IVector3): boolean;
 ### Arguments
 
 * value: shared.IVector3
+
+### Returns
+
+* boolean
 
 ## Documentation
 

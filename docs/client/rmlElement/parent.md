@@ -1,5 +1,5 @@
 ---
-title: parent
+title: parent()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly parent: RmlElement | null;
 ```
+
+### Returns
+
+* RmlElement | null
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: clutchChangeRateScaleUpShift
+title: clutchChangeRateScaleUpShift()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public clutchChangeRateScaleUpShift: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

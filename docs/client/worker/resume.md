@@ -1,5 +1,5 @@
 ---
-title: resume
+title: resume()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public resume(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: rocketRefuelSpeed
+title: rocketRefuelSpeed()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public rocketRefuelSpeed: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

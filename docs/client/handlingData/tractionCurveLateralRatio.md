@@ -1,5 +1,5 @@
 ---
-title: tractionCurveLateralRatio
+title: tractionCurveLateralRatio()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public tractionCurveLateralRatio: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

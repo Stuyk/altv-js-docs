@@ -1,5 +1,5 @@
 ---
-title: div
+title: div()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public div(vector: IVector3): Vector3;
 ### Arguments
 
 * vector: IVector3
+
+### Returns
+
+* Vector3
 
 ## Documentation
 

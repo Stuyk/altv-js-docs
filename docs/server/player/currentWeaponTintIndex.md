@@ -1,5 +1,5 @@
 ---
-title: currentWeaponTintIndex
+title: currentWeaponTintIndex()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly currentWeaponTintIndex: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

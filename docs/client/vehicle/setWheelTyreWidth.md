@@ -1,5 +1,5 @@
 ---
-title: setWheelTyreWidth
+title: setWheelTyreWidth()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWheelTyreWidth(wheelIndex: number, width: number): void;
 
 * wheelIndex: number
 * width: number
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: windowTint
+title: windowTint()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public windowTint: WindowTint;
 ```
+
+### Returns
+
+* WindowTint
 
 ## Documentation
 

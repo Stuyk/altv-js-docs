@@ -1,5 +1,5 @@
 ---
-title: currentAnimationDict
+title: currentAnimationDict()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly currentAnimationDict: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

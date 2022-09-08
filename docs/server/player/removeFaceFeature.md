@@ -1,5 +1,5 @@
 ---
-title: removeFaceFeature
+title: removeFaceFeature()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public removeFaceFeature(index: number): boolean;
 ### Arguments
 
 * index: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

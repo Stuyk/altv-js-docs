@@ -1,5 +1,5 @@
 ---
-title: isGameFocused
+title: isGameFocused()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function isGameFocused(): boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

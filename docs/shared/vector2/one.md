@@ -1,5 +1,5 @@
 ---
-title: one
+title: one()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly one: Vector2;
 ```
+
+### Returns
+
+* Vector2
 
 ## Documentation
 

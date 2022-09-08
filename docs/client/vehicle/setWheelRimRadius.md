@@ -1,5 +1,5 @@
 ---
-title: setWheelRimRadius
+title: setWheelRimRadius()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWheelRimRadius(wheelIndex: number, radius: number): void;
 
 * wheelIndex: number
 * radius: number
+
+### Returns
+
+* void
 
 ## Documentation
 

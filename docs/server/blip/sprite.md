@@ -1,5 +1,5 @@
 ---
-title: sprite
+title: sprite()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public sprite: shared.BlipSprite;
 ```
+
+### Returns
+
+* shared.BlipSprite
 
 ## Documentation
 

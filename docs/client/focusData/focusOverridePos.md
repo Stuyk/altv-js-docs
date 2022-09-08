@@ -1,5 +1,5 @@
 ---
-title: focusOverridePos
+title: focusOverridePos()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly focusOverridePos: shared.Vector3;
 ```
+
+### Returns
+
+* shared.Vector3
 
 ## Documentation
 

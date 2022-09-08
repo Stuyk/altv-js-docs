@@ -1,5 +1,5 @@
 ---
-title: trainDirection
+title: trainDirection()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public trainDirection: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

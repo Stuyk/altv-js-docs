@@ -1,5 +1,5 @@
 ---
-title: clientHeight
+title: clientHeight()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly clientHeight: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

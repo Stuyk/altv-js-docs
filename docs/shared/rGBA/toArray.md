@@ -1,5 +1,5 @@
 ---
-title: toArray
+title: toArray()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public toArray(): [r: number, g: number, b: number, a: number];
 ```
+
+### Returns
+
+* number]
 
 ## Documentation
 

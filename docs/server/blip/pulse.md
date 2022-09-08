@@ -1,5 +1,5 @@
 ---
-title: pulse
+title: pulse()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public pulse: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

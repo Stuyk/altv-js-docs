@@ -1,5 +1,5 @@
 ---
-title: playAmbientSpeech
+title: playAmbientSpeech()
 order: 0
 ---
 
@@ -16,6 +16,10 @@ public playAmbientSpeech(speechName: string, speechParam: string, speechDictHash
 * speechName: string
 * speechParam: string
 * speechDictHash: number
+
+### Returns
+
+* void
 
 ## Documentation
 

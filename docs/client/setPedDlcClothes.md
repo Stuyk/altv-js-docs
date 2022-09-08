@@ -1,5 +1,5 @@
 ---
-title: setPedDlcClothes
+title: setPedDlcClothes()
 order: 0
 ---
 
@@ -19,6 +19,10 @@ function setPedDlcClothes(scriptID: number, dlc: number, component: number, draw
 * drawable: number
 * texture: number
 * palette?: number
+
+### Returns
+
+* void
 
 ## Documentation
 

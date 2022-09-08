@@ -1,5 +1,5 @@
 ---
-title: isSuperJumpEnabled
+title: isSuperJumpEnabled()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isSuperJumpEnabled: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: getScreenResolution
+title: getScreenResolution()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function getScreenResolution(): shared.Vector2;
 ```
+
+### Returns
+
+* shared.Vector2
 
 ## Documentation
 

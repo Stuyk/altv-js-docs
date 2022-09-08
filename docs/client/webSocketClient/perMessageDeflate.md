@@ -1,5 +1,5 @@
 ---
-title: perMessageDeflate
+title: perMessageDeflate()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public perMessageDeflate: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

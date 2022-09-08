@@ -1,5 +1,5 @@
 ---
-title: isTalking
+title: isTalking()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isTalking: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

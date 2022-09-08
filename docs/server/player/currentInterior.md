@@ -1,5 +1,5 @@
 ---
-title: currentInterior
+title: currentInterior()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly currentInterior: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

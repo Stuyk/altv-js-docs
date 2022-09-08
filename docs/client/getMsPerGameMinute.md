@@ -1,5 +1,5 @@
 ---
-title: getMsPerGameMinute
+title: getMsPerGameMinute()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function getMsPerGameMinute(): number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

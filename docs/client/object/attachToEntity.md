@@ -1,5 +1,5 @@
 ---
-title: attachToEntity
+title: attachToEntity()
 order: 0
 ---
 
@@ -20,6 +20,10 @@ public attachToEntity(entity: Entity, bone: number, pos: shared.Vector3, rot: sh
 * useSoftPinning?: boolean
 * collision?: boolean
 * fixedRot?: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

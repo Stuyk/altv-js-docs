@@ -1,5 +1,5 @@
 ---
-title: removeChild
+title: removeChild()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public removeChild(child: RmlElement): void;
 ### Arguments
 
 * child: RmlElement
+
+### Returns
+
+* void
 
 ## Documentation
 

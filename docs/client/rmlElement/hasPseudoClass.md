@@ -1,5 +1,5 @@
 ---
-title: hasPseudoClass
+title: hasPseudoClass()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public hasPseudoClass(name: string): boolean;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

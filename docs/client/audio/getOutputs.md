@@ -1,5 +1,5 @@
 ---
-title: getOutputs
+title: getOutputs()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getOutputs(): ReadonlyArray<Entity | number>;
 ```
+
+### Returns
+
+* ReadonlyArray\<Entity | number\>
 
 ## Documentation
 

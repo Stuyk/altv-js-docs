@@ -1,5 +1,5 @@
 ---
-title: visible
+title: visible()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public visible: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

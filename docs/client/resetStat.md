@@ -1,5 +1,5 @@
 ---
-title: resetStat
+title: resetStat()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function resetStat(statName: `${StatName}`): void;
 ### Arguments
 
 * statName: `$\{StatName\}`
+
+### Returns
+
+* void
 
 ## Documentation
 

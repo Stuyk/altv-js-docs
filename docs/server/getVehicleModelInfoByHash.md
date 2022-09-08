@@ -1,5 +1,5 @@
 ---
-title: getVehicleModelInfoByHash
+title: getVehicleModelInfoByHash()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getVehicleModelInfoByHash(vehicleHash: number): IVehicleModel;
 ### Arguments
 
 * vehicleHash: number
+
+### Returns
+
+* IVehicleModel
 
 ## Documentation
 

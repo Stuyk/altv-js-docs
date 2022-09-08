@@ -1,5 +1,5 @@
 ---
-title: muteInput
+title: muteInput()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static muteInput: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

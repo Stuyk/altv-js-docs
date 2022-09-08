@@ -1,5 +1,5 @@
 ---
-title: play
+title: play()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public play(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

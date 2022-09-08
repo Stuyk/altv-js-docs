@@ -1,5 +1,5 @@
 ---
-title: maxArmour
+title: maxArmour()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly maxArmour: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

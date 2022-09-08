@@ -1,5 +1,5 @@
 ---
-title: petrolTankVolume
+title: petrolTankVolume()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public petrolTankVolume: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

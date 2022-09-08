@@ -1,5 +1,5 @@
 ---
-title: offClient
+title: offClient()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function offClient(eventName: string, listener: (...args: any[]) => void): void;
 
 * eventName: string
 * listener: (...args: any[]) =\> void
+
+### Returns
+
+* void
 
 ## Documentation
 

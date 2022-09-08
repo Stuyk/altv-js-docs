@@ -1,5 +1,5 @@
 ---
-title: double
+title: double()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public double(offset: number): number;
 ### Arguments
 
 * offset: number
+
+### Returns
+
+* number
 
 ## Documentation
 

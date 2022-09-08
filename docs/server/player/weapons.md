@@ -1,5 +1,5 @@
 ---
-title: weapons
+title: weapons()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly weapons: ReadonlyArray<IWeapon>;
 ```
+
+### Returns
+
+* ReadonlyArray\<IWeapon\>
 
 ## Documentation
 

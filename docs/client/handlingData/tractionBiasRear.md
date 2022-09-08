@@ -1,5 +1,5 @@
 ---
-title: tractionBiasRear
+title: tractionBiasRear()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public tractionBiasRear: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

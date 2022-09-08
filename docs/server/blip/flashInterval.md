@@ -1,5 +1,5 @@
 ---
-title: flashInterval
+title: flashInterval()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public flashInterval: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

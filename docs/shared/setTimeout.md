@@ -1,5 +1,5 @@
 ---
-title: setTimeout
+title: setTimeout()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function setTimeout(handler: (...args: any[]) => void, miliseconds: number): num
 
 * handler: (...args: any[]) =\> void
 * miliseconds: number
+
+### Returns
+
+* number
 
 ## Documentation
 

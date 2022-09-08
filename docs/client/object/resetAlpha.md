@@ -1,5 +1,5 @@
 ---
-title: resetAlpha
+title: resetAlpha()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public resetAlpha(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

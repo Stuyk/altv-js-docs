@@ -1,5 +1,5 @@
 ---
-title: initialDragCoeff
+title: initialDragCoeff()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public initialDragCoeff: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: isWorldObject
+title: isWorldObject()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isWorldObject: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

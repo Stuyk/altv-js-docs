@@ -1,5 +1,5 @@
 ---
-title: dot
+title: dot()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public dot(vector: IVector3): number;
 ### Arguments
 
 * vector: IVector3
+
+### Returns
+
+* number
 
 ## Documentation
 

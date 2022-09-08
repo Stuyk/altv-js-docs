@@ -1,5 +1,5 @@
 ---
-title: trace
+title: trace()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public trace(url: string, body: string): Promise<IHttpResponse>;
 
 * url: string
 * body: string
+
+### Returns
+
+* Promise\<IHttpResponse\>
 
 ## Documentation
 

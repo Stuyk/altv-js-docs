@@ -1,5 +1,5 @@
 ---
-title: spawn
+title: spawn()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public spawn(model: string | number, pos: shared.IVector3): void;
 
 * model: string | number
 * pos: shared.IVector3
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: main
+title: main()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly main: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

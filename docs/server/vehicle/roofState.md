@@ -1,5 +1,5 @@
 ---
-title: roofState
+title: roofState()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public roofState: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

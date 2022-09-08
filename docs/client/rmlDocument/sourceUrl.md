@@ -1,5 +1,5 @@
 ---
-title: sourceUrl
+title: sourceUrl()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly sourceUrl: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

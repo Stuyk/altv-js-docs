@@ -1,5 +1,5 @@
 ---
-title: nextPos
+title: nextPos()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public nextPos: shared.Vector3;
 ```
+
+### Returns
+
+* shared.Vector3
 
 ## Documentation
 

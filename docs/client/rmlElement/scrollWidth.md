@@ -1,5 +1,5 @@
 ---
-title: scrollWidth
+title: scrollWidth()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly scrollWidth: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

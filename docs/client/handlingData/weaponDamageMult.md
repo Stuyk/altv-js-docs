@@ -1,5 +1,5 @@
 ---
-title: weaponDamageMult
+title: weaponDamageMult()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public weaponDamageMult: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

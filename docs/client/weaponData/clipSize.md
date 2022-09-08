@@ -1,5 +1,5 @@
 ---
-title: clipSize
+title: clipSize()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly clipSize: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

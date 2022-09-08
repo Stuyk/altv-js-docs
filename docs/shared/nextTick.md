@@ -1,5 +1,5 @@
 ---
-title: nextTick
+title: nextTick()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function nextTick(handler: (...args: any[]) => void): number;
 ### Arguments
 
 * handler: (...args: any[]) =\> void
+
+### Returns
+
+* number
 
 ## Documentation
 

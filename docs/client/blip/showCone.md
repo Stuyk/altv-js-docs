@@ -1,5 +1,5 @@
 ---
-title: showCone
+title: showCone()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public showCone: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

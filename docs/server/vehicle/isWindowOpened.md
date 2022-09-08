@@ -1,5 +1,5 @@
 ---
-title: isWindowOpened
+title: isWindowOpened()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isWindowOpened(windowId: number): boolean;
 ### Arguments
 
 * windowId: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: suspensionUpperLimit
+title: suspensionUpperLimit()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public suspensionUpperLimit: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

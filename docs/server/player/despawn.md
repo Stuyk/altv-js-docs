@@ -1,5 +1,5 @@
 ---
-title: despawn
+title: despawn()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public despawn(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

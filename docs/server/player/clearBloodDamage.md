@@ -1,5 +1,5 @@
 ---
-title: clearBloodDamage
+title: clearBloodDamage()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public clearBloodDamage(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

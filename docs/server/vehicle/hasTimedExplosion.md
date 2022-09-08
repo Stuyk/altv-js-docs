@@ -1,5 +1,5 @@
 ---
-title: hasTimedExplosion
+title: hasTimedExplosion()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly hasTimedExplosion: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

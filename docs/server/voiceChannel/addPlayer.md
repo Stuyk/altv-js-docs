@@ -1,5 +1,5 @@
 ---
-title: addPlayer
+title: addPlayer()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public addPlayer(player: Player): void;
 ### Arguments
 
 * player: Player
+
+### Returns
+
+* void
 
 ## Documentation
 

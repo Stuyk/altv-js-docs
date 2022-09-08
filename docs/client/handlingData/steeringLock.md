@@ -1,5 +1,5 @@
 ---
-title: steeringLock
+title: steeringLock()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public steeringLock: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: suspensionBiasRear
+title: suspensionBiasRear()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public suspensionBiasRear: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

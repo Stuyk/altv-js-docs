@@ -1,5 +1,5 @@
 ---
-title: trainDistanceFromEngine
+title: trainDistanceFromEngine()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public trainDistanceFromEngine: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

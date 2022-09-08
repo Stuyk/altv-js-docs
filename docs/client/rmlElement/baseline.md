@@ -1,5 +1,5 @@
 ---
-title: baseline
+title: baseline()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly baseline: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

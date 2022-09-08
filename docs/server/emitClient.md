@@ -1,5 +1,5 @@
 ---
-title: emitClient
+title: emitClient()
 order: 0
 ---
 
@@ -16,6 +16,10 @@ function emitClient(player: Player[], eventName: string, ...args: any[]): void;
 * player: Player[]
 * eventName: string
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: negative
+title: negative()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public negative(): Vector2;
 ```
+
+### Returns
+
+* Vector2
 
 ## Documentation
 

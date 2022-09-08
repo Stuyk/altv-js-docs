@@ -1,5 +1,5 @@
 ---
-title: getNetTime
+title: getNetTime()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function getNetTime(): number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

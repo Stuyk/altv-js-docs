@@ -1,5 +1,5 @@
 ---
-title: getElementsByTagName
+title: getElementsByTagName()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getElementsByTagName(tag: string): ReadonlyArray<RmlElement>;
 ### Arguments
 
 * tag: string
+
+### Returns
+
+* ReadonlyArray\<RmlElement\>
 
 ## Documentation
 

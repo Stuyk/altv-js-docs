@@ -1,5 +1,5 @@
 ---
-title: isCrouching
+title: isCrouching()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isCrouching: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: normalize
+title: normalize()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public normalize(): Vector2;
 ```
+
+### Returns
+
+* Vector2
 
 ## Documentation
 

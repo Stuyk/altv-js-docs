@@ -1,5 +1,5 @@
 ---
-title: setLocalMeta
+title: setLocalMeta()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setLocalMeta<V extends any, K extends string = string>(key: K, value: sha
 
 * key: K
 * value: shared.InterfaceValueByKey\<shared.ICustomPlayerLocalMeta, K, V\>
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: getDamageStatusBase64
+title: getDamageStatusBase64()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getDamageStatusBase64(): string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

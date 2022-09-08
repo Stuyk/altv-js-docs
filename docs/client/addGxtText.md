@@ -1,5 +1,5 @@
 ---
-title: addGxtText
+title: addGxtText()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function addGxtText(key: string | number, value: string): void;
 
 * key: string | number
 * value: string
+
+### Returns
+
+* void
 
 ## Documentation
 

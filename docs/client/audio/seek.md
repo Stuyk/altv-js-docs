@@ -1,5 +1,5 @@
 ---
-title: seek
+title: seek()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public seek(time: number): void;
 ### Arguments
 
 * time: number
+
+### Returns
+
+* void
 
 ## Documentation
 

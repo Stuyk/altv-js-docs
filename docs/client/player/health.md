@@ -1,5 +1,5 @@
 ---
-title: health
+title: health()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly health: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: acceleration
+title: acceleration()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public acceleration: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

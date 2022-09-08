@@ -1,5 +1,5 @@
 ---
-title: setArmoredWindowHealth
+title: setArmoredWindowHealth()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setArmoredWindowHealth(windowId: number, health: number): void;
 
 * windowId: number
 * health: number
+
+### Returns
+
+* void
 
 ## Documentation
 

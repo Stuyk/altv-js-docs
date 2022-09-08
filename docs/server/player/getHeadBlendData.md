@@ -1,5 +1,5 @@
 ---
-title: getHeadBlendData
+title: getHeadBlendData()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getHeadBlendData(): IHeadBlendData;
 ```
+
+### Returns
+
+* IHeadBlendData
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: trainConfigIndex
+title: trainConfigIndex()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public trainConfigIndex: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

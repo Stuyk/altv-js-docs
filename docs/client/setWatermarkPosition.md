@@ -1,5 +1,5 @@
 ---
-title: setWatermarkPosition
+title: setWatermarkPosition()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function setWatermarkPosition<T extends number>(position: T): void;
 ### Arguments
 
 * position: T
+
+### Returns
+
+* void
 
 ## Documentation
 

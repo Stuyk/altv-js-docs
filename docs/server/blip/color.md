@@ -1,5 +1,5 @@
 ---
-title: color
+title: color()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public color: shared.BlipColor;
 ```
+
+### Returns
+
+* shared.BlipColor
 
 ## Documentation
 

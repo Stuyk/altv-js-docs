@@ -1,5 +1,5 @@
 ---
-title: requestAnimSet
+title: requestAnimSet()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public static requestAnimSet(animSet: string, timeout?: number): Promise<void>;
 
 * animSet: string
 * timeout?: number
+
+### Returns
+
+* Promise\<void\>
 
 ## Documentation
 

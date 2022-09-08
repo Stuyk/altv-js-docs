@@ -1,5 +1,5 @@
 ---
-title: setMinimapComponentPosition
+title: setMinimapComponentPosition()
 order: 0
 ---
 
@@ -20,6 +20,10 @@ function setMinimapComponentPosition(name: string, alignX: string, alignY: strin
 * posY: number
 * sizeX: number
 * sizeY: number
+
+### Returns
+
+* void
 
 ## Documentation
 

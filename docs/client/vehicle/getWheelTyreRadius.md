@@ -1,5 +1,5 @@
 ---
-title: getWheelTyreRadius
+title: getWheelTyreRadius()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getWheelTyreRadius(wheelIndex: number): number;
 ### Arguments
 
 * wheelIndex: number
+
+### Returns
+
+* number
 
 ## Documentation
 

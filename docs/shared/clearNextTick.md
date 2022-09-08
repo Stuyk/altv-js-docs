@@ -1,5 +1,5 @@
 ---
-title: clearNextTick
+title: clearNextTick()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function clearNextTick(id: number): void;
 ### Arguments
 
 * id: number
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: startProfiling
+title: startProfiling()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static startProfiling(profileName?: string): void;
 ### Arguments
 
 * profileName?: string
+
+### Returns
+
+* void
 
 ## Documentation
 

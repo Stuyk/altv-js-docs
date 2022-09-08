@@ -1,5 +1,5 @@
 ---
-title: blur
+title: blur()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public blur(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

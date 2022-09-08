@@ -1,5 +1,5 @@
 ---
-title: getElementsByClassName
+title: getElementsByClassName()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getElementsByClassName(className: string): ReadonlyArray<RmlElement>;
 ### Arguments
 
 * className: string
+
+### Returns
+
+* ReadonlyArray\<RmlElement\>
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: emitClientRaw
+title: emitClientRaw()
 order: 0
 ---
 
@@ -16,6 +16,10 @@ function emitClientRaw(player: null, eventName: string, ...args: any[]): void;
 * player: null
 * eventName: string
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

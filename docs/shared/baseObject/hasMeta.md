@@ -1,5 +1,5 @@
 ---
-title: hasMeta
+title: hasMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public hasMeta<K extends ExtractStringKeys<ICustomBaseObjectMeta>>(key: K): bool
 ### Arguments
 
 * key: K
+
+### Returns
+
+* boolean
 
 ## Documentation
 

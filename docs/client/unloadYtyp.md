@@ -1,5 +1,5 @@
 ---
-title: unloadYtyp
+title: unloadYtyp()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function unloadYtyp(path: string): boolean;
 ### Arguments
 
 * path: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

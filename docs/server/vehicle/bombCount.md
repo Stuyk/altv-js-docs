@@ -1,5 +1,5 @@
 ---
-title: bombCount
+title: bombCount()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public bombCount: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

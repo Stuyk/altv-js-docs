@@ -1,5 +1,5 @@
 ---
-title: rollCentreHeightRear
+title: rollCentreHeightRear()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public rollCentreHeightRear: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: setRotationVelocity
+title: setRotationVelocity()
 order: 0
 ---
 
@@ -17,6 +17,10 @@ function setRotationVelocity(scriptID: number, x: number, y: number, z: number):
 * x: number
 * y: number
 * z: number
+
+### Returns
+
+* void
 
 ## Documentation
 

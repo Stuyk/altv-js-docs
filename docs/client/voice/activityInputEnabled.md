@@ -1,5 +1,5 @@
 ---
-title: activityInputEnabled
+title: activityInputEnabled()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly activityInputEnabled: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

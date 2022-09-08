@@ -1,5 +1,5 @@
 ---
-title: suspensionForce
+title: suspensionForce()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public suspensionForce: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

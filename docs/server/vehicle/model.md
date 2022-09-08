@@ -1,5 +1,5 @@
 ---
-title: model
+title: model()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly model: number | string;
 ```
+
+### Returns
+
+* number | string
 
 ## Documentation
 

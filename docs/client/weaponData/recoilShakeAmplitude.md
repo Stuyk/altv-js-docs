@@ -1,5 +1,5 @@
 ---
-title: recoilShakeAmplitude
+title: recoilShakeAmplitude()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public recoilShakeAmplitude: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: driveInertia
+title: driveInertia()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public driveInertia: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

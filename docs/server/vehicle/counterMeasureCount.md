@@ -1,5 +1,5 @@
 ---
-title: counterMeasureCount
+title: counterMeasureCount()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public counterMeasureCount: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

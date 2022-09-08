@@ -1,5 +1,5 @@
 ---
-title: attachTo
+title: attachTo()
 order: 0
 ---
 
@@ -20,6 +20,10 @@ public attachTo(entity: Entity, entityBoneId: number, ownBoneId: number, pos: sh
 * rot: shared.IVector3
 * enableCollisions: boolean
 * noFixedRotation: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

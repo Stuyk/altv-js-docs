@@ -1,5 +1,5 @@
 ---
-title: isSpawned
+title: isSpawned()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isSpawned: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: start
+title: start()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public start(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

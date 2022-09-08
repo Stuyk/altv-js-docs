@@ -1,5 +1,5 @@
 ---
-title: gxtName
+title: gxtName()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public gxtName: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

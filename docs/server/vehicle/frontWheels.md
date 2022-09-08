@@ -1,5 +1,5 @@
 ---
-title: frontWheels
+title: frontWheels()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly frontWheels: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

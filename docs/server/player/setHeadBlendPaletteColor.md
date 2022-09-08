@@ -1,5 +1,5 @@
 ---
-title: setHeadBlendPaletteColor
+title: setHeadBlendPaletteColor()
 order: 0
 ---
 
@@ -17,6 +17,10 @@ public setHeadBlendPaletteColor(id: number, red: number, green: number, blue: nu
 * red: number
 * green: number
 * blue: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

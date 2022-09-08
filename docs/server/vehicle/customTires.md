@@ -1,5 +1,5 @@
 ---
-title: customTires
+title: customTires()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public customTires: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

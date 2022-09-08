@@ -1,5 +1,5 @@
 ---
-title: netOwner
+title: netOwner()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly netOwner: Player | null;
 ```
+
+### Returns
+
+* Player | null
 
 ## Documentation
 

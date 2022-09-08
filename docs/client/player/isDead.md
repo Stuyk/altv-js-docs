@@ -1,5 +1,5 @@
 ---
-title: isDead
+title: isDead()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isDead: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

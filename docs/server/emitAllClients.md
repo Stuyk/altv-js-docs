@@ -1,5 +1,5 @@
 ---
-title: emitAllClients
+title: emitAllClients()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function emitAllClients(eventName: string, ...args: any[]): void;
 
 * eventName: string
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

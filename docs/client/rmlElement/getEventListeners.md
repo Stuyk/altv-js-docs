@@ -1,5 +1,5 @@
 ---
-title: getEventListeners
+title: getEventListeners()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getEventListeners(eventName: string): ((senderElement: RmlElement, ...arg
 ### Arguments
 
 * eventName: string): ((senderElement: RmlElement, ...args: any[]) =\> void
+
+### Returns
+
+* ((senderElement: RmlElement, ...args: any[]) =\> void)[]
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: playersOnly
+title: playersOnly()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public playersOnly: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

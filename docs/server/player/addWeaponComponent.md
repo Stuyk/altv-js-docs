@@ -1,5 +1,5 @@
 ---
-title: addWeaponComponent
+title: addWeaponComponent()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public addWeaponComponent(weaponHash: number, component: number): void;
 
 * weaponHash: number
 * component: number
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: getFaceFeatureScale
+title: getFaceFeatureScale()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getFaceFeatureScale(index: number): number;
 ### Arguments
 
 * index: number
+
+### Returns
+
+* number
 
 ## Documentation
 

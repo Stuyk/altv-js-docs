@@ -1,5 +1,5 @@
 ---
-title: isReloading
+title: isReloading()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isReloading: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: isInStreamerMode
+title: isInStreamerMode()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function isInStreamerMode(): boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

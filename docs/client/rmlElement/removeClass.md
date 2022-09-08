@@ -1,5 +1,5 @@
 ---
-title: removeClass
+title: removeClass()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public removeClass(name: string): boolean;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

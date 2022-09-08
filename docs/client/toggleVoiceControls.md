@@ -1,5 +1,5 @@
 ---
-title: toggleVoiceControls
+title: toggleVoiceControls()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function toggleVoiceControls(state: boolean): void;
 ### Arguments
 
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

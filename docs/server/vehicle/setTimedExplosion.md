@@ -1,5 +1,5 @@
 ---
-title: setTimedExplosion
+title: setTimedExplosion()
 order: 0
 ---
 
@@ -16,6 +16,10 @@ public setTimedExplosion(state: boolean, culprit: Player, time: number): void;
 * state: boolean
 * culprit: Player
 * time: number
+
+### Returns
+
+* void
 
 ## Documentation
 

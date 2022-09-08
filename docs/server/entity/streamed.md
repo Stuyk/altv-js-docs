@@ -1,5 +1,5 @@
 ---
-title: streamed
+title: streamed()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public streamed: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

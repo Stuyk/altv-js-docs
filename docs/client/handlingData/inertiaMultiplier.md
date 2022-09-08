@@ -1,5 +1,5 @@
 ---
-title: inertiaMultiplier
+title: inertiaMultiplier()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public inertiaMultiplier: shared.Vector3;
 ```
+
+### Returns
+
+* shared.Vector3
 
 ## Documentation
 

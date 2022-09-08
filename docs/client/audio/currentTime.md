@@ -1,5 +1,5 @@
 ---
-title: currentTime
+title: currentTime()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly currentTime: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

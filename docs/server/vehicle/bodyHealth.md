@@ -1,5 +1,5 @@
 ---
-title: bodyHealth
+title: bodyHealth()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public bodyHealth: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: focused
+title: focused()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public focused: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

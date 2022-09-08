@@ -1,5 +1,5 @@
 ---
-title: removeWeapon
+title: removeWeapon()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public removeWeapon(weaponHash: number): void;
 ### Arguments
 
 * weaponHash: number
+
+### Returns
+
+* void
 
 ## Documentation
 

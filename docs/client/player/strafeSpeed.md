@@ -1,5 +1,5 @@
 ---
-title: strafeSpeed
+title: strafeSpeed()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly strafeSpeed: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

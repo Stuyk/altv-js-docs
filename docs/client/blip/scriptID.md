@@ -1,5 +1,5 @@
 ---
-title: scriptID
+title: scriptID()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly scriptID: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

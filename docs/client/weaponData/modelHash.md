@@ -1,5 +1,5 @@
 ---
-title: modelHash
+title: modelHash()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly modelHash: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: everyTick
+title: everyTick()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function everyTick(handler: (...args: any[]) => void): number;
 ### Arguments
 
 * handler: (...args: any[]) =\> void
+
+### Returns
+
+* number
 
 ## Documentation
 

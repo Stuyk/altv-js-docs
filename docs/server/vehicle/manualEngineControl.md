@@ -1,5 +1,5 @@
 ---
-title: manualEngineControl
+title: manualEngineControl()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public manualEngineControl: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

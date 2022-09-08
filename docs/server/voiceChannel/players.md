@@ -1,5 +1,5 @@
 ---
-title: players
+title: players()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly players: ReadonlyArray<Player>;
 ```
+
+### Returns
+
+* ReadonlyArray\<Player\>
 
 ## Documentation
 

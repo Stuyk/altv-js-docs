@@ -1,5 +1,5 @@
 ---
-title: deleteStreamSyncedMeta
+title: deleteStreamSyncedMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public deleteStreamSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomV
 ### Arguments
 
 * key: K
+
+### Returns
+
+* void
 
 ## Documentation
 

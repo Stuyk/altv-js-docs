@@ -1,5 +1,5 @@
 ---
-title: dependants
+title: dependants()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly dependants: ReadonlyArray<string>;
 ```
+
+### Returns
+
+* ReadonlyArray\<string\>
 
 ## Documentation
 

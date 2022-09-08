@@ -1,5 +1,5 @@
 ---
-title: lightState
+title: lightState()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public lightState: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

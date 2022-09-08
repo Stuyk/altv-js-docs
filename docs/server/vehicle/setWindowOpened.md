@@ -1,5 +1,5 @@
 ---
-title: setWindowOpened
+title: setWindowOpened()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWindowOpened(windowId: number, state: boolean): void;
 
 * windowId: number
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

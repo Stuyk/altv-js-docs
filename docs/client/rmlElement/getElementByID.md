@@ -1,5 +1,5 @@
 ---
-title: getElementByID
+title: getElementByID()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getElementByID(id: string): RmlElement | null;
 ### Arguments
 
 * id: string
+
+### Returns
+
+* RmlElement | null
 
 ## Documentation
 

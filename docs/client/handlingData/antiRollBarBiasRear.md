@@ -1,5 +1,5 @@
 ---
-title: antiRollBarBiasRear
+title: antiRollBarBiasRear()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public antiRollBarBiasRear: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

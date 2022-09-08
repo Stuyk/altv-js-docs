@@ -1,5 +1,5 @@
 ---
-title: playing
+title: playing()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly playing: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

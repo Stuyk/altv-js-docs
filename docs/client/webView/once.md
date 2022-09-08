@@ -1,5 +1,5 @@
 ---
-title: once
+title: once()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public once(eventName: string, listener: (...args: any[]) => void): void;
 
 * eventName: string
 * listener: (...args: any[]) =\> void
+
+### Returns
+
+* void
 
 ## Documentation
 

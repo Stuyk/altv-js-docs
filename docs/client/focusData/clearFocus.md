@@ -1,5 +1,5 @@
 ---
-title: clearFocus
+title: clearFocus()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static clearFocus(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

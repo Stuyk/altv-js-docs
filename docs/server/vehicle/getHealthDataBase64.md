@@ -1,5 +1,5 @@
 ---
-title: getHealthDataBase64
+title: getHealthDataBase64()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getHealthDataBase64(): string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

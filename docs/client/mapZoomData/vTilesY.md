@@ -1,5 +1,5 @@
 ---
-title: vTilesY
+title: vTilesY()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public vTilesY: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

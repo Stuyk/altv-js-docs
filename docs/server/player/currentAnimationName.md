@@ -1,5 +1,5 @@
 ---
-title: currentAnimationName
+title: currentAnimationName()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly currentAnimationName: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

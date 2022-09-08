@@ -1,5 +1,5 @@
 ---
-title: shortRange
+title: shortRange()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public shortRange: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

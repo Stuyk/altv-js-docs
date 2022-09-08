@@ -1,5 +1,5 @@
 ---
-title: setMod
+title: setMod()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setMod<T extends number>(modType: T, modId: number): void;
 
 * modType: T
 * modId: number
+
+### Returns
+
+* void
 
 ## Documentation
 

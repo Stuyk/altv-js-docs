@@ -1,5 +1,5 @@
 ---
-title: int
+title: int()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public int(offset: number): number;
 ### Arguments
 
 * offset: number
+
+### Returns
+
+* number
 
 ## Documentation
 

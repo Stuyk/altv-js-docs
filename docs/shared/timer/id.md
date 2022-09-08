@@ -1,5 +1,5 @@
 ---
-title: id
+title: id()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly id: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

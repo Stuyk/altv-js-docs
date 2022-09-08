@@ -1,5 +1,5 @@
 ---
-title: collision
+title: collision()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public collision: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

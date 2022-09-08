@@ -1,5 +1,5 @@
 ---
-title: textureVariation
+title: textureVariation()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public textureVariation: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: tractionSpringDeltaMax
+title: tractionSpringDeltaMax()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public tractionSpringDeltaMax: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: requiredPermissions
+title: requiredPermissions()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly requiredPermissions: ReadonlyArray<Permission>;
 ```
+
+### Returns
+
+* ReadonlyArray\<Permission\>
 
 ## Documentation
 

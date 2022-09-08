@@ -1,5 +1,5 @@
 ---
-title: detach
+title: detach()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public detach(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

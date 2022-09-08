@@ -1,5 +1,5 @@
 ---
-title: byte
+title: byte()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public byte(offset: number): number;
 ### Arguments
 
 * offset: number
+
+### Returns
+
+* number
 
 ## Documentation
 

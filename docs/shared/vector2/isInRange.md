@@ -1,5 +1,5 @@
 ---
-title: isInRange
+title: isInRange()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public isInRange(vector: IVector2, range: number): boolean;
 
 * vector: IVector2
 * range: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

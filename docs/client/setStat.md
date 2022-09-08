@@ -1,5 +1,5 @@
 ---
-title: setStat
+title: setStat()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function setStat(statName: `${StatName}`, value: number): void;
 
 * statName: `$\{StatName\}`
 * value: number
+
+### Returns
+
+* void
 
 ## Documentation
 

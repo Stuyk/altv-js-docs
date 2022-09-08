@@ -1,5 +1,5 @@
 ---
-title: getAppearanceDataBase64
+title: getAppearanceDataBase64()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getAppearanceDataBase64(): string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

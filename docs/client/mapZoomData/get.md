@@ -1,5 +1,5 @@
 ---
-title: get
+title: get()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static get(zoomData: string): MapZoomData;
 ### Arguments
 
 * zoomData: string
+
+### Returns
+
+* MapZoomData
 
 ## Documentation
 

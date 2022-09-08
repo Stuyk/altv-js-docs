@@ -1,5 +1,5 @@
 ---
-title: getForHash
+title: getForHash()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static getForHash(weaponHash: number): WeaponData;
 ### Arguments
 
 * weaponHash: number
+
+### Returns
+
+* WeaponData
 
 ## Documentation
 

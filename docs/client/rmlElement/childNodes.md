@@ -1,5 +1,5 @@
 ---
-title: childNodes
+title: childNodes()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly childNodes: ReadonlyArray<RmlElement>;
 ```
+
+### Returns
+
+* ReadonlyArray\<RmlElement\>
 
 ## Documentation
 

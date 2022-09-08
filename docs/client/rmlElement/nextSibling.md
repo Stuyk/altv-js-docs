@@ -1,5 +1,5 @@
 ---
-title: nextSibling
+title: nextSibling()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly nextSibling: RmlElement | null;
 ```
+
+### Returns
+
+* RmlElement | null
 
 ## Documentation
 

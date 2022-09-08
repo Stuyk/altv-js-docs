@@ -1,5 +1,5 @@
 ---
-title: trainTrackId
+title: trainTrackId()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public trainTrackId: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: driveMaxFlatVel
+title: driveMaxFlatVel()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public driveMaxFlatVel: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: setHeadOverlayColor
+title: setHeadOverlayColor()
 order: 0
 ---
 
@@ -17,6 +17,10 @@ public setHeadOverlayColor(overlayID: number, colorType: number, colorIndex: num
 * colorType: number
 * colorIndex: number
 * secondColorIndex: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: valid
+title: valid()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly valid: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: getProperty
+title: getProperty()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getProperty(name: string): string;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* string
 
 ## Documentation
 

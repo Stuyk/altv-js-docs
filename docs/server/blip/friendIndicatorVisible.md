@@ -1,5 +1,5 @@
 ---
-title: friendIndicatorVisible
+title: friendIndicatorVisible()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public friendIndicatorVisible: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: on
+title: on()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public on(eventName: "load", listener: () => void): void;
 
 * eventName: "load"
 * listener: () =\> void
+
+### Returns
+
+* void
 
 ## Documentation
 

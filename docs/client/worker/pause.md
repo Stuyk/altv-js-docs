@@ -1,5 +1,5 @@
 ---
-title: pause
+title: pause()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public pause(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

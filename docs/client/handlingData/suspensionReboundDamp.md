@@ -1,5 +1,5 @@
 ---
-title: suspensionReboundDamp
+title: suspensionReboundDamp()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public suspensionReboundDamp: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

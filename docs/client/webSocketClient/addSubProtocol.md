@@ -1,5 +1,5 @@
 ---
-title: addSubProtocol
+title: addSubProtocol()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public addSubProtocol(protocol: string): void;
 ### Arguments
 
 * protocol: string
+
+### Returns
+
+* void
 
 ## Documentation
 

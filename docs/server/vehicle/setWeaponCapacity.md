@@ -1,5 +1,5 @@
 ---
-title: setWeaponCapacity
+title: setWeaponCapacity()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWeaponCapacity(weaponIndex: number, capacity: number): void;
 
 * weaponIndex: number
 * capacity: number
+
+### Returns
+
+* void
 
 ## Documentation
 

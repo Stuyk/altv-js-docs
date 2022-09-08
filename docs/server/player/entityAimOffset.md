@@ -1,5 +1,5 @@
 ---
-title: entityAimOffset
+title: entityAimOffset()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly entityAimOffset: shared.Vector3;
 ```
+
+### Returns
+
+* shared.Vector3
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: getAllResources
+title: getAllResources()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function getAllResources(): ReadonlyArray<IResource>;
 ```
+
+### Returns
+
+* ReadonlyArray\<IResource\>
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: getWeaponComponents
+title: getWeaponComponents()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getWeaponComponents(weaponName: string): Array<number>;
 ### Arguments
 
 * weaponName: string
+
+### Returns
+
+* Array\<number\>
 
 ## Documentation
 

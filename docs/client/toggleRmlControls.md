@@ -1,5 +1,5 @@
 ---
-title: toggleRmlControls
+title: toggleRmlControls()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function toggleRmlControls(state: boolean): void;
 ### Arguments
 
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

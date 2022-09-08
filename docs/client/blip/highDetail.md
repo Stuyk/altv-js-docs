@@ -1,5 +1,5 @@
 ---
-title: highDetail
+title: highDetail()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public highDetail: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

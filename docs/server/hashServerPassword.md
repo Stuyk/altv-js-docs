@@ -1,5 +1,5 @@
 ---
-title: hashServerPassword
+title: hashServerPassword()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function hashServerPassword(password: string): bigint;
 ### Arguments
 
 * password: string
+
+### Returns
+
+* bigint
 
 ## Documentation
 

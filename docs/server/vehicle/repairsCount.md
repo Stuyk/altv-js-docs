@@ -1,5 +1,5 @@
 ---
-title: repairsCount
+title: repairsCount()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly repairsCount: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

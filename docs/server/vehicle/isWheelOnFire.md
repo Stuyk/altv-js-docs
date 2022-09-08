@@ -1,5 +1,5 @@
 ---
-title: isWheelOnFire
+title: isWheelOnFire()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isWheelOnFire(wheelId: number): boolean;
 ### Arguments
 
 * wheelId: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

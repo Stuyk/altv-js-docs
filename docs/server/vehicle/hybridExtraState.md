@@ -1,5 +1,5 @@
 ---
-title: hybridExtraState
+title: hybridExtraState()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public hybridExtraState: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: getLicenseHash
+title: getLicenseHash()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function getLicenseHash(): string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

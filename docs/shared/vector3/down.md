@@ -1,5 +1,5 @@
 ---
-title: down
+title: down()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly down: Vector3;
 ```
+
+### Returns
+
+* Vector3
 
 ## Documentation
 

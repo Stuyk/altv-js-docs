@@ -1,5 +1,5 @@
 ---
-title: scrollHeight
+title: scrollHeight()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly scrollHeight: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

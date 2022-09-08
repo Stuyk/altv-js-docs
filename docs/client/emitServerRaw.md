@@ -1,5 +1,5 @@
 ---
-title: emitServerRaw
+title: emitServerRaw()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function emitServerRaw(eventName: string, ...args: any[]): void;
 
 * eventName: string
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: removeAttribute
+title: removeAttribute()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public removeAttribute(name: string): boolean;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

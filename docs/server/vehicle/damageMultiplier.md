@@ -1,5 +1,5 @@
 ---
-title: damageMultiplier
+title: damageMultiplier()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public damageMultiplier: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

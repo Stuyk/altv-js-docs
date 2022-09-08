@@ -1,5 +1,5 @@
 ---
-title: filePath
+title: filePath()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly filePath: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

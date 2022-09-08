@@ -1,5 +1,5 @@
 ---
-title: post
+title: post()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public post(url: string, body: string): Promise<IHttpResponse>;
 
 * url: string
 * body: string
+
+### Returns
+
+* Promise\<IHttpResponse\>
 
 ## Documentation
 

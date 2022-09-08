@@ -1,5 +1,5 @@
 ---
-title: copyToClipboard
+title: copyToClipboard()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function copyToClipboard(val: string): void;
 ### Arguments
 
 * val: string
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: maxHealth
+title: maxHealth()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public maxHealth: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

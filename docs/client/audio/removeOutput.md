@@ -1,5 +1,5 @@
 ---
-title: removeOutput
+title: removeOutput()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public removeOutput(entity: Entity | number): void;
 ### Arguments
 
 * entity: Entity | number
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: isEntityIn
+title: isEntityIn()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isEntityIn(entity: Entity): boolean;
 ### Arguments
 
 * entity: Entity
+
+### Returns
+
+* boolean
 
 ## Documentation
 

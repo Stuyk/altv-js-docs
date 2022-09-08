@@ -1,5 +1,5 @@
 ---
-title: setWheelOnFire
+title: setWheelOnFire()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWheelOnFire(wheelId: number, state: boolean): void;
 
 * wheelId: number
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

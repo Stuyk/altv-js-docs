@@ -1,5 +1,5 @@
 ---
-title: samplingInterval
+title: samplingInterval()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static samplingInterval: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

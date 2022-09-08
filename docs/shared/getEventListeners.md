@@ -1,5 +1,5 @@
 ---
-title: getEventListeners
+title: getEventListeners()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getEventListeners(eventName: string | null): ((...args: any[]) => void)
 ### Arguments
 
 * eventName: string | null): ((...args: any[]) =\> void
+
+### Returns
+
+* ((...args: any[]) =\> void)[]
 
 ## Documentation
 

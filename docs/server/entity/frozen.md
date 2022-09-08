@@ -1,5 +1,5 @@
 ---
-title: frozen
+title: frozen()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public frozen: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: shrinked
+title: shrinked()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public shrinked: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

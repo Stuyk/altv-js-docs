@@ -1,5 +1,5 @@
 ---
-title: scrollLeft
+title: scrollLeft()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public scrollLeft: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

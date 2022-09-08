@@ -1,5 +1,5 @@
 ---
-title: takeScreenshotGameOnly
+title: takeScreenshotGameOnly()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function takeScreenshotGameOnly(): Promise<string>;
 ```
+
+### Returns
+
+* Promise\<string\>
 
 ## Documentation
 

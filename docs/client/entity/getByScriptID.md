@@ -1,5 +1,5 @@
 ---
-title: getByScriptID
+title: getByScriptID()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static getByScriptID(scriptID: number): Entity | null;
 ### Arguments
 
 * scriptID: number
+
+### Returns
+
+* Entity | null
 
 ## Documentation
 

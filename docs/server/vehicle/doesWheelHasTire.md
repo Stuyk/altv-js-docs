@@ -1,5 +1,5 @@
 ---
-title: doesWheelHasTire
+title: doesWheelHasTire()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public doesWheelHasTire(wheelId: number): boolean;
 ### Arguments
 
 * wheelId: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

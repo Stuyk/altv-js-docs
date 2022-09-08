@@ -1,5 +1,5 @@
 ---
-title: timeEnd
+title: timeEnd()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function timeEnd(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

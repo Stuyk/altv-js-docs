@@ -1,5 +1,5 @@
 ---
-title: fuelLevel
+title: fuelLevel()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public fuelLevel: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

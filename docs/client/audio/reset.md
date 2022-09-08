@@ -1,5 +1,5 @@
 ---
-title: reset
+title: reset()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public reset(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

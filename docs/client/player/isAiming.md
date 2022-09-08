@@ -1,5 +1,5 @@
 ---
-title: isAiming
+title: isAiming()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isAiming: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

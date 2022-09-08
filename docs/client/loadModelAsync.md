@@ -1,5 +1,5 @@
 ---
-title: loadModelAsync
+title: loadModelAsync()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function loadModelAsync(modelHash: number): void;
 ### Arguments
 
 * modelHash: number
+
+### Returns
+
+* void
 
 ## Documentation
 

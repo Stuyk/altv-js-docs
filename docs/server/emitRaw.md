@@ -1,5 +1,5 @@
 ---
-title: emitRaw
+title: emitRaw()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function emitRaw<K extends string>(eventName: Exclude<K, keyof IServerEvent>, ..
 
 * eventName: Exclude\<K, keyof IServerEvent\>
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

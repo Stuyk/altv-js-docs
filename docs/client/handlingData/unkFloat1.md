@@ -1,5 +1,5 @@
 ---
-title: unkFloat1
+title: unkFloat1()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public unkFloat1: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

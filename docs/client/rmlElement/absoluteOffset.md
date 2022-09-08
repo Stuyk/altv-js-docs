@@ -1,5 +1,5 @@
 ---
-title: absoluteOffset
+title: absoluteOffset()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly absoluteOffset: shared.Vector2;
 ```
+
+### Returns
+
+* shared.Vector2
 
 ## Documentation
 

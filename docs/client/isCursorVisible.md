@@ -1,5 +1,5 @@
 ---
-title: isCursorVisible
+title: isCursorVisible()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function isCursorVisible(): boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: modKit
+title: modKit()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public modKit: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

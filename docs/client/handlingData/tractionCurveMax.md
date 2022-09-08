@@ -1,5 +1,5 @@
 ---
-title: tractionCurveMax
+title: tractionCurveMax()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public tractionCurveMax: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

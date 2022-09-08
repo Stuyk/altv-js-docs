@@ -1,5 +1,5 @@
 ---
-title: gear
+title: gear()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public gear: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

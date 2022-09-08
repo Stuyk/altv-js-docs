@@ -1,5 +1,5 @@
 ---
-title: percentSubmergedRatio
+title: percentSubmergedRatio()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public percentSubmergedRatio: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

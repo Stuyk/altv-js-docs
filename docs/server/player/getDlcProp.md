@@ -1,5 +1,5 @@
 ---
-title: getDlcProp
+title: getDlcProp()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getDlcProp(component: number): IDlcProp;
 ### Arguments
 
 * component: number
+
+### Returns
+
+* IDlcProp
 
 ## Documentation
 

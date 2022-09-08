@@ -1,5 +1,5 @@
 ---
-title: click
+title: click()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public click(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: setWheelHealth
+title: setWheelHealth()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWheelHealth(wheelId: number, health: number): void;
 
 * wheelId: number
 * health: number
+
+### Returns
+
+* void
 
 ## Documentation
 

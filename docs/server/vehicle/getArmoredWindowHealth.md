@@ -1,5 +1,5 @@
 ---
-title: getArmoredWindowHealth
+title: getArmoredWindowHealth()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getArmoredWindowHealth(windowId: number): number;
 ### Arguments
 
 * windowId: number
+
+### Returns
+
+* number
 
 ## Documentation
 

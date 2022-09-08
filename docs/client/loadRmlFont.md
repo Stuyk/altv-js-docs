@@ -1,5 +1,5 @@
 ---
-title: loadRmlFont
+title: loadRmlFont()
 order: 0
 ---
 
@@ -17,6 +17,10 @@ function loadRmlFont(path: string, name: string, italic?: boolean, bold?: boolea
 * name: string
 * italic?: boolean
 * bold?: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

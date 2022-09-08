@@ -1,5 +1,5 @@
 ---
-title: streamedIn
+title: streamedIn()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly streamedIn: ReadonlyArray<Player>;
 ```
+
+### Returns
+
+* ReadonlyArray\<Player\>
 
 ## Documentation
 

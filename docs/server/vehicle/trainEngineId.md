@@ -1,5 +1,5 @@
 ---
-title: trainEngineId
+title: trainEngineId()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly trainEngineId: Vehicle | null;
 ```
+
+### Returns
+
+* Vehicle | null
 
 ## Documentation
 

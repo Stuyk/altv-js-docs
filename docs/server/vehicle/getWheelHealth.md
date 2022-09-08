@@ -1,5 +1,5 @@
 ---
-title: getWheelHealth
+title: getWheelHealth()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getWheelHealth(wheelId: number): number;
 ### Arguments
 
 * wheelId: number
+
+### Returns
+
+* number
 
 ## Documentation
 

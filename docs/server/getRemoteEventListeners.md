@@ -1,5 +1,5 @@
 ---
-title: getRemoteEventListeners
+title: getRemoteEventListeners()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getRemoteEventListeners(eventName: string | null): ((...args: any[]) =>
 ### Arguments
 
 * eventName: string | null): ((...args: any[]) =\> void
+
+### Returns
+
+* ((...args: any[]) =\> void)[]
 
 ## Documentation
 

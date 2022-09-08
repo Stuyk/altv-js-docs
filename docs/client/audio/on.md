@@ -1,5 +1,5 @@
 ---
-title: on
+title: on()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public on(event: "error", callback: (code: number, message: string) => void): vo
 
 * event: "error"
 * callback: (code: number, message: string) =\> void
+
+### Returns
+
+* void
 
 ## Documentation
 

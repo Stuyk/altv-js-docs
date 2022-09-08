@@ -1,5 +1,5 @@
 ---
-title: setSyncedMeta
+title: setSyncedMeta()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setSyncedMeta<V extends any, K extends string = string>(key: K, value: sh
 
 * key: K
 * value: shared.InterfaceValueByKey\<shared.ICustomVehicleSyncedMeta, K, V\>
+
+### Returns
+
+* void
 
 ## Documentation
 

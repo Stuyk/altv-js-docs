@@ -1,5 +1,5 @@
 ---
-title: downforceModifier
+title: downforceModifier()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public downforceModifier: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

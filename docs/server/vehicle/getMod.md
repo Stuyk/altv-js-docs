@@ -1,5 +1,5 @@
 ---
-title: getMod
+title: getMod()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getMod<T extends number>(modType: T): number;
 ### Arguments
 
 * modType: T
+
+### Returns
+
+* number
 
 ## Documentation
 

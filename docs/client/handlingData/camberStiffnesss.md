@@ -1,5 +1,5 @@
 ---
-title: camberStiffnesss
+title: camberStiffnesss()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public camberStiffnesss: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

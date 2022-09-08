@@ -1,5 +1,5 @@
 ---
-title: mutePlayer
+title: mutePlayer()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public mutePlayer(player: Player): void;
 ### Arguments
 
 * player: Player
+
+### Returns
+
+* void
 
 ## Documentation
 

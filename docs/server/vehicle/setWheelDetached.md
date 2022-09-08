@@ -1,5 +1,5 @@
 ---
-title: setWheelDetached
+title: setWheelDetached()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWheelDetached(wheelId: number, state: boolean): void;
 
 * wheelId: number
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

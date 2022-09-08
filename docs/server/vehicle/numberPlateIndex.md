@@ -1,5 +1,5 @@
 ---
-title: numberPlateIndex
+title: numberPlateIndex()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public numberPlateIndex: NumberPlateStyle;
 ```
+
+### Returns
+
+* NumberPlateStyle
 
 ## Documentation
 

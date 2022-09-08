@@ -1,5 +1,5 @@
 ---
-title: handling
+title: handling()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public handling: IVehicleHandling;
 ```
+
+### Returns
+
+* IVehicleHandling
 
 ## Documentation
 

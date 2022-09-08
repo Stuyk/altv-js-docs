@@ -1,5 +1,5 @@
 ---
-title: damage
+title: damage()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public damage: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

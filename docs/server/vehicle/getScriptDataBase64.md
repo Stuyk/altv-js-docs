@@ -1,5 +1,5 @@
 ---
-title: getScriptDataBase64
+title: getScriptDataBase64()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getScriptDataBase64(): string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

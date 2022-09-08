@@ -1,5 +1,5 @@
 ---
-title: lerp
+title: lerp()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public lerp(vector: IVector3, ratio: number): Vector3;
 
 * vector: IVector3
 * ratio: number
+
+### Returns
+
+* Vector3
 
 ## Documentation
 

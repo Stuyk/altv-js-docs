@@ -1,5 +1,5 @@
 ---
-title: destroyed
+title: destroyed()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly destroyed: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

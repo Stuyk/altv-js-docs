@@ -1,5 +1,5 @@
 ---
-title: ownerDocument
+title: ownerDocument()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly ownerDocument: RmlDocument;
 ```
+
+### Returns
+
+* RmlDocument
 
 ## Documentation
 

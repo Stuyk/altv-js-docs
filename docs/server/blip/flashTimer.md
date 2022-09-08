@@ -1,5 +1,5 @@
 ---
-title: flashTimer
+title: flashTimer()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public flashTimer: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

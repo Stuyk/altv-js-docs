@@ -1,5 +1,5 @@
 ---
-title: setRearWheels
+title: setRearWheels()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setRearWheels(wheelId: number): void;
 ### Arguments
 
 * wheelId: number
+
+### Returns
+
+* void
 
 ## Documentation
 

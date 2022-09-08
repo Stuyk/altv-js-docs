@@ -1,5 +1,5 @@
 ---
-title: isWheelDetached
+title: isWheelDetached()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isWheelDetached(wheelId: number): boolean;
 ### Arguments
 
 * wheelId: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

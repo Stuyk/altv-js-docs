@@ -1,5 +1,5 @@
 ---
-title: setNetOwner
+title: setNetOwner()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setNetOwner(player: Player, disableMigration?: boolean): void;
 
 * player: Player
 * disableMigration?: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

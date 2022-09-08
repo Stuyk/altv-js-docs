@@ -1,5 +1,5 @@
 ---
-title: addPseudoClass
+title: addPseudoClass()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public addPseudoClass(name: string): boolean;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

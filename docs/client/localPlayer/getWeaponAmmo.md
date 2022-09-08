@@ -1,5 +1,5 @@
 ---
-title: getWeaponAmmo
+title: getWeaponAmmo()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getWeaponAmmo(weaponName: string): number;
 ### Arguments
 
 * weaponName: string
+
+### Returns
+
+* number
 
 ## Documentation
 

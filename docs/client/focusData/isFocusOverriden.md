@@ -1,5 +1,5 @@
 ---
-title: isFocusOverriden
+title: isFocusOverriden()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly isFocusOverriden: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

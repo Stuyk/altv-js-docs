@@ -1,5 +1,5 @@
 ---
-title: setWheelBurst
+title: setWheelBurst()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWheelBurst(wheelId: number, state: boolean): void;
 
 * wheelId: number
 * state: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

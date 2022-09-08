@@ -1,5 +1,5 @@
 ---
-title: sub
+title: sub()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public sub(vector: IVector3): Vector3;
 ### Arguments
 
 * vector: IVector3
+
+### Returns
+
+* Vector3
 
 ## Documentation
 

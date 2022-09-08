@@ -1,5 +1,5 @@
 ---
-title: config
+title: config()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly config: IResourceConfig;
 ```
+
+### Returns
+
+* IResourceConfig
 
 ## Documentation
 

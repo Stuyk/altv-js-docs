@@ -1,5 +1,5 @@
 ---
-title: setTrainLinkedToForwardId
+title: setTrainLinkedToForwardId()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setTrainLinkedToForwardId(vehicle: Vehicle | null): void;
 ### Arguments
 
 * vehicle: Vehicle | null
+
+### Returns
+
+* void
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: hasSyncedMeta
+title: hasSyncedMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function hasSyncedMeta<K extends ExtractStringKeys<ICustomGlobalSyncedMeta>>(key
 ### Arguments
 
 * key: K
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: requestCutscene
+title: requestCutscene()
 order: 0
 ---
 
@@ -16,6 +16,10 @@ public static requestCutscene(cutsceneName: string, flags: string | number, time
 * cutsceneName: string
 * flags: string | number
 * timeout?: number
+
+### Returns
+
+* Promise\<void\>
 
 ## Documentation
 

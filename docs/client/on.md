@@ -1,5 +1,5 @@
 ---
-title: on
+title: on()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function on<K extends string>(eventName: K, listener: shared.InterfaceValueByKey
 
 * eventName: K
 * listener: shared.InterfaceValueByKey\<IClientEvent, K, (...args: any[]) =\> void, never\>
+
+### Returns
+
+* void
 
 ## Documentation
 

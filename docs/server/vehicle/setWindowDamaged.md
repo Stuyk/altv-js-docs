@@ -1,5 +1,5 @@
 ---
-title: setWindowDamaged
+title: setWindowDamaged()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setWindowDamaged(windowId: number, isDamaged: boolean): void;
 
 * windowId: number
 * isDamaged: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

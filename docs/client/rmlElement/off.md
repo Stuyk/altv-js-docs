@@ -1,5 +1,5 @@
 ---
-title: off
+title: off()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public off(eventName: string, func: (...args: any[]) => void): void;
 
 * eventName: string
 * func: (...args: any[]) =\> void
+
+### Returns
+
+* void
 
 ## Documentation
 

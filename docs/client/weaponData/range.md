@@ -1,5 +1,5 @@
 ---
-title: range
+title: range()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public range: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

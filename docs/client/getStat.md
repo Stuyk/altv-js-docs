@@ -1,5 +1,5 @@
 ---
-title: getStat
+title: getStat()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getStat(statName: `${StatName}`): number;
 ### Arguments
 
 * statName: `$\{StatName\}`
+
+### Returns
+
+* number
 
 ## Documentation
 

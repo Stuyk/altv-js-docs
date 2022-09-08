@@ -1,5 +1,5 @@
 ---
-title: seatOffsetDistY
+title: seatOffsetDistY()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public seatOffsetDistY: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

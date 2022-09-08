@@ -1,5 +1,5 @@
 ---
-title: entityAimingAt
+title: entityAimingAt()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly entityAimingAt: Entity | null;
 ```
+
+### Returns
+
+* Entity | null
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: nonSpatialVolume
+title: nonSpatialVolume()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public nonSpatialVolume: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: querySelectorAll
+title: querySelectorAll()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public querySelectorAll(selector: string): ReadonlyArray<RmlElement>;
 ### Arguments
 
 * selector: string
+
+### Returns
+
+* ReadonlyArray\<RmlElement\>
 
 ## Documentation
 

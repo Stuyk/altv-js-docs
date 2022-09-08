@@ -1,5 +1,5 @@
 ---
-title: getPing
+title: getPing()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function getPing(): number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

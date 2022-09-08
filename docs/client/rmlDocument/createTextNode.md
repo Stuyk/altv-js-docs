@@ -1,5 +1,5 @@
 ---
-title: createTextNode
+title: createTextNode()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public createTextNode(text: string): RmlElement;
 ### Arguments
 
 * text: string
+
+### Returns
+
+* RmlElement
 
 ## Documentation
 

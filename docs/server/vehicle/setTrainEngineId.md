@@ -1,5 +1,5 @@
 ---
-title: setTrainEngineId
+title: setTrainEngineId()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setTrainEngineId(vehicle: Vehicle | null): void;
 ### Arguments
 
 * vehicle: Vehicle | null
+
+### Returns
+
+* void
 
 ## Documentation
 

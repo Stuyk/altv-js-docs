@@ -1,5 +1,5 @@
 ---
-title: darkness
+title: darkness()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public darkness: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

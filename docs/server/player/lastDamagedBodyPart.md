@@ -1,5 +1,5 @@
 ---
-title: lastDamagedBodyPart
+title: lastDamagedBodyPart()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public lastDamagedBodyPart: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

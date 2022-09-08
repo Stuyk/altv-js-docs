@@ -1,5 +1,5 @@
 ---
-title: getEyeColor
+title: getEyeColor()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public getEyeColor(): number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

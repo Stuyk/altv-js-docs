@@ -1,5 +1,5 @@
 ---
-title: oilLevel
+title: oilLevel()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public oilLevel: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

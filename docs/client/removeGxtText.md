@@ -1,5 +1,5 @@
 ---
-title: removeGxtText
+title: removeGxtText()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function removeGxtText(key: string): void;
 ### Arguments
 
 * key: string
+
+### Returns
+
+* void
 
 ## Documentation
 

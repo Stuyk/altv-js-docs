@@ -1,5 +1,5 @@
 ---
-title: placeOnGroundProperly
+title: placeOnGroundProperly()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public placeOnGroundProperly(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

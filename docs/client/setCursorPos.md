@@ -1,5 +1,5 @@
 ---
-title: setCursorPos
+title: setCursorPos()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function setCursorPos(pos: shared.IVector2, normalized?: boolean): void;
 
 * pos: shared.IVector2
 * normalized?: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

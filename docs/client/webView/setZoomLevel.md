@@ -1,5 +1,5 @@
 ---
-title: setZoomLevel
+title: setZoomLevel()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setZoomLevel(value: number): void;
 ### Arguments
 
 * value: number
+
+### Returns
+
+* void
 
 ## Documentation
 

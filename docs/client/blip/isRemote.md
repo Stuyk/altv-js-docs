@@ -1,5 +1,5 @@
 ---
-title: isRemote
+title: isRemote()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isRemote: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

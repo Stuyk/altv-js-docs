@@ -1,5 +1,5 @@
 ---
-title: setExtraHeader
+title: setExtraHeader()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setExtraHeader(header: string, value: string): void;
 
 * header: string
 * value: string
+
+### Returns
+
+* void
 
 ## Documentation
 

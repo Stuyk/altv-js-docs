@@ -1,5 +1,5 @@
 ---
-title: long
+title: long()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public long(offset: number): bigint;
 ### Arguments
 
 * offset: number
+
+### Returns
+
+* bigint
 
 ## Documentation
 

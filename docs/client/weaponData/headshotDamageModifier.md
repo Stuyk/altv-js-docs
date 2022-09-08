@@ -1,5 +1,5 @@
 ---
-title: headshotDamageModifier
+title: headshotDamageModifier()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public headshotDamageModifier: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

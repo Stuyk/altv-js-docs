@@ -1,5 +1,5 @@
 ---
-title: boatAnchorActive
+title: boatAnchorActive()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public boatAnchorActive: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

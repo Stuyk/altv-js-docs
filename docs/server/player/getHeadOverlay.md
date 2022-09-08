@@ -1,5 +1,5 @@
 ---
-title: getHeadOverlay
+title: getHeadOverlay()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getHeadOverlay(overlayID: number): IHeadOverlay;
 ### Arguments
 
 * overlayID: number
+
+### Returns
+
+* IHeadOverlay
 
 ## Documentation
 

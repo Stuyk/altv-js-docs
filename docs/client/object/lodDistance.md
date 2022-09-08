@@ -1,5 +1,5 @@
 ---
-title: lodDistance
+title: lodDistance()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public lodDistance: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

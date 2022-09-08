@@ -1,5 +1,5 @@
 ---
-title: delete
+title: delete()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public delete(url: string, body: string): Promise<IHttpResponse>;
 
 * url: string
 * body: string
+
+### Returns
+
+* Promise\<IHttpResponse\>
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: setClothes
+title: setClothes()
 order: 0
 ---
 
@@ -17,6 +17,10 @@ public setClothes(component: number, drawable: number, texture: number, palette?
 * drawable: number
 * texture: number
 * palette?: number
+
+### Returns
+
+* void
 
 ## Documentation
 

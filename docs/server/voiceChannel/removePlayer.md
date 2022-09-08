@@ -1,5 +1,5 @@
 ---
-title: removePlayer
+title: removePlayer()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public removePlayer(player: Player): void;
 ### Arguments
 
 * player: Player
+
+### Returns
+
+* void
 
 ## Documentation
 

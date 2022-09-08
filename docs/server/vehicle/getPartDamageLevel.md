@@ -1,5 +1,5 @@
 ---
-title: getPartDamageLevel
+title: getPartDamageLevel()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getPartDamageLevel<T extends number, V extends number = VehiclePartDamage
 ### Arguments
 
 * partId: T
+
+### Returns
+
+* V
 
 ## Documentation
 

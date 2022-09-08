@@ -1,5 +1,5 @@
 ---
-title: setAttribute
+title: setAttribute()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setAttribute(name: string, value: string): void;
 
 * name: string
 * value: string
+
+### Returns
+
+* void
 
 ## Documentation
 

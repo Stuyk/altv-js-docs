@@ -1,5 +1,5 @@
 ---
-title: emitRaw
+title: emitRaw()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function emitRaw(eventName: string, ...args: any[]): void;
 
 * eventName: string
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

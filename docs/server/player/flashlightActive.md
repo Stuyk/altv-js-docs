@@ -1,5 +1,5 @@
 ---
-title: flashlightActive
+title: flashlightActive()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly flashlightActive: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

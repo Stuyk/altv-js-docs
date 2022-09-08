@@ -1,5 +1,5 @@
 ---
-title: hasClass
+title: hasClass()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public hasClass(name: string): boolean;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

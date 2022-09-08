@@ -1,5 +1,5 @@
 ---
-title: volume
+title: volume()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public volume: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

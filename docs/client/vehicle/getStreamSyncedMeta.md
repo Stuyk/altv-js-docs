@@ -1,5 +1,5 @@
 ---
-title: getStreamSyncedMeta
+title: getStreamSyncedMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getStreamSyncedMeta<V extends any>(key: string): V | undefined;
 ### Arguments
 
 * key: string
+
+### Returns
+
+* V | undefined
 
 ## Documentation
 

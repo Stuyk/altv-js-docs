@@ -1,5 +1,5 @@
 ---
-title: requestAnimDict
+title: requestAnimDict()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public static requestAnimDict(animDict: string, timeout?: number): Promise<void>
 
 * animDict: string
 * timeout?: number
+
+### Returns
+
+* Promise\<void\>
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: driver
+title: driver()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly driver: Player | null;
 ```
+
+### Returns
+
+* Player | null
 
 ## Documentation
 

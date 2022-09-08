@@ -1,5 +1,5 @@
 ---
-title: isStarted
+title: isStarted()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isStarted: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

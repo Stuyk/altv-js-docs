@@ -1,5 +1,5 @@
 ---
-title: forwardSpeed
+title: forwardSpeed()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly forwardSpeed: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

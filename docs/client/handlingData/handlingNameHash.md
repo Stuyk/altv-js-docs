@@ -1,5 +1,5 @@
 ---
-title: handlingNameHash
+title: handlingNameHash()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly handlingNameHash: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

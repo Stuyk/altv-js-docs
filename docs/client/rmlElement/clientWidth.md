@@ -1,5 +1,5 @@
 ---
-title: clientWidth
+title: clientWidth()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly clientWidth: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

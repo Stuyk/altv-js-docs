@@ -1,5 +1,5 @@
 ---
-title: emitServer
+title: emitServer()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ function emitServer(eventName: string, ...args: any[]): void;
 
 * eventName: string
 * ...args: any[]
+
+### Returns
+
+* void
 
 ## Documentation
 

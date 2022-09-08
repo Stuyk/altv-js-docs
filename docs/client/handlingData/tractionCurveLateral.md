@@ -1,5 +1,5 @@
 ---
-title: tractionCurveLateral
+title: tractionCurveLateral()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public tractionCurveLateral: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

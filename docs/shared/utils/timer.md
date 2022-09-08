@@ -1,5 +1,5 @@
 ---
-title: Timer
+title: Timer()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly Timer: typeof Timer;
 ```
+
+### Returns
+
+* typeof Timer
 
 ## Documentation
 

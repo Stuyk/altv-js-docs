@@ -1,5 +1,5 @@
 ---
-title: g
+title: g()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public g: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

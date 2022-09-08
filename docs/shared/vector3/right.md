@@ -1,5 +1,5 @@
 ---
-title: right
+title: right()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly right: Vector3;
 ```
+
+### Returns
+
+* Vector3
 
 ## Documentation
 

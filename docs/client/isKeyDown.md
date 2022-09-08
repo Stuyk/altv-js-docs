@@ -1,5 +1,5 @@
 ---
-title: isKeyDown
+title: isKeyDown()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function isKeyDown(key: number): boolean;
 ### Arguments
 
 * key: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

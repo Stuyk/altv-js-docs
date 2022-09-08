@@ -1,5 +1,5 @@
 ---
-title: getArmoredWindowShootCount
+title: getArmoredWindowShootCount()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getArmoredWindowShootCount(windowId: number): number;
 ### Arguments
 
 * windowId: number
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: takeScreenshot
+title: takeScreenshot()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function takeScreenshot(): Promise<string>;
 ```
+
+### Returns
+
+* Promise\<string\>
 
 ## Documentation
 

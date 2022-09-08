@@ -1,5 +1,5 @@
 ---
-title: removeAllWeapons
+title: removeAllWeapons()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public removeAllWeapons(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

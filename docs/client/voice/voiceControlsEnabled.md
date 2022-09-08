@@ -1,5 +1,5 @@
 ---
-title: voiceControlsEnabled
+title: voiceControlsEnabled()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly voiceControlsEnabled: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

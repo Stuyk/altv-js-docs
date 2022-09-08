@@ -1,5 +1,5 @@
 ---
-title: getPermissionState
+title: getPermissionState()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function getPermissionState<T extends number, V extends number = PermissionState
 ### Arguments
 
 * permId: T
+
+### Returns
+
+* V
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: currentWeaponComponents
+title: currentWeaponComponents()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly currentWeaponComponents: ReadonlyArray<number>;
 ```
+
+### Returns
+
+* ReadonlyArray\<number\>
 
 ## Documentation
 

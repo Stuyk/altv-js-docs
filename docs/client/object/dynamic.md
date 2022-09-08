@@ -1,5 +1,5 @@
 ---
-title: dynamic
+title: dynamic()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly dynamic: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

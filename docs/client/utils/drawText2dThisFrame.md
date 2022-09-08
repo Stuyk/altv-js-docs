@@ -1,5 +1,5 @@
 ---
-title: drawText2dThisFrame
+title: drawText2dThisFrame()
 order: 0
 ---
 
@@ -20,6 +20,10 @@ public static drawText2dThisFrame(text: string, pos2d?: shared.IVector2, font?: 
 * color?: shared.RGBA
 * outline?: boolean
 * dropShadow?: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

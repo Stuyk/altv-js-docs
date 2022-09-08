@@ -1,5 +1,5 @@
 ---
-title: loadModel
+title: loadModel()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function loadModel(modelHash: number): void;
 ### Arguments
 
 * modelHash: number
+
+### Returns
+
+* void
 
 ## Documentation
 

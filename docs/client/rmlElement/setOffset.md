@@ -1,5 +1,5 @@
 ---
-title: setOffset
+title: setOffset()
 order: 0
 ---
 
@@ -16,6 +16,10 @@ public setOffset(element: RmlElement, offset: shared.IVector2, fixed?: boolean):
 * element: RmlElement
 * offset: shared.IVector2
 * fixed?: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

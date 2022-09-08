@@ -1,5 +1,5 @@
 ---
-title: setMsPerGameMinute
+title: setMsPerGameMinute()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function setMsPerGameMinute(milliseconds: number): void;
 ### Arguments
 
 * milliseconds: number
+
+### Returns
+
+* void
 
 ## Documentation
 

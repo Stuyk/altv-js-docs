@@ -1,5 +1,5 @@
 ---
-title: deleteMeta
+title: deleteMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public deleteMeta<K extends shared.ExtractStringKeys<ICustomLocalPlayerMeta>>(ke
 ### Arguments
 
 * key: K
+
+### Returns
+
+* void
 
 ## Documentation
 

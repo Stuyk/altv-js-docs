@@ -1,5 +1,5 @@
 ---
-title: setIntoVehicle
+title: setIntoVehicle()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setIntoVehicle(vehicle: Vehicle, seat: number): void;
 
 * vehicle: Vehicle
 * seat: number
+
+### Returns
+
+* void
 
 ## Documentation
 

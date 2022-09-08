@@ -1,5 +1,5 @@
 ---
-title: lockOnRange
+title: lockOnRange()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public lockOnRange: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

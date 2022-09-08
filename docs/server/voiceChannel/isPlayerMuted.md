@@ -1,5 +1,5 @@
 ---
-title: isPlayerMuted
+title: isPlayerMuted()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isPlayerMuted(player: Player): boolean;
 ### Arguments
 
 * player: Player
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: getMemoryProfile
+title: getMemoryProfile()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static getMemoryProfile(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

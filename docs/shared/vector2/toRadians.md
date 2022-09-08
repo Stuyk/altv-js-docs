@@ -1,5 +1,5 @@
 ---
-title: toRadians
+title: toRadians()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public toRadians(): Vector2;
 ```
+
+### Returns
+
+* Vector2
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: hash
+title: hash()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function hash(str: string): number;
 ### Arguments
 
 * str: string
+
+### Returns
+
+* number
 
 ## Documentation
 

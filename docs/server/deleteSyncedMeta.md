@@ -1,5 +1,5 @@
 ---
-title: deleteSyncedMeta
+title: deleteSyncedMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function deleteSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomGloba
 ### Arguments
 
 * key: K
+
+### Returns
+
+* void
 
 ## Documentation
 

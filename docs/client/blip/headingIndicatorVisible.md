@@ -1,5 +1,5 @@
 ---
-title: headingIndicatorVisible
+title: headingIndicatorVisible()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public headingIndicatorVisible: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

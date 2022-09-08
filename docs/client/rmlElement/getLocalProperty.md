@@ -1,5 +1,5 @@
 ---
-title: getLocalProperty
+title: getLocalProperty()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getLocalProperty(name: string): string;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* string
 
 ## Documentation
 

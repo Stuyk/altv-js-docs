@@ -1,5 +1,5 @@
 ---
-title: setProperty
+title: setProperty()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public setProperty(name: string, value: string): boolean;
 
 * name: string
 * value: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

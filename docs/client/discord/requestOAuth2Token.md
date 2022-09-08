@@ -1,5 +1,5 @@
 ---
-title: requestOAuth2Token
+title: requestOAuth2Token()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static requestOAuth2Token(appId: string): Promise<string>;
 ### Arguments
 
 * appId: string
+
+### Returns
+
+* Promise\<string\>
 
 ## Documentation
 

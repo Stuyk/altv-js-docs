@@ -1,5 +1,5 @@
 ---
-title: bright
+title: bright()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public bright: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

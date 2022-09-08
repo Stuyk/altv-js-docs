@@ -1,5 +1,5 @@
 ---
-title: NextTick
+title: NextTick()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly NextTick: typeof NextTick;
 ```
+
+### Returns
+
+* typeof NextTick
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: b
+title: b()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public b: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

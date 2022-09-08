@@ -1,5 +1,5 @@
 ---
-title: current
+title: current()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly current: Resource;
 ```
+
+### Returns
+
+* Resource
 
 ## Documentation
 

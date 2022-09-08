@@ -1,5 +1,5 @@
 ---
-title: name
+title: name()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public name: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

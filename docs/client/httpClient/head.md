@@ -1,5 +1,5 @@
 ---
-title: head
+title: head()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public head(url: string): Promise<IHttpResponse>;
 ### Arguments
 
 * url: string
+
+### Returns
+
+* Promise\<IHttpResponse\>
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: distanceToSquared
+title: distanceToSquared()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public distanceToSquared(vector: IVector2): number;
 ### Arguments
 
 * vector: IVector2
+
+### Returns
+
+* number
 
 ## Documentation
 

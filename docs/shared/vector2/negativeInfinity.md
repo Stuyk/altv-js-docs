@@ -1,5 +1,5 @@
 ---
-title: negativeInfinity
+title: negativeInfinity()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly negativeInfinity: Vector2;
 ```
+
+### Returns
+
+* Vector2
 
 ## Documentation
 

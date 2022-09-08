@@ -1,5 +1,5 @@
 ---
-title: timedExplosionTime
+title: timedExplosionTime()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly timedExplosionTime: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

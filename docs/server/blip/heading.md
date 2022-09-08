@@ -1,5 +1,5 @@
 ---
-title: heading
+title: heading()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public heading: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

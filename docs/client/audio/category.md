@@ -1,5 +1,5 @@
 ---
-title: category
+title: category()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public category: shared.AudioCategory | `${shared.AudioCategory}`;
 ```
+
+### Returns
+
+* shared.AudioCategory | `$\{shared.AudioCategory\}`
 
 ## Documentation
 

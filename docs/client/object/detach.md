@@ -1,5 +1,5 @@
 ---
-title: detach
+title: detach()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public detach(dynamic?: boolean): void;
 ### Arguments
 
 * dynamic?: boolean
+
+### Returns
+
+* void
 
 ## Documentation
 

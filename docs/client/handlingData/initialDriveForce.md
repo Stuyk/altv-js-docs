@@ -1,5 +1,5 @@
 ---
-title: initialDriveForce
+title: initialDriveForce()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public initialDriveForce: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: getCamPos
+title: getCamPos()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function getCamPos(): shared.Vector3;
 ```
+
+### Returns
+
+* shared.Vector3
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: handlingFlags
+title: handlingFlags()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public handlingFlags: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

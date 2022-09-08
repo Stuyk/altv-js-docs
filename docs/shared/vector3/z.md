@@ -1,5 +1,5 @@
 ---
-title: z
+title: z()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly z: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

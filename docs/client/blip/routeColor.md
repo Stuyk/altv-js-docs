@@ -1,5 +1,5 @@
 ---
-title: routeColor
+title: routeColor()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public routeColor: shared.RGBA;
 ```
+
+### Returns
+
+* shared.RGBA
 
 ## Documentation
 

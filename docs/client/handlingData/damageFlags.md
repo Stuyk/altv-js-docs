@@ -1,5 +1,5 @@
 ---
-title: damageFlags
+title: damageFlags()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public damageFlags: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

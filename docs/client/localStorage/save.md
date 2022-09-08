@@ -1,5 +1,5 @@
 ---
-title: save
+title: save()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static save(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

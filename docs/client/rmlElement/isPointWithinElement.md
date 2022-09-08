@@ -1,5 +1,5 @@
 ---
-title: isPointWithinElement
+title: isPointWithinElement()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isPointWithinElement(point: shared.IVector2): boolean;
 ### Arguments
 
 * point: shared.IVector2
+
+### Returns
+
+* boolean
 
 ## Documentation
 

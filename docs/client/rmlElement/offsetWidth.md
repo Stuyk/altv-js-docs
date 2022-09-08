@@ -1,5 +1,5 @@
 ---
-title: offsetWidth
+title: offsetWidth()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly offsetWidth: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

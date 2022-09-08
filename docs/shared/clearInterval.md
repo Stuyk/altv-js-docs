@@ -1,5 +1,5 @@
 ---
-title: clearInterval
+title: clearInterval()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function clearInterval(id: number): void;
 ### Arguments
 
 * id: number
+
+### Returns
+
+* void
 
 ## Documentation
 

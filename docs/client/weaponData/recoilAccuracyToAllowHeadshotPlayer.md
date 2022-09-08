@@ -1,5 +1,5 @@
 ---
-title: recoilAccuracyToAllowHeadshotPlayer
+title: recoilAccuracyToAllowHeadshotPlayer()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public recoilAccuracyToAllowHeadshotPlayer: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

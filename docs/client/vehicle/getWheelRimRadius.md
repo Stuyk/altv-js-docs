@@ -1,5 +1,5 @@
 ---
-title: getWheelRimRadius
+title: getWheelRimRadius()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getWheelRimRadius(wheelIndex: number): number;
 ### Arguments
 
 * wheelIndex: number
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: update
+title: update()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public update(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

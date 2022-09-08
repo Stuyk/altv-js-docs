@@ -1,5 +1,5 @@
 ---
-title: focusOverrideOffset
+title: focusOverrideOffset()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly focusOverrideOffset: shared.Vector3;
 ```
+
+### Returns
+
+* shared.Vector3
 
 ## Documentation
 

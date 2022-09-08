@@ -1,5 +1,5 @@
 ---
-title: pingInterval
+title: pingInterval()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public pingInterval: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

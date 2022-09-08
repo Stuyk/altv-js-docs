@@ -1,5 +1,5 @@
 ---
-title: getBumperDamageLevel
+title: getBumperDamageLevel()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getBumperDamageLevel<T extends number, V extends number = VehicleBumperDa
 ### Arguments
 
 * bumperId: T
+
+### Returns
+
+* V
 
 ## Documentation
 

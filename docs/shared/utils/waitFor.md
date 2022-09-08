@@ -1,5 +1,5 @@
 ---
-title: waitFor
+title: waitFor()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public static waitFor(callback: () => boolean, timeout?: number): Promise<void>;
 
 * callback: () =\> boolean
 * timeout?: number
+
+### Returns
+
+* Promise\<void\>
 
 ## Documentation
 

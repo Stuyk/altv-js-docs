@@ -1,5 +1,5 @@
 ---
-title: mul
+title: mul()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public mul(vector: IVector2): Vector2;
 ### Arguments
 
 * vector: IVector2
+
+### Returns
+
+* Vector2
 
 ## Documentation
 

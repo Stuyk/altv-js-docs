@@ -1,5 +1,5 @@
 ---
-title: gameControlsEnabled
+title: gameControlsEnabled()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 function gameControlsEnabled(): boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

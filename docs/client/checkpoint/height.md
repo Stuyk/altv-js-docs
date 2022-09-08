@@ -1,5 +1,5 @@
 ---
-title: height
+title: height()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public height: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

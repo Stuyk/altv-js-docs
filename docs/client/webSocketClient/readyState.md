@@ -1,5 +1,5 @@
 ---
-title: readyState
+title: readyState()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly readyState: WebSocketReadyState;
 ```
+
+### Returns
+
+* WebSocketReadyState
 
 ## Documentation
 

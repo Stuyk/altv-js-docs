@@ -1,5 +1,5 @@
 ---
-title: float
+title: float()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public float(offset: number): number;
 ### Arguments
 
 * offset: number
+
+### Returns
+
+* number
 
 ## Documentation
 

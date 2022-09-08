@@ -1,5 +1,5 @@
 ---
-title: lightsMultiplier
+title: lightsMultiplier()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public lightsMultiplier: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

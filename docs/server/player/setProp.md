@@ -1,5 +1,5 @@
 ---
-title: setProp
+title: setProp()
 order: 0
 ---
 
@@ -16,6 +16,10 @@ public setProp(component: number, drawable: number, texture: number): void;
 * component: number
 * drawable: number
 * texture: number
+
+### Returns
+
+* void
 
 ## Documentation
 

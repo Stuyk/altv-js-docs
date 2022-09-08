@@ -1,5 +1,5 @@
 ---
-title: deleteMeta
+title: deleteMeta()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function deleteMeta<K extends ExtractStringKeys<ICustomGlobalMeta>>(key: K): voi
 ### Arguments
 
 * key: K
+
+### Returns
+
+* void
 
 ## Documentation
 

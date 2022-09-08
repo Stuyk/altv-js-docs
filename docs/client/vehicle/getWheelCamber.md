@@ -1,5 +1,5 @@
 ---
-title: getWheelCamber
+title: getWheelCamber()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getWheelCamber(wheelIndex: number): number;
 ### Arguments
 
 * wheelIndex: number
+
+### Returns
+
+* number
 
 ## Documentation
 

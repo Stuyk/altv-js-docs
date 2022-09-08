@@ -1,5 +1,5 @@
 ---
-title: monetaryValue
+title: monetaryValue()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public monetaryValue: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: isLightDamaged
+title: isLightDamaged()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isLightDamaged(lightId: number): boolean;
 ### Arguments
 
 * lightId: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

@@ -1,5 +1,5 @@
 ---
-title: wait
+title: wait()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static wait(timeout: number): Promise<void>;
 ### Arguments
 
 * timeout: number
+
+### Returns
+
+* Promise\<void\>
 
 ## Documentation
 

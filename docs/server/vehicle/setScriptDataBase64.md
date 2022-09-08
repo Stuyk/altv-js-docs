@@ -1,5 +1,5 @@
 ---
-title: setScriptDataBase64
+title: setScriptDataBase64()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public setScriptDataBase64(data: string): void;
 ### Arguments
 
 * data: string
+
+### Returns
+
+* void
 
 ## Documentation
 

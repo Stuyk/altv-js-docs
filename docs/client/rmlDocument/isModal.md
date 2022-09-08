@@ -1,5 +1,5 @@
 ---
-title: isModal
+title: isModal()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public readonly isModal: boolean;
 ```
+
+### Returns
+
+* boolean
 
 ## Documentation
 

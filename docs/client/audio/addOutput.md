@@ -1,5 +1,5 @@
 ---
-title: addOutput
+title: addOutput()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public addOutput(entity: Entity | number): void;
 ### Arguments
 
 * entity: Entity | number
+
+### Returns
+
+* void
 
 ## Documentation
 

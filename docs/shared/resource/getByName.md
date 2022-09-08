@@ -1,5 +1,5 @@
 ---
-title: getByName
+title: getByName()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public static getByName(name: string): Resource | null;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* Resource | null
 
 ## Documentation
 

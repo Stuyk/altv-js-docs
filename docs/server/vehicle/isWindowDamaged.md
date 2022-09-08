@@ -1,5 +1,5 @@
 ---
-title: isWindowDamaged
+title: isWindowDamaged()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public isWindowDamaged(windowId: number): boolean;
 ### Arguments
 
 * windowId: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

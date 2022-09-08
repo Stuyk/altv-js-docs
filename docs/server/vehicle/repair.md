@@ -1,5 +1,5 @@
 ---
-title: repair
+title: repair()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public repair(): void;
 ```
+
+### Returns
+
+* void
 
 ## Documentation
 

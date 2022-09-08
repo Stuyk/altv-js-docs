@@ -1,5 +1,5 @@
 ---
-title: length
+title: length()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public get length(): number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

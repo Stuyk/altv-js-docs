@@ -1,5 +1,5 @@
 ---
-title: getDoorState
+title: getDoorState()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getDoorState<T extends number, V extends number = VehicleDoorState>(doorI
 ### Arguments
 
 * doorId: T
+
+### Returns
+
+* V
 
 ## Documentation
 

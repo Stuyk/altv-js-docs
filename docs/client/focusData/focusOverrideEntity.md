@@ -1,5 +1,5 @@
 ---
-title: focusOverrideEntity
+title: focusOverrideEntity()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly focusOverrideEntity: Entity;
 ```
+
+### Returns
+
+* Entity
 
 ## Documentation
 

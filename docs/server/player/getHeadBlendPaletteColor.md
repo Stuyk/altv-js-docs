@@ -1,5 +1,5 @@
 ---
-title: getHeadBlendPaletteColor
+title: getHeadBlendPaletteColor()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public getHeadBlendPaletteColor(id: number): shared.RGBA;
 ### Arguments
 
 * id: number
+
+### Returns
+
+* shared.RGBA
 
 ## Documentation
 

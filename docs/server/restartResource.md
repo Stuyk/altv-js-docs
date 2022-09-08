@@ -1,5 +1,5 @@
 ---
-title: restartResource
+title: restartResource()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ function restartResource(name: string): void;
 ### Arguments
 
 * name: string
+
+### Returns
+
+* void
 
 ## Documentation
 

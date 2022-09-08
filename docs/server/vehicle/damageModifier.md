@@ -1,5 +1,5 @@
 ---
-title: damageModifier
+title: damageModifier()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public damageModifier: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

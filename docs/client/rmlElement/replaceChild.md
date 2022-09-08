@@ -1,5 +1,5 @@
 ---
-title: replaceChild
+title: replaceChild()
 order: 0
 ---
 
@@ -15,6 +15,10 @@ public replaceChild(newElem: RmlElement, oldElem: RmlElement): void;
 
 * newElem: RmlElement
 * oldElem: RmlElement
+
+### Returns
+
+* void
 
 ## Documentation
 

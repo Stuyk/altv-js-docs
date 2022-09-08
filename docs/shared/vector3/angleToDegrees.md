@@ -1,5 +1,5 @@
 ---
-title: angleToDegrees
+title: angleToDegrees()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public angleToDegrees(vector: IVector3): number;
 ### Arguments
 
 * vector: IVector3
+
+### Returns
+
+* number
 
 ## Documentation
 

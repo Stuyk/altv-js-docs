@@ -1,5 +1,5 @@
 ---
-title: activationKey
+title: activationKey()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly activationKey: number;
 ```
+
+### Returns
+
+* number
 
 ## Documentation
 

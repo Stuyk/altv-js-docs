@@ -1,5 +1,5 @@
 ---
-title: setHeadOverlay
+title: setHeadOverlay()
 order: 0
 ---
 
@@ -16,6 +16,10 @@ public setHeadOverlay(overlayID: number, index: number, opacity: number): boolea
 * overlayID: number
 * index: number
 * opacity: number
+
+### Returns
+
+* boolean
 
 ## Documentation
 

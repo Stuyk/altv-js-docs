@@ -1,5 +1,5 @@
 ---
-title: hasWeapon
+title: hasWeapon()
 order: 0
 ---
 
@@ -14,6 +14,10 @@ public hasWeapon(weaponName: string): boolean;
 ### Arguments
 
 * weaponName: string
+
+### Returns
+
+* boolean
 
 ## Documentation
 

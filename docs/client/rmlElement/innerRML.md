@@ -1,5 +1,5 @@
 ---
-title: innerRML
+title: innerRML()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public innerRML: string;
 ```
+
+### Returns
+
+* string
 
 ## Documentation
 

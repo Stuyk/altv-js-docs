@@ -1,5 +1,5 @@
 ---
-title: Interval
+title: Interval()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public static readonly Interval: typeof Interval;
 ```
+
+### Returns
+
+* typeof Interval
 
 ## Documentation
 

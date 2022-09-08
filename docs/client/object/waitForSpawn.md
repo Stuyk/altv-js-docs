@@ -1,5 +1,5 @@
 ---
-title: waitForSpawn
+title: waitForSpawn()
 order: 0
 ---
 
@@ -10,6 +10,10 @@ order: 0
 ```ts
 public waitForSpawn(): Promise<void>;
 ```
+
+### Returns
+
+* Promise\<void\>
 
 ## Documentation
 
