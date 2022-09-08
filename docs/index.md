@@ -12,14 +12,26 @@ hero:
       text: Introduction
       link: /intro/index
     - theme: alt
+      text: Guides
+      link: /guides/index
+    - theme: alt
       text: Server API
       link: /server/index
     - theme: alt
       text: Client API
       link: /server/index
     - theme: alt
-      text: Guides
-      link: /guides/index
+      text: Shared
+      link: /shared/index
+    - theme: alt
+      text: Enums
+      link: /enums/index
+    - theme: alt
+      text: Types
+      link: /types/index
+    - theme: alt
+      text: Interfaces
+      link: /interfaces/index
 features:
   - icon: ⚡️
     title: Easy to Learn
