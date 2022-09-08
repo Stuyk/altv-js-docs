@@ -1,1 +1,1 @@
-No Description Provided
+Gets all the listeners that have been subscribed using onClient(string, (player: Player, ...args: any[]) => void) for the specified remote event.

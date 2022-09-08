@@ -1,1 +1,1 @@
-No Description Provided
+Stops the specified resource.

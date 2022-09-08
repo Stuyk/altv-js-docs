@@ -1,1 +1,1 @@
-No Description Provided
+Gets all the listeners for the specified local event.

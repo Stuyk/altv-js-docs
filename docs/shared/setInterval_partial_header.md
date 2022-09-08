@@ -1,1 +1,1 @@
-No Description Provided
+Schedules execution of handler in specified intervals.

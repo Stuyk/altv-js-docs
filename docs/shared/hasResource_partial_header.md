@@ -1,1 +1,1 @@
-No Description Provided
+Returns whether the specified resource exists.

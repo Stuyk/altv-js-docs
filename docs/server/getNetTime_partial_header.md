@@ -1,1 +1,1 @@
-No Description Provided
+Gets the amount of milliseconds since the server was started.

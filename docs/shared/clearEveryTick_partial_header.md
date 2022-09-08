@@ -1,1 +1,1 @@
-No Description Provided
+Clears a timer set with the everyTick((...args: any[]) => void) function.

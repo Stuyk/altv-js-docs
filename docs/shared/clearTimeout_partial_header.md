@@ -1,1 +1,1 @@
-No Description Provided
+Clears a timer set with the `setTimeout((...args: any[]) => void, number)` function.

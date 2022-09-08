@@ -1,1 +1,1 @@
-No Description Provided
+Logs the specified arguments to the console.

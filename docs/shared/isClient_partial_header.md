@@ -1,1 +1,1 @@
-No Description Provided
+A boolean indicating whether the current script is executed on the clientside.

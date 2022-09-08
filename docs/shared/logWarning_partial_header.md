@@ -1,1 +1,1 @@
-No Description Provided
+Logs the specified arguments as a warning to the console with a timestamp.

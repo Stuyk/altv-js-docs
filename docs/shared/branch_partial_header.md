@@ -1,1 +1,1 @@
-No Description Provided
+Represents the current branch.

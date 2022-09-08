@@ -1,1 +1,1 @@
-No Description Provided
+Subscribes to a client event with the specified listener.

@@ -1,1 +1,1 @@
-No Description Provided
+Restarts the specified resource.

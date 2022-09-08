@@ -1,1 +1,1 @@
-No Description Provided
+The default dimension that players, vehicles, etc. spawn in.

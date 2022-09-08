@@ -1,1 +1,1 @@
-No Description Provided
+Gets the path to the specified resource.

@@ -1,1 +1,1 @@
-No Description Provided
+Subscribes to a custom server event with the specified listener.

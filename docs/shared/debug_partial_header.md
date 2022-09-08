@@ -1,1 +1,1 @@
-No Description Provided
+Returns if the server is in debug mode.
