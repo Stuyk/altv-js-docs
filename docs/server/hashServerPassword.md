@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function hashServerPassword(password: string): bigint;
+function hashServerPassword(password: string): bigint;
 ```
+
+### Arguments
+
+* password: string
 
 ## Documentation
 

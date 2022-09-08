@@ -11,6 +11,10 @@ order: 0
 public removeFaceFeature(index: number): boolean;
 ```
 
+### Arguments
+
+* index: number
+
 ## Documentation
 
 <!--@include: ./parts/removeFaceFeature.md-->

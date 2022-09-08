@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getResourcePath(name: string): string;
+function getResourcePath(name: string): string;
 ```
+
+### Arguments
+
+* name: string
 
 ## Documentation
 

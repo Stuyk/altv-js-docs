@@ -11,6 +11,11 @@ order: 0
 public static set(key: string, value: any): void;
 ```
 
+### Arguments
+
+* key: string
+* value: any
+
 ## Documentation
 
 <!--@include: ./parts/set.md-->

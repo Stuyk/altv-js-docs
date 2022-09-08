@@ -11,6 +11,10 @@ order: 0
 public get(url: string): Promise<IHttpResponse>;
 ```
 
+### Arguments
+
+* url: string
+
 ## Documentation
 
 <!--@include: ./parts/get.md-->

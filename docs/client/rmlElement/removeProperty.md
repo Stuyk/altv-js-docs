@@ -11,6 +11,10 @@ order: 0
 public removeProperty(name: string): boolean;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/removeProperty.md-->

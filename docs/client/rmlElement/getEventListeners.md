@@ -11,6 +11,10 @@ order: 0
 public getEventListeners(eventName: string): ((senderElement: RmlElement, ...args: any[]) => void)[];
 ```
 
+### Arguments
+
+* eventName: string): ((senderElement: RmlElement, ...args: any[]) => void
+
 ## Documentation
 
 <!--@include: ./parts/getEventListeners.md-->

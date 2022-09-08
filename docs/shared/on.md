@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function on(listener: (eventName: string, ...args: any[]) => void): void;
+function on(listener: (eventName: string, ...args: any[]) => void): void;
 ```
+
+### Arguments
+
+* listener: (eventName: string, ...args: any[]) => void
 
 ## Documentation
 

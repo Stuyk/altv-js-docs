@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setMinimapIsRectangle(state: boolean): void;
+function setMinimapIsRectangle(state: boolean): void;
 ```
+
+### Arguments
+
+* state: boolean
 
 ## Documentation
 

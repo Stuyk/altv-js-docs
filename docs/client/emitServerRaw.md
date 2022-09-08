@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function emitServerRaw(eventName: string, ...args: any[]): void;
+function emitServerRaw(eventName: string, ...args: any[]): void;
 ```
+
+### Arguments
+
+* eventName: string
+* ...args: any[]
 
 ## Documentation
 

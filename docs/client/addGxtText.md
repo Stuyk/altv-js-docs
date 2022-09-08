@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function addGxtText(key: string | number, value: string): void;
+function addGxtText(key: string | number, value: string): void;
 ```
+
+### Arguments
+
+* key: string | number
+* value: string
 
 ## Documentation
 

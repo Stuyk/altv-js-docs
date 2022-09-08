@@ -11,6 +11,10 @@ order: 0
 public getClothes(component: number): ICloth;
 ```
 
+### Arguments
+
+* component: number
+
 ## Documentation
 
 <!--@include: ./parts/getClothes.md-->

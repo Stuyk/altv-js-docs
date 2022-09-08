@@ -11,6 +11,11 @@ order: 0
 public off(eventName: string, func: (...args: any[]) => void): void;
 ```
 
+### Arguments
+
+* eventName: string
+* func: (...args: any[]) => void
+
 ## Documentation
 
 <!--@include: ./parts/off.md-->

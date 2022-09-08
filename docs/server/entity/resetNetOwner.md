@@ -11,6 +11,10 @@ order: 0
 public resetNetOwner(disableMigration?: boolean): void;
 ```
 
+### Arguments
+
+* disableMigration?: boolean
+
 ## Documentation
 
 <!--@include: ./parts/resetNetOwner.md-->

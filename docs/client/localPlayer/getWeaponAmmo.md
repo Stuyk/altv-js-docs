@@ -11,6 +11,10 @@ order: 0
 public getWeaponAmmo(weaponName: string): number;
 ```
 
+### Arguments
+
+* weaponName: string
+
 ## Documentation
 
 <!--@include: ./parts/getWeaponAmmo.md-->

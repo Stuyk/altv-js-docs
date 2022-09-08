@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setMeta<V extends any, K extends string = string>(key: K, value: InterfaceValueByKey<ICustomGlobalMeta, K, V>): void;
+function setMeta<V extends any, K extends string = string>(key: K, value: InterfaceValueByKey<ICustomGlobalMeta, K, V>): void;
 ```
+
+### Arguments
+
+* key: K
+* value: InterfaceValueByKey<ICustomGlobalMeta, K, V>
 
 ## Documentation
 

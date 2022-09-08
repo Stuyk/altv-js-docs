@@ -11,6 +11,11 @@ order: 0
 public connect(url: string, body: string): Promise<IHttpResponse>;
 ```
 
+### Arguments
+
+* url: string
+* body: string
+
 ## Documentation
 
 <!--@include: ./parts/connect.md-->

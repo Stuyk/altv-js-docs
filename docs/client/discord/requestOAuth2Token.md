@@ -11,6 +11,10 @@ order: 0
 public static requestOAuth2Token(appId: string): Promise<string>;
 ```
 
+### Arguments
+
+* appId: string
+
 ## Documentation
 
 <!--@include: ./parts/requestOAuth2Token.md-->

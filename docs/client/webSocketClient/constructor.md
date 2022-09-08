@@ -11,6 +11,10 @@ order: 0
 constructor(url: string);
 ```
 
+### Arguments
+
+* url: string
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

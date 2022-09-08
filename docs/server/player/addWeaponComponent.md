@@ -11,6 +11,11 @@ order: 0
 public addWeaponComponent(weaponHash: number, component: number): void;
 ```
 
+### Arguments
+
+* weaponHash: number
+* component: number
+
 ## Documentation
 
 <!--@include: ./parts/addWeaponComponent.md-->

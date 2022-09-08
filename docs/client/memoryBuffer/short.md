@@ -11,6 +11,10 @@ order: 0
 public short(offset: number): number;
 ```
 
+### Arguments
+
+* offset: number
+
 ## Documentation
 
 <!--@include: ./parts/short.md-->

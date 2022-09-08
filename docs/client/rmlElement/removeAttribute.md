@@ -11,6 +11,10 @@ order: 0
 public removeAttribute(name: string): boolean;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/removeAttribute.md-->

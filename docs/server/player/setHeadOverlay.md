@@ -11,6 +11,12 @@ order: 0
 public setHeadOverlay(overlayID: number, index: number, opacity: number): boolean;
 ```
 
+### Arguments
+
+* overlayID: number
+* index: number
+* opacity: number
+
 ## Documentation
 
 <!--@include: ./parts/setHeadOverlay.md-->

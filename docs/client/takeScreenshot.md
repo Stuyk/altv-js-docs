@@ -8,7 +8,7 @@ order: 0
 ## Function Definition
 
 ```ts
-export function takeScreenshot(): Promise<string>;
+function takeScreenshot(): Promise<string>;
 ```
 
 ## Documentation

@@ -11,6 +11,10 @@ order: 0
 constructor(zoomDataId: number);
 ```
 
+### Arguments
+
+* zoomDataId: number
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

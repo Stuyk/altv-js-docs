@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getVehicleModelInfoByHash(vehicleHash: number): IVehicleModel;
+function getVehicleModelInfoByHash(vehicleHash: number): IVehicleModel;
 ```
+
+### Arguments
+
+* vehicleHash: number
 
 ## Documentation
 

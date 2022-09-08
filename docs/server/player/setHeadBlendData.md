@@ -11,6 +11,18 @@ order: 0
 public setHeadBlendData(shapeFirstID: number, shapeSecondID: number, shapeThirdID: number, skinFirstID: number, skinSecondID: number, skinThirdID: number, shapeMix: number, skinMix: number, thirdMix: number): void;
 ```
 
+### Arguments
+
+* shapeFirstID: number
+* shapeSecondID: number
+* shapeThirdID: number
+* skinFirstID: number
+* skinSecondID: number
+* skinThirdID: number
+* shapeMix: number
+* skinMix: number
+* thirdMix: number
+
 ## Documentation
 
 <!--@include: ./parts/setHeadBlendData.md-->

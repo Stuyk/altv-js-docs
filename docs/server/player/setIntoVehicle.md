@@ -11,6 +11,11 @@ order: 0
 public setIntoVehicle(vehicle: Vehicle, seat: number): void;
 ```
 
+### Arguments
+
+* vehicle: Vehicle
+* seat: number
+
 ## Documentation
 
 <!--@include: ./parts/setIntoVehicle.md-->

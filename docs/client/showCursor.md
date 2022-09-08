@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function showCursor(state: boolean): void;
+function showCursor(state: boolean): void;
 ```
+
+### Arguments
+
+* state: boolean
 
 ## Documentation
 

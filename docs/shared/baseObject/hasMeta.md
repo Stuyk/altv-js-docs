@@ -11,6 +11,10 @@ order: 0
 public hasMeta<K extends ExtractStringKeys<ICustomBaseObjectMeta>>(key: K): boolean;
 ```
 
+### Arguments
+
+* key: K
+
 ## Documentation
 
 <!--@include: ./parts/hasMeta.md-->

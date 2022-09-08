@@ -11,6 +11,10 @@ order: 0
 public getProp(component: number): IProp;
 ```
 
+### Arguments
+
+* component: number
+
 ## Documentation
 
 <!--@include: ./parts/getProp.md-->

@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function loadModelAsync(modelHash: number): void;
+function loadModelAsync(modelHash: number): void;
 ```
+
+### Arguments
+
+* modelHash: number
 
 ## Documentation
 

@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getResourceMain(name: string): string;
+function getResourceMain(name: string): string;
 ```
+
+### Arguments
+
+* name: string
 
 ## Documentation
 

@@ -11,6 +11,10 @@ order: 0
 public static getForHandlingName(handlingHash: number): HandlingData;
 ```
 
+### Arguments
+
+* handlingHash: number
+
 ## Documentation
 
 <!--@include: ./parts/getForHandlingName.md-->

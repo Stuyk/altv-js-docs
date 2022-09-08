@@ -11,6 +11,11 @@ order: 0
 public setWheelHeight(wheelIndex: number, height: number): void;
 ```
 
+### Arguments
+
+* wheelIndex: number
+* height: number
+
 ## Documentation
 
 <!--@include: ./parts/setWheelHeight.md-->

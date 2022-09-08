@@ -11,6 +11,10 @@ order: 0
 public querySelectorAll(selector: string): ReadonlyArray<RmlElement>;
 ```
 
+### Arguments
+
+* selector: string
+
 ## Documentation
 
 <!--@include: ./parts/querySelectorAll.md-->

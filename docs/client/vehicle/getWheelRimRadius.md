@@ -11,6 +11,10 @@ order: 0
 public getWheelRimRadius(wheelIndex: number): number;
 ```
 
+### Arguments
+
+* wheelIndex: number
+
 ## Documentation
 
 <!--@include: ./parts/getWheelRimRadius.md-->

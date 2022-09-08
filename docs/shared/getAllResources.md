@@ -8,7 +8,7 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getAllResources(): ReadonlyArray<IResource>;
+function getAllResources(): ReadonlyArray<IResource>;
 ```
 
 ## Documentation

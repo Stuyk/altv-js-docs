@@ -11,6 +11,11 @@ order: 0
 public spawn(model: string | number, pos: shared.IVector3): void;
 ```
 
+### Arguments
+
+* model: string | number
+* pos: shared.IVector3
+
 ## Documentation
 
 <!--@include: ./parts/spawn.md-->

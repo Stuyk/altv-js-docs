@@ -11,6 +11,10 @@ order: 0
 constructor(entity: Entity);
 ```
 
+### Arguments
+
+* entity: Entity
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

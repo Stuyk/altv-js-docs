@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setWeatherSyncActive(isActive: boolean): void;
+function setWeatherSyncActive(isActive: boolean): void;
 ```
+
+### Arguments
+
+* isActive: boolean
 
 ## Documentation
 

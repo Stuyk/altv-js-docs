@@ -11,6 +11,11 @@ order: 0
 public setMod<T extends number>(modType: T, modId: number): void;
 ```
 
+### Arguments
+
+* modType: T
+* modId: number
+
 ## Documentation
 
 <!--@include: ./parts/setMod.md-->

@@ -11,6 +11,10 @@ order: 0
 public isWindowDamaged(windowId: number): boolean;
 ```
 
+### Arguments
+
+* windowId: number
+
 ## Documentation
 
 <!--@include: ./parts/isWindowDamaged.md-->

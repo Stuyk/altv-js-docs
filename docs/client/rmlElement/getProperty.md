@@ -11,6 +11,10 @@ order: 0
 public getProperty(name: string): string;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/getProperty.md-->

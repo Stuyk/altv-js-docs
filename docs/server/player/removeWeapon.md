@@ -11,6 +11,10 @@ order: 0
 public removeWeapon(weaponHash: number): void;
 ```
 
+### Arguments
+
+* weaponHash: number
+
 ## Documentation
 
 <!--@include: ./parts/removeWeapon.md-->

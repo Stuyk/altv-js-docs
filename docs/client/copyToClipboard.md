@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function copyToClipboard(val: string): void;
+function copyToClipboard(val: string): void;
 ```
+
+### Arguments
+
+* val: string
 
 ## Documentation
 

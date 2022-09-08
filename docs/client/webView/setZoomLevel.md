@@ -11,6 +11,10 @@ order: 0
 public setZoomLevel(value: number): void;
 ```
 
+### Arguments
+
+* value: number
+
 ## Documentation
 
 <!--@include: ./parts/setZoomLevel.md-->

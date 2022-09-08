@@ -11,6 +11,13 @@ order: 0
 public setClothes(component: number, drawable: number, texture: number, palette?: number): void;
 ```
 
+### Arguments
+
+* component: number
+* drawable: number
+* texture: number
+* palette?: number
+
 ## Documentation
 
 <!--@include: ./parts/setClothes.md-->

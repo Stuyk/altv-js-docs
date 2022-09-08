@@ -11,6 +11,10 @@ order: 0
 public getHeadOverlay(overlayID: number): IHeadOverlay;
 ```
 
+### Arguments
+
+* overlayID: number
+
 ## Documentation
 
 <!--@include: ./parts/getHeadOverlay.md-->

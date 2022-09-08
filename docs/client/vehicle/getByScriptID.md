@@ -11,6 +11,10 @@ order: 0
 public static getByScriptID(scriptID: number): Vehicle | null;
 ```
 
+### Arguments
+
+* scriptID: number
+
 ## Documentation
 
 <!--@include: ./parts/getByScriptID.md-->

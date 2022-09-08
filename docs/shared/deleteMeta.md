@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function deleteMeta<K extends ExtractStringKeys<ICustomGlobalMeta>>(key: K): void;
+function deleteMeta<K extends ExtractStringKeys<ICustomGlobalMeta>>(key: K): void;
 ```
+
+### Arguments
+
+* key: K
 
 ## Documentation
 

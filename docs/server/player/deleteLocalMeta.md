@@ -11,6 +11,10 @@ order: 0
 public deleteLocalMeta<K extends shared.ExtractStringKeys<shared.ICustomPlayerLocalMeta>>(key: K): void;
 ```
 
+### Arguments
+
+* key: K
+
 ## Documentation
 
 <!--@include: ./parts/deleteLocalMeta.md-->

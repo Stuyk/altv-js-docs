@@ -11,6 +11,10 @@ order: 0
 public deleteStreamSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomEntityStreamSyncedMeta>>(key: K): void;
 ```
 
+### Arguments
+
+* key: K
+
 ## Documentation
 
 <!--@include: ./parts/deleteStreamSyncedMeta.md-->

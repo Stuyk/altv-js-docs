@@ -11,6 +11,10 @@ order: 0
 public getPartDamageLevel<T extends number, V extends number = VehiclePartDamage>(partId: T): V;
 ```
 
+### Arguments
+
+* partId: T
+
 ## Documentation
 
 <!--@include: ./parts/getPartDamageLevel.md-->

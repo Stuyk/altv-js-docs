@@ -8,7 +8,7 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getLocale(): `${Locale}`;
+function getLocale(): `${Locale}`;
 ```
 
 ## Documentation

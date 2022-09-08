@@ -11,6 +11,11 @@ order: 0
 public setWheelCamber(wheelIndex: number, camber: number): void;
 ```
 
+### Arguments
+
+* wheelIndex: number
+* camber: number
+
 ## Documentation
 
 <!--@include: ./parts/setWheelCamber.md-->

@@ -11,6 +11,11 @@ order: 0
 public static read(filename: string, encoding: FileEncoding.Binary | `${FileEncoding.Binary}`): ArrayBuffer;
 ```
 
+### Arguments
+
+* filename: string
+* encoding: FileEncoding.Binary | `${FileEncoding.Binary}`
+
 ## Documentation
 
 <!--@include: ./parts/read.md-->

@@ -11,6 +11,10 @@ order: 0
 public static getByName(name: string): Resource | null;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/getByName.md-->

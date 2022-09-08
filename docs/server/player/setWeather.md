@@ -11,6 +11,10 @@ order: 0
 public setWeather<T extends number>(weatherType: T): void;
 ```
 
+### Arguments
+
+* weatherType: T
+
 ## Documentation
 
 <!--@include: ./parts/setWeather.md-->

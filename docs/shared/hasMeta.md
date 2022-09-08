@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function hasMeta<K extends ExtractStringKeys<ICustomGlobalMeta>>(key: K): boolean;
+function hasMeta<K extends ExtractStringKeys<ICustomGlobalMeta>>(key: K): boolean;
 ```
+
+### Arguments
+
+* key: K
 
 ## Documentation
 

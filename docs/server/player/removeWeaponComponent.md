@@ -11,6 +11,11 @@ order: 0
 public removeWeaponComponent(weaponHash: number, component: number): void;
 ```
 
+### Arguments
+
+* weaponHash: number
+* component: number
+
 ## Documentation
 
 <!--@include: ./parts/removeWeaponComponent.md-->

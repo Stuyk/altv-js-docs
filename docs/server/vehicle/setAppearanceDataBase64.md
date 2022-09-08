@@ -11,6 +11,10 @@ order: 0
 public setAppearanceDataBase64(data: string): void;
 ```
 
+### Arguments
+
+* data: string
+
 ## Documentation
 
 <!--@include: ./parts/setAppearanceDataBase64.md-->

@@ -11,6 +11,12 @@ order: 0
 public setTimedExplosion(state: boolean, culprit: Player, time: number): void;
 ```
 
+### Arguments
+
+* state: boolean
+* culprit: Player
+* time: number
+
 ## Documentation
 
 <!--@include: ./parts/setTimedExplosion.md-->

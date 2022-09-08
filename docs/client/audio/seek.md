@@ -11,6 +11,10 @@ order: 0
 public seek(time: number): void;
 ```
 
+### Arguments
+
+* time: number
+
 ## Documentation
 
 <!--@include: ./parts/seek.md-->

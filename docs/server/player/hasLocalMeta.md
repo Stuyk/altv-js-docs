@@ -11,6 +11,10 @@ order: 0
 public hasLocalMeta<K extends shared.ExtractStringKeys<shared.ICustomPlayerLocalMeta>>(key: K): boolean;
 ```
 
+### Arguments
+
+* key: K
+
 ## Documentation
 
 <!--@include: ./parts/hasLocalMeta.md-->

@@ -11,6 +11,11 @@ order: 0
 public setWheelTyreRadius(wheelIndex: number, radius: number): void;
 ```
 
+### Arguments
+
+* wheelIndex: number
+* radius: number
+
 ## Documentation
 
 <!--@include: ./parts/setWheelTyreRadius.md-->

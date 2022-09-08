@@ -11,6 +11,10 @@ order: 0
 public createElement(tag: string): RmlElement;
 ```
 
+### Arguments
+
+* tag: string
+
 ## Documentation
 
 <!--@include: ./parts/createElement.md-->

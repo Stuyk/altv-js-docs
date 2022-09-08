@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setSyncedMeta<V extends any, K extends string = string>(key: K, value: shared.InterfaceValueByKey<shared.ICustomGlobalSyncedMeta, K, V>): void;
+function setSyncedMeta<V extends any, K extends string = string>(key: K, value: shared.InterfaceValueByKey<shared.ICustomGlobalSyncedMeta, K, V>): void;
 ```
+
+### Arguments
+
+* key: K
+* value: shared.InterfaceValueByKey<shared.ICustomGlobalSyncedMeta, K, V>
 
 ## Documentation
 

@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getEventListeners(eventName: string | null): ((...args: any[]) => void)[];
+function getEventListeners(eventName: string | null): ((...args: any[]) => void)[];
 ```
+
+### Arguments
+
+* eventName: string | null): ((...args: any[]) => void
 
 ## Documentation
 

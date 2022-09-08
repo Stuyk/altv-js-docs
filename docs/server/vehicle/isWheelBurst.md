@@ -11,6 +11,10 @@ order: 0
 public isWheelBurst(wheelId: number): boolean;
 ```
 
+### Arguments
+
+* wheelId: number
+
 ## Documentation
 
 <!--@include: ./parts/isWheelBurst.md-->

@@ -11,6 +11,11 @@ order: 0
 public setExtraHeader(header: string, value: string): void;
 ```
 
+### Arguments
+
+* header: string
+* value: string
+
 ## Documentation
 
 <!--@include: ./parts/setExtraHeader.md-->

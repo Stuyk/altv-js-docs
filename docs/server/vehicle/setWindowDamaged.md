@@ -11,6 +11,11 @@ order: 0
 public setWindowDamaged(windowId: number, isDamaged: boolean): void;
 ```
 
+### Arguments
+
+* windowId: number
+* isDamaged: boolean
+
 ## Documentation
 
 <!--@include: ./parts/setWindowDamaged.md-->

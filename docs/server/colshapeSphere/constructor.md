@@ -11,6 +11,13 @@ order: 0
 constructor(x: number, y: number, z: number, radius: number);
 ```
 
+### Arguments
+
+* x: number
+* y: number
+* z: number
+* radius: number
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

@@ -11,6 +11,10 @@ order: 0
 public setDamageStatusBase64(data: string): void;
 ```
 
+### Arguments
+
+* data: string
+
 ## Documentation
 
 <!--@include: ./parts/setDamageStatusBase64.md-->

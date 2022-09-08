@@ -11,6 +11,10 @@ order: 0
 public ushort(offset: number): number;
 ```
 
+### Arguments
+
+* offset: number
+
 ## Documentation
 
 <!--@include: ./parts/ushort.md-->

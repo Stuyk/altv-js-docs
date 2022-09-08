@@ -11,6 +11,10 @@ order: 0
 public addOutput(entity: Entity | number): void;
 ```
 
+### Arguments
+
+* entity: Entity | number
+
 ## Documentation
 
 <!--@include: ./parts/addOutput.md-->

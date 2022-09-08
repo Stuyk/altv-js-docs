@@ -11,6 +11,10 @@ order: 0
 public doesWheelHasTire(wheelId: number): boolean;
 ```
 
+### Arguments
+
+* wheelId: number
+
 ## Documentation
 
 <!--@include: ./parts/doesWheelHasTire.md-->

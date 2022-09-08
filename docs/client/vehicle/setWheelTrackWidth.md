@@ -11,6 +11,11 @@ order: 0
 public setWheelTrackWidth(wheelIndex: number, width: number): void;
 ```
 
+### Arguments
+
+* wheelIndex: number
+* width: number
+
 ## Documentation
 
 <!--@include: ./parts/setWheelTrackWidth.md-->

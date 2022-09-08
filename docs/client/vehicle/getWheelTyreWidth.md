@@ -11,6 +11,10 @@ order: 0
 public getWheelTyreWidth(wheelIndex: number): number;
 ```
 
+### Arguments
+
+* wheelIndex: number
+
 ## Documentation
 
 <!--@include: ./parts/getWheelTyreWidth.md-->

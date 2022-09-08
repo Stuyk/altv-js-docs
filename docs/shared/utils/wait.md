@@ -11,6 +11,10 @@ order: 0
 public static wait(timeout: number): Promise<void>;
 ```
 
+### Arguments
+
+* timeout: number
+
 ## Documentation
 
 <!--@include: ./parts/wait.md-->

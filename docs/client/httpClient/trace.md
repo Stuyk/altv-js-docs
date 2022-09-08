@@ -11,6 +11,11 @@ order: 0
 public trace(url: string, body: string): Promise<IHttpResponse>;
 ```
 
+### Arguments
+
+* url: string
+* body: string
+
 ## Documentation
 
 <!--@include: ./parts/trace.md-->

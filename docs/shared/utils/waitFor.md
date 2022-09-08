@@ -11,6 +11,11 @@ order: 0
 public static waitFor(callback: () => boolean, timeout?: number): Promise<void>;
 ```
 
+### Arguments
+
+* callback: () => boolean
+* timeout?: number
+
 ## Documentation
 
 <!--@include: ./parts/waitFor.md-->

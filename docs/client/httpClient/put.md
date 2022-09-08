@@ -11,6 +11,11 @@ order: 0
 public put(url: string, body: string): Promise<IHttpResponse>;
 ```
 
+### Arguments
+
+* url: string
+* body: string
+
 ## Documentation
 
 <!--@include: ./parts/put.md-->

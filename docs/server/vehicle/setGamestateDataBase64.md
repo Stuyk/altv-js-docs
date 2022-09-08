@@ -11,6 +11,10 @@ order: 0
 public setGamestateDataBase64(data: string): void;
 ```
 
+### Arguments
+
+* data: string
+
 ## Documentation
 
 <!--@include: ./parts/setGamestateDataBase64.md-->

@@ -11,6 +11,10 @@ order: 0
 public isEntityInStreamRange(entityID: number): boolean;
 ```
 
+### Arguments
+
+* entityID: number
+
 ## Documentation
 
 <!--@include: ./parts/isEntityInStreamRange.md-->

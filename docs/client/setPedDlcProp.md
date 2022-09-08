@@ -8,8 +8,16 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setPedDlcProp(scriptID: number, dlc: number, component: number, drawable: number, texture: number): void;
+function setPedDlcProp(scriptID: number, dlc: number, component: number, drawable: number, texture: number): void;
 ```
+
+### Arguments
+
+* scriptID: number
+* dlc: number
+* component: number
+* drawable: number
+* texture: number
 
 ## Documentation
 

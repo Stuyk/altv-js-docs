@@ -11,6 +11,10 @@ order: 0
 public addPseudoClass(name: string): boolean;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/addPseudoClass.md-->

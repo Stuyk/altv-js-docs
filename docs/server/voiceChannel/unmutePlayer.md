@@ -11,6 +11,10 @@ order: 0
 public unmutePlayer(player: Player): void;
 ```
 
+### Arguments
+
+* player: Player
+
 ## Documentation
 
 <!--@include: ./parts/unmutePlayer.md-->

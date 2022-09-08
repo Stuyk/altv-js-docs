@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function requestIpl(iplName: string): void;
+function requestIpl(iplName: string): void;
 ```
+
+### Arguments
+
+* iplName: string
 
 ## Documentation
 

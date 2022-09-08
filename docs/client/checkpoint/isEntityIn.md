@@ -11,6 +11,10 @@ order: 0
 public isEntityIn(entity: Entity): boolean;
 ```
 
+### Arguments
+
+* entity: Entity
+
 ## Documentation
 
 <!--@include: ./parts/isEntityIn.md-->

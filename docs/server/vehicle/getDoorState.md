@@ -11,6 +11,10 @@ order: 0
 public getDoorState<T extends number, V extends number = VehicleDoorState>(doorId: T): V;
 ```
 
+### Arguments
+
+* doorId: T
+
 ## Documentation
 
 <!--@include: ./parts/getDoorState.md-->

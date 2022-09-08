@@ -11,6 +11,10 @@ order: 0
 public removeHeadOverlay(overlayID: number): boolean;
 ```
 
+### Arguments
+
+* overlayID: number
+
 ## Documentation
 
 <!--@include: ./parts/removeHeadOverlay.md-->

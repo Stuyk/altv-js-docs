@@ -11,6 +11,10 @@ order: 0
 public clearProp(component: number): void;
 ```
 
+### Arguments
+
+* component: number
+
 ## Documentation
 
 <!--@include: ./parts/clearProp.md-->

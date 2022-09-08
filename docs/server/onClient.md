@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function onClient(listener: (eventName: string, player: Player, ...args: any[]) => void): void;
+function onClient(listener: (eventName: string, player: Player, ...args: any[]) => void): void;
 ```
+
+### Arguments
+
+* listener: (eventName: string, player: Player, ...args: any[]) => void
 
 ## Documentation
 

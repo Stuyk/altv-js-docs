@@ -11,6 +11,10 @@ order: 0
 public send(message: string | ArrayBuffer | ArrayBufferView): boolean;
 ```
 
+### Arguments
+
+* message: string | ArrayBuffer | ArrayBufferView
+
 ## Documentation
 
 <!--@include: ./parts/send.md-->

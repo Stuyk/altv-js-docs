@@ -11,6 +11,11 @@ order: 0
 public static requestModel(model: string | number, timeout?: number): Promise<void>;
 ```
 
+### Arguments
+
+* model: string | number
+* timeout?: number
+
 ## Documentation
 
 <!--@include: ./parts/requestModel.md-->

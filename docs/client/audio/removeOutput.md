@@ -11,6 +11,10 @@ order: 0
 public removeOutput(entity: Entity | number): void;
 ```
 
+### Arguments
+
+* entity: Entity | number
+
 ## Documentation
 
 <!--@include: ./parts/removeOutput.md-->

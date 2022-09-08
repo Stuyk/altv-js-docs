@@ -11,6 +11,11 @@ order: 0
 public isInRange(vector: IVector2, range: number): boolean;
 ```
 
+### Arguments
+
+* vector: IVector2
+* range: number
+
 ## Documentation
 
 <!--@include: ./parts/isInRange.md-->

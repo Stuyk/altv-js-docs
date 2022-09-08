@@ -11,6 +11,12 @@ order: 0
 public setProp(component: number, drawable: number, texture: number): void;
 ```
 
+### Arguments
+
+* component: number
+* drawable: number
+* texture: number
+
 ## Documentation
 
 <!--@include: ./parts/setProp.md-->

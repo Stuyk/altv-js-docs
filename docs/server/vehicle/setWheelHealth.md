@@ -11,6 +11,11 @@ order: 0
 public setWheelHealth(wheelId: number, health: number): void;
 ```
 
+### Arguments
+
+* wheelId: number
+* health: number
+
 ## Documentation
 
 <!--@include: ./parts/setWheelHealth.md-->

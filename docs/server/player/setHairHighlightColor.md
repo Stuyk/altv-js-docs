@@ -11,6 +11,10 @@ order: 0
 public setHairHighlightColor(hairHighlightColor: number): void;
 ```
 
+### Arguments
+
+* hairHighlightColor: number
+
 ## Documentation
 
 <!--@include: ./parts/setHairHighlightColor.md-->

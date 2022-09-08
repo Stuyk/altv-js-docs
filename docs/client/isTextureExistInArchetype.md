@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function isTextureExistInArchetype(modelHash: number, targetTextureName: string): boolean;
+function isTextureExistInArchetype(modelHash: number, targetTextureName: string): boolean;
 ```
+
+### Arguments
+
+* modelHash: number
+* targetTextureName: string
 
 ## Documentation
 

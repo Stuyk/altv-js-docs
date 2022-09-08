@@ -11,6 +11,11 @@ order: 0
 public setWheelTyreWidth(wheelIndex: number, width: number): void;
 ```
 
+### Arguments
+
+* wheelIndex: number
+* width: number
+
 ## Documentation
 
 <!--@include: ./parts/setWheelTyreWidth.md-->

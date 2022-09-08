@@ -11,6 +11,13 @@ order: 0
 public setDlcProp(dlc: number, component: number, drawable: number, texture: number): void;
 ```
 
+### Arguments
+
+* dlc: number
+* component: number
+* drawable: number
+* texture: number
+
 ## Documentation
 
 <!--@include: ./parts/setDlcProp.md-->

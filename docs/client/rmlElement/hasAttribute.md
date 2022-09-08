@@ -11,6 +11,10 @@ order: 0
 public hasAttribute(name: string): boolean;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/hasAttribute.md-->

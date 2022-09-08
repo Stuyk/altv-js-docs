@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getStat(statName: `${StatName}`): number;
+function getStat(statName: `${StatName}`): number;
 ```
+
+### Arguments
+
+* statName: `${StatName}`
 
 ## Documentation
 

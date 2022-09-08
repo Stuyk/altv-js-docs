@@ -11,6 +11,10 @@ order: 0
 public addClass(name: string): boolean;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/addClass.md-->

@@ -11,6 +11,10 @@ order: 0
 public isLightDamaged(lightId: number): boolean;
 ```
 
+### Arguments
+
+* lightId: number
+
 ## Documentation
 
 <!--@include: ./parts/isLightDamaged.md-->

@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setPassword(password: string): void;
+function setPassword(password: string): void;
 ```
+
+### Arguments
+
+* password: string
 
 ## Documentation
 

@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function offClient(eventName: string, listener: (...args: any[]) => void): void;
+function offClient(eventName: string, listener: (...args: any[]) => void): void;
 ```
+
+### Arguments
+
+* eventName: string
+* listener: (...args: any[]) => void
 
 ## Documentation
 

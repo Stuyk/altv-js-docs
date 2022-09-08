@@ -11,6 +11,11 @@ order: 0
 public on(eventName: string, callback: (...args: any[]) => void): void;
 ```
 
+### Arguments
+
+* eventName: string
+* callback: (...args: any[]) => void
+
 ## Documentation
 
 <!--@include: ./parts/on.md-->

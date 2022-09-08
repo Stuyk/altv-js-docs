@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function clearEveryTick(id: number): void;
+function clearEveryTick(id: number): void;
 ```
+
+### Arguments
+
+* id: number
 
 ## Documentation
 

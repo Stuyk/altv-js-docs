@@ -11,6 +11,10 @@ order: 0
 public scrollIntoView(alignToTop?: boolean): void;
 ```
 
+### Arguments
+
+* alignToTop?: boolean
+
 ## Documentation
 
 <!--@include: ./parts/scrollIntoView.md-->

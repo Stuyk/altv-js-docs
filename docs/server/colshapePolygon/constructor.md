@@ -11,6 +11,12 @@ order: 0
 constructor(minZ: number, maxZ: number, points: Array<shared.IVector2>);
 ```
 
+### Arguments
+
+* minZ: number
+* maxZ: number
+* points: Array<shared.IVector2>
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setMsPerGameMinute(milliseconds: number): void;
+function setMsPerGameMinute(milliseconds: number): void;
 ```
+
+### Arguments
+
+* milliseconds: number
 
 ## Documentation
 

@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function removeGxtText(key: string): void;
+function removeGxtText(key: string): void;
 ```
+
+### Arguments
+
+* key: string
 
 ## Documentation
 

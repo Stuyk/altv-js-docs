@@ -8,8 +8,14 @@ order: 0
 ## Function Definition
 
 ```ts
-export function emitClientRaw(player: null, eventName: string, ...args: any[]): void;
+function emitClientRaw(player: null, eventName: string, ...args: any[]): void;
 ```
+
+### Arguments
+
+* player: null
+* eventName: string
+* ...args: any[]
 
 ## Documentation
 

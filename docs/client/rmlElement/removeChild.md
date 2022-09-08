@@ -11,6 +11,10 @@ order: 0
 public removeChild(child: RmlElement): void;
 ```
 
+### Arguments
+
+* child: RmlElement
+
 ## Documentation
 
 <!--@include: ./parts/removeChild.md-->

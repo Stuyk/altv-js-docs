@@ -11,6 +11,10 @@ order: 0
 public ubyte(offset: number): number;
 ```
 
+### Arguments
+
+* offset: number
+
 ## Documentation
 
 <!--@include: ./parts/ubyte.md-->

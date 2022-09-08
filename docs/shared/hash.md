@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function hash(str: string): number;
+function hash(str: string): number;
 ```
+
+### Arguments
+
+* str: string
 
 ## Documentation
 

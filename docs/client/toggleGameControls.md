@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function toggleGameControls(state: boolean): void;
+function toggleGameControls(state: boolean): void;
 ```
+
+### Arguments
+
+* state: boolean
 
 ## Documentation
 

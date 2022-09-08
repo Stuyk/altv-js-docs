@@ -11,6 +11,10 @@ order: 0
 public int(offset: number): number;
 ```
 
+### Arguments
+
+* offset: number
+
 ## Documentation
 
 <!--@include: ./parts/int.md-->

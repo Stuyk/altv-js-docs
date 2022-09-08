@@ -11,6 +11,11 @@ order: 0
 public setLightDamaged(lightId: number, isDamaged: boolean): void;
 ```
 
+### Arguments
+
+* lightId: number
+* isDamaged: boolean
+
 ## Documentation
 
 <!--@include: ./parts/setLightDamaged.md-->

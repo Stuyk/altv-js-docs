@@ -11,6 +11,10 @@ order: 0
 public static get(zoomData: string): MapZoomData;
 ```
 
+### Arguments
+
+* zoomData: string
+
 ## Documentation
 
 <!--@include: ./parts/get.md-->

@@ -8,8 +8,15 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setRotationVelocity(scriptID: number, x: number, y: number, z: number): void;
+function setRotationVelocity(scriptID: number, x: number, y: number, z: number): void;
 ```
+
+### Arguments
+
+* scriptID: number
+* x: number
+* y: number
+* z: number
 
 ## Documentation
 

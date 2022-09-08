@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function logWarning(...args: any[]): void;
+function logWarning(...args: any[]): void;
 ```
+
+### Arguments
+
+* ...args: any[]
 
 ## Documentation
 

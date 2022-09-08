@@ -11,6 +11,10 @@ order: 0
 public uint(offset: number): number;
 ```
 
+### Arguments
+
+* offset: number
+
 ## Documentation
 
 <!--@include: ./parts/uint.md-->

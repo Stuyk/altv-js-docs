@@ -11,6 +11,11 @@ order: 0
 public static requestAnimSet(animSet: string, timeout?: number): Promise<void>;
 ```
 
+### Arguments
+
+* animSet: string
+* timeout?: number
+
 ## Documentation
 
 <!--@include: ./parts/requestAnimSet.md-->

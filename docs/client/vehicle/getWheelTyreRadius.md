@@ -11,6 +11,10 @@ order: 0
 public getWheelTyreRadius(wheelIndex: number): number;
 ```
 
+### Arguments
+
+* wheelIndex: number
+
 ## Documentation
 
 <!--@include: ./parts/getWheelTyreRadius.md-->

@@ -11,6 +11,10 @@ order: 0
 public getElementsByTagName(tag: string): ReadonlyArray<RmlElement>;
 ```
 
+### Arguments
+
+* tag: string
+
 ## Documentation
 
 <!--@include: ./parts/getElementsByTagName.md-->

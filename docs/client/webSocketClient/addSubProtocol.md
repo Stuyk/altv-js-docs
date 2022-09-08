@@ -11,6 +11,10 @@ order: 0
 public addSubProtocol(protocol: string): void;
 ```
 
+### Arguments
+
+* protocol: string
+
 ## Documentation
 
 <!--@include: ./parts/addSubProtocol.md-->

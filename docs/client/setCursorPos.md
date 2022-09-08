@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setCursorPos(pos: shared.IVector2, normalized?: boolean): void;
+function setCursorPos(pos: shared.IVector2, normalized?: boolean): void;
 ```
+
+### Arguments
+
+* pos: shared.IVector2
+* normalized?: boolean
 
 ## Documentation
 

@@ -11,6 +11,10 @@ order: 0
 public static removeSharedArrayBuffer(id: number): void;
 ```
 
+### Arguments
+
+* id: number
+
 ## Documentation
 
 <!--@include: ./parts/removeSharedArrayBuffer.md-->

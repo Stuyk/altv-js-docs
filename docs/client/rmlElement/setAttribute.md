@@ -11,6 +11,11 @@ order: 0
 public setAttribute(name: string, value: string): void;
 ```
 
+### Arguments
+
+* name: string
+* value: string
+
 ## Documentation
 
 <!--@include: ./parts/setAttribute.md-->

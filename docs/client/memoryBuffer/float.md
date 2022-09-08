@@ -11,6 +11,10 @@ order: 0
 public float(offset: number): number;
 ```
 
+### Arguments
+
+* offset: number
+
 ## Documentation
 
 <!--@include: ./parts/float.md-->

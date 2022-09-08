@@ -11,6 +11,10 @@ order: 0
 public long(offset: number): bigint;
 ```
 
+### Arguments
+
+* offset: number
+
 ## Documentation
 
 <!--@include: ./parts/long.md-->

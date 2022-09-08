@@ -11,6 +11,11 @@ order: 0
 public replaceChild(newElem: RmlElement, oldElem: RmlElement): void;
 ```
 
+### Arguments
+
+* newElem: RmlElement
+* oldElem: RmlElement
+
 ## Documentation
 
 <!--@include: ./parts/replaceChild.md-->

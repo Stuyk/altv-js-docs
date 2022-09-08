@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function hasSyncedMeta<K extends ExtractStringKeys<ICustomGlobalSyncedMeta>>(key: K): boolean;
+function hasSyncedMeta<K extends ExtractStringKeys<ICustomGlobalSyncedMeta>>(key: K): boolean;
 ```
+
+### Arguments
+
+* key: K
 
 ## Documentation
 

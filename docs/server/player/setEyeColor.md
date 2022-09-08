@@ -11,6 +11,10 @@ order: 0
 public setEyeColor(eyeColor: number): boolean;
 ```
 
+### Arguments
+
+* eyeColor: number
+
 ## Documentation
 
 <!--@include: ./parts/setEyeColor.md-->

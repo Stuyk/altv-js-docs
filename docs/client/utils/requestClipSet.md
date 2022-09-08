@@ -11,6 +11,11 @@ order: 0
 public static requestClipSet(clipSet: string, timeout?: number): Promise<void>;
 ```
 
+### Arguments
+
+* clipSet: string
+* timeout?: number
+
 ## Documentation
 
 <!--@include: ./parts/requestClipSet.md-->

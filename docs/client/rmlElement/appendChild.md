@@ -11,6 +11,10 @@ order: 0
 public appendChild(child: RmlElement): void;
 ```
 
+### Arguments
+
+* child: RmlElement
+
 ## Documentation
 
 <!--@include: ./parts/appendChild.md-->

@@ -11,6 +11,10 @@ order: 0
 public isPlayerInChannel(player: Player): boolean;
 ```
 
+### Arguments
+
+* player: Player
+
 ## Documentation
 
 <!--@include: ./parts/isPlayerInChannel.md-->

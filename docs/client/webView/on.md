@@ -11,6 +11,11 @@ order: 0
 public on(eventName: "load", listener: () => void): void;
 ```
 
+### Arguments
+
+* eventName: "load"
+* listener: () => void
+
 ## Documentation
 
 <!--@include: ./parts/on.md-->

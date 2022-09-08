@@ -11,6 +11,12 @@ order: 0
 constructor(callback: () => void, ms: number, once: boolean);
 ```
 
+### Arguments
+
+* callback: () => void
+* ms: number
+* once: boolean
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

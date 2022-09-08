@@ -11,6 +11,11 @@ order: 0
 public setNetOwner(player: Player, disableMigration?: boolean): void;
 ```
 
+### Arguments
+
+* player: Player
+* disableMigration?: boolean
+
 ## Documentation
 
 <!--@include: ./parts/setNetOwner.md-->

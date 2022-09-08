@@ -11,6 +11,12 @@ order: 0
 public setOffset(element: RmlElement, offset: shared.IVector2, fixed?: boolean): void;
 ```
 
+### Arguments
+
+* element: RmlElement
+* offset: shared.IVector2
+* fixed?: boolean
+
 ## Documentation
 
 <!--@include: ./parts/setOffset.md-->

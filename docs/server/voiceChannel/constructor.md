@@ -11,6 +11,11 @@ order: 0
 constructor(isSpatial: boolean, maxDistance: number);
 ```
 
+### Arguments
+
+* isSpatial: boolean
+* maxDistance: number
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

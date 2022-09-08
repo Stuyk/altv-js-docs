@@ -11,6 +11,13 @@ order: 0
 public setHeadOverlayColor(overlayID: number, colorType: number, colorIndex: number, secondColorIndex: number): boolean;
 ```
 
+### Arguments
+
+* overlayID: number
+* colorType: number
+* colorIndex: number
+* secondColorIndex: number
+
 ## Documentation
 
 <!--@include: ./parts/setHeadOverlayColor.md-->

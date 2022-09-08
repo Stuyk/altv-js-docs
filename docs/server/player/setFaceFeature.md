@@ -11,6 +11,11 @@ order: 0
 public setFaceFeature(index: number, scale: number): boolean;
 ```
 
+### Arguments
+
+* index: number
+* scale: number
+
 ## Documentation
 
 <!--@include: ./parts/setFaceFeature.md-->

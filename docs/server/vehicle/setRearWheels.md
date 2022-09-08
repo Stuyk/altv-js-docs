@@ -11,6 +11,10 @@ order: 0
 public setRearWheels(wheelId: number): void;
 ```
 
+### Arguments
+
+* wheelId: number
+
 ## Documentation
 
 <!--@include: ./parts/setRearWheels.md-->

@@ -11,6 +11,10 @@ order: 0
 public setHairColor(hairColor: number): void;
 ```
 
+### Arguments
+
+* hairColor: number
+
 ## Documentation
 
 <!--@include: ./parts/setHairColor.md-->

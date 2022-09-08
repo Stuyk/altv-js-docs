@@ -11,6 +11,10 @@ order: 0
 public static startProfiling(profileName?: string): void;
 ```
 
+### Arguments
+
+* profileName?: string
+
 ## Documentation
 
 <!--@include: ./parts/startProfiling.md-->

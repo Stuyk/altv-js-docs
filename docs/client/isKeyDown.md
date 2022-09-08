@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function isKeyDown(key: number): boolean;
+function isKeyDown(key: number): boolean;
 ```
+
+### Arguments
+
+* key: number
 
 ## Documentation
 

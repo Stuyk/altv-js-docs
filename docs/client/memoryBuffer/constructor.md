@@ -11,6 +11,10 @@ order: 0
 constructor(size: number);
 ```
 
+### Arguments
+
+* size: number
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

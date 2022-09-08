@@ -11,6 +11,10 @@ order: 0
 constructor(callback: () => void);
 ```
 
+### Arguments
+
+* callback: () => void
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

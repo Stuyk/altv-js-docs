@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function beginScaleformMovieMethodMinimap(methodName: string): boolean;
+function beginScaleformMovieMethodMinimap(methodName: string): boolean;
 ```
+
+### Arguments
+
+* methodName: string
 
 ## Documentation
 

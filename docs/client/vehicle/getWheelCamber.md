@@ -11,6 +11,10 @@ order: 0
 public getWheelCamber(wheelIndex: number): number;
 ```
 
+### Arguments
+
+* wheelIndex: number
+
 ## Documentation
 
 <!--@include: ./parts/getWheelCamber.md-->

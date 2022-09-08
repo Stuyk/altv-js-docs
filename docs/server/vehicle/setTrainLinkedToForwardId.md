@@ -11,6 +11,10 @@ order: 0
 public setTrainLinkedToForwardId(vehicle: Vehicle | null): void;
 ```
 
+### Arguments
+
+* vehicle: Vehicle | null
+
 ## Documentation
 
 <!--@include: ./parts/setTrainLinkedToForwardId.md-->

@@ -11,6 +11,11 @@ order: 0
 public toggleCollision(toggle: boolean, keepPhysics: boolean): void;
 ```
 
+### Arguments
+
+* toggle: boolean
+* keepPhysics: boolean
+
 ## Documentation
 
 <!--@include: ./parts/toggleCollision.md-->

@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function isPointOnScreen(value: shared.IVector3): boolean;
+function isPointOnScreen(value: shared.IVector3): boolean;
 ```
+
+### Arguments
+
+* value: shared.IVector3
 
 ## Documentation
 

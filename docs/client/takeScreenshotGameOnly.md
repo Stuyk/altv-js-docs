@@ -8,7 +8,7 @@ order: 0
 ## Function Definition
 
 ```ts
-export function takeScreenshotGameOnly(): Promise<string>;
+function takeScreenshotGameOnly(): Promise<string>;
 ```
 
 ## Documentation

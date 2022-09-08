@@ -11,6 +11,10 @@ order: 0
 public getElementByID(id: string): RmlElement | null;
 ```
 
+### Arguments
+
+* id: string
+
 ## Documentation
 
 <!--@include: ./parts/getElementByID.md-->

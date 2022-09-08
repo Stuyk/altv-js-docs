@@ -11,6 +11,10 @@ order: 0
 public detach(dynamic?: boolean): void;
 ```
 
+### Arguments
+
+* dynamic?: boolean
+
 ## Documentation
 
 <!--@include: ./parts/detach.md-->

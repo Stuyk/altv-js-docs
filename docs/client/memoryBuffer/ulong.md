@@ -11,6 +11,10 @@ order: 0
 public ulong(offset: number): bigint;
 ```
 
+### Arguments
+
+* offset: number
+
 ## Documentation
 
 <!--@include: ./parts/ulong.md-->

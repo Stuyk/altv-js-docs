@@ -11,6 +11,10 @@ order: 0
 public addPlayer(player: Player): void;
 ```
 
+### Arguments
+
+* player: Player
+
 ## Documentation
 
 <!--@include: ./parts/addPlayer.md-->

@@ -11,6 +11,10 @@ order: 0
 public setTrainEngineId(vehicle: Vehicle | null): void;
 ```
 
+### Arguments
+
+* vehicle: Vehicle | null
+
 ## Documentation
 
 <!--@include: ./parts/setTrainEngineId.md-->

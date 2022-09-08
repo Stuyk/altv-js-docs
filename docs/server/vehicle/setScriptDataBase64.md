@@ -11,6 +11,10 @@ order: 0
 public setScriptDataBase64(data: string): void;
 ```
 
+### Arguments
+
+* data: string
+
 ## Documentation
 
 <!--@include: ./parts/setScriptDataBase64.md-->

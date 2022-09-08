@@ -11,6 +11,12 @@ order: 0
 constructor(url: string, propHash: number, targetTexture: string);
 ```
 
+### Arguments
+
+* url: string
+* propHash: number
+* targetTexture: string
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

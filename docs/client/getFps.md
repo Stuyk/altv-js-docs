@@ -8,7 +8,7 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getFps(): number;
+function getFps(): number;
 ```
 
 ## Documentation

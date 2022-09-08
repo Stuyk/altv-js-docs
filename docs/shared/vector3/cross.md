@@ -11,6 +11,10 @@ order: 0
 public cross(vector: IVector3): Vector3;
 ```
 
+### Arguments
+
+* vector: IVector3
+
 ## Documentation
 
 <!--@include: ./parts/cross.md-->

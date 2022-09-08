@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function toggleRmlControls(state: boolean): void;
+function toggleRmlControls(state: boolean): void;
 ```
+
+### Arguments
+
+* state: boolean
 
 ## Documentation
 

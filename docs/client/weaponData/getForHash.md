@@ -11,6 +11,10 @@ order: 0
 public static getForHash(weaponHash: number): WeaponData;
 ```
 
+### Arguments
+
+* weaponHash: number
+
 ## Documentation
 
 <!--@include: ./parts/getForHash.md-->

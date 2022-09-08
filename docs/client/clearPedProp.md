@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function clearPedProp(scriptID: number, component: number): void;
+function clearPedProp(scriptID: number, component: number): void;
 ```
+
+### Arguments
+
+* scriptID: number
+* component: number
 
 ## Documentation
 

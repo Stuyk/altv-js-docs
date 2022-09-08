@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function emitRaw<K extends string>(eventName: Exclude<K, keyof IClientEvent>, ...args: any[]): void;
+function emitRaw<K extends string>(eventName: Exclude<K, keyof IClientEvent>, ...args: any[]): void;
 ```
+
+### Arguments
+
+* eventName: Exclude<K, keyof IClientEvent>
+* ...args: any[]
 
 ## Documentation
 

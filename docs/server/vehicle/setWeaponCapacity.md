@@ -11,6 +11,11 @@ order: 0
 public setWeaponCapacity(weaponIndex: number, capacity: number): void;
 ```
 
+### Arguments
+
+* weaponIndex: number
+* capacity: number
+
 ## Documentation
 
 <!--@include: ./parts/setWeaponCapacity.md-->

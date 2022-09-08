@@ -8,8 +8,14 @@ order: 0
 ## Function Definition
 
 ```ts
-export function emitClient(player: Player[], eventName: string, ...args: any[]): void;
+function emitClient(player: Player[], eventName: string, ...args: any[]): void;
 ```
+
+### Arguments
+
+* player: Player[]
+* eventName: string
+* ...args: any[]
 
 ## Documentation
 

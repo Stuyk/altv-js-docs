@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function toggleVoiceControls(state: boolean): void;
+function toggleVoiceControls(state: boolean): void;
 ```
+
+### Arguments
+
+* state: boolean
 
 ## Documentation
 

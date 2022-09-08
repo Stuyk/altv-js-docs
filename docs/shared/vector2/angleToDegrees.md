@@ -11,6 +11,10 @@ order: 0
 public angleToDegrees(vector: IVector2): Vector2;
 ```
 
+### Arguments
+
+* vector: IVector2
+
 ## Documentation
 
 <!--@include: ./parts/angleToDegrees.md-->

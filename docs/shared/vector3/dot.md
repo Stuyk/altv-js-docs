@@ -11,6 +11,10 @@ order: 0
 public dot(vector: IVector3): number;
 ```
 
+### Arguments
+
+* vector: IVector3
+
 ## Documentation
 
 <!--@include: ./parts/dot.md-->

@@ -8,7 +8,7 @@ order: 0
 ## Function Definition
 
 ```ts
-export function gameControlsEnabled(): boolean;
+function gameControlsEnabled(): boolean;
 ```
 
 ## Documentation

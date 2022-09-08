@@ -11,6 +11,12 @@ order: 0
 public giveWeapon(weaponHash: number, ammo: number, equipNow: boolean): void;
 ```
 
+### Arguments
+
+* weaponHash: number
+* ammo: number
+* equipNow: boolean
+
 ## Documentation
 
 <!--@include: ./parts/giveWeapon.md-->

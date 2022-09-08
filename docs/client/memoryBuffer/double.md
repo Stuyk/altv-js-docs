@@ -11,6 +11,10 @@ order: 0
 public double(offset: number): number;
 ```
 
+### Arguments
+
+* offset: number
+
 ## Documentation
 
 <!--@include: ./parts/double.md-->

@@ -11,6 +11,10 @@ order: 0
 public setPositionFrozen(toggle: boolean): void;
 ```
 
+### Arguments
+
+* toggle: boolean
+
 ## Documentation
 
 <!--@include: ./parts/setPositionFrozen.md-->

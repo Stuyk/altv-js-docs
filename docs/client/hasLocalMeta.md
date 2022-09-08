@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function hasLocalMeta<K extends shared.ExtractStringKeys<shared.ICustomPlayerLocalMeta>>(key: K): boolean;
+function hasLocalMeta<K extends shared.ExtractStringKeys<shared.ICustomPlayerLocalMeta>>(key: K): boolean;
 ```
+
+### Arguments
+
+* key: K
 
 ## Documentation
 

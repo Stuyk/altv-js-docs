@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setCamFrozen(state: boolean): void;
+function setCamFrozen(state: boolean): void;
 ```
+
+### Arguments
+
+* state: boolean
 
 ## Documentation
 

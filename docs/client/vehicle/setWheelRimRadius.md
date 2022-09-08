@@ -11,6 +11,11 @@ order: 0
 public setWheelRimRadius(wheelIndex: number, radius: number): void;
 ```
 
+### Arguments
+
+* wheelIndex: number
+* radius: number
+
 ## Documentation
 
 <!--@include: ./parts/setWheelRimRadius.md-->

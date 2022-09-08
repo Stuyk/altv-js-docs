@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getHeadshotBase64(id: number): string;
+function getHeadshotBase64(id: number): string;
 ```
+
+### Arguments
+
+* id: number
 
 ## Documentation
 

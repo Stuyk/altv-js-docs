@@ -11,6 +11,11 @@ order: 0
 public setWheelHasTire(wheelId: number, state: boolean): void;
 ```
 
+### Arguments
+
+* wheelId: number
+* state: boolean
+
 ## Documentation
 
 <!--@include: ./parts/setWheelHasTire.md-->

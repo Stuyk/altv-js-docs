@@ -11,6 +11,10 @@ order: 0
 public hasSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomEntitySyncedMeta>>(key: K): boolean;
 ```
 
+### Arguments
+
+* key: K
+
 ## Documentation
 
 <!--@include: ./parts/hasSyncedMeta.md-->

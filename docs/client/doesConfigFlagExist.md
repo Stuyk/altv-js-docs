@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function doesConfigFlagExist(flag: string): boolean;
+function doesConfigFlagExist(flag: string): boolean;
 ```
+
+### Arguments
+
+* flag: string
 
 ## Documentation
 

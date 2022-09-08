@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setWeatherCycle(weathers: Array<number>, multipliers: Array<number>): void;
+function setWeatherCycle(weathers: Array<number>, multipliers: Array<number>): void;
 ```
+
+### Arguments
+
+* weathers: Array<number>
+* multipliers: Array<number>
 
 ## Documentation
 

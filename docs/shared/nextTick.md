@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function nextTick(handler: (...args: any[]) => void): number;
+function nextTick(handler: (...args: any[]) => void): number;
 ```
+
+### Arguments
+
+* handler: (...args: any[]) => void
 
 ## Documentation
 

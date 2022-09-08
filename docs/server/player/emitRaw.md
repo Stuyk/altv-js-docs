@@ -11,6 +11,11 @@ order: 0
 public emitRaw(eventName: string, ...args: any[]): void;
 ```
 
+### Arguments
+
+* eventName: string
+* ...args: any[]
+
 ## Documentation
 
 <!--@include: ./parts/emitRaw.md-->

@@ -11,6 +11,11 @@ order: 0
 public setWheelBurst(wheelId: number, state: boolean): void;
 ```
 
+### Arguments
+
+* wheelId: number
+* state: boolean
+
 ## Documentation
 
 <!--@include: ./parts/setWheelBurst.md-->

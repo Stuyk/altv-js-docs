@@ -11,6 +11,10 @@ order: 0
 public hasWeapon(weaponName: string): boolean;
 ```
 
+### Arguments
+
+* weaponName: string
+
 ## Documentation
 
 <!--@include: ./parts/hasWeapon.md-->

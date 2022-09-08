@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getCursorPos(normalized?: boolean): shared.Vector2;
+function getCursorPos(normalized?: boolean): shared.Vector2;
 ```
+
+### Arguments
+
+* normalized?: boolean
 
 ## Documentation
 

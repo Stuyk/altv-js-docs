@@ -11,6 +11,10 @@ order: 0
 public angleTo(vector: IVector2): Vector2;
 ```
 
+### Arguments
+
+* vector: IVector2
+
 ## Documentation
 
 <!--@include: ./parts/angleTo.md-->

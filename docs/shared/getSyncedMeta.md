@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getSyncedMeta<V extends any>(key: string): V | undefined;
+function getSyncedMeta<V extends any>(key: string): V | undefined;
 ```
+
+### Arguments
+
+* key: string
 
 ## Documentation
 

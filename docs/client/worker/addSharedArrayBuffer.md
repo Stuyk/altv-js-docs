@@ -11,6 +11,10 @@ order: 0
 public static addSharedArrayBuffer(buffer: SharedArrayBuffer): number;
 ```
 
+### Arguments
+
+* buffer: SharedArrayBuffer
+
 ## Documentation
 
 <!--@include: ./parts/addSharedArrayBuffer.md-->

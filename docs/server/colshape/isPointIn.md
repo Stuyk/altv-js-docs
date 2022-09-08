@@ -11,6 +11,10 @@ order: 0
 public isPointIn(position: shared.IVector3): boolean;
 ```
 
+### Arguments
+
+* position: shared.IVector3
+
 ## Documentation
 
 <!--@include: ./parts/isPointIn.md-->

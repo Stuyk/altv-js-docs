@@ -11,6 +11,12 @@ order: 0
 public static requestCutscene(cutsceneName: string, flags: string | number, timeout?: number): Promise<void>;
 ```
 
+### Arguments
+
+* cutsceneName: string
+* flags: string | number
+* timeout?: number
+
 ## Documentation
 
 <!--@include: ./parts/requestCutscene.md-->

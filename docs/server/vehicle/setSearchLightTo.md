@@ -11,6 +11,11 @@ order: 0
 public setSearchLightTo(entity: Entity, state: boolean): void;
 ```
 
+### Arguments
+
+* entity: Entity
+* state: boolean
+
 ## Documentation
 
 <!--@include: ./parts/setSearchLightTo.md-->

@@ -11,6 +11,10 @@ order: 0
 public setWheelFixed(wheelId: number): void;
 ```
 
+### Arguments
+
+* wheelId: number
+
 ## Documentation
 
 <!--@include: ./parts/setWheelFixed.md-->

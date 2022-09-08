@@ -11,6 +11,10 @@ order: 0
 public static stopProfiling(profileName?: string): IProfile;
 ```
 
+### Arguments
+
+* profileName?: string
+
 ## Documentation
 
 <!--@include: ./parts/stopProfiling.md-->

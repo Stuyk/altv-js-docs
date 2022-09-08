@@ -11,6 +11,10 @@ order: 0
 public byte(offset: number): number;
 ```
 
+### Arguments
+
+* offset: number
+
 ## Documentation
 
 <!--@include: ./parts/byte.md-->

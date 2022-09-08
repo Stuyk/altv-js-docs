@@ -11,6 +11,10 @@ order: 0
 constructor(filePath: string);
 ```
 
+### Arguments
+
+* filePath: string
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

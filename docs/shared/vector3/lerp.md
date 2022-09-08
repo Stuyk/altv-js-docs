@@ -11,6 +11,11 @@ order: 0
 public lerp(vector: IVector3, ratio: number): Vector3;
 ```
 
+### Arguments
+
+* vector: IVector3
+* ratio: number
+
 ## Documentation
 
 <!--@include: ./parts/lerp.md-->

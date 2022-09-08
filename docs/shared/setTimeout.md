@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setTimeout(handler: (...args: any[]) => void, miliseconds: number): number;
+function setTimeout(handler: (...args: any[]) => void, miliseconds: number): number;
 ```
+
+### Arguments
+
+* handler: (...args: any[]) => void
+* miliseconds: number
 
 ## Documentation
 

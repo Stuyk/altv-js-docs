@@ -11,6 +11,10 @@ order: 0
 public hasProperty(name: string): boolean;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/hasProperty.md-->

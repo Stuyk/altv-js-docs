@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function evalModule(code: string): Record<string, any>;
+function evalModule(code: string): Record<string, any>;
 ```
+
+### Arguments
+
+* code: string
 
 ## Documentation
 

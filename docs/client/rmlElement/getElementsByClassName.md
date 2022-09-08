@@ -11,6 +11,10 @@ order: 0
 public getElementsByClassName(className: string): ReadonlyArray<RmlElement>;
 ```
 
+### Arguments
+
+* className: string
+
 ## Documentation
 
 <!--@include: ./parts/getElementsByClassName.md-->

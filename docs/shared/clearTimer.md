@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function clearTimer(id: number): void;
+function clearTimer(id: number): void;
 ```
+
+### Arguments
+
+* id: number
 
 ## Documentation
 

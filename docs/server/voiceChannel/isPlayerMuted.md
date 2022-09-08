@@ -11,6 +11,10 @@ order: 0
 public isPlayerMuted(player: Player): boolean;
 ```
 
+### Arguments
+
+* player: Player
+
 ## Documentation
 
 <!--@include: ./parts/isPlayerMuted.md-->

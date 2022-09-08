@@ -11,6 +11,10 @@ order: 0
 public getFaceFeatureScale(index: number): number;
 ```
 
+### Arguments
+
+* index: number
+
 ## Documentation
 
 <!--@include: ./parts/getFaceFeatureScale.md-->

@@ -11,6 +11,10 @@ order: 0
 public getAttribute(name: string): string;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/getAttribute.md-->

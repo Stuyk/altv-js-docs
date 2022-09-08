@@ -11,6 +11,10 @@ order: 0
 public getWheelTrackWidth(wheelIndex: number): number;
 ```
 
+### Arguments
+
+* wheelIndex: number
+
 ## Documentation
 
 <!--@include: ./parts/getWheelTrackWidth.md-->

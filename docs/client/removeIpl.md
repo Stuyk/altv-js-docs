@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function removeIpl(iplName: string): void;
+function removeIpl(iplName: string): void;
 ```
+
+### Arguments
+
+* iplName: string
 
 ## Documentation
 

@@ -11,6 +11,11 @@ order: 0
 public setExtra(extraId: number, state: boolean): void;
 ```
 
+### Arguments
+
+* extraId: number
+* state: boolean
+
 ## Documentation
 
 <!--@include: ./parts/setExtra.md-->

@@ -11,6 +11,11 @@ order: 0
 public setProperty(name: string, value: string): boolean;
 ```
 
+### Arguments
+
+* name: string
+* value: string
+
 ## Documentation
 
 <!--@include: ./parts/setProperty.md-->

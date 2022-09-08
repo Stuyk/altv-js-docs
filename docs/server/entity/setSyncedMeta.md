@@ -11,6 +11,11 @@ order: 0
 public setSyncedMeta<V extends any, K extends string = string>(key: K, value: shared.InterfaceValueByKey<shared.ICustomEntitySyncedMeta, K, V>): void;
 ```
 
+### Arguments
+
+* key: K
+* value: shared.InterfaceValueByKey<shared.ICustomEntitySyncedMeta, K, V>
+
 ## Documentation
 
 <!--@include: ./parts/setSyncedMeta.md-->

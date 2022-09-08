@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getGxtText(key: string): string;
+function getGxtText(key: string): string;
 ```
+
+### Arguments
+
+* key: string
 
 ## Documentation
 

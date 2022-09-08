@@ -11,6 +11,11 @@ order: 0
 public fade(opacity: number, duration: number): void;
 ```
 
+### Arguments
+
+* opacity: number
+* duration: number
+
 ## Documentation
 
 <!--@include: ./parts/fade.md-->

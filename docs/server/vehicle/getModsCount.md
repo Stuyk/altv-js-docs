@@ -11,6 +11,10 @@ order: 0
 public getModsCount<T extends number>(modType: T): number;
 ```
 
+### Arguments
+
+* modType: T
+
 ## Documentation
 
 <!--@include: ./parts/getModsCount.md-->

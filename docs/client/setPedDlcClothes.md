@@ -8,8 +8,17 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setPedDlcClothes(scriptID: number, dlc: number, component: number, drawable: number, texture: number, palette?: number): void;
+function setPedDlcClothes(scriptID: number, dlc: number, component: number, drawable: number, texture: number, palette?: number): void;
 ```
+
+### Arguments
+
+* scriptID: number
+* dlc: number
+* component: number
+* drawable: number
+* texture: number
+* palette?: number
 
 ## Documentation
 

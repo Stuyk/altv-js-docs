@@ -11,6 +11,10 @@ order: 0
 public getDlcClothes(component: number): IDlcCloth;
 ```
 
+### Arguments
+
+* component: number
+
 ## Documentation
 
 <!--@include: ./parts/getDlcClothes.md-->

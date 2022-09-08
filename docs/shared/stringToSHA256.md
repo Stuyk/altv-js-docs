@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function stringToSHA256(string: string): string;
+function stringToSHA256(string: string): string;
 ```
+
+### Arguments
+
+* string: string
 
 ## Documentation
 

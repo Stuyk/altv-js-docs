@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function loadYtyp(path: string): boolean;
+function loadYtyp(path: string): boolean;
 ```
+
+### Arguments
+
+* path: string
 
 ## Documentation
 

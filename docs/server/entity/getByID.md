@@ -11,6 +11,10 @@ order: 0
 public static getByID(id: number): Entity | null;
 ```
 
+### Arguments
+
+* id: number
+
 ## Documentation
 
 <!--@include: ./parts/getByID.md-->

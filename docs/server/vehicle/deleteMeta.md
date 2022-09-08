@@ -11,6 +11,10 @@ order: 0
 public deleteMeta<K extends shared.ExtractStringKeys<ICustomVehicleMeta>>(key: K): void;
 ```
 
+### Arguments
+
+* key: K
+
 ## Documentation
 
 <!--@include: ./parts/deleteMeta.md-->

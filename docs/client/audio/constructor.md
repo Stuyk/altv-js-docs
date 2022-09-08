@@ -11,6 +11,13 @@ order: 0
 public constructor(source: string, volume: number, category?: shared.AudioCategory | `${shared.AudioCategory}`, play2D?: boolean);
 ```
 
+### Arguments
+
+* source: string
+* volume: number
+* category?: shared.AudioCategory | `${shared.AudioCategory}`
+* play2D?: boolean
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

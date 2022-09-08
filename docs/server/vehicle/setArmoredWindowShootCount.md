@@ -11,6 +11,11 @@ order: 0
 public setArmoredWindowShootCount(windowId: number, count: number): void;
 ```
 
+### Arguments
+
+* windowId: number
+* count: number
+
 ## Documentation
 
 <!--@include: ./parts/setArmoredWindowShootCount.md-->

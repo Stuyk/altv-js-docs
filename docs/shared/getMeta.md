@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getMeta<V extends any>(key: string): V | undefined;
+function getMeta<V extends any>(key: string): V | undefined;
 ```
+
+### Arguments
+
+* key: string
 
 ## Documentation
 

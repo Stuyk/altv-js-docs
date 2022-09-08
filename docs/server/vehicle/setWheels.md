@@ -11,6 +11,11 @@ order: 0
 public setWheels(wheelType: number, wheelId: number): void;
 ```
 
+### Arguments
+
+* wheelType: number
+* wheelId: number
+
 ## Documentation
 
 <!--@include: ./parts/setWheels.md-->

@@ -11,6 +11,10 @@ order: 0
 public getBumperDamageLevel<T extends number, V extends number = VehicleBumperDamage>(bumperId: T): V;
 ```
 
+### Arguments
+
+* bumperId: T
+
 ## Documentation
 
 <!--@include: ./parts/getBumperDamageLevel.md-->

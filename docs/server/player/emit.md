@@ -11,6 +11,11 @@ order: 0
 public emit(eventName: string, ...args: any[]): void;
 ```
 
+### Arguments
+
+* eventName: string
+* ...args: any[]
+
 ## Documentation
 
 <!--@include: ./parts/emit.md-->

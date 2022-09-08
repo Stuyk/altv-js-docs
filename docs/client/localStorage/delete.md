@@ -11,6 +11,10 @@ order: 0
 public static delete(key: string): void;
 ```
 
+### Arguments
+
+* key: string
+
 ## Documentation
 
 <!--@include: ./parts/delete.md-->

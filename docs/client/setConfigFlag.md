@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setConfigFlag(flag: `${ConfigFlag}`, state: boolean): void;
+function setConfigFlag(flag: `${ConfigFlag}`, state: boolean): void;
 ```
+
+### Arguments
+
+* flag: `${ConfigFlag}`
+* state: boolean
 
 ## Documentation
 

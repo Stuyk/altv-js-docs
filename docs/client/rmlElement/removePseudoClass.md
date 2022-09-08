@@ -11,6 +11,10 @@ order: 0
 public removePseudoClass(name: string): boolean;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/removePseudoClass.md-->

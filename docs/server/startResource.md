@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function startResource(name: string): void;
+function startResource(name: string): void;
 ```
+
+### Arguments
+
+* name: string
 
 ## Documentation
 

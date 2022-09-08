@@ -11,6 +11,10 @@ order: 0
 public removePlayer(player: Player): void;
 ```
 
+### Arguments
+
+* player: Player
+
 ## Documentation
 
 <!--@include: ./parts/removePlayer.md-->

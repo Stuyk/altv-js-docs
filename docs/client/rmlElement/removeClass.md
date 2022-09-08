@@ -11,6 +11,10 @@ order: 0
 public removeClass(name: string): boolean;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/removeClass.md-->

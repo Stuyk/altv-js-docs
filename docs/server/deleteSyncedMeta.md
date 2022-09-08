@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function deleteSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomGlobalSyncedMeta>>(key: K): void;
+function deleteSyncedMeta<K extends shared.ExtractStringKeys<shared.ICustomGlobalSyncedMeta>>(key: K): void;
 ```
+
+### Arguments
+
+* key: K
 
 ## Documentation
 

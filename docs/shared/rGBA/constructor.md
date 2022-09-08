@@ -11,6 +11,10 @@ order: 0
 constructor(rgba: { r: number; g: number; b: number; a?: number });
 ```
 
+### Arguments
+
+* rgba: { r: number; g: number; b: number; a?: number }
+
 ## Documentation
 
 <!--@include: ./parts/constructor.md-->

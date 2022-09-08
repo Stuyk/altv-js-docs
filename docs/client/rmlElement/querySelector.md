@@ -11,6 +11,10 @@ order: 0
 public querySelector(selector: string): RmlElement | null;
 ```
 
+### Arguments
+
+* selector: string
+
 ## Documentation
 
 <!--@include: ./parts/querySelector.md-->

@@ -11,6 +11,11 @@ order: 0
 public string(offset: number, length: number): string;
 ```
 
+### Arguments
+
+* offset: number
+* length: number
+
 ## Documentation
 
 <!--@include: ./parts/string.md-->

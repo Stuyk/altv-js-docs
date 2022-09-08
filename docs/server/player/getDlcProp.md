@@ -11,6 +11,10 @@ order: 0
 public getDlcProp(component: number): IDlcProp;
 ```
 
+### Arguments
+
+* component: number
+
 ## Documentation
 
 <!--@include: ./parts/getDlcProp.md-->

@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function screenToWorld(value: shared.IVector2): shared.Vector3;
+function screenToWorld(value: shared.IVector2): shared.Vector3;
 ```
+
+### Arguments
+
+* value: shared.IVector2
 
 ## Documentation
 

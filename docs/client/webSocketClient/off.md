@@ -11,6 +11,11 @@ order: 0
 public off(eventName: string, listener: (...args: any[]) => void): void;
 ```
 
+### Arguments
+
+* eventName: string
+* listener: (...args: any[]) => void
+
 ## Documentation
 
 <!--@include: ./parts/off.md-->

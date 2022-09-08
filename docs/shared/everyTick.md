@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function everyTick(handler: (...args: any[]) => void): number;
+function everyTick(handler: (...args: any[]) => void): number;
 ```
+
+### Arguments
+
+* handler: (...args: any[]) => void
 
 ## Documentation
 

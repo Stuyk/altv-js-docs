@@ -11,6 +11,11 @@ order: 0
 public show(isModal?: boolean, focused?: boolean): void;
 ```
 
+### Arguments
+
+* isModal?: boolean
+* focused?: boolean
+
 ## Documentation
 
 <!--@include: ./parts/show.md-->

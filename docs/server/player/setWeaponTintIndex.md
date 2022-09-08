@@ -11,6 +11,11 @@ order: 0
 public setWeaponTintIndex(weaponHash: number, tintIndex: number): void;
 ```
 
+### Arguments
+
+* weaponHash: number
+* tintIndex: number
+
 ## Documentation
 
 <!--@include: ./parts/setWeaponTintIndex.md-->

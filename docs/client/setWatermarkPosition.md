@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setWatermarkPosition<T extends number>(position: T): void;
+function setWatermarkPosition<T extends number>(position: T): void;
 ```
+
+### Arguments
+
+* position: T
 
 ## Documentation
 

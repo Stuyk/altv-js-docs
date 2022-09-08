@@ -8,8 +8,18 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setMinimapComponentPosition(name: string, alignX: string, alignY: string, posX: number, posY: number, sizeX: number, sizeY: number): void;
+function setMinimapComponentPosition(name: string, alignX: string, alignY: string, posX: number, posY: number, sizeX: number, sizeY: number): void;
 ```
+
+### Arguments
+
+* name: string
+* alignX: string
+* alignY: string
+* posX: number
+* posY: number
+* sizeX: number
+* sizeY: number
 
 ## Documentation
 

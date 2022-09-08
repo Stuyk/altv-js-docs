@@ -11,6 +11,10 @@ order: 0
 public createTextNode(text: string): RmlElement;
 ```
 
+### Arguments
+
+* text: string
+
 ## Documentation
 
 <!--@include: ./parts/createTextNode.md-->

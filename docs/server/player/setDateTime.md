@@ -11,6 +11,15 @@ order: 0
 public setDateTime(day: DateTimeDay, month: DateTimeMonth, year: number, hour: DateTimeHour, minute: DateTimeMinute, second: DateTimeSecond): void;
 ```
 
+### Arguments
+
+* day: DateTimeDay
+* month: DateTimeMonth
+* year: number
+* hour: DateTimeHour
+* minute: DateTimeMinute
+* second: DateTimeSecond
+
 ## Documentation
 
 <!--@include: ./parts/setDateTime.md-->

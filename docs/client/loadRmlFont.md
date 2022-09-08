@@ -8,8 +8,15 @@ order: 0
 ## Function Definition
 
 ```ts
-export function loadRmlFont(path: string, name: string, italic?: boolean, bold?: boolean): void;
+function loadRmlFont(path: string, name: string, italic?: boolean, bold?: boolean): void;
 ```
+
+### Arguments
+
+* path: string
+* name: string
+* italic?: boolean
+* bold?: boolean
 
 ## Documentation
 

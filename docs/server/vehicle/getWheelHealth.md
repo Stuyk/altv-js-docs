@@ -11,6 +11,10 @@ order: 0
 public getWheelHealth(wheelId: number): number;
 ```
 
+### Arguments
+
+* wheelId: number
+
 ## Documentation
 
 <!--@include: ./parts/getWheelHealth.md-->

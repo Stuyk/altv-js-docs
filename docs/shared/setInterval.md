@@ -8,8 +8,13 @@ order: 0
 ## Function Definition
 
 ```ts
-export function setInterval(handler: (...args: any[]) => void, miliseconds: number): number;
+function setInterval(handler: (...args: any[]) => void, miliseconds: number): number;
 ```
+
+### Arguments
+
+* handler: (...args: any[]) => void
+* miliseconds: number
 
 ## Documentation
 

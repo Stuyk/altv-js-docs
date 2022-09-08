@@ -11,6 +11,10 @@ order: 0
 public getArmoredWindowHealth(windowId: number): number;
 ```
 
+### Arguments
+
+* windowId: number
+
 ## Documentation
 
 <!--@include: ./parts/getArmoredWindowHealth.md-->

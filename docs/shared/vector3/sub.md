@@ -11,6 +11,10 @@ order: 0
 public sub(vector: IVector3): Vector3;
 ```
 
+### Arguments
+
+* vector: IVector3
+
 ## Documentation
 
 <!--@include: ./parts/sub.md-->

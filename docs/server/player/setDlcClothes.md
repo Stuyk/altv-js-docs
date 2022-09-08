@@ -11,6 +11,14 @@ order: 0
 public setDlcClothes(dlc: number, component: number, drawable: number, texture: number, palette?: number): void;
 ```
 
+### Arguments
+
+* dlc: number
+* component: number
+* drawable: number
+* texture: number
+* palette?: number
+
 ## Documentation
 
 <!--@include: ./parts/setDlcClothes.md-->

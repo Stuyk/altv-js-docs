@@ -8,7 +8,7 @@ order: 0
 ## Function Definition
 
 ```ts
-export function getCamPos(): shared.Vector3;
+function getCamPos(): shared.Vector3;
 ```
 
 ## Documentation

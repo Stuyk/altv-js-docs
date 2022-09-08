@@ -11,6 +11,10 @@ order: 0
 public getLocalProperty(name: string): string;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/getLocalProperty.md-->

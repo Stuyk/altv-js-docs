@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function hasResource(name: string): boolean;
+function hasResource(name: string): boolean;
 ```
+
+### Arguments
+
+* name: string
 
 ## Documentation
 

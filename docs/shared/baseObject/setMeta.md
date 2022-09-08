@@ -11,6 +11,11 @@ order: 0
 public setMeta<V extends any, K extends string = string>(key: K, value: InterfaceValueByKey<ICustomBaseObjectMeta, K, V>): void;
 ```
 
+### Arguments
+
+* key: K
+* value: InterfaceValueByKey<ICustomBaseObjectMeta, K, V>
+
 ## Documentation
 
 <!--@include: ./parts/setMeta.md-->

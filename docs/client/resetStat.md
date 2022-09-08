@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function resetStat(statName: `${StatName}`): void;
+function resetStat(statName: `${StatName}`): void;
 ```
+
+### Arguments
+
+* statName: `${StatName}`
 
 ## Documentation
 

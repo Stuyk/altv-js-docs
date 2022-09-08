@@ -11,6 +11,10 @@ order: 0
 public getWeaponCapacity(weaponIndex: number): number;
 ```
 
+### Arguments
+
+* weaponIndex: number
+
 ## Documentation
 
 <!--@include: ./parts/getWeaponCapacity.md-->

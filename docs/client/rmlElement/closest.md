@@ -11,6 +11,10 @@ order: 0
 public closest(selectors: string): RmlElement | null;
 ```
 
+### Arguments
+
+* selectors: string
+
 ## Documentation
 
 <!--@include: ./parts/closest.md-->

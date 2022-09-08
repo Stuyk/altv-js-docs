@@ -11,6 +11,12 @@ order: 0
 public playAmbientSpeech(speechName: string, speechParam: string, speechDictHash: number): void;
 ```
 
+### Arguments
+
+* speechName: string
+* speechParam: string
+* speechDictHash: number
+
 ## Documentation
 
 <!--@include: ./parts/playAmbientSpeech.md-->

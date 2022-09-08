@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function clearInterval(id: number): void;
+function clearInterval(id: number): void;
 ```
+
+### Arguments
+
+* id: number
 
 ## Documentation
 

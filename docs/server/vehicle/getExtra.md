@@ -11,6 +11,10 @@ order: 0
 public getExtra(extraId: number): boolean;
 ```
 
+### Arguments
+
+* extraId: number
+
 ## Documentation
 
 <!--@include: ./parts/getExtra.md-->

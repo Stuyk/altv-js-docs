@@ -11,6 +11,10 @@ order: 0
 public getPropertyAbsoluteValue(name: string): number;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/getPropertyAbsoluteValue.md-->

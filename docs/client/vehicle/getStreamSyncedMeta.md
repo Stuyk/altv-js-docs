@@ -11,6 +11,10 @@ order: 0
 public getStreamSyncedMeta<V extends any>(key: string): V | undefined;
 ```
 
+### Arguments
+
+* key: string
+
 ## Documentation
 
 <!--@include: ./parts/getStreamSyncedMeta.md-->

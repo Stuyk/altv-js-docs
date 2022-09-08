@@ -11,6 +11,11 @@ order: 0
 public insertBefore(child: RmlElement, adjacent: RmlElement): void;
 ```
 
+### Arguments
+
+* child: RmlElement
+* adjacent: RmlElement
+
 ## Documentation
 
 <!--@include: ./parts/insertBefore.md-->

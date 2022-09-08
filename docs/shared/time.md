@@ -8,7 +8,7 @@ order: 0
 ## Function Definition
 
 ```ts
-export function time(): void;
+function time(): void;
 ```
 
 ## Documentation

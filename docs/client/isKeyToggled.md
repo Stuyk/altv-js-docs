@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function isKeyToggled(key: number): boolean;
+function isKeyToggled(key: number): boolean;
 ```
+
+### Arguments
+
+* key: number
 
 ## Documentation
 

@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function restartResource(name: string): void;
+function restartResource(name: string): void;
 ```
+
+### Arguments
+
+* name: string
 
 ## Documentation
 

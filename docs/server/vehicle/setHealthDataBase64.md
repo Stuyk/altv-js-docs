@@ -11,6 +11,10 @@ order: 0
 public setHealthDataBase64(data: string): void;
 ```
 
+### Arguments
+
+* data: string
+
 ## Documentation
 
 <!--@include: ./parts/setHealthDataBase64.md-->

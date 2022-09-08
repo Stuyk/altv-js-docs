@@ -11,6 +11,10 @@ order: 0
 public isSpecialLightDamaged(specialLightId: number): boolean;
 ```
 
+### Arguments
+
+* specialLightId: number
+
 ## Documentation
 
 <!--@include: ./parts/isSpecialLightDamaged.md-->

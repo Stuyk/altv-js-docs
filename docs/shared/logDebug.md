@@ -8,8 +8,12 @@ order: 0
 ## Function Definition
 
 ```ts
-export function logDebug(...args: any[]): void;
+function logDebug(...args: any[]): void;
 ```
+
+### Arguments
+
+* ...args: any[]
 
 ## Documentation
 

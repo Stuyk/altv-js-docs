@@ -11,6 +11,10 @@ order: 0
 public hasLocalProperty(name: string): boolean;
 ```
 
+### Arguments
+
+* name: string
+
 ## Documentation
 
 <!--@include: ./parts/hasLocalProperty.md-->
