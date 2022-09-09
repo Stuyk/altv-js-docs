@@ -8,12 +8,12 @@ hero:
     src: /logo.svg
     alt: alt:V
   actions:
-    - theme: brand
+    - theme: alt
       text: Introduction
       link: /intro/index
     - theme: alt
       text: Guides
-      link: /guides/index
+      link: /guides/fundamentals/index
     - theme: alt
       text: Server API
       link: /server/index

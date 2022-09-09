@@ -11,9 +11,14 @@ export function getSidebar() {
         ],
         '/guides/': [
             {
+                text: 'Fundamentals',
+                collapsible: true,
+                items: getFilesAndOrderByPath('guides/fundamentals')
+            },
+            {
                 text: 'Guides',
                 collapsible: true,
-                items: getFilesAndOrderByPath('guides')
+                items: getFilesAndOrderByPath('guides/articles')
             }
         ],
         '/server/': [
