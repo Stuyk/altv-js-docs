@@ -1,5 +1,5 @@
 ---
-title: Setup alt:V Server
+title: 3. Setup alt:V Server
 order: 3
 ---
 

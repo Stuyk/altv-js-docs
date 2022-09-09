@@ -1,5 +1,5 @@
 ---
-title: Setup Workspace
+title: 2. Setup Workspace
 order: 2
 ---
 
@@ -78,4 +78,20 @@ You should see something like this in your VSCode
 
 ![](https://i.imgur.com/NXPx3Hk.png)
 
+## 5. Update package.json
 
+Click on `package.json` in your file tree, and add the following line somewhere in the JSON structure. Preferrably under `main` or `description`.
+
+```json
+{
+	...
+	"type": "module",
+	...
+}
+```
+
+Like this...
+
+![](https://i.imgur.com/S1wYrhC.png)
+
+_Ignore the `...` they're just telling you there should be content above / below our main focus_

@@ -16,6 +16,10 @@ There are different APIs for both server-side and client-side. Select one below 
 
 * [Server Side](/server/index.md)
 * [Client Side](/client/index.md)
+* [Shared](/shared/index.md)
+* [Enums](/enums/index.md)
+* [Interfaces](/interfaces/index.md)
+* [Types](/types/index.md)
 
 ## Boilerplates
 
