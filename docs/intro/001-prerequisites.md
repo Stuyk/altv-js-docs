@@ -1,6 +1,6 @@
 ---
 title: Prerequisites
-order: 0
+order: 1
 ---
 
 # {{ $frontmatter.title }}
@@ -26,6 +26,13 @@ We believe in the following practices for developing a server.
 > Deploy a server on Windows Server, Ubuntu, or Debian.
 
 > Pull your code down from GitHub, or GitLab and start your server from there.
+
+## alt:V Client
+
+You need the alt:V client which is used along-side a legal copy of Grand Theft Auto V.
+
+[Get alt:V Client](https://altv.mp/#/downloads)
+
 
 ## NodeJS 17+
 
