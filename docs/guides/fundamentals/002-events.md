@@ -127,3 +127,51 @@ alt.on('playerConnect', handleSpawn);
 ```
 
 :::
+
+
+## Quiz
+
+Let's do a recap on what you have learned in this section. Answer the following questions.
+
+<script setup>
+import { ref } from 'vue';
+
+const question1 = ref([
+  { text: "alt.emit"}, 
+  { text: "alt.emitClient", isAnswer: true },
+  { text: "alt.emitServer" },
+]);
+
+const question2 = ref([
+  { text: "alt.emit"}, 
+  { text: "alt.emitClient" },
+  { text: "alt.emitServer", isAnswer: true },
+]);
+
+const question3 = ref([
+  { text: "The data that was passed up." }, 
+  { text: "alt.Player", isAnswer: true }, 
+  { text: "...args: any[]" },
+]);
+
+const question4 = ref([
+  { text: "Yes", isAnswer: true }, 
+  { text: "No"}, 
+]);
+
+const question5 = ref([
+  { text: "Server Side" }, 
+  { text: "Client Side" },
+  { text: "All the Above", isAnswer: true}, 
+]);
+</script>
+
+<Question type="question1" question="I want to emit something to a player from server-side what do I use?" :answers="question1" />
+
+<Question type="question2" question="I want to emit something to the server-side from client-side, what do I use?" :answers="question2" />
+
+<Question type="question3" question="A callback is recieved from the client-side on server-side, what is the first argument?" :answers="question3" />
+
+<Question type="question4" question="Are event names case sensitive?" :answers="question4" />
+
+<Question type="question5" question="Where can events be called?" :answers="question5" />

@@ -72,6 +72,10 @@ if (somePlayer instanceof alt.Player) {
 
 This is often overlooked by newer developers but you should always be verifying a player, or vehicle before manipulating it.
 
+What we mean by this is that when a player leaves a server or a vehicle is despawned, the vehicle or player may no longer be valid.
+
+This is why we check with the code below.
+
 Otherwise you get the ever so famous `base object` is not defined error.
 
 ::: details Verifying an Entity
@@ -93,3 +97,35 @@ doSomething(somePlayer);
 
 :::
 
+## Quiz
+
+Let's do a recap on what you have learned in this section. Answer the following questions.
+
+<script setup>
+import { ref } from 'vue';
+
+const question1 = ref([
+  { text: "driver"}, 
+  { text: "pos", isAnswer: true },
+  { text: "deploy()" },
+]);
+
+const question2 = ref([
+  { text: "somePlayer.pos = { x: 0, y: 0, z: 0 }", isAnswer: true }, 
+  { text: "somePlayer.setPosition(0, 0, 0)" },
+  { text: "somePlayer.setPosition = { x: 0, y: 0, z: 0 }" },
+]);
+
+const question3 = ref([
+  { text: "typeof entity === 'undefined'" }, 
+  { text: "entity.valid" }, 
+  { text: "All the Above", isAnswer: true },
+]);
+
+</script>
+
+<Question type="question1" question="What property can be found on all entity types?" :answers="question1" />
+
+<Question type="question2" question="How do I change the position of an Entity?" :answers="question2" />
+
+<Question type="question3" question="What should I use to check if an entity is valid?" :answers="question3" />

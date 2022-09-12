@@ -71,3 +71,55 @@ Examples
 * Changing Player Models
 
 You are meant to use `alt-server` as an import when you see the `server` folder.
+
+## Quiz
+
+Let's do a recap on what you have learned in this section. Answer the following questions.
+
+<script setup>
+import { ref } from 'vue';
+
+const question1 = ref([
+  { text: 'Server Side'}, 
+  { text: 'Client Side', isAnswer: true }, 
+  { text: 'Shared' }
+]);
+
+const question2 = ref([
+  { text: "import { alt } from 'alt'"}, 
+  { text: "import * as alt from 'alt-shared'" },
+  { text: "import * as alt from 'alt-client'" },
+  { text: "import * as alt from 'alt-server'", isAnswer: true }, 
+]);
+
+const question3 = ref([
+  { text: "import * as alt from 'alt-shared'" }, 
+  { text: "import { alt } from 'alt'"}, 
+  { text: "import * as alt from 'alt-server'" },
+  { text: "import * as alt from 'alt-client'", isAnswer: true  },
+]);
+
+const question4 = ref([
+  { text: "Client Side" }, 
+  { text: "Server Side", isAnswer: true}, 
+  { text: "Shared" },
+  { text: "All of the above" },
+]);
+
+const question5 = ref([
+  { text: "alt-server" }, 
+  { text: "alt-shared" }, 
+  { text: "alt-client" },
+  { text: "natives", isAnswer: true}, 
+]);
+</script>
+
+<Question type="question1" question="Where can natives be used?" :answers="question1" />
+
+<Question type="question2" question="How do you import server-side API?" :answers="question2" />
+
+<Question type="question3" question="How do you import client-side API?" :answers="question3" />
+
+<Question type="question4" question="Where do I write code to change a player model when they join a server?" :answers="question4" />
+
+<Question type="question5" question="I want to call a game function what API do I use?" :answers="question5" />
