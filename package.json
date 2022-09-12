@@ -4,15 +4,24 @@
   "main": "index.js",
   "license": "MIT",
   "devDependencies": {
+    "dotenv": "^16.0.2",
     "glob": "^8.0.3",
     "gray-matter": "^4.0.3",
     "vitepress": "^1.0.0-alpha.13",
-    "vitepress-plugin-search": "^1.0.4-alpha.4",
     "vue": "^3.2.38"
   },
   "scripts": {
     "dev": "vitepress dev docs",
     "build": "vitepress build docs",
     "serve": "vitepress serve docs"
+  },
+  "prettier": {
+    "tabWidth": 4,
+    "printWidth": 120,
+    "singleQuote": true,
+    "semi": true
+  },
+  "dependencies": {
+    "vitepress-plugin-search": "^1.0.4-alpha.6"
   }
 }

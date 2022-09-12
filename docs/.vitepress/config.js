@@ -40,7 +40,7 @@ export default {
                 ],
             },
             {
-                text: 'Guides', link: '/guides/index'
+                text: 'Guides', link: '/guides/fundamentals/index'
             },
             {
                 text: 'Team', link: '/about/team'
@@ -61,7 +61,7 @@ export default {
         },
         // Page - Show Last Update on Page
         lastUpdatedText: 'Updated Date',
-        sidebar: getSidebar()
+        sidebar: getSidebar(),
     },
     head: [
         ['link', { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' }],

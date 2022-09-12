@@ -1,8 +1,11 @@
-//vite.config.ts
-import { SearchPlugin } from 'vitepress-plugin-search';
 import { defineConfig } from "vite";
-
+import { SearchPlugin } from 'vitepress-plugin-search';
 
 export default defineConfig({
-	plugins: [SearchPlugin()]
+	plugins: [SearchPlugin()],
+	server: {
+		fs: {
+			allow: ["D:/projects/vitepress-plugin-search"]
+		}
+	}
 });
