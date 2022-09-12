@@ -1,7 +1,9 @@
-import { getSidebar } from "./sidebar";
+import { getSidebar } from './sidebar';
+
+const BASE_URL = '/altv-js-docs/'
 
 export default {
-    base: '/altv-js-docs/',
+    base: BASE_URL,
     title: 'alt:V JS Docs',
     description: 'JavaScript Module Documentation',
     themeConfig: {
@@ -64,13 +66,13 @@ export default {
         sidebar: getSidebar(),
     },
     head: [
-        ['link', { rel: 'icon', type: 'image/x-icon', href: 'favicon.ico' }],
-        ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: 'apple-touch-icon.png' }],
-        ['link', { rel: "icon", type: "image/png", sizes: "32x32", href: "favicon-32x32.png" }],
-        ['link', { rel: "icon", type: "image/png", sizes: "16x16", href: "/favicon-16x16.png" }],
-        ['link', { rel: "manifest", href: "/site.webmanifest" }],
-        ['link', { rel: "mask-icon", href: "/safari-pinned-tab.svg", color: "#5bbad5" }],
-        ['meta', { name: "msapplication-TileColor", content: "#da532c" }]
+        ['link', { rel: 'icon', type: 'image/x-icon', href: BASE_URL + 'favicon.ico' }],
+        ['link', { rel: 'apple-touch-icon', sizes: '180x180', href: BASE_URL + 'apple-touch-icon.png' }],
+        ['link', { rel: 'icon', type: 'image/png', sizes: '32x32', href: BASE_URL + 'favicon-32x32.png' }],
+        ['link', { rel: 'icon', type: 'image/png', sizes: '16x16', href: BASE_URL + 'favicon-16x16.png' }],
+        ['link', { rel: 'manifest', href: BASE_URL + 'site.webmanifest' }],
+        ['link', { rel: 'mask-icon', href: BASE_URL + 'safari-pinned-tab.svg', color: '#5bbad5' }],
+        ['meta', { name: 'msapplication-TileColor', content: '#da532c' }]
     ]
 }
 
